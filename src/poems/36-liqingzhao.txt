@@ -1,0 +1,341 @@
+== 如梦令（昨夜雨疏风骤） | As in a Dream (Last Night, Scattered Rain)
+by: 李清照
+form: 词
+tags: 春 花 雨 风 饮酒 女性
+scene: dawn spring wind rain flowers window
+昨夜雨疏风骤，浓睡不消残酒。
+试问卷帘人，却道海棠依旧。
+知否，知否？应是绿肥红瘦。
+--
+Last night, scattered rain and a gusty wind;
+Deep sleep has not dispelled the last of the wine.
+I ask the maid who's rolling up the blind —
+"The crabapple's just as it was," she says, "it's fine."
+"Don't you know? Don't you know?
+The green must be fuller now, and the red grown thin."
+--
+Written by Li Qingzhao as a young woman. A dialogue in miniature: the careless maid says the flowers are fine; the poet, who lay awake listening to the storm, knows better. 绿肥红瘦, "the green grows plump, the red grows thin" — leaves flourishing, blossoms stripped — was admired as a daring and perfect phrase.
+
+== 如梦令（常记溪亭日暮） | As in a Dream (I Often Recall the Stream Pavilion)
+by: 李清照
+form: 词
+tags: 夏 饮酒 花 鸟 女性 童趣
+scene: dusk summer lotus lake boat birds crane pavilion
+常记溪亭日暮，沉醉不知归路。
+兴尽晚回舟，误入藕花深处。
+争渡，争渡，惊起一滩鸥鹭。
+--
+I often recall the stream pavilion at close of day:
+So drunk, we never knew the way back home.
+Our fun all spent, we turned the boat back late,
+And drifted deep among the lotus, lost to roam.
+"Row hard! Row hard!" —
+And up flew a whole shoal of gulls and egrets, white as foam.
+--
+A happy memory of girlhood in Jinan: tipsy after a day out, the girls row home in the dusk, lose their way among the lotus, and splash their way out, sending up a flock of startled birds. 争渡 can mean "row hard!" or "how do we get through?" — both fit the giggling panic.
+
+== 声声慢（寻寻觅觅） | Slow Tune (Searching, Seeking)
+by: 李清照
+form: 词
+tags: 秋 悼亡 相思 雨 饮酒 女性 鸟
+scene: dusk autumn rain chrysanthemum window geese wind
+寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
+乍暖还寒时候，最难将息。
+三杯两盏淡酒，怎敌他、晚来风急！
+雁过也，正伤心，却是旧时相识。
+
+满地黄花堆积，憔悴损，如今有谁堪摘？
+守着窗儿，独自怎生得黑！
+梧桐更兼细雨，到黄昏、点点滴滴。
+这次第，怎一个愁字了得！
+--
+Searching, searching, seeking, seeking,
+Cold, so cold, so clear, so lonely,
+Dreary, dreary, wretched, wretched, grieving, grieving.
+In this season of sudden warmth that turns to chill again,
+It's hardest to find rest.
+Three cups, two bowls of thin wine — how can they stand
+Against the wind that rises fierce at evening's end?
+The wild geese pass —
+Just as my heart is breaking —
+Old friends I knew back then.
+
+The ground is heaped with yellow chrysanthemums,
+Withered and wasted —
+Who would pick them now?
+Keeping watch by the window,
+Alone — how shall I last until it's dark?
+The wutong trees, and now fine rain as well,
+Till dusk, dripping, dropping, drop by drop.
+This plight —
+How can one word, "sorrow", tell it all?
+--
+The most famous lyric by a woman in Chinese, written after the fall of the north in 1127, the loss of her home and library, and the death of her husband, Zhao Mingcheng. It opens with fourteen doubled characters (寻寻觅觅…) that sound like sobs. The geese that once carried her husband's letters now carry nothing; the chrysanthemums she once picked lie wasted; rain drips on the wutong leaves. And then the famous ending: how could one word, "sorrow", hold all this?
+
+== 一剪梅（红藕香残玉簟秋） | A Sprig of Plum (The Red Lotus' Scent Has Faded)
+by: 李清照
+form: 词
+tags: 相思 秋 爱情 月 女性 鸟
+scene: night autumn moon lotus lake boat tower geese
+红藕香残玉簟秋。轻解罗裳，独上兰舟。
+云中谁寄锦书来？雁字回时，月满西楼。
+
+花自飘零水自流。一种相思，两处闲愁。
+此情无计可消除，才下眉头，却上心头。
+--
+The red lotus' scent has faded; my jade mat feels the fall.
+I loosen my silk skirt, alone,
+And step into the orchid boat.
+Who sends a brocade letter from among the clouds at all?
+When the geese return in lines,
+The moon fills the west tower, remote.
+
+The petals drift, the water flows, each its own way;
+One single longing,
+Two places of quiet sorrow.
+There's no way I can drive this feeling away:
+No sooner has it left my brow
+Than it climbs into my heart.
+--
+Written while her husband Zhao Mingcheng was away. Geese flying in formation spell the characters 人 or 一 across the sky — "goose letters" (雁字) — and were said to carry messages. "One longing, two places": the love is mutual, so the sadness is doubled. The last couplet is a famous image of a feeling that cannot be put down.
+
+== 醉花阴（薄雾浓云愁永昼） | Tipsy in the Flowers' Shade (Thin Mist, Thick Clouds)
+by: 李清照
+form: 词
+tags: 相思 节日 秋 花 饮酒 女性
+scene: dusk autumn chrysanthemum window wind mist
+薄雾浓云愁永昼，瑞脑销金兽。
+佳节又重阳，玉枕纱厨，半夜凉初透。
+
+东篱把酒黄昏后，有暗香盈袖。
+莫道不销魂，帘卷西风，人比黄花瘦。
+--
+Thin mist, thick clouds — I grieve the endless day;
+In the golden beast, the camphor incense burns away.
+The festival comes round again — the Double Ninth;
+On my jade pillow, behind the gauze bed-screen,
+At midnight the first chill steals in to stay.
+
+By the eastern hedge, I drink till after dusk;
+A secret fragrance fills my sleeves.
+Don't say this doesn't break the heart —
+When the west wind lifts the blind,
+I'm thinner than the yellow flowers.
+--
+Sent to her husband at the Double Ninth, when families drank chrysanthemum wine together. The story goes that Zhao Mingcheng, determined to outdo her, wrote fifty lyrics in three days and slipped hers among them for a friend to judge; the friend said only three lines were truly fine — the last three of this poem.
+
+== 武陵春（风住尘香花已尽） | Spring at Wuling (The Wind Has Stopped)
+by: 李清照
+form: 词
+tags: 悼亡 春 花 人生 女性
+scene: dusk spring petals river boat person
+风住尘香花已尽，日晚倦梳头。
+物是人非事事休，欲语泪先流。
+
+闻说双溪春尚好，也拟泛轻舟。
+只恐双溪舴艋舟，载不动许多愁。
+--
+The wind has stopped; the dust is fragrant; all the flowers have gone;
+The day is late — I'm too weary to comb my hair.
+Things remain, but he does not; all is ended, everyone;
+I try to speak — but first the tears are there.
+
+They say at Twin Streams spring is lovely still;
+I thought I'd take a little boat out, too.
+But I fear the grasshopper skiffs at Twin Streams
+Could never carry all the grief I'm going through.
+--
+Jinhua, 1135. Li Qingzhao, in her fifties, widowed and a refugee, cannot even bring herself to go boating at the famous Twin Streams. 物是人非, "things remain, but people are gone", is now a common phrase; grief too heavy for a little boat to carry is one of her most famous images.
+
+== 夏日绝句 | A Summer Quatrain
+by: 李清照
+form: 五绝
+tags: 爱国 怀古 壮志
+scene: dusk river sun person
+生当作人杰，死亦为鬼雄。
+至今思项羽，不肯过江东。
+--
+In life, be the hero of all men;
+In death, among the ghosts, be a hero still.
+To this day I think of Xiang Yu, who then
+Would not cross back east of the River — by his own will.
+--
+Written after the Jurchen invasion of 1127, when the Song court fled south across the Yangtze instead of fighting. Li Qingzhao sets against it Xiang Yu, who chose death rather than retreat east across the river in disgrace. Pointed and fierce — quite unlike her love lyrics.
+
+== 渔家傲（天接云涛连晓雾） | The Fisherman's Pride (The Sky Meets the Waves of Cloud)
+by: 李清照
+form: 词
+tags: 天空 海 壮志 人生
+scene: dawn sea clouds stars sail mist
+天接云涛连晓雾，星河欲转千帆舞。
+仿佛梦魂归帝所。闻天语，殷勤问我归何处。
+
+我报路长嗟日暮，学诗谩有惊人句。
+九万里风鹏正举。风休住，蓬舟吹取三山去！
+--
+The sky meets the waves of cloud, and joins the morning mist;
+The Milky Way begins to turn; a thousand sails dance high.
+As if my dreaming soul had gone back to the Emperor's hall,
+I hear a voice from heaven
+Asking, kindly, where I'm going, and why.
+
+I answer: "The road is long; alas, the sun is low;
+I learned to write, but my startling lines are all in vain."
+On ninety thousand li of wind, the great Peng bird soars high —
+Wind, don't stop!
+Blow my little boat to the Isles of the Immortals, far from pain!
+--
+Li Qingzhao's one great "heroic" lyric, written in her refugee years: a dream voyage among the stars, where the Emperor of Heaven asks where she is bound. The Peng is the colossal bird of *Zhuangzi* that rides the wind ninety thousand li; the Three Mountains are the islands of the immortals. Critics said it could pass for Su Shi.
+
+== 点绛唇（蹴罢秋千） | Rouged Lips (Done with the Swing)
+by: 李清照
+form: 词
+tags: 春 女性 童趣 爱情 花
+scene: spring flowers cottage person
+蹴罢秋千，起来慵整纤纤手。
+露浓花瘦，薄汗轻衣透。
+
+见客入来，袜刬金钗溜。
+和羞走，倚门回首，却把青梅嗅。
+--
+She's done with the swing;
+She rises, and lazily flexes her slender hands.
+Heavy dew; the flowers are slight;
+A light sweat soaks her thin dress through.
+
+She sees a guest come in —
+In stocking feet, her gold hairpin slipping loose,
+She runs off, shy;
+Then, leaning on the door, she looks back —
+And sniffs a green plum, as if that were what she'd come to do.
+--
+A girl caught off guard by a visitor — perhaps the young man she will marry — runs off in her socks, then cannot resist peeking back, pretending to smell the green plums. One of the most charming portraits of a girl in Chinese. (Its attribution to Li Qingzhao is traditional, though sometimes questioned.)
+
+== 永遇乐（落日熔金） | Joy of Eternal Union (The Setting Sun Melts into Gold)
+by: 李清照
+form: 词
+tags: 节日 时光 思乡 春 女性 人生
+scene: dusk spring sun clouds willow lantern window
+落日熔金，暮云合璧，人在何处。
+染柳烟浓，吹梅笛怨，春意知几许。
+元宵佳节，融和天气，次第岂无风雨。
+来相召、香车宝马，谢他酒朋诗侣。
+
+中州盛日，闺门多暇，记得偏重三五。
+铺翠冠儿，拈金雪柳，簇带争济楚。
+如今憔悴，风鬟霜鬓，怕见夜间出去。
+不如向、帘儿底下，听人笑语。
+--
+The setting sun melts into gold;
+The evening clouds join like a ring of jade —
+Where is the one I love?
+Mist dyes the willows thick;
+A flute plays "Plum Blossoms", sad and slow —
+How much of spring is here?
+The Lantern Festival again,
+The weather mild and fair —
+Yet who knows if wind and rain may follow?
+They come to call, with scented carriages and fine horses;
+I thank my drinking friends and poet-friends — and stay.
+
+In the glory days of the Central Plain,
+We girls had leisure time to spare,
+And how we loved the Lantern Fifteenth!
+In caps of kingfisher feathers,
+With gold-twisted willow sprays of silk,
+We vied to look our finest there.
+Now, worn and wasted,
+With wind-tossed hair and frosted temples,
+I'm afraid to go out at night.
+Better to stay behind the blind,
+And listen to the laughter of others passing by.
+--
+The Lantern Festival (the fifteenth of the first month) in Hangzhou, around 1150. The aged, widowed Li Qingzhao sets the festival of her youth in the lost northern capital, Kaifeng, against her present loneliness. 人在何处 can mean "where am I?" or "where is he?" The patriotic poet Liu Chenweng said he wept every time he read it.
+
+== 凤凰台上忆吹箫（香冷金猊） | On Phoenix Terrace, Remembering the Flute (The Gold Lion's Incense Is Cold)
+by: 李清照
+form: 词
+tags: 离别 相思 爱情 女性
+scene: dawn tower window river mist person
+香冷金猊，被翻红浪，起来慵自梳头。
+任宝奁尘满，日上帘钩。
+生怕离怀别苦，多少事、欲说还休。
+新来瘦，非干病酒，不是悲秋。
+
+休休，这回去也，千万遍阳关，也则难留。
+念武陵人远，烟锁秦楼。
+惟有楼前流水，应念我、终日凝眸。
+凝眸处，从今又添，一段新愁。
+--
+The gold lion's incense has gone cold;
+The quilt is tossed in crimson waves;
+I rise, too listless to comb my hair.
+Let dust fill up my jewel box,
+And the sun climb the curtain hook — who'd care?
+I dread the bitter pain of parting so —
+How many things I'd say, then leave them there!
+I've grown so thin of late —
+And not from too much wine,
+Nor from autumn's melancholy air.
+
+Enough, enough!
+This time he's going —
+Though I sang "Yang Pass" ten thousand times,
+I still could not make him stay.
+I think of him, far off in Wuling;
+Mist locks the tower of Qin in grey.
+Only the water flowing by the tower
+Must pity me, gazing all the day.
+Where my gaze rests, from now on,
+There will be added
+Another new sorrow, come today.
+--
+Written when her husband Zhao Mingcheng left to take up a post, around 1121. She cannot say what she feels for fear of making the parting harder. "Yang Pass" is Wang Wei's farewell song; the "man of Wuling" — the fisherman who found Peach Blossom Spring and could never find it again — is the absent husband; the tower of Qin belonged to the princess Nongyu, who played the flute with her husband until the two flew away on phoenixes, giving the tune its name.
+
+== 鹧鸪天·桂花 | Partridge Sky: Osmanthus
+by: 李清照
+form: 词
+tags: 花 秋 咏物 哲理
+scene: autumn flowers pavilion moon
+暗淡轻黄体性柔，情疏迹远只香留。
+何须浅碧深红色，自是花中第一流。
+
+梅定妒，菊应羞，画阑开处冠中秋。
+骚人可煞无情思，何事当年不见收。
+--
+Dim and pale yellow, gentle in its grace;
+Aloof and far-off, it leaves only scent behind.
+What need has it of pale blue or deep red's face? —
+It is, by nature, the first flower of its kind.
+
+The plum is surely jealous, the chrysanthemum ashamed;
+By the painted railing, it's the crown of autumn's prime.
+The old poet of the *Songs of Chu* — how heartless he must have been,
+Not to name it among his flowers, in his time!
+--
+The sweet osmanthus (桂花) has tiny, plain yellow flowers but an overwhelming scent. Li Qingzhao — no conventional beauty, but a supreme talent — calls it "by nature the first among flowers", and scolds Qu Yuan, who named many fragrant plants in his *Encountering Sorrow* but not this one.
+
+== 添字丑奴儿（窗前谁种芭蕉树） | Ugly Slave, Extended (Who Planted the Plantain)
+by: 李清照
+form: 词
+tags: 思乡 雨 夜 女性
+scene: night rain window cottage person
+窗前谁种芭蕉树，阴满中庭。
+阴满中庭，叶叶心心，舒卷有余情。
+
+伤心枕上三更雨，点滴霖霪。
+点滴霖霪，愁损北人，不惯起来听。
+--
+Who planted the plantain tree before my window here?
+Its shade fills all the yard;
+Its shade fills all the yard.
+Leaf by leaf, and heart by heart,
+It furls and unfurls with feelings still to spare.
+
+Heartsick, on my pillow, the midnight rain:
+Drip, drip, drip, it never ends;
+Drip, drip, drip, it never ends.
+It wounds this northerner's heart —
+I'm not used to rising up to listen there.
+--
+Written as a refugee in the south. The broad leaves of the plantain (banana) tree, each furled round its "heart", seem full of feeling; at night the rain drums on them without end. Only a "northerner" — someone who has lost her home in the north — would lie awake listening.
