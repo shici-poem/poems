@@ -1,0 +1,202 @@
+== 山园小梅（其一） | Little Plum Tree in the Mountain Garden (I)
+by: 林逋
+form: 七律
+tags: 花 冬 隐逸 月 咏物
+scene: dusk winter moon plum lake crane
+众芳摇落独暄妍，占尽风情向小园。
+疏影横斜水清浅，暗香浮动月黄昏。
+霜禽欲下先偷眼，粉蝶如知合断魂。
+幸有微吟可相狎，不须檀板共金尊。
+--
+When all the flowers have fallen, it alone is fresh and fair,
+And claims the charm of my small garden as its own.
+Its sparse shadows lie aslant on water clear and shallow;
+Its hidden fragrance drifts in the dusk where the moon has shone.
+The frost-white birds, about to land, first steal a glance;
+The powdered butterflies, if they knew, would faint, every one.
+Thank heaven for quiet chanting, to keep it company —
+No need for singers' clappers or gold wine cups, none.
+--
+Lin Bu, the hermit of West Lake, "took plum blossom for his wife and cranes for his children". 疏影横斜水清浅，暗香浮动月黄昏 — "sparse shadows slanting over clear, shallow water; a hidden fragrance floating in the moonlit dusk" — became the definitive description of plum blossom; Jiang Kui named two of his finest lyrics "Hidden Fragrance" and "Sparse Shadows".
+
+== 咏柳（曾巩） | Ode to the Willow
+by: 曾巩
+form: 七绝
+tags: 柳 春 哲理 咏物 风
+scene: spring willow wind sun
+乱条犹未变初黄，倚得东风势便狂。
+解把飞花蒙日月，不知天地有清霜。
+--
+Its tangled shoots are still the yellow of first spring,
+But leaning on the east wind, they grow wild with pride.
+They know how to blot out sun and moon with flying down —
+Not knowing heaven and earth have frost on every side.
+--
+A satire disguised as a nature poem: the newly sprouted willow swaggers in the spring wind and blots out the sky with its catkins — like an upstart official relying on a powerful patron. But autumn frost will come.
+
+== 送春 | Seeing Spring Off
+by: 王令
+form: 七绝
+tags: 春 花 鸟 时光 壮志
+scene: night spring petals swallows cottage
+三月残花落更开，小檐日日燕飞来。
+子规夜半犹啼血，不信东风唤不回。
+--
+In the third month the last flowers fall, then bloom anew;
+Beneath the low eaves, swallows come flying day by day.
+At midnight still the cuckoo cries until it bleeds —
+It won't believe its calls can't bring the east wind back to stay.
+--
+The end of spring. The cuckoo's cry, said to be so passionate that it coughed blood, is an image of stubborn devotion — refusing to accept that spring cannot be called back. Wang Ling, who died at twenty-seven, wrote with this fierce idealism.
+
+== 春日偶成 | Written by Chance on a Spring Day
+by: 程颢
+form: 七绝
+tags: 春 闲适 哲理 柳 花
+scene: day spring willow flowers river person clouds
+云淡风轻近午天，傍花随柳过前川。
+时人不识余心乐，将谓偷闲学少年。
+--
+Pale clouds, a gentle breeze, and nearly noon;
+By flowers, past willows, I stroll across the stream.
+People don't know the joy within my heart —
+They think I'm idling like a boy, it seems.
+--
+By Cheng Hao, the great Neo-Confucian philosopher. A spring stroll, and an inner joy that others mistake for frivolity: the scholar's delight in the natural order of things. The first line is one of the most popular descriptions of a perfect spring day.
+
+== 卜算子·送鲍浩然之浙东 | Song of Divination: Seeing Bao Haoran Off to Eastern Zhejiang
+by: 王观
+form: 词
+tags: 离别 友情 春 山水
+scene: spring river hills boat two
+水是眼波横，山是眉峰聚。
+欲问行人去那边？眉眼盈盈处。
+
+才始送春归，又送君归去。
+若到江南赶上春，千万和春住。
+--
+The rivers are her eyes, their glances flowing;
+The mountains are her eyebrows, knitted fair.
+You ask me where the traveller is going? —
+To where the eyes and brows are lovely, there.
+
+I've only just seen spring off on its way,
+And now I'm seeing you off too.
+If you catch up with spring in the south,
+Then stay with spring — be sure you do!
+--
+A witty farewell to a friend going home to eastern Zhejiang. The southern landscape becomes a beautiful woman — rivers her glances, hills her eyebrows — and the friend, going home to his wife, goes "where the brows and eyes are lovely". Spring has just left; if he catches it up in the south, he should stay with it.
+
+== 临江仙（梦后楼台高锁） | Immortal by the River (After the Dream, the Tower Is Locked)
+by: 晏几道
+form: 词
+tags: 相思 爱情 春 花 鸟 音乐
+scene: spring rain petals swallows tower moon person
+梦后楼台高锁，酒醒帘幕低垂。
+去年春恨却来时。落花人独立，微雨燕双飞。
+
+记得小蘋初见，两重心字罗衣。
+琵琶弦上说相思。当时明月在，曾照彩云归。
+--
+After the dream, the tower's locked up high;
+I wake from wine; the curtains hang down low.
+Last spring's sorrow comes back again, as then:
+Amid the falling petals, someone stands alone;
+In the fine rain, the swallows fly in pairs.
+
+I remember when I first saw Xiaopin,
+In her silk dress embroidered with "heart" twice over.
+On the pipa strings she told of love's longing.
+The same bright moon was shining then
+That lit her, a coloured cloud, as she went home.
+--
+Yan Jidao remembers Xiaopin, a singing girl in a friend's household. 落花人独立，微雨燕双飞 — "among falling petals, someone stands alone; in fine rain, swallows fly in pairs" — was borrowed from an obscure earlier poem, but made immortal here. The "coloured cloud" is Xiaopin herself, lit home by a moon that still shines though she is gone.
+
+== 鹧鸪天（彩袖殷勤捧玉钟） | Partridge Sky (Your Coloured Sleeves Offered the Jade Cup)
+by: 晏几道
+form: 词
+tags: 爱情 相思 饮酒 夜 音乐
+scene: night moon tower willow candle two cup
+彩袖殷勤捧玉钟，当年拚却醉颜红。
+舞低杨柳楼心月，歌尽桃花扇底风。
+
+从别后，忆相逢，几回魂梦与君同。
+今宵剩把银釭照，犹恐相逢是梦中。
+--
+Your coloured sleeves so kindly offered me the cup of jade;
+That year I drank without a care, my face aflame with wine.
+We danced until the moon sank low above the willowed tower;
+We sang until the breeze was spent from your peach-blossom fan, so fine.
+
+Since we parted,
+I've remembered how we met;
+How many times my dreaming soul has been with you!
+Tonight I keep on lifting up the silver lamp to see —
+Afraid our meeting's just a dream, and won't come true.
+--
+A reunion with a singing girl after years apart. The second couplet — dancing till the moon sank over the willows, singing till the breeze of the peach-blossom fan was spent — is one of the most glittering in the *ci*. Holding up the lamp again and again to make sure it is not a dream echoes Du Fu's reunion with his family: "we face each other as if in a dream."
+
+== 清平乐（春归何处） | Pure Serene Music (Where Has Spring Gone?)
+by: 黄庭坚
+form: 词
+tags: 春 鸟 花 时光
+scene: spring oriole flowers wind cottage
+春归何处？寂寞无行路。
+若有人知春去处，唤取归来同住。
+
+春无踪迹谁知？除非问取黄鹂。
+百啭无人能解，因风飞过蔷薇。
+--
+Where has spring gone home?
+It's lonely here — no tracks to trace.
+If anyone knows where spring has gone,
+Call it back to stay with us in this place.
+
+Spring leaves no trace — who knows?
+Unless you ask the oriole.
+But no one understands its hundred songs —
+It rides the wind across the roses, and goes.
+--
+A playful chase after the departing spring. The only witness, the oriole, sings a hundred songs no one understands, and flies off over the roses — the flowers of early summer. Spring is gone.
+
+== 登快阁 | Climbing Kuaige Pavilion
+by: 黄庭坚
+form: 七律
+tags: 秋 隐逸 失意 饮酒 江河 月
+scene: dusk autumn moon river tower hills leaves
+痴儿了却公家事，快阁东西倚晚晴。
+落木千山天远大，澄江一道月分明。
+朱弦已为佳人绝，青眼聊因美酒横。
+万里归船弄长笛，此心吾与白鸥盟。
+--
+This foolish fellow has finished all his official chores;
+I lean on Kuaige's rails, east and west, in the evening's clear light.
+With leaves fallen from a thousand hills, the sky is vast;
+One clear river, and on it, the moon shining bright.
+The red strings are broken — the one who understood is gone;
+My "green eyes" turn, for now, to good wine alone.
+Ten thousand li home in a boat, playing a long flute —
+I've sworn a pact with the white gulls: their freedom will be my own.
+--
+1082, when Huang Tingjian was a county magistrate in Jiangxi. "A foolish fellow finishing official business" is a self-mocking quotation from the Jin dynasty. Boya broke his zither strings when the one friend who understood his music died; Ruan Ji showed the "green" of his eyes to people he liked and the "whites" to those he despised. A pact with the gulls — living free and without scheming — is the old recluse's ideal.
+
+== 寄黄几复 | To Huang Jifu
+by: 黄庭坚
+form: 七律
+tags: 友情 相思 雨 夜 时光
+scene: night rain river candle person
+我居北海君南海，寄雁传书谢不能。
+桃李春风一杯酒，江湖夜雨十年灯。
+持家但有四立壁，治病不蕲三折肱。
+想见读书头已白，隔溪猿哭瘴溪藤。
+--
+I live by the northern sea, and you by the southern sea;
+I'd send a letter by wild goose — it says it can't fly so far.
+Peach and plum in the spring breeze: one cup of wine;
+Night rain on rivers and lakes: ten years of lamplight, where you are.
+To keep your house, you have nothing but four bare walls;
+To heal the sick, you needn't break your arm three times to learn.
+I picture you at your books, your hair already white,
+While across the fever stream the gibbons wail in the vines in turn.
+--
+To an old friend serving as a poor magistrate in remote Guangdong, "the southern sea". Wild geese were said never to fly south of Hengyang, so they "decline" to carry letters. The famous middle couplet sets one cup of wine in the spring breeze, when they last met, against ten years of separate lamps on rainy nights. "Break your arm three times and you become a good doctor" was an old saying: his friend is already a skilled official — yet unrecognised.
