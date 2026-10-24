@@ -219,6 +219,11 @@
         <p class="card-en">${esc(p.te)}</p>
       </div></a>`;
   }
+  // a filter row's label doubles as its fold toggle; a folded row still shows what is selected
+  function foldLabel(key, zh, en) {
+    return `<button type="button" class="lbl fold" data-fold="${key}" aria-expanded="${!settings[key]}" title="Show or hide">` +
+      `<span class="z" lang="zh-CN">${zh}</span>${en}<span class="chev" aria-hidden="true"></span></button>`;
+  }
   function tagChip(t, on, count, extra) {
     const info = DB.tagInfo[t];
     return `<a class="chip${on ? ' on' : ''}${extra ? ' extra' : ''}" href="#/?tag=${enc(t)}" data-tag="${esc(t)}"><span class="z" lang="zh-CN">${esc(t)}</span>${esc(info.en)}${count != null ? `<span class="c">${count}</span>` : ''}</a>`;
@@ -290,15 +295,13 @@
         </div>
         <div class="hint">Try ${hints.map(h => `<button type="button" data-q="${esc(h)}">${esc(h)}</button>`).join(' ')}</div>
       </section>
-      <section class="filters${settings.filtersShut ? ' shut' : ''}" aria-label="Filters">
-        <button type="button" class="ftoggle" id="ftoggle" aria-expanded="${!settings.filtersShut}" aria-controls="fbody">
-          <span class="z" lang="zh-CN">筛选</span>Filters<span class="chev" aria-hidden="true"></span></button>
-        <div class="fbody" id="fbody">
-          <div class="chiprow" id="dynrow"><span class="lbl"><span class="z" lang="zh-CN">朝代</span>Era</span>
+      <section class="filters" aria-label="Filters">
+        <div class="fbody">
+          <div class="chiprow${settings.dynShut ? ' shut' : ''}" id="dynrow">${foldLabel('dynShut', '朝代', 'Era')}
             <button type="button" class="chip${state.dyn ? '' : ' on'}" data-dyn=""><span class="z">全部</span>All</button>
             ${dyns.map(([d, de]) => `<button type="button" class="chip${state.dyn === d ? ' on' : ''}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(d)}</span>${esc(de)}</button>`).join('')}
           </div>
-          <div class="chiprow${settings.allTags ? ' all' : ''}" id="tagrow"><span class="lbl"><span class="z" lang="zh-CN">题材</span>Theme</span>
+          <div class="chiprow${settings.allTags ? ' all' : ''}${settings.tagShut ? ' shut' : ''}" id="tagrow">${foldLabel('tagShut', '题材', 'Theme')}
             ${tagsSorted.map((t, i) => tagChip(t, state.tag === t, DB.tagCount[t], i >= TAGS_SHOWN)).join('')}
             <button type="button" class="chip more" id="tagmore" aria-expanded="${!!settings.allTags}">${settings.allTags ? 'Fewer' : `+${tagsSorted.length - TAGS_SHOWN} more`}</button>
           </div>
@@ -342,11 +345,13 @@
       e.currentTarget.textContent = settings.allTags ? 'Fewer' : `+${tagsSorted.length - TAGS_SHOWN} more`;
       e.currentTarget.setAttribute('aria-expanded', settings.allTags);
     });
-    app.querySelector('#ftoggle').addEventListener('click', e => {
-      settings.filtersShut = !settings.filtersShut; saveSettings();
-      app.querySelector('.filters').classList.toggle('shut', settings.filtersShut);
-      e.currentTarget.setAttribute('aria-expanded', !settings.filtersShut);
-    });
+    app.querySelectorAll('[data-fold]').forEach(b => b.addEventListener('click', e => {
+      e.stopPropagation();
+      const k = b.dataset.fold;
+      settings[k] = !settings[k]; saveSettings();
+      b.closest('.chiprow').classList.toggle('shut', settings[k]);
+      b.setAttribute('aria-expanded', !settings[k]);
+    }));
     renderResults();
   }
 

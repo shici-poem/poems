@@ -6,7 +6,7 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Site: search, browse by era / theme / poet / form, poem pages, traditional toggle, fonts, dark mode, vertical layout.
 - 548 poems written and checked against chinese-poetry; then trimmed to the best-known **378**, ranked in `src/ranking.txt`.
 - Popularity order everywhere: home, filters, search (relevance band first, then fame), poets, poem of the day (top 200).
-- Era / theme filters wrap onto several lines and can be folded; themes show the top 14 with "+N more".
+- Era and Theme filters wrap onto several lines; each folds on its own (keeping the current pick visible); themes show the top 14 with "+N more".
 - Ink-wash painter: three compositions (平远 / 深远 / 高远), three colour manners (ink, ochre, Tang blue-green),
   figures (lady, child, elder, ox with herd-boy, kite), title inscription + poet's seal, ink and paper texture on the large painting.
 - Pinyin (pinyin-pro + 290 hand corrections, textbook readings, full tones). Read-aloud swaps in same-sounding

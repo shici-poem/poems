@@ -156,18 +156,17 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 
 /* ---------- filters ---------- */
 .filters { margin: 18px 0 8px; }
-.ftoggle {
-  display: inline-flex; align-items: baseline; gap: 6px; border: 0; background: none; padding: 4px 2px; cursor: pointer;
-  color: var(--ink-3); font-size: 13px; letter-spacing: .02em;
-}
-.ftoggle .z { font-family: var(--font-zh); font-size: 15px; color: var(--ink-2); }
-.ftoggle .chev { width: 7px; height: 7px; border: solid currentColor; border-width: 0 1.5px 1.5px 0; transform: translateY(-2px) rotate(45deg); transition: transform .2s; }
-.filters.shut .ftoggle .chev { transform: translateY(1px) rotate(-135deg); }
-.fbody { display: grid; gap: 10px; margin-top: 6px; }
-.filters.shut .fbody { display: none; }
+.fbody { display: grid; gap: 10px; }
 .chiprow { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.chiprow .lbl { display: inline-flex; align-items: baseline; gap: 4px; font-size: 12px; color: var(--ink-3); white-space: nowrap; margin-right: 4px; min-width: 64px; }
+.chiprow .lbl {
+  display: inline-flex; align-items: baseline; gap: 4px; font-size: 12px; color: var(--ink-3); white-space: nowrap; margin-right: 4px; min-width: 74px;
+  border: 0; background: none; padding: 4px 2px; cursor: pointer;
+}
+.chiprow .lbl:hover { color: var(--ink); }
 .chiprow .lbl .z { font-family: var(--font-zh); font-size: 14px; color: var(--ink-2); }
+.chiprow .chev { width: 6px; height: 6px; margin-left: 3px; border: solid currentColor; border-width: 0 1.5px 1.5px 0; transform: translateY(-2px) rotate(45deg); transition: transform .2s; }
+.chiprow.shut .chev { transform: translateY(0) rotate(-45deg); }
+.chiprow.shut .chip:not(.on) { display: none; }
 #tagrow:not(.all) .chip.extra:not(.on) { display: none; }
 @media (max-width: 600px) {
   .chiprow { gap: 5px; }
