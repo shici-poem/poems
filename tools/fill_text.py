@@ -5,6 +5,7 @@ In a source file, a poem whose Chinese section is just
 
     @ref                 (look up by this poem's author + title)
     @ref 长恨歌          (look up by a different title)
+    @ref 水龙吟 / 似花还似   (title + opening words, when a tune has many poems)
 
 gets that line replaced by the text found in the reference JSON files.
 
@@ -52,11 +53,14 @@ def main():
         text = path.read_text(encoding="utf-8")
 
         def fill(m):
-            title = (m.group("alt") or m.group("title")).strip()
+            alt, _, first = (m.group("alt") or "").partition("/")
+            title = (alt or m.group("title")).strip()
             author = m.group("author").strip()
-            a, t = key(author), key(title)
+            a, t, first = key(author), key(title), key(first)
             hits = [r for r in refs if r[0] == a and r[1] == t] or \
                    [r for r in refs if r[0] == a and (t in r[1] or r[1] in t)]
+            if first:  # several poems share a tune/title: pick by opening words
+                hits = [r for r in hits if key("".join(r[2])).startswith(first)]
             if not hits:
                 print(f"  NOT FOUND: {path.name}: {author} {title}")
                 return m.group(0)

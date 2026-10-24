@@ -1,0 +1,214 @@
+== 水调歌头（明月几时有） | Prelude to the Water Melody (When Did the Bright Moon Appear)
+by: 苏轼
+form: 词
+tags: 月 节日 相思 哲理 饮酒 夜 人生 天空
+scene: night moon clouds palace pavilion cup person
+明月几时有？把酒问青天。
+不知天上宫阙，今夕是何年。
+我欲乘风归去，又恐琼楼玉宇，高处不胜寒。
+起舞弄清影，何似在人间。
+
+转朱阁，低绮户，照无眠。
+不应有恨，何事长向别时圆？
+人有悲欢离合，月有阴晴圆缺，此事古难全。
+但愿人长久，千里共婵娟。
+--
+How long has the bright moon been there?
+Wine cup in hand, I ask the azure sky.
+I wonder, in the palaces of heaven,
+What year it is tonight, on high.
+I'd like to ride the wind and fly back home,
+But fear those crystal towers and halls of jade
+Would be too cold for me, so high.
+I rise and dance with my clear shadow here —
+Who'd trade the human world for heaven? Not I!
+
+It rounds the red pavilion,
+Stoops through the silken window low,
+And shines upon the sleepless.
+It should bear us no ill will —
+Why is it always full when we're apart? I'd like to know.
+Men have their griefs and joys, their partings and reunions;
+The moon has dark and bright, it waxes and it wanes —
+Nothing's been perfect since long ago.
+I only wish that we may both live long,
+And, a thousand li apart, share the moon's lovely glow.
+--
+Written at the Mid-Autumn Festival of 1076 in Mizhou, "drunk all night until dawn, thinking of Ziyou" — his brother Su Zhe, whom he had not seen for seven years. Su Shi dreams of flying up to the palaces of the moon but chooses the human world; then he forgives the moon for being full while families are apart, because nothing in life is ever whole. The closing wish — 但愿人长久，千里共婵娟 — is the Mid-Autumn blessing of every Chinese family, and the lyric, set to music in 1983, is known to everyone.
+
+== 念奴娇·赤壁怀古 | The Charms of Niannu: Remembering the Past at Red Cliff
+by: 苏轼
+form: 词
+tags: 怀古 江河 人生 壮志 战争
+scene: day river mountains peaks clouds boat
+大江东去，浪淘尽，千古风流人物。
+故垒西边，人道是，三国周郎赤壁。
+乱石穿空，惊涛拍岸，卷起千堆雪。
+江山如画，一时多少豪杰。
+
+遥想公瑾当年，小乔初嫁了，雄姿英发。
+羽扇纶巾，谈笑间，樯橹灰飞烟灭。
+故国神游，多情应笑我，早生华发。
+人生如梦，一尊还酹江月。
+--
+The Great River flows east;
+Its waves have washed away
+The gallant heroes of a thousand years.
+West of the old fort, there, they say,
+Is Red Cliff, where young Zhou fought in the Three Kingdoms' day.
+Jagged rocks pierce the clouds,
+Wild breakers pound the shore,
+Rolling up a thousand drifts of snow.
+River and mountains, like a painting —
+How many heroes were here, long ago!
+
+I think of Gongjin in those years,
+With Little Qiao just newly wed,
+Heroic in his bearing, brilliant in his prime;
+A feather fan, a silken cap — and, laughing, chatting,
+He burned their masts and oars to flying ash and vanished smoke.
+My spirit wanders in that ancient land —
+How the tender-hearted would laugh at me,
+For greying, as I have, before my time!
+Life is but a dream:
+Let me pour this cup to the river and the moon.
+--
+Written in 1082 during Su Shi's exile at Huangzhou, at a cliff on the Yangtze that he took — perhaps wrongly — for the site of the Battle of Red Cliff (208), where the young Wu general Zhou Yu (Gongjin), newly married to the beauty Xiao Qiao, burned Cao Cao's fleet. This lyric founded the "heroic and unrestrained" (豪放) school of *ci*: it should be sung, a contemporary said, by a big man from the west beating an iron clapper, not by a girl with castanets. The ending turns from heroism to the dream of life, and a libation to the eternal moon.
+
+== 江城子·乙卯正月二十日夜记梦 | River Town: A Dream on the Night of the 20th Day of the First Month, 1075
+by: 苏轼
+form: 词
+tags: 悼亡 爱情 相思 月 夜
+scene: night moon window pine hills person
+十年生死两茫茫，不思量，自难忘。
+千里孤坟，无处话凄凉。
+纵使相逢应不识，尘满面，鬓如霜。
+
+夜来幽梦忽还乡，小轩窗，正梳妆。
+相顾无言，惟有泪千行。
+料得年年肠断处，明月夜，短松冈。
+--
+Ten years — the living and the dead, apart, both lost from sight.
+I do not try to think of you,
+Yet can't forget you, day or night.
+Your lonely grave lies a thousand li away;
+I have no place to tell my grief, my plight.
+Even if we met, you would not know me now —
+My face all dust,
+My temples frost-white.
+
+Last night in a dream I suddenly came home:
+By the little window there,
+You sat, combing your hair.
+We looked at each other and could not speak —
+Only a thousand lines of tears.
+I know the place that breaks my heart, year after year:
+The moonlit night,
+The hill of short pines, there.
+--
+Written in 1075 on the tenth anniversary of the death of Su Shi's first wife, Wang Fu, who died at twenty-six. The first great elegy in the *ci* form, and perhaps the most moving in Chinese. In the dream she is simply doing her hair by the window, as she did every morning; neither of them can speak. Su Shi had planted pine saplings on her grave.
+
+== 江城子·密州出猎 | River Town: Hunting at Mizhou
+by: 苏轼
+form: 词
+tags: 壮志 爱国 饮酒 边塞
+scene: day hills rider horse birds flag
+老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。
+为报倾城随太守，亲射虎，看孙郎。
+
+酒酣胸胆尚开张，鬓微霜，又何妨！
+持节云中，何日遣冯唐？
+会挽雕弓如满月，西北望，射天狼。
+--
+This old man, for once, lets loose a young man's wild delight:
+A yellow hound upon my left,
+A grey hawk on my right.
+In brocade caps and sable furs,
+A thousand horsemen sweep the hills in flight.
+To thank the townsfolk who have followed their governor in force,
+I'll shoot the tiger myself, as Sun Quan did, from horse.
+
+Warm with wine, my heart grows bold, my courage swells;
+So what if frost has touched my hair?
+What harm is there?
+When will the court send Feng Tang with its tally to the frontier,
+To call me back, and send me there?
+I'll draw my carved bow round as the full moon,
+Gaze to the north-west,
+And shoot down the Wolf Star in the air.
+--
+Mizhou, 1075. Su Shi, aged thirty-nine, leads a hunt and imagines himself a frontier general. Sun Quan, ruler of Wu, once shot a tiger from horseback. Feng Tang was sent by a Han emperor with a tally to pardon a disgraced general at Yunzhong — Su Shi hopes for such a recall. The Wolf Star (Sirius) stood for invaders from the north-west, the Western Xia and the Liao.
+
+== 定风波（莫听穿林打叶声） | Calming the Waves (Don't Heed the Rain)
+by: 苏轼
+form: 词
+tags: 雨 人生 哲理 春 闲适
+scene: spring rain bamboo hills person sun
+莫听穿林打叶声，何妨吟啸且徐行。
+竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+
+料峭春风吹酒醒，微冷，山头斜照却相迎。
+回首向来萧瑟处，归去，也无风雨也无晴。
+--
+Don't heed the rain that pierces the woods and beats upon the leaves;
+Why not chant and whistle as I slowly stroll ahead?
+Bamboo staff and straw sandals — lighter than a horse, I know.
+Who's afraid?
+A straw cape in the misty rain — I'll live my life just so.
+
+The chilly spring wind blows me sober —
+A little cold;
+On the hilltop, the slanting sun comes out to greet me, bright.
+I turn and look back at the place where the storm roared —
+Going home,
+There's neither wind nor rain, nor sunlight.
+--
+Huangzhou, 1082. Caught in a sudden shower on a walk, his companions ran for cover; Su Shi kept strolling. The rain is the political storm that had nearly cost him his life; the last line — "neither wind and rain, nor clear skies" — is a Zen-like serenity beyond good and bad fortune. A favourite of people going through hard times.
+
+== 卜算子·黄州定慧院寓居作 | Song of Divination: Written While Lodging at Dinghui Temple, Huangzhou
+by: 苏轼
+form: 词
+tags: 失意 鸟 月 夜 隐逸
+scene: night crescent geese river reeds pine
+缺月挂疏桐，漏断人初静。
+谁见幽人独往来，缥缈孤鸿影。
+
+惊起却回头，有恨无人省。
+拣尽寒枝不肯栖，寂寞沙洲冷。
+--
+A waning moon hangs in the sparse wutong tree;
+The water-clock runs dry; the world's begun to rest.
+Who sees the hermit coming and going, lonely, free? —
+A lone wild goose's shadow, faint, now east, now west.
+
+Startled, it turns its head and looks around,
+With grief that no one in the world can see.
+It tries each frozen branch, and will not settle down —
+The sandbar, lonely, cold as cold can be.
+--
+Written in 1080, soon after Su Shi reached Huangzhou after months in prison and a near death sentence; he lodged at Dinghui Temple. The lone goose that refuses every cold branch and settles on a freezing sandbar is Su Shi himself — wounded and startled, yet unwilling to compromise.
+
+== 临江仙·夜归临皋 | Immortal by the River: Returning to Lingao at Night
+by: 苏轼
+form: 词
+tags: 饮酒 人生 隐逸 夜 江河
+scene: night crescent river cottage person boat
+夜饮东坡醒复醉，归来仿佛三更。
+家童鼻息已雷鸣。敲门都不应，倚杖听江声。
+
+长恨此身非我有，何时忘却营营？
+夜阑风静縠纹平。小舟从此逝，江海寄余生。
+--
+Drinking at Dongpo, sober and drunk again,
+I come home near the third watch, I'd say.
+The houseboy's snores are thundering by then;
+I knock, but no one answers —
+So, leaning on my stick, I hear the river on its way.
+
+I've long resented that this body's not my own —
+When can I forget this endless strife?
+The night is late, the wind is still, the ripples smooth as crepe:
+In a little boat I'll vanish from here, alone,
+And give the rivers and the seas the rest of my life.
+--
+Huangzhou, 1082. Locked out by his snoring servant, Su Shi stands listening to the Yangtze and longs to be free of office and its "striving" (营营, a word from *Zhuangzi*). Dongpo, "East Slope", was the plot he farmed in exile — and the name he took for himself. Legend says a rumour spread the next day that he had sung this song, hung up his official hat and sailed away; the alarmed governor rushed over and found him snoring in bed.
