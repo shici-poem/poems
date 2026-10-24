@@ -196,7 +196,7 @@
   }, { rootMargin: '400px 0px' }) : null;
   function paintThumb(el) {
     const p = DB.byId[el.dataset.id];
-    if (p) el.innerHTML = Scene.paint(p.s, p.id, { seal: p.a, era: DB.authors[p.a].d });
+    if (p) el.innerHTML = Scene.paint(p.s, p.id, { era: DB.authors[p.a].d });
   }
   function observeThumbs(root) {
     root.querySelectorAll('.thumb[data-id]').forEach(el => {
@@ -255,6 +255,7 @@
     if (state.dyn) p.set('d', state.dyn);
     if (state.form) p.set('f', state.form);
     if (state.unread) p.set('u', '1');
+    if (state.read) p.set('r', '1');
     const s = p.toString();
     return '#/' + (s ? '?' + s : '');
   }
@@ -271,6 +272,7 @@
       q: params.get('q') || '', tag: params.get('tag') || '', poet: params.get('poet') || '',
       dyn: params.get('d') || '', form: params.get('f') || '', unread: params.get('u') === '1', shown: PAGE,
     };
+    state.read = !state.unread && params.get('r') === '1';
     const memo = scrollMemo[location.hash || '#/'];
     if (memo && memo.shown) state.shown = memo.shown;
     document.title = '诗词 · Classical Chinese Poems';
@@ -362,10 +364,11 @@
 
   function renderResults() {
     const filtered = DB.poems.filter(p => (!state.tag || p.g.includes(state.tag)) && (!state.poet || p.a === state.poet) &&
-      (!state.dyn || DB.authors[p.a].d === state.dyn) && (!state.form || p.f === state.form) && (!state.unread || !READ[p.id]));
+      (!state.dyn || DB.authors[p.a].d === state.dyn) && (!state.form || p.f === state.form) && (!state.unread || !READ[p.id]) && (!state.read || READ[p.id]));
+    if (state.read) filtered.sort((a, b) => READ[b.id] - READ[a.id]);  // the most recently read first
     const list = state.q.trim() ? search(filtered, state.q) : filtered;
     lastList = list.map(p => p.id);
-    const anyFilter = state.q.trim() || state.tag || state.poet || state.dyn || state.form || state.unread;
+    const anyFilter = state.q.trim() || state.tag || state.poet || state.dyn || state.form || state.unread || state.read;
     const nRead = readCount(DB.poems);
 
     const feat = document.getElementById('feat');
@@ -391,6 +394,7 @@
     if (state.poet) active.push(`<button type="button" class="chip" data-clear="poet"><span class="z">${esc(A(state.poet))}</span>✕</button>`);
     if (state.form) active.push(`<button type="button" class="chip" data-clear="form"><span class="z">${esc(state.form)}</span>✕</button>`);
     if (state.unread) active.push(`<button type="button" class="chip" data-clear="unread"><span class="z">未读</span>Unread ✕</button>`);
+    if (state.read) active.push(`<button type="button" class="chip" data-clear="read"><span class="z">已读</span>Read ✕</button>`);
 
     // poet banner when the query is a poet's name
     let banner = '';
@@ -410,7 +414,8 @@
       <div class="reshead">
         <h2>${anyFilter ? '搜索结果<small>Results</small>' : '全部诗词<small>All poems</small>'}</h2>
         <span class="count">${list.length} ${list.length === 1 ? 'poem' : 'poems'}${nRead ? ` · <span class="readn">read ${nRead} of ${DB.poems.length}</span>
-          <button type="button" class="chip unread${state.unread ? ' on' : ''}" id="unread" aria-pressed="${state.unread}"><span class="z">未读</span>Unread only</button>` : ''}</span>
+          <button type="button" class="chip unread${state.unread ? ' on' : ''}" id="unread" aria-pressed="${state.unread}"><span class="z">未读</span>Unread only</button>
+          <button type="button" class="chip unread${state.read ? ' on' : ''}" id="readonly" aria-pressed="${state.read}"><span class="z">已读</span>Read</button>` : ''}</span>
       </div>
       ${active.length ? `<div class="active">${active.join('')}${active.length > 1 ? '<button type="button" class="chip" data-clear="all">Clear all</button>' : ''}</div><div style="height:12px"></div>` : ''}
       ${banner}
@@ -422,7 +427,7 @@
     scrollMemo[memoKey] = Object.assign(scrollMemo[memoKey] || {}, { shown: state.shown });
     res.querySelectorAll('[data-clear]').forEach(b => b.addEventListener('click', () => {
       const k = b.dataset.clear;
-      if (k === 'all') { state.q = state.tag = state.poet = state.dyn = state.form = ''; state.unread = false; } else state[k] = k === 'unread' ? false : '';
+      if (k === 'all') { state.q = state.tag = state.poet = state.dyn = state.form = ''; state.unread = state.read = false; } else state[k] = k === 'unread' || k === 'read' ? false : '';
       if (k === 'q' || k === 'all') { const i = document.getElementById('q'); i.value = ''; document.getElementById('qclear').hidden = true; }
       if (k === 'dyn' || k === 'all') app.querySelectorAll('#dynrow .chip').forEach(c => c.classList.toggle('on', c.dataset.dyn === ''));
       if (k === 'tag' || k === 'all') app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.remove('on'));
@@ -431,7 +436,9 @@
       state.shown = PAGE; syncHash(); renderResults();
     }));
     const ub = document.getElementById('unread');
-    if (ub) ub.addEventListener('click', () => { state.unread = !state.unread; state.shown = PAGE; syncHash(); renderResults(); });
+    if (ub) ub.addEventListener('click', () => { state.unread = !state.unread; state.read = false; state.shown = PAGE; syncHash(); renderResults(); });
+    const rb = document.getElementById('readonly');
+    if (rb) rb.addEventListener('click', () => { state.read = !state.read; state.unread = false; state.shown = PAGE; syncHash(); renderResults(); });
     const more = document.getElementById('more');
     if (more) {
       more.addEventListener('click', () => { state.shown += PAGE * 2; renderResults(); });
@@ -480,8 +487,7 @@
           <button type="button" class="pbtn" id="b-py" aria-pressed="${!!settings.pinyin}"><span class="pyi" aria-hidden="true">pīn</span><span class="z">拼音</span> Pinyin</button>
           <button type="button" class="pbtn" id="b-vert" aria-pressed="${vertical}">${ICON.vert}<span class="z">竖排</span> Vertical</button>
           ${'speechSynthesis' in window ? `<button type="button" class="pbtn" id="b-zh">${ICON.speak}<span class="z">朗读</span></button>
-          <button type="button" class="pbtn" id="b-en">${ICON.speak}English</button>
-          <button type="button" class="pbtn" id="b-voice" title="Reading voice: female or male">${voiceLabel()}</button>` : ''}
+          <button type="button" class="pbtn" id="b-en">${ICON.speak}English</button>` : ''}
           <button type="button" class="pbtn" id="b-share">${ICON.share}Share</button>
           <a class="pbtn" href="#/random">${ICON.dice}<span class="z">随机</span> Random</a>
         </div>
@@ -506,7 +512,7 @@
           ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir">下一首 Next →</span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
         </nav>
       </article>`;
-    document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), seal: p.a, era: au.d, label: 'Ink painting for ' + p.te });
+    document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), poet: p.a, era: au.d, label: 'Ink painting for ' + p.te });
 
     const zh = app.querySelector('.zh');
     const bv = document.getElementById('b-vert');
@@ -543,12 +549,6 @@
         speak([lines[0], au.d + '，' + p.a].concat(lines.slice(1).filter(Boolean)).join('。'), 'zh-CN', bz);
       });
     }
-    const bvo = document.getElementById('b-voice');
-    if (bvo) bvo.addEventListener('click', () => {
-      settings.voice = (settings.voice || 'f') === 'f' ? 'm' : 'f'; saveSettings();
-      bvo.innerHTML = voiceLabel();
-      if (speaking) { const b = speaking; stopSpeech(); b.click(); }  // restart in the new voice
-    });
     if (be) be.addEventListener('click', () => speak([p.te, 'by ' + au.en].concat(p.e.filter(Boolean)).join('\n'), 'en', be));
     document.getElementById('b-share').addEventListener('click', () => {
       const url = location.href;
@@ -562,26 +562,18 @@
 
   /* ---------------- speech ---------------- */
   let speaking = null;
-  const voiceLabel = () => (settings.voice || 'f') === 'm' ? '♂ <span class="z">男声</span> Male' : '♀ <span class="z">女声</span> Female';
   function stopSpeech() {
     if ('speechSynthesis' in window) speechSynthesis.cancel();
     if (speaking) speaking.setAttribute('aria-pressed', 'false');
     speaking = null;
   }
-  // Browsers don't say whether a voice is male or female, so go by the names the common systems use
-  // (Windows/Edge, macOS/iOS, Android, Chrome). Unknown names count as neither.
-  const VOICE_F = /xiaoxiao|xiaoyi|xiaohan|xiaomo|xiaoxuan|xiaorui|xiaoshuang|xiaoyan|xiaochen|xiaomeng|xiaoqiu|xiaozhen|xiaoyou|huihui|yaoyao|hanhan|hiugaai|hiumaan|tingting|ting-ting|sinji|meijia|mei-jia|yu-shu|lili|shasha|google 普通话|google 國語|google 粵語|aria|jenny|\bava\b|emma|michelle|sonia|libby|zira|hazel|susan|samantha|karen|moira|tessa|victoria|allison|serena|fiona|\bkate\b|natasha|clara|catherine|linda|nancy|joanna|salli|kimberly|female|google us english/i;
-  const VOICE_M = /yunxi|yunyang|yunjian|yunfeng|yunhao|yunye|yunze|yunxia|kangkang|zhiwei|li-mu|limu|danny|wanlung|\bguy\b|davis|andrew|brian|christopher|\beric\b|roger|steffan|ryan|thomas|\btony\b|jason|david|\bmark\b|george|richard|james|\balex\b|daniel|\bfred\b|\btom\b|aaron|arthur|oliver|gordon|rishi|matthew|joey|justin|\bmale\b/i;
-  const voiceSex = v => VOICE_M.test(v.name) && !/female/i.test(v.name) ? 'm' : VOICE_F.test(v.name) ? 'f' : '';
-  function pickVoice(lang, want) {
+  function pickVoice(lang) {
     const all = speechSynthesis.getVoices();
     let vs = all.filter(v => v.lang.replace('_', '-').toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh-cn'));
     if (!vs.length) vs = all.filter(v => v.lang.toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh'));
     if (lang === 'en') vs.sort((a, b) => (b.lang === 'en-US') - (a.lang === 'en-US'));
     const good = v => /natural|online|neural|premium|enhanced/i.test(v.name) ? 1 : 0;  // the better-sounding voices
-    const mine = vs.filter(v => voiceSex(v) === want).sort((a, b) => good(b) - good(a));
-    if (mine.length) return { voice: mine[0], exact: true };
-    return { voice: vs.slice().sort((a, b) => good(b) - good(a))[0] || null, exact: false };
+    return vs.slice().sort((a, b) => good(b) - good(a))[0] || null;
   }
   function speak(text, lang, btn) {
     if (speaking === btn) { stopSpeech(); return; }
@@ -589,14 +581,8 @@
     const u = new SpeechSynthesisUtterance(text);
     u.lang = lang === 'en' ? 'en-US' : 'zh-CN';
     u.rate = lang === 'en' ? 0.92 : 0.72;
-    const want = settings.voice || 'f', pick = pickVoice(lang, want);
-    if (pick.voice) u.voice = pick.voice;
-    if (!pick.exact && pick.voice) {
-      // no voice of that kind on this device: shift the pitch of what there is
-      const other = voiceSex(pick.voice);
-      if (other && other !== want) u.pitch = want === 'm' ? 0.7 : 1.3;
-      toast(`No ${want === 'm' ? 'male' : 'female'} ${lang === 'en' ? 'English' : 'Chinese'} voice on this device — using ${pick.voice.name.replace(/^(Microsoft|Google|Apple)\s+/, '').replace(/\s*[-(].*$/, '')}`);
-    }
+    const voice = pickVoice(lang);
+    if (voice) u.voice = voice;
     u.onend = u.onerror = () => { if (speaking === btn) { btn.setAttribute('aria-pressed', 'false'); speaking = null; } };
     speaking = btn;
     btn.setAttribute('aria-pressed', 'true');
@@ -687,7 +673,7 @@
         <h2 lang="zh-CN">画 · Paintings</h2>
         <p>The ink-wash pictures are not image files. Each poem carries a few words describing its scene — <code>night moon river boat</code> —
         and the page paints it on the spot as a tiny SVG: in plain ink, pale ochre or Tang-style blue-green, composed by one of
-        Guo Xi's three distances (level, deep or high), signed with the title and the poet's seal. The whole gallery costs about as much
+        Guo Xi's three distances (level, deep or high), signed with the title and the poet's name. The whole gallery costs about as much
         bandwidth as a single photograph.</p>
         <h2 lang="zh-CN">搜 · Search</h2>
         <p>Search in Chinese or English: a poet (<em>李白</em> or <em>Li Bai</em>), a line or a word (<em>明月</em>), or what a poem is about
@@ -697,7 +683,7 @@
         <p>Poems are set in 霞鹜文楷 LXGW WenKai, titles in 马善政 Ma Shan Zheng brush script; the 字 button in the top bar switches to
         Song, brush or cursive faces. 繁 shows traditional characters, and 竖排 sets a poem vertically, right to left, as it would appear on a scroll.</p>
         <h2 lang="zh-CN">读 · Your reading</h2>
-        <p>Poems you have opened are marked 已读 <em>read</em>, and <em>Unread only</em> on the home page hides them; Random picks one you
+        <p>Poems you have opened are marked 已读 <em>read</em>, <em>Read</em> on the home page lists them, newest first, and <em>Unread only</em> hides them; Random picks one you
         haven't read yet. This history is kept only in your own browser — nothing is sent anywhere.
         <span id="readinfo"></span></p>
       </div>`;

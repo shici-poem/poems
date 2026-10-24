@@ -8,7 +8,7 @@ The 378 best-loved poems in the Chinese language, from the *Book of Songs* to th
 - an English **verse translation** that keeps the images and rhymes where it can, plus a short note
 - where one exists, a classic **earlier translation** (public domain, credited and linked)
 - an **ink-wash painting** drawn in the browser
-- read-aloud in Chinese or English, in a female or male voice
+- read-aloud in Chinese or English
 
 Every list puts the best-known poems and poets first. Poems you have opened are marked *read* (kept only in your browser).
 Works on phones, tablets and desktops, light and dark. No framework, no server: plain HTML/CSS/JS on GitHub Pages.

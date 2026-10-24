@@ -8,12 +8,12 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Popularity order everywhere: home, filters, search (relevance band first, then fame), poets, poem of the day (top 200).
 - Era and Theme filters wrap onto several lines; each folds on its own (keeping the current pick visible); themes show the top 14 with "+N more".
 - Ink-wash painter: three compositions (平远 / 深远 / 高远), three colour manners (ink, ochre, Tang blue-green),
-  figures (lady, child, elder, ox with herd-boy, kite), title inscription + poet's seal, ink and paper texture on the large painting.
+  figures (lady, child, elder, ox with herd-boy, kite), title and poet inscribed (no seal), ink and paper texture on the large painting.
 - Pinyin (pinyin-pro + 290 hand corrections, textbook readings, full tones). Read-aloud swaps in same-sounding
-  characters where a reading is unusual (一骑 → 一寂), and offers a female / male voice.
+  characters where a reading is unusual (一骑 → 一寂); it uses the device's best voice (no male/female choice: most devices have no male Chinese voice).
 - 116 earlier public-domain translations for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), each credited and linked;
   23 lightly adapted, each marked with the printed text alongside.
-- Reading history in localStorage: 已读 marks, "Unread only" filter, per-poet counts, Random prefers unread.
+- Reading history in localStorage: 已读 marks, "Read" (newest first) and "Unread only" filters, per-poet counts, Random prefers unread.
 
 ## Decisions
 - Earlier translations must be public domain in Canada and the US: published before 1930 and translator died before 1972

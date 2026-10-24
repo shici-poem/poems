@@ -477,7 +477,7 @@
 
     if (has('window')) L.frame.push(windowFrame());
 
-    // 题款 inscription: the title in a column of brush script, the poet's name beside it, then the seal
+    // 题款 inscription: the title in a column of brush script, the poet's name beside it
     var BRUSH = 'font-family="\'Ma Shan Zheng\',\'LXGW WenKai Screen\',KaiTi,STKaiti,serif"';
     var tx = inscribe === 'L' ? 18 : W - 18, inward = inscribe === 'L' ? 1 : -1;
     if (has('window')) tx += inward * 18;
@@ -486,15 +486,12 @@
       chars.forEach(function (ch, i) {
         L.frame.push('<text x="' + tx + '" y="' + (34 + i * 13) + '" font-size="12" text-anchor="middle" fill="' + INK + '" opacity=".82" ' + BRUSH + '>' + esc(ch) + '</text>');
       });
-      if (opt.seal) {
-        var nx = tx + inward * 12, name = Array.from(opt.seal).slice(0, 4), ny = 34 + Math.max(0, chars.length - name.length - 1) * 13;
+      if (opt.poet) {
+        var nx = tx + inward * 12, name = Array.from(opt.poet).slice(0, 4), ny = 34 + Math.max(0, chars.length - name.length) * 13;
         name.forEach(function (ch, i) {
           L.frame.push('<text x="' + nx + '" y="' + n(ny + i * 9.5) + '" font-size="8.5" text-anchor="middle" fill="' + INK + '" opacity=".7" ' + BRUSH + '>' + esc(ch) + '</text>');
         });
-        L.frame.push(seal(nx, ny + name.length * 9.5 - 3, 12, opt.seal));
       }
-    } else if (opt.seal) {
-      L.frame.push(seal(tx, 10, 10, Array.from(opt.seal)[0])); // thumbnails: just a small seal
     }
 
     if (opt.detail) { // ink that bleeds a little at the edges, and the grain of the paper
@@ -815,19 +812,12 @@
         '<ellipse cx="' + n(x) + '" cy="' + n(y) + '" rx="6" ry="7.5" fill="#c8352a"/>' +
         '<path d="M' + n(x - 3) + ',' + n(y - 7) + 'h6M' + n(x - 3) + ',' + n(y + 7) + 'h6M' + n(x) + ',' + n(y + 7.5) + 'v5" stroke="#e2b04a" stroke-width="1"/>';
     }
-    function windowFrame() {
-      var out = '', wood = '#3b2f28';
-      if (chance(0.5)) {
-        var rad = 82;
-        out += '<path d="M0,0H' + W + 'V' + H + 'H0Z M' + (W / 2 - rad) + ',' + (H / 2) + 'a' + rad + ',' + rad + ' 0 1,0 ' + 2 * rad + ',0a' + rad + ',' + rad + ' 0 1,0 ' + (-2 * rad) + ',0Z" fill="' + wood + '" fill-rule="evenodd" opacity=".93"/>';
-        out += '<circle cx="' + W / 2 + '" cy="' + H / 2 + '" r="' + rad + '" fill="none" stroke="#6b5444" stroke-width="2"/>';
-      } else {
-        var m = 16;
-        out += '<path d="M0,0H' + W + 'V' + H + 'H0Z M' + m + ',' + m + 'V' + (H - m) + 'H' + (W - m) + 'V' + m + 'Z" fill="' + wood + '" fill-rule="evenodd" opacity=".93"/>';
-        for (var i = 1; i < 4; i++) {
-          out += '<path d="M' + m + ',' + (m + i * 8) + 'h' + (i * 8) + 'v' + (-i * 8) + 'M' + (W - m) + ',' + (m + i * 8) + 'h' + (-i * 8) + 'v' + (-i * 8) +
-            'M' + m + ',' + (H - m - i * 8) + 'h' + (i * 8) + 'v' + (i * 8) + 'M' + (W - m) + ',' + (H - m - i * 8) + 'h' + (-i * 8) + 'v' + (i * 8) + '" stroke="' + wood + '" stroke-width="1.6" fill="none" opacity=".85"/>';
-        }
+    function windowFrame() { // a slim lattice window frame; a round moon-gate mask hid too much of the scene
+      var out = '', wood = '#3b2f28', m = 10;
+      out += '<path d="M0,0H' + W + 'V' + H + 'H0Z M' + m + ',' + m + 'V' + (H - m) + 'H' + (W - m) + 'V' + m + 'Z" fill="' + wood + '" fill-rule="evenodd" opacity=".9"/>';
+      for (var i = 1; i < 4; i++) {
+        out += '<path d="M' + m + ',' + (m + i * 7) + 'h' + (i * 7) + 'v' + (-i * 7) + 'M' + (W - m) + ',' + (m + i * 7) + 'h' + (-i * 7) + 'v' + (-i * 7) +
+          'M' + m + ',' + (H - m - i * 7) + 'h' + (i * 7) + 'v' + (i * 7) + 'M' + (W - m) + ',' + (H - m - i * 7) + 'h' + (-i * 7) + 'v' + (i * 7) + '" stroke="' + wood + '" stroke-width="1.4" fill="none" opacity=".8"/>';
       }
       return out;
     }
@@ -845,20 +835,6 @@
     function cup(x, y, s) {
       return '<path d="M' + n(x - 4 * s) + ',' + n(y - 6 * s) + 'h' + n(8 * s) + 'q0,' + n(4 * s) + ' ' + n(-4 * s) + ',' + n(4.5 * s) + 'q' + n(-4 * s) + ',' + n(-0.5 * s) + ' ' + n(-4 * s) + ',' + n(-4.5 * s) + 'Z" fill="#c9b37a" stroke="#6b5444" stroke-width=".4"/>' +
         '<path d="M' + n(x) + ',' + n(y - 1.5 * s) + 'v' + n(1.5 * s) + 'M' + n(x - 2 * s) + ',' + n(y) + 'h' + n(4 * s) + '" stroke="#6b5444" stroke-width="' + n(0.6 * s) + '"/>';
-    }
-    function seal(cx, top, size, text) { // 印章: red stone, characters read right column first, top to bottom
-      var ch = Array.from(text).slice(0, 4), k = ch.length;
-      var w = k === 2 ? size * 0.66 : size, h = k === 2 ? size * 1.25 : size, x0 = cx - w / 2;
-      var cells = k === 1 ? [[0.5, 0.5, 1]] : k === 2 ? [[0.5, 0.27, 0.5], [0.5, 0.73, 0.5]] :
-        k === 3 ? [[0.73, 0.5, 1], [0.27, 0.27, 0.5], [0.27, 0.73, 0.5]] : [[0.73, 0.27, 0.5], [0.73, 0.73, 0.5], [0.27, 0.27, 0.5], [0.27, 0.73, 0.5]];
-      var out = '<rect x="' + n(x0) + '" y="' + n(top) + '" width="' + n(w) + '" height="' + n(h) + '" rx="' + n(size * 0.1) + '" fill="#b8322a" opacity=".9"/>' +
-        '<rect x="' + n(x0 + size * 0.07) + '" y="' + n(top + size * 0.07) + '" width="' + n(w - size * 0.14) + '" height="' + n(h - size * 0.14) + '" fill="none" stroke="#f6e9dc" stroke-width="' + n(size * 0.04) + '" opacity=".7"/>';
-      ch.forEach(function (c, i) {
-        var cell = cells[i], fs = k === 1 ? size * 0.72 : size * 0.44;
-        out += '<text x="' + n(x0 + w * cell[0]) + '" y="' + n(top + h * cell[1] + fs * 0.36) + '" font-size="' + n(fs) + '" text-anchor="middle" fill="#f6e9dc" ' +
-          'font-family="\'Ma Shan Zheng\',KaiTi,serif">' + esc(c) + '</text>';
-      });
-      return out;
     }
     function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   }
