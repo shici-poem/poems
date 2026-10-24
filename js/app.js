@@ -36,6 +36,8 @@
   const T = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id][0] : p.t;
   const Z = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id].slice(1) : p.z;
   const A = a => (settings.hant && HANT && HANT.a[a]) || a;
+  // title with any （其一）-style suffix set smaller
+  const TH = p => esc(T(p)).replace(/（[^）]*）$/, m => `<small>${m}</small>`);
 
   /* ---------------- data ---------------- */
   function prepare(data) {
@@ -193,7 +195,7 @@
     return `<a class="card" href="#/p/${p.id}">
       <div class="thumb" data-id="${p.id}"></div>
       <div class="card-body">
-        <h3 class="card-title" lang="zh-CN">${esc(T(p))}</h3>
+        <h3 class="card-title" lang="zh-CN">${TH(p)}</h3>
         <div class="card-meta"><span class="a" lang="zh-CN">〔${esc(au.d)}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
         <p class="card-line" lang="zh-CN">${segs(line)}</p>
         <p class="card-en">${esc(p.te)}</p>
@@ -336,7 +338,7 @@
         <div class="thumb" data-id="${p.id}"></div>
         <div class="fbody">
           <div class="kicker"><b lang="zh-CN">今日一诗</b>Poem of the day</div>
-          <h3 lang="zh-CN">${esc(T(p))}</h3>
+          <h3 lang="zh-CN">${TH(p)}</h3>
           <div class="by"><span lang="zh-CN">〔${esc(au.d)}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
           <div class="lines" lang="zh-CN">${z.filter(Boolean).slice(0, 2).map(segs).join('<br>')}</div>
           <div class="en">${p.e.filter(Boolean).slice(0, 2).map(esc).join('<br>')}</div>
@@ -435,7 +437,7 @@
         </div>
         <div class="duo">
           <section class="zh${vertical ? ' vertical' : ''}${chars > 120 ? ' long' : ''}" lang="zh-CN"><div class="vwrap">
-            <h1>${esc(T(p))}</h1>
+            <h1>${TH(p)}</h1>
             <div class="byline"><a href="#/poet/${enc(p.a)}">〔${esc(au.d)}〕${esc(A(p.a))}</a></div>
             <div class="text">${zhLines(Z(p))}</div>
           </div></section>
@@ -449,8 +451,8 @@
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
         <div class="pmeta"><span lang="zh-CN">${esc(p.f)}</span> · ${esc(DB.forms[p.f])} · <a href="#/poet/${enc(p.a)}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
         <nav class="pager" aria-label="More poems">
-          ${prev ? `<a class="prev" href="#/p/${prev.id}"><span class="dir">← 上一首 Previous</span><span class="pt" lang="zh-CN">${esc(T(prev))}</span></a>` : ''}
-          ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir">下一首 Next →</span><span class="pt" lang="zh-CN">${esc(T(next))}</span></a>` : ''}
+          ${prev ? `<a class="prev" href="#/p/${prev.id}"><span class="dir">← 上一首 Previous</span><span class="pt" lang="zh-CN">${TH(prev)}</span></a>` : ''}
+          ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir">下一首 Next →</span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
         </nav>
       </article>`;
     document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), seal: p.a, label: 'Ink painting for ' + p.te });
