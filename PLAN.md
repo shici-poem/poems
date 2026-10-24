@@ -13,12 +13,17 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
   characters where a reading is unusual (一骑 → 一寂); it uses the device's best voice (no male/female choice: most devices have no male Chinese voice).
 - 116 earlier public-domain translations for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), each credited and linked;
   23 lightly adapted, each marked with the printed text alongside.
+- Poet pages link to Chinese and English Wikipedia (`src/wiki.txt`, 121 of 126 poets).
+- Poem of the day: the same all day, a seeded shuffle of the top 200 (no repeats within 200 days).
+- One language per line on phones where Chinese and English sit together (footer motto, pager, poet banner).
 - Reading history in localStorage: 已读 marks, "Read" (newest first) and "Unread only" filters, per-poet counts, Random prefers unread.
 
 ## Decisions
 - Earlier translations must be public domain in Canada and the US: published before 1930 and translator died before 1972
   (Canada's life + 70 term from 2022 did not revive expired works). That rules out Bynner, Waley, Waddell, Pound, Xu Yuanchong.
 - Pinyin follows today's school textbooks and the 审音表 (斜 xié, not the rhyme reading xiá).
+- Wikipedia links only where the article is certainly this poet: each was resolved through Wikipedia's own
+  language links or redirects and its first sentence checked; namesakes and disambiguation pages are left out.
 - No server: pinyin, speech fixes, traditional text and earlier translations load only when needed.
 
 ## Ideas

@@ -130,6 +130,11 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .foot p { margin: 4px 0; }
 .foot-zh { font-family: var(--font-title); font-size: 18px; color: var(--ink-2); letter-spacing: .1em; }
 .foot a { color: var(--ink-2); }
+/* one language per line: on a phone the motto's Chinese and English each get their own line */
+@media (max-width: 640px) {
+  .motto .foot-zh, .motto em { display: block; }
+  .motto .dash { display: none; }
+}
 
 /* ---------- loading ---------- */
 .loading { min-height: 50vh; display: grid; place-items: center; font-family: var(--font-title); font-size: 28px; color: var(--ink-3); letter-spacing: .3em; }
@@ -250,7 +255,9 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
   display: flex; gap: 14px; align-items: center; padding: 14px 16px; border-radius: 12px; background: var(--card);
   border: 1px solid var(--line); text-decoration: none; margin-bottom: 14px;
 }
-.poet-banner .pz { font-family: var(--font-title); font-size: 30px; }
+.poet-banner .pz { font-family: var(--font-title); font-size: 30px; white-space: nowrap; }
+.poet-banner .nw { white-space: nowrap; }
+@media (max-width: 420px) { .poet-banner .gt { display: none; } }
 .poet-banner .pe { color: var(--ink-3); font-size: 14px; }
 .poet-banner .go { margin-left: auto; color: var(--red); font-size: 14px; white-space: nowrap; }
 
@@ -358,6 +365,8 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 }
 .pager a:hover { border-color: var(--ink-3); }
 .pager .dir { font-size: 12px; color: var(--ink-3); letter-spacing: .08em; }
+.pager .dir > span { white-space: nowrap; }
+@media (max-width: 420px) { .pager .dir > span { display: block; } }  /* Chinese and English each on a line */
 .pager .pt { font-family: var(--font-title); font-size: 20px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .pager .next { text-align: right; grid-column: 2; }
 
@@ -391,6 +400,8 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .poethead .en { font-family: var(--font-en); font-size: 26px; font-style: italic; }
 .poethead .meta { color: var(--ink-3); font-size: 14px; margin-top: 2px; }
 .poethead .bio { font-family: var(--font-en); font-size: 18.5px; line-height: 1.6; max-width: 46em; margin: 10px 0 0; color: var(--ink-2); }
+.poethead .wiki { margin: 8px 0 0; font-size: 14.5px; color: var(--ink-3); }
+.poethead .wiki a { color: var(--red); }
 @media (min-width: 760px) { .poethead { grid-template-columns: auto 1fr; gap: 30px; } }
 
 .prose { max-width: 720px; margin: 0 auto; font-family: var(--font-en); font-size: 19px; line-height: 1.65; }

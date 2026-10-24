@@ -10,6 +10,7 @@ The 378 best-loved poems in the Chinese language, from the *Book of Songs* to th
 - an **ink-wash painting** drawn in the browser
 - read-aloud in Chinese or English
 
+Poet pages link to the poet's Chinese and English Wikipedia articles where one exists.
 Every list puts the best-known poems and poets first. Poems you have opened are marked *read* (kept only in your browser).
 Works on phones, tablets and desktops, light and dark. No framework, no server: plain HTML/CSS/JS on GitHub Pages.
 
@@ -20,6 +21,7 @@ index.html, css/, js/app.js    the site (hash routing, search, views)
 js/scene.js                    ink-wash painter: "night moon river boat" → SVG
 src/poems/*.txt                the poems (format below)
 src/authors.txt                poets: name | English name | dynasty | dates | bio
+src/wiki.txt                   poets' Wikipedia articles: name | zh title | en title ('-' = none)
 src/ranking.txt                every poem, most famous first; sets the order of every list
 src/classic/*.txt              earlier translations (format at load_classic in tools/build.py)
 src/pinyin.txt                 hand-checked pinyin corrections for classical readings

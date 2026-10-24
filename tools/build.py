@@ -118,6 +118,17 @@ def load_authors():
         if "BC" in years:
             born = -born
         authors[zh] = {"en": en, "d": dyn, "y": years, "b": bio, "_born": born}
+    # src/wiki.txt: '<poet> | <zh.wikipedia title> | <en.wikipedia title>', '-' where there is no article
+    for n, line in enumerate((SRC / "wiki.txt").read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        if len(parts) != 3:
+            die(f"wiki.txt:{n}: expected 3 fields, got {len(parts)}")
+        if parts[0] not in authors:
+            die(f"wiki.txt:{n}: unknown author {parts[0]}")
+        authors[parts[0]]["w"] = ["" if t == "-" else t for t in parts[1:]]
     return authors
 
 

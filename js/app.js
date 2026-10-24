@@ -359,8 +359,14 @@
   }
 
   function dayPoem() {
+    // the same poem all day for everyone, picked at random from the best-known 200: each 200-day cycle
+    // walks through a fresh shuffle of them, so none repeats within a cycle and the order can't be guessed
     const day = Math.floor((Date.now() - new Date().getTimezoneOffset() * 60000) / 86400000);
-    return DB.poems[(day * 37) % Math.min(DB.poems.length, 199)];  // from the best-known ~200
+    const n = Math.min(DB.poems.length, 200), order = [...Array(n).keys()];
+    let s = Math.floor(day / n) * 2654435761 >>> 0;
+    const rand = () => { s = (s + 0x6D2B79F5) | 0; let t = Math.imul(s ^ (s >>> 15), 1 | s); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+    for (let i = n - 1; i > 0; i--) { const j = Math.floor(rand() * (i + 1)); [order[i], order[j]] = [order[j], order[i]]; }
+    return DB.poems[order[day % n]];
   }
 
   function renderResults() {
@@ -405,7 +411,7 @@
       if (hit) {
         const au = DB.authors[hit];
         banner = `<a class="poet-banner" href="#/poet/${enc(hit)}"><span class="pz" lang="zh-CN">${esc(A(hit))}</span>
-          <span><b>${esc(au.en)}</b><br><span class="pe">${esc(au.d)} · ${esc(DB.dynEn[au.d])} · ${esc(au.y)}</span></span><span class="go">Poet page →</span></a>`;
+          <span><b>${esc(au.en)}</b><br><span class="pe">${esc(au.d)} · ${esc(DB.dynEn[au.d])} · <span class="nw">${esc(au.y)}</span></span></span><span class="go"><span class="gt">Poet page </span>→</span></a>`;
       }
     }
 
@@ -509,8 +515,8 @@
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
         <div class="pmeta"><span lang="zh-CN">${esc(p.f)}</span> · ${esc(DB.forms[p.f])} · <a href="#/poet/${enc(p.a)}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
         <nav class="pager" aria-label="More poems">
-          ${prev ? `<a class="prev" href="#/p/${prev.id}"><span class="dir">← 上一首 Previous</span><span class="pt" lang="zh-CN">${TH(prev)}</span></a>` : ''}
-          ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir">下一首 Next →</span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
+          ${prev ? `<a class="prev" href="#/p/${prev.id}"><span class="dir"><span lang="zh-CN">← 上一首</span> <span>Previous</span></span><span class="pt" lang="zh-CN">${TH(prev)}</span></a>` : ''}
+          ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir"><span lang="zh-CN">下一首</span> <span>Next →</span></span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
         </nav>
       </article>`;
     document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), poet: p.a, era: au.d, label: 'Ink painting for ' + p.te });
@@ -609,6 +615,15 @@
     app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">诗人</h1><p>${Object.keys(DB.poetCount).length} poets, from the Book of Songs to the last dynasty</p></div>${famous}${groups}`;
   }
 
+  // links to the poet's Wikipedia articles (src/wiki.txt; only ones checked to be about this poet)
+  function wikiLinks(w) {
+    if (!w || !(w[0] || w[1])) return '';
+    const url = (host, t) => `https://${host}/${encodeURIComponent(t.replace(/ /g, '_'))}`;
+    const links = [];
+    if (w[0]) links.push(`<a href="${url('zh.wikipedia.org/' + (settings.hant ? 'zh-tw' : 'zh-cn'), w[0])}" target="_blank" rel="noopener" lang="zh-CN">中文</a>`);
+    if (w[1]) links.push(`<a href="${url('en.wikipedia.org/wiki', w[1])}" target="_blank" rel="noopener">English</a>`);
+    return `<p class="wiki"><span><span lang="zh-CN">维基百科</span> Wikipedia:</span> ${links.join(' · ')}</p>`;
+  }
   function viewPoet(a) {
     const au = DB.authors[a];
     if (!au) return viewNotFound();
@@ -620,7 +635,7 @@
       <header class="poethead">
         <div class="big" lang="zh-CN">${esc(A(a))}</div>
         <div><div class="en">${esc(au.en)}</div><div class="meta"><span lang="zh-CN">${esc(au.d)}</span> · ${esc(DB.dynEn[au.d])} · ${esc(au.y)} · ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'}${readCount(ps) ? ` · <span class="readn">${readCount(ps)} read</span>` : ''}</div>
-        <p class="bio">${rich(au.b)}</p></div>
+        <p class="bio">${rich(au.b)}</p>${wikiLinks(au.w)}</div>
       </header>
       <div class="reshead"><h2>作品<small>Poems</small></h2></div>
       <div class="grid">${ps.map(p => card(p)).join('')}</div>`;
