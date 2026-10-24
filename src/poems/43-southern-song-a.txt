@@ -66,51 +66,11 @@ If the strings should snap, who'd hear?
 --
 A quieter lyric attributed to Yue Fei, probably written when the court was pressing for peace with the Jin and he was kept from fighting. The dream of the front, the sleepless pacing, and a zither with no one to hear (the story of Boya and Ziqi once more): loyalty with no one to understand it.
 
-== 临江仙·夜登小阁忆洛中旧游 | Immortal by the River: Climbing a Small Pavilion at Night, Remembering Old Days in Luoyang
-by: 陈与义
-form: 词
-tags: 怀古 时光 友情 月 音乐 人生
-scene: night moon river pavilion flowers fisher
-忆昔午桥桥上饮，坐中多是豪英。
-长沟流月去无声。杏花疏影里，吹笛到天明。
-
-二十余年如一梦，此身虽在堪惊。
-闲登小阁看新晴。古今多少事，渔唱起三更。
---
-I remember drinking long ago on Wuqiao Bridge,
-With many heroes gathered in our company.
-The moon flowed down the long canal, and made no sound;
-In the sparse shadows of the apricot tree,
-We played our flutes till dawn.
-
-Twenty years and more have passed, like a dream;
-That I'm still alive amazes me.
-At leisure I climb the little pavilion to see the new-cleared sky;
-How many things of past and present —
-And the fishermen's songs rise at midnight, carelessly.
---
-Chen Yuyi remembers carefree nights with friends in Luoyang before the Jurchen invasion of 1126 swept it all away; twenty years later, a refugee in the south, he is amazed to be alive. 长沟流月去无声 — "the moon flowed silently away down the long channel" — is time itself, passing unnoticed. The ending dissolves all history into fishermen's songs at midnight.
-
-== 襄邑道中 | On the Road Through Xiangyi
-by: 陈与义
-form: 七绝
-tags: 春 江河 天空 哲理 花
-scene: spring river boat clouds petals willow
-飞花两岸照船红，百里榆堤半日风。
-卧看满天云不动，不知云与我俱东。
---
-On both banks, flying blossoms light the boat with red;
-A hundred li of elm-lined dyke in half a day of breeze.
-Lying back, I watch the sky — the clouds don't move, I said —
-Not knowing they and I are sailing east with equal ease.
---
-A boat trip with a fair wind: lying on deck, the poet sees the clouds standing still — until he realises they are moving east exactly as fast as he is. A charming observation of relative motion, and an image of going with the flow.
-
 == 四时田园杂兴（昼出耘田夜绩麻） | Seasonal Country Poems (By Day They Weed the Fields)
 by: 范成大
 form: 七绝
 tags: 田园 夏 童趣
-scene: summer fields cottage person two
+scene: summer fields cottage person child
 昼出耘田夜绩麻，村庄儿女各当家。
 童孙未解供耕织，也傍桑阴学种瓜。
 --
@@ -135,21 +95,6 @@ The days are long; no one passes by the hedge —
 Only dragonflies and butterflies flit through.
 --
 Early summer, the busiest farming season: everyone is out in the fields, so the village is empty — except for dragonflies and butterflies. Colour and stillness in four lines.
-
-== 州桥 | Zhou Bridge
-by: 范成大
-form: 七绝
-tags: 爱国 民生 怀古
-scene: day bridge wall person two
-州桥南北是天街，父老年年等驾回。
-忍泪失声询使者：几时真有六军来？
---
-North and south of Zhou Bridge runs the old Imperial Way;
-Year after year the elders wait for the emperor's return.
-Fighting back their tears, they ask the envoy, voices breaking: "Say —
-When will the royal army truly come? When will we learn?"
---
-In 1170 Fan Chengda travelled as envoy to the Jin court through the old Song capital Kaifeng, lost forty-three years before. At Zhou Bridge, on the old imperial avenue, Chinese living under Jin rule stopped him to ask, in tears, when the Song army would come. It never did.
 
 == 小池 | The Little Pond
 by: 杨万里
@@ -185,7 +130,7 @@ Seeing a friend off at dawn from Jingci Temple on West Lake in midsummer. 接天
 by: 杨万里
 form: 七绝
 tags: 春 童趣 花 田园
-scene: spring fields flowers butterfly cottage person
+scene: spring fields flowers butterfly cottage child
 篱落疏疏一径深，树头新绿未成阴。
 儿童急走追黄蝶，飞入菜花无处寻。
 --
@@ -241,60 +186,6 @@ From its source, the living water keeps on flowing in below.
 --
 The mind is a pond, kept clear only by fresh water flowing in — constant study and reflection. 源头活水, "living water from the source", is now a common phrase for fresh ideas and inspiration.
 
-== 观书有感（其二） | Thoughts on Reading (II)
-by: 朱熹
-form: 七绝
-tags: 哲理 江河 春
-scene: spring river boat sail
-昨夜江边春水生，艨艟巨舰一毛轻。
-向来枉费推移力，此日中流自在行。
---
-Last night the spring floods rose along the river,
-And the huge warship floats as light as down.
-All our efforts once to push it were in vain —
-Today in midstream it sails freely on its own.
---
-Understanding cannot be forced. Struggle uselessly with a problem, and one day — when enough knowledge has accumulated, like a spring flood — it moves easily of itself.
-
-== 念奴娇·过洞庭 | The Charms of Niannu: Crossing Dongting
-by: 张孝祥
-form: 词
-tags: 月 秋 山水 江河 人生 天空
-scene: night autumn moon lake boat stars
-洞庭青草，近中秋、更无一点风色。
-玉鉴琼田三万顷，著我扁舟一叶。
-素月分辉，明河共影，表里俱澄澈。
-悠然心会，妙处难与君说。
-
-应念岭表经年，孤光自照，肝胆皆冰雪。
-短发萧骚襟袖冷，稳泛沧溟空阔。
-尽挹西江，细斟北斗，万象为宾客。
-扣舷独啸，不知今夕何夕！
---
-Dongting and Green Grass Lake,
-Near the Mid-Autumn day,
-Not one breath of wind at all.
-A jade mirror, a crystal field, thirty thousand acres wide,
-Bears my one small leaf of a boat.
-The white moon spreads its light;
-The Milky Way shares its reflection;
-Inside and out, all is clear as crystal.
-Serenely my heart understands —
-But the wonder is too fine to tell to you.
-
-I think of my year beyond the Ridges,
-Where the lonely moon shone on me alone,
-And my heart and soul were clear as ice and snow.
-Now, my thin hair tousled, my sleeves chilled,
-I drift on the vast, wide waters, steady and slow.
-I'll scoop up all the Western River,
-Pour it carefully with the Dipper for a ladle,
-And make all things in the world my guests.
-I tap the side of my boat and whistle alone —
-What night is this? I do not know!
---
-1166: Zhang Xiaoxiang, dismissed from his post at Guilin (beyond the Five Ridges), crosses Dongting Lake on a windless night near Mid-Autumn. The lake becomes a mirror for a soul "clear as ice and snow". Then a cosmic banquet: the West River for wine, the Big Dipper for a ladle, the universe for guests — inspired by Su Shi's *Red Cliff* rhapsodies.
-
 == 扬州慢 | Slow Song of Yangzhou
 by: 姜夔
 form: 词
@@ -333,27 +224,3 @@ I think of the red peonies by the bridge —
 For whom do they still bloom, year after year?
 --
 Jiang Kui passed through Yangzhou in the winter of 1176, fifteen years after a Jin invasion devastated it. He sets the city of Du Mu's poems — "ten li of spring breeze", "cardamom" girls, the Twenty-four Bridges in moonlight — against the cold, empty ruin. "The ruined pools and old trees still hate to speak of war" is famous: even the trees are traumatised.
-
-== 点绛唇·丁未冬过吴松作 | Rouged Lips: Passing Wusong in the Winter of 1187
-by: 姜夔
-form: 词
-tags: 冬 怀古 隐逸 鸟 柳
-scene: dusk winter lake geese clouds peaks bridge willow
-燕雁无心，太湖西畔随云去。
-数峰清苦，商略黄昏雨。
-
-第四桥边，拟共天随住。
-今何许？凭阑怀古，残柳参差舞。
---
-The wild geese from the north have no cares;
-West of Lake Tai, they follow the clouds away.
-A few peaks, cold and bleak,
-Are planning the rain at the end of the day.
-
-Here by the Fourth Bridge,
-I'd live with Tiansui, if I could.
-Where is he now?
-I lean on the rail and think of the past,
-While broken willows dance, as willows would.
---
-Written passing Wusong near Suzhou, where the Tang poet Lu Guimeng ("Tiansui"), a recluse Jiang Kui revered, had lived. The mountains "discussing" the evening rain is one of the most celebrated personifications in the *ci*. The wandering geese, free of care, are everything the drifting poet is not.

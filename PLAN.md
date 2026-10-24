@@ -1,51 +1,30 @@
-# 诗词 · Poems — build plan & progress
+# 诗词 · Plan & status
 
-Static site hosted on GitHub Pages (free for public repos). No framework, no build step
-needed to *serve* it: `index.html` + `css/` + `js/` + `data/poems.json`.
+Architecture, formats and build steps are in [README.md](README.md). This file tracks what is done and why.
 
-## Architecture
-- `src/poems/*.txt` — hand-written poem source files (compact text format, see below)
-- `src/authors.txt` — author table (Chinese name | English name | dynasty | dates | bio)
-- `tools/build.py` — parses + validates sources → `data/poems.json` (+ `data/hant.json` traditional text)
-- `js/scene.js` — procedural ink-wash (水墨) SVG painter. Each poem only stores a tiny
-  scene spec (`night: moon river boat`), the picture is drawn in the browser → ~0 bandwidth per poem
-- `js/app.js` — hash router, search, rendering
-- `css/style.css` — responsive layout (phone / tablet / desktop), light + dark
+## Done
+- Site: search, browse by era / theme / poet / form, poem pages, traditional toggle, fonts, dark mode, vertical layout.
+- 548 poems written and checked against chinese-poetry; then trimmed to the best-known **378**, ranked in `src/ranking.txt`.
+- Popularity order everywhere: home, filters, search (relevance band first, then fame), poets, poem of the day (top 200).
+- Era / theme filters wrap onto several lines and can be folded; themes show the top 14 with "+N more".
+- Ink-wash painter: three compositions (平远 / 深远 / 高远), three colour manners (ink, ochre, Tang blue-green),
+  figures (lady, child, elder, ox with herd-boy, kite), title inscription + poet's seal, ink and paper texture on the large painting.
+- Pinyin (pinyin-pro + 290 hand corrections, textbook readings, full tones). Read-aloud swaps in same-sounding
+  characters where a reading is unusual (一骑 → 一寂), and offers a female / male voice.
+- 116 earlier public-domain translations for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), each credited and linked;
+  23 lightly adapted, each marked with the printed text alongside.
+- Reading history in localStorage: 已读 marks, "Unread only" filter, per-poet counts, Random prefers unread.
 
-## Poem source format
-```
-== 静夜思 | Quiet Night Thoughts
-by: 李白
-form: 五言绝句
-tags: 思乡 月 夜
-scene: night moon window frost person
-床前明月光，疑是地上霜。
-举头望明月，低头思故乡。
---
-English translation lines…
---
-Short note on meaning / background / allusions.
-```
-Blank line inside text = stanza break (上阕/下阕).
+## Decisions
+- Earlier translations must be public domain in Canada and the US: published before 1930 and translator died before 1972
+  (Canada's life + 70 term from 2022 did not revive expired works). That rules out Bynner, Waley, Waddell, Pound, Xu Yuanchong.
+- Pinyin follows today's school textbooks and the 审音表 (斜 xié, not the rhyme reading xiá).
+- No server: pinyin, speech fixes, traditional text and earlier translations load only when needed.
 
-## Steps
-- [x] 1. Create repo + push
-- [x] 2. Build script + validation (tools/build.py; tools/fill_text.py pulls long originals from chinese-poetry)
-- [x] 3. Site skeleton: layout, fonts, routing, search, poem page
-- [x] 4. Scene painter (scene.js)
-- [x] 5. Poems (target ≈ 500) — done: 548 poems, 153 poets
-  - [x] 李白  - [x] 杜甫  - [x] 王维  - [x] 白居易  - [x] 李商隐  - [x] 杜牧  - [x] 孟浩然
-  - [x] 边塞 (王昌龄 王之涣 岑参 高适 王翰 …)  - [x] 初唐  - [x] 盛唐 others
-  - [x] 中唐 (刘禹锡 柳宗元 韩愈 元稹 孟郊 贾岛 李贺 …)  - [x] 晚唐
-  - [x] 先秦汉魏六朝  - [x] 五代 (李煜 …)
-  - [x] 苏轼  - [x] 李清照  - [x] 辛弃疾  - [x] 陆游  - [x] 北宋 others  - [x] 南宋 others
-  - [x] 元明清
-- [x] 6. Verify Chinese texts against chinese-poetry dataset (tools/verify_text.py; 151 differences reviewed by hand, 5 corrected)
-- [x] 7. Traditional-Chinese toggle (OpenCC at build time)
-- [x] 8. Polish, test on phone/tablet/desktop widths (automated Chrome DevTools tests)
-- [x] 9. Enable GitHub Pages, final README — live at https://shici-poem.github.io/poems/
+## Ideas
+- *More Gems of Chinese Poetry* (Fletcher, 1919): no accessible scan found yet.
+- A tall hanging-scroll format for the poem-page painting.
 
 ## Notes
-- Long poems: write `@ref` as the Chinese text, then run
-  `python -I tools/fill_text.py <chinese-poetry json dir>` to insert the original (avoids
-  typing long texts; output filter blocks very long verbatim reproductions).
+- Long Chinese texts: write `@ref` and run `python -I tools/fill_text.py <chinese-poetry json dir>`; typing very long
+  famous texts verbatim can trip the model's output filter.

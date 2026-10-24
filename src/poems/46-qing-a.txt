@@ -59,31 +59,6 @@ At the time, it all just seemed so ordinary.
 --
 An elegy for Nalan Xingde's wife, Lu Shi, who died in 1677 after three years of marriage. The memories are tiny: she let him sleep off his wine; they played the game Li Qingzhao and her husband once played — betting on which page of which book a quotation came from — and laughed till they spilled the tea. The last line, 当时只道是寻常, "at the time, we thought it all so ordinary", is one of the most heartbreaking in Chinese.
 
-== 蝶恋花（辛苦最怜天上月） | Butterflies Love Flowers (How I Pity the Toiling Moon)
-by: 纳兰性德
-form: 词
-tags: 悼亡 爱情 月 春 秋
-scene: night moon window swallows butterfly flowers
-辛苦最怜天上月，一昔如环，昔昔都成玦。
-若似月轮终皎洁，不辞冰雪为卿热。
-
-无那尘缘容易绝，燕子依然，软踏帘钩说。
-唱罢秋坟愁未歇，春丛认取双栖蝶。
---
-How I pity the toiling moon up in the sky:
-Full as a ring for just one night,
-And every other night a broken jade.
-If only you'd stay round like the moon, forever bright,
-I'd gladly brave the ice and snow to keep you warm, unafraid.
-
-But earthly bonds are broken all too soon;
-The swallows, as they always do,
-Tread lightly on the curtain hook and chatter.
-I sing the autumn graveside songs, but grief has not passed;
-Among spring's flowers I'll find two butterflies — and know they're us at last.
---
-Another elegy for his wife. The moon is full only one night a month — like their brief happiness. "I'd warm you through ice and snow" recalls Xun Can, who, when his wife had a fever in winter, stood out in the cold and then lay against her to cool her. The ending recalls the Butterfly Lovers, Liang Shanbo and Zhu Yingtai, who became a pair of butterflies after death.
-
 == 画堂春（一生一代一双人） | Spring in the Painted Hall (One Life, One Pair)
 by: 纳兰性德
 form: 词
@@ -137,26 +112,11 @@ But every branch and every leaf is what we care about.
 --
 Written in 1746, when Zheng Banqiao was magistrate of Weixian (Shandong) during a famine. He opened the granaries without waiting for permission, and was later dismissed. He painted bamboo and sent it with this poem to the provincial governor: even a minor official must feel every leaf of the people's suffering.
 
-== 题石头记 | On The Story of the Stone
-by: 曹雪芹
-form: 五绝
-tags: 人生 失意 哲理
-scene: night candle window person
-满纸荒唐言，一把辛酸泪。
-都云作者痴，谁解其中味？
---
-Pages and pages of absurd words,
-A handful of bitter tears.
-They all say the author is a fool —
-But who has tasted what's within, through all these years?
---
-The verse Cao Xueqin set at the opening of *Dream of the Red Chamber* (also called *The Story of the Stone*), the greatest Chinese novel, written in poverty over ten years after the ruin of his family. The "absurd words" are the novel's dreamlike fiction; the "bitter tears", its truth.
-
 == 所见 | What I Saw
 by: 袁枚
 form: 五绝
 tags: 童趣 夏 田园 音乐
-scene: summer pine fields person
+scene: summer pine fields child ox
 牧童骑黄牛，歌声振林樾。
 意欲捕鸣蝉，忽然闭口立。
 --

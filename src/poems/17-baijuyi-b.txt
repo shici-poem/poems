@@ -2,7 +2,7 @@
 by: 白居易
 form: 七古
 tags: 爱情 怀古 悼亡 女性 相思
-scene: night moon palace clouds mist pavilion
+scene: night moon palace clouds mist pavilion lady
 汉皇重色思倾国，御宇多年求不得。
 杨家有女初长成，养在深闺人未识。
 天生丽质难自弃，一朝选在君王侧。

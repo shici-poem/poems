@@ -49,51 +49,6 @@ Please tell my family I'm safe and well, as you pass by.
 --
 On his way to the Central Asian frontier in 749, Cen Shen meets an envoy heading back to Chang'an. No time to write — only a spoken message: "I'm safe." The simplest words carry the deepest feeling.
 
-== 碛中作 | Written in the Desert
-by: 岑参
-form: 七绝
-tags: 边塞 羁旅 月 思乡
-scene: dusk desert moon rider horse
-走马西来欲到天，辞家见月两回圆。
-今夜不知何处宿，平沙万里绝人烟。
---
-I ride west till it seems I'll reach the edge of the sky;
-Twice since I left my home I've seen the moon grow round.
-Tonight I do not know where I shall lie —
-Ten thousand li of sand, and not a hearth-smoke to be found.
---
-Crossing the Gobi (碛) in 749. Two full moons measure two months away from home; the endless sand without "the smoke of human fires" measures the loneliness.
-
-== 行军九日思长安故园 | On the March at the Double Ninth, Thinking of My Garden in Chang'an
-by: 岑参
-form: 五绝
-tags: 节日 战争 思乡 秋 花
-scene: autumn chrysanthemum fort flag hills
-强欲登高去，无人送酒来。
-遥怜故园菊，应傍战场开。
---
-I force myself to climb the heights today,
-But no one's here to bring me any wine.
-I think with pity of my garden's flowers far away —
-They must be blooming by the battle line.
---
-The Double Ninth festival of 757, with the army in the field; Chang'an, Cen Shen's home, was in rebel hands. Instead of drinking chrysanthemum wine with friends, he imagines the chrysanthemums of his abandoned garden flowering beside the fighting. Tao Yuanming once sat out this festival with no wine until a friend sent some; here, no one does.
-
-== 春梦 | Spring Dream
-by: 岑参
-form: 七绝
-tags: 相思 春 爱情 夜
-scene: night spring window river crescent
-洞房昨夜春风起，遥忆美人湘江水。
-枕上片时春梦中，行尽江南数千里。
---
-Last night the spring wind stirred inside my chamber's door;
-I thought of my love, far off by the Xiang River's shore.
-Upon my pillow, in a moment's dream of spring,
-I travelled thousands of li south of the Yangtze, and more.
---
-A lovely paradox of time and distance: a dream lasting a moment covers thousands of li to reach a loved one. "Spring dream" (春梦) is also an image of fleeting happiness.
-
 == 别董大（其一） | Farewell to Dong the Elder (I)
 by: 高适
 form: 七绝
@@ -108,36 +63,6 @@ Don't fear the road ahead will hold no friend who knows your name —
 Who in all the world is there who doesn't know your fame?
 --
 Dong the Elder was Dong Tinglan, the greatest qin player of the age. Gao Shi, then poor and unknown, sees him off in a snowstorm with no gift but this encouragement — one of the most heartening farewell poems ever written.
-
-== 除夜作 | Written on New Year's Eve
-by: 高适
-form: 七绝
-tags: 思乡 节日 冬 夜 羁旅 时光
-scene: night winter candle cottage person
-旅馆寒灯独不眠，客心何事转凄然。
-故乡今夜思千里，霜鬓明朝又一年。
---
-At the inn, beside a cold lamp, alone and wide awake —
-Why does this traveller's heart turn so forlorn and drear?
-Tonight, a thousand li away, my family thinks of me;
-By morning, my frost-grey temples will have aged another year.
---
-New Year's Eve, the great night of family reunion, spent alone at an inn. Again the turn: it is his family who are thinking of him. At midnight everyone in China grows a year older — his grey hair with them.
-
-== 塞上听吹笛 | Hearing a Flute on the Frontier
-by: 高适
-form: 七绝
-tags: 边塞 音乐 月 夜 花
-scene: night moon fort mountains horse petals snow
-雪净胡天牧马还，月明羌笛戍楼间。
-借问梅花何处落，风吹一夜满关山。
---
-The snow is gone; beneath the Hu sky, the horse herds come back home;
-In bright moonlight a Qiang flute plays among the watchtowers there.
-And where, I ask, do the plum blossoms fall?
-The wind blows them all night, filling the passes everywhere.
---
-A beautiful double image. "Plum Blossoms Falling" (梅花落) was a flute tune; the poet imagines its notes, like petals, blown by the wind over all the mountain passes. Flowers, music and homesickness merge.
 
 == 燕歌行 | Song of Yan
 by: 高适
@@ -261,21 +186,6 @@ From somewhere — who knows where? — a reed pipe's playing low;
 All night the soldiers gaze toward home, and feel what they have lost.
 --
 Shouxiang ("Accepting Surrender") was a fortress on the Yellow River in the far north. Sand and moonlight turn the world white; an unseen reed pipe plays; every soldier turns toward home. Set to music, the poem was sung all over the empire.
-
-== 江南曲 | Song of the South
-by: 李益
-form: 五绝
-tags: 闺怨 女性 江河 爱情
-scene: day river boat person
-嫁得瞿塘贾，朝朝误妾期。
-早知潮有信，嫁与弄潮儿。
---
-I married a merchant of Qutang Gorge;
-Every day he breaks his word to me.
-Had I known the tide keeps faith so true,
-I'd have wed a boy who rides the tides at sea.
---
-A merchant's wife, in the voice of a southern folk song. The tide comes back on time, every time; her husband never does — so she'd rather have married one of the young men who play in the great tidal bore of the Qiantang River. Funny and sad at once.
 
 == 陇西行（其二） | Song of Longxi (II)
 by: 陈陶

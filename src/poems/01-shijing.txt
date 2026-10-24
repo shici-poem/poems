@@ -2,7 +2,7 @@
 by: 诗经
 form: 四言
 tags: 爱情 相思 江河 鸟 女性
-scene: day river reeds birds person
+scene: day river reeds birds lady
 关关雎鸠，在河之洲。
 窈窕淑女，君子好逑。
 
@@ -98,7 +98,7 @@ The most haunting love song of the *Book of Songs*: an autumn river, reeds white
 by: 诗经
 form: 四言
 tags: 爱情 花 春 女性
-scene: spring peach cottage person
+scene: spring peach cottage lady
 桃之夭夭，灼灼其华。
 之子于归，宜其室家。
 
@@ -199,7 +199,7 @@ A peasants' protest from the state of Wei, around the 7th century BC: the "big r
 by: 诗经
 form: 四言
 tags: 爱情 女性 童趣
-scene: day wall grass two
+scene: day wall grass lady person
 静女其姝，俟我于城隅。
 爱而不见，搔首踟蹰。
 
@@ -230,7 +230,7 @@ A lovers' tryst: the girl playfully hides; the young man frets; then he treasure
 by: 诗经
 form: 四言
 tags: 爱情 相思 女性
-scene: day wall tower person
+scene: day wall tower lady
 青青子衿，悠悠我心。
 纵我不往，子宁不嗣音？
 

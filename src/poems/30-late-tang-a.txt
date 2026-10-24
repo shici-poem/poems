@@ -23,7 +23,7 @@ The second couplet, 鸡声茅店月，人迹板桥霜, is made entirely of nouns
 by: 温庭筠
 form: 词
 tags: 闺怨 相思 江河 女性
-scene: dusk sun river tower sail person
+scene: dusk sun river tower sail lady
 梳洗罢，独倚望江楼。
 过尽千帆皆不是，斜晖脉脉水悠悠。
 肠断白蘋洲。
@@ -40,7 +40,7 @@ A whole day of waiting in five lines: she dresses up in the morning and watches 
 by: 温庭筠
 form: 词
 tags: 闺怨 女性 爱情
-scene: dawn window palace flowers person
+scene: dawn window palace flowers lady
 小山重叠金明灭，鬓云欲度香腮雪。
 懒起画蛾眉，弄妆梳洗迟。
 
@@ -112,27 +112,6 @@ Home will only break your heart with woe.
 --
 Written in the south after the sack of Chang'an. The South's beauty — water bluer than the sky, rain on a painted boat, a moon-pale girl by the wine stove — is real; but the last couplet reveals why he stays: home is in ruins, and to go back would break his heart.
 
-== 思帝乡（春日游） | Longing for the Imperial Capital (A Spring Outing)
-by: 韦庄
-form: 词
-tags: 爱情 春 女性 花
-scene: spring peach petals rider person
-春日游，杏花吹满头。
-陌上谁家年少，足风流。
-妾拟将身嫁与，一生休。
-纵被无情弃，不能羞。
---
-A spring-day stroll —
-Apricot blossoms blowing all over my hair.
-Who's that young man on the path,
-So dashing, so debonair?
-I'll give myself to him to wed,
-And give my whole life there.
-Even if he heartlessly casts me off,
-I won't feel shame — I won't care!
---
-One of the boldest love songs of the Tang, in the voice of a girl who falls for a handsome stranger at first sight and decides, on the spot, to marry him whatever happens. Wei Zhuang captures the fearless directness of folk song.
-
 == 蜂 | Bees
 by: 罗隐
 form: 七绝
@@ -162,18 +141,3 @@ If I have wine today, I'll drink today, carefree;
 Tomorrow's worries can wait until tomorrow's day.
 --
 Luo Yin failed the imperial examination ten times. His answer — 今朝有酒今朝醉, "if there's wine today, get drunk today" — became the motto of carefree living, quoted sometimes with approval and sometimes not.
-
-== 雪（罗隐） | Snow
-by: 罗隐
-form: 五绝
-tags: 雪 民生 冬
-scene: winter snow wall cottage
-尽道丰年瑞，丰年事若何？
-长安有贫者，为瑞不宜多。
---
-"A good omen for the harvest!" everyone says of the snow.
-But what will a good harvest mean, I'd like to know?
-In Chang'an there are people who are poor —
-For them, let this lucky snow not fall much more.
---
-A proverb says "timely snow foretells a good harvest" (瑞雪兆丰年). Luo Yin's dry reply: the well-fed may welcome the omen, but the poor of the capital are freezing in it now.

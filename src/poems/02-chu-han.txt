@@ -19,63 +19,6 @@ Though I die nine deaths, I'll not regret what's true.
 --
 From *Encountering Sorrow* (离骚), Qu Yuan's 373-line masterpiece, the longest lyric poem of ancient China, written after he was slandered and banished by the King of Chu. Fragrant plants — melilot, angelica — stand for his virtue. 虽九死其犹未悔, "though I die nine times, I will not regret it", is the creed of every principled dissenter in Chinese history.
 
-== 离骚（节选二） | Encountering Sorrow (excerpt II)
-by: 屈原
-form: 楚辞
-tags: 壮志 人生 天空 哲理
-scene: dusk sun mountains clouds peaks person
-朝发轫于苍梧兮，夕余至乎县圃。
-欲少留此灵琐兮，日忽忽其将暮。
-吾令羲和弭节兮，望崦嵫而勿迫。
-路曼曼其修远兮，吾将上下而求索。
---
-At dawn I loosed my wheels at Cangwu's hill;
-By dusk I'd reached the Hanging Garden's height.
-I wished to linger at the spirit gates —
-But the sun was rushing headlong into night.
-I bade Xihe, the sun's driver, check her reins,
-And not to race for Yanzi, where the sun goes down.
-The road is long, so long, and far away —
-I'll search above, below, the whole world round.
---
-Later in *Encountering Sorrow*, Qu Yuan sets out on a shamanic journey through the heavens in search of understanding. Cangwu is where the sage-king Shun lies buried; the Hanging Garden is on the Kunlun mountains of the gods; Xihe drives the chariot of the sun. 路漫漫其修远兮，吾将上下而求索 — "the road is long and far; I will search high and low" — is one of the most quoted lines in Chinese, a motto for every quest for truth.
-
-== 国殇 | Hymn to the Fallen
-by: 屈原
-form: 楚辞
-tags: 战争 爱国 悼亡 壮志
-scene: day flag rider horse sun clouds fields
-操吴戈兮被犀甲，车错毂兮短兵接。
-旌蔽日兮敌若云，矢交坠兮士争先。
-凌余阵兮躐余行，左骖殪兮右刃伤。
-霾两轮兮絷四马，援玉枹兮击鸣鼓。
-天时怼兮威灵怒，严杀尽兮弃原野。
-出不入兮往不反，平原忽兮路超远。
-带长剑兮挟秦弓，首身离兮心不惩。
-诚既勇兮又以武，终刚强兮不可凌。
-身既死兮神以灵，魂魄毅兮为鬼雄！
---
-With dagger-axes of Wu and armour of rhino hide,
-Hub grinds on hub, and blade meets blade as chariots collide.
-The banners blot the sun; the foe swarm like clouds on every side;
-The arrows cross and fall; the warriors race to be first to stride.
-They break our ranks, they trample on our lines;
-The left horse dies; the right one's slashed and bleeds.
-Our wheels sink deep, our four steeds tangled in their reins;
-He seizes the jade drumstick and beats the drum for deeds.
-Heaven's anger rages; the dread gods are in wrath;
-All slain, they lie abandoned on the plain.
-They marched out, and never came back in;
-The plain is vast, the road is long — in vain.
-With long swords at their sides and Qin bows in their hands,
-Though head and body part, their hearts will never yield.
-They were truly brave, and mighty in war too,
-Steadfast to the end, unconquered on the field.
-Their bodies dead, their spirits shine and live;
-Their souls unbending — heroes even among the dead!
---
-"Hymn to the Fallen" (国殇), from Qu Yuan's *Nine Songs*, is a requiem for the soldiers of Chu killed fighting Qin — perhaps the earliest great war poem in Chinese. The last line, 魂魄毅兮为鬼雄, "their souls unbending, heroes among ghosts", was echoed fourteen centuries later by Li Qingzhao: "in death, be a hero among ghosts".
-
 == 垓下歌 | Song of Gaixia
 by: 项羽
 form: 杂言
@@ -152,7 +95,7 @@ An anonymous Han ballad. 少壮不努力，老大徒伤悲 — "if you don't wor
 by: 汉乐府
 form: 乐府
 tags: 夏 花 童趣 江河
-scene: summer lotus lake boat person
+scene: summer lotus lake boat lady
 江南可采莲，莲叶何田田。
 鱼戏莲叶间。
 鱼戏莲叶东，鱼戏莲叶西，
@@ -277,24 +220,3 @@ Across a single brimming stream,
 They gaze in silence, and cannot speak again.
 --
 The legend of the Herdboy (Altair) and the Weaver Girl (Vega), lovers separated by the Milky Way, told in ten lines full of doubled words (迢迢, 皎皎, 纤纤, 札札, 盈盈, 脉脉) that sound like weaving itself. The river between them is "clear and shallow" — and yet uncrossable. The source of every Seventh Night poem that followed.
-
-== 涉江采芙蓉 | I Wade the River to Pick Lotus
-by: 古诗十九首
-form: 五古
-tags: 相思 爱情 离别 夏 花
-scene: summer lotus river person grass
-涉江采芙蓉，兰泽多芳草。
-采之欲遗谁？所思在远道。
-还顾望旧乡，长路漫浩浩。
-同心而离居，忧伤以终老。
---
-I wade the river to pick lotus flowers;
-The orchid marsh is full of fragrant grass.
-For whom do I gather them? To give to whom? —
-The one I love is far away, alas.
-I turn and gaze toward my old home;
-The long road stretches on, so vast and wide.
-Two hearts as one, but living far apart —
-We'll grieve until we're old, until we've died.
---
-Picking flowers for a lover is as old as the *Book of Songs*, and 芙蓉 (lotus) puns on 夫容, "a husband's face". But the beloved is far away, and the flowers have no one to go to. 同心而离居 — "one heart, two homes" — is the essence of separation.

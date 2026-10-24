@@ -179,7 +179,7 @@ Chengdu, autumn 761. The hut that a year earlier had brought Du Fu such peace is
 by: 杜甫
 form: 五古
 tags: 战争 民生 夜
-scene: night crescent cottage wall person two
+scene: night crescent cottage wall elder lady person
 暮投石壕村，有吏夜捉人。
 老翁逾墙走，老妇出门看。
 吏呼一何怒！妇啼一何苦！
@@ -425,27 +425,6 @@ Regret for the war on Wu is all that still remains.
 --
 The Eight-Array Plan was Zhuge Liang's battle formation; stone mounds said to mark it stood on a sandbar of the Yangtze at Kuizhou, unmoved by floods for centuries — like his loyalty. The last line has two readings: regret that Liu Bei's disastrous attack on Wu broke their alliance, or regret at never conquering Wu at all.
 
-== 天末怀李白 | Thinking of Li Bai at the Edge of the Sky
-by: 杜甫
-form: 五律
-tags: 友情 秋 失意 相思
-scene: autumn wind geese river clouds
-凉风起天末，君子意如何？
-鸿雁几时到，江湖秋水多。
-文章憎命达，魑魅喜人过。
-应共冤魂语，投诗赠汨罗。
---
-A cool wind rises at the edge of the sky —
-My friend, what are your thoughts tonight, I wonder?
-When will the wild geese bring your letter by?
-The lakes and rivers swell with autumn water.
-Fine writing hates a man whose fate goes right;
-The goblins gloat when travellers pass their way.
-You'll talk, I think, with the wronged ghost tonight,
-And cast a poem to him in the Miluo's spray.
---
-Qinzhou, 759: Du Fu has heard that Li Bai is being sent into exile in Yelang. "Literature hates a fortunate fate" (文章憎命达) — great writers are doomed to suffer — became proverbial. The "wronged ghost" is Qu Yuan, the slandered poet who drowned himself in the Miluo River, near Li Bai's route into exile. Wild geese were said to carry letters.
-
 == 秋兴八首（其一） | Autumn Meditations (I)
 by: 杜甫
 form: 七律
@@ -487,24 +466,3 @@ For a thousand years the pipa has sung in foreign ways,
 And in its melodies her bitter grief is told outright.
 --
 Wang Zhaojun, the "Bright Consort" (明妃), a Han palace lady, was married off to a Xiongnu khan in 33 BC. Legend says the court painter made her portrait ugly because she refused to bribe him, so the emperor never noticed her until the day she left. Her tomb on the steppe was said to stay green when all the grass around it withered. She became the symbol of talent unrecognised — and of Du Fu himself, far from court.
-
-== 登楼 | Climbing the Tower
-by: 杜甫
-form: 七律
-tags: 爱国 怀古 春 花
-scene: spring tower flowers river clouds mountains
-花近高楼伤客心，万方多难此登临。
-锦江春色来天地，玉垒浮云变古今。
-北极朝廷终不改，西山寇盗莫相侵。
-可怜后主还祠庙，日暮聊为梁甫吟。
---
-Flowers beside the tower wound a traveller's heart;
-In times of trouble everywhere, I climb this height.
-Spring on Brocade River fills all heaven and earth;
-Clouds on Jade Rampart change, as ages take their flight.
-Like the Pole Star, our court will never change;
-You bandits of the Western Hills — don't dare invade!
-Alas, the Last Lord of Shu still has his temple here;
-At dusk I'll chant the Liangfu Song as shadows fade.
---
-Chengdu, spring 764. Tibetan armies had briefly taken Chang'an the year before and were raiding Sichuan (the "Western Hills"). Du Fu declares that the Tang court, like the Pole Star, will endure. Liu Shan, the feeble Last Lord of Shu-Han, lost his kingdom yet still has a shrine — a pointed reminder to the reigning emperor. The *Liangfu Song* was a favourite of Zhuge Liang.

@@ -4,19 +4,29 @@
 
   const app = document.getElementById('app');
   const PAGE = 24;
+  const TAGS_SHOWN = 14;  // theme chips visible before "+N more"
   const PUNCT = /[，。？！、；：“”‘’《》·—…（）\s]/g;
   const CJK = /[㐀-鿿]/;
 
   let DB = null;          // data/poems.json
   let HANT = null;        // data/hant.json (traditional text), loaded on demand
   let T2S = null;         // traditional → simplified char map (from HANT)
+  let PY = null;          // data/pinyin.json, loaded when pinyin is first shown
   let lastList = null;    // ids of the most recent result list, for prev/next
   let settings = loadSettings();
+  let READ = loadRead();  // poems this browser has opened: { id: time first read } — kept only in localStorage
   const scrollMemo = {};
 
   /* ---------------- utils ---------------- */
   function loadSettings() { try { return JSON.parse(localStorage.getItem('poems.settings') || '{}'); } catch (e) { return {}; } }
   function saveSettings() { try { localStorage.setItem('poems.settings', JSON.stringify(settings)); } catch (e) { } }
+  function loadRead() { try { return JSON.parse(localStorage.getItem('poems.read') || '{}') || {}; } catch (e) { return {}; } }
+  function markRead(id) {
+    if (READ[id]) return;
+    READ[id] = Date.now();
+    try { localStorage.setItem('poems.read', JSON.stringify(READ)); } catch (e) { }
+  }
+  function readCount(list) { return list.reduce((n, p) => n + (READ[p.id] ? 1 : 0), 0); }
   function esc(s) { return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
   function norm(s) { return String(s).toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, ''); }
   function stem(w) { return w.length > 4 ? w.replace(/'s$/, '').replace(/ies$/, 'y').replace(/(ing|ed|es|s)$/, '') : w.replace(/'s$/, ''); }
@@ -95,9 +105,9 @@
     const w = stem(norm(term));
     if (!w) return 0;
     let s = 0;
-    if (hasWord(p._w.a, w)) s += 14;
+    if (hasWord(p._w.a, w)) s += 25;
     if (hasWord(p._w.g, w)) s += 9;
-    if (hasWord(p._w.te, w)) s += 7;
+    if (hasWord(p._w.te, w)) s += 9;
     if (hasWord(p._w.e, w)) s += 3;
     if (hasWord(p._w.m, w)) s += 3;
     if (hasWord(p._w.n, w)) s += 1;
@@ -115,15 +125,18 @@
     // is clearly "poet + word" style only via spaces the user typed
     const terms = q.split(/\s+/).filter(Boolean);
     if (!terms.length) return list;
+    // relevance only sorts into coarse bands (poet/title hit > theme hit > a word in the text);
+    // within a band the most famous poems come first (DB.poems is in popularity order)
+    const band = s => s >= 25 ? 3 : s >= 9 ? 2 : 1;
     const scored = [];
     for (const p of list) {
-      let total = 0, ok = true;
+      let b = 3, ok = true;
       for (const t of terms) {
         const s = termScore(p, t);
         if (!s) { ok = false; break; }
-        total += s;
+        b = Math.min(b, band(s));
       }
-      if (ok) scored.push([total, p]);
+      if (ok) scored.push([b, p]);
     }
     scored.sort((a, b) => b[0] - a[0] || a[1].i - b[1].i);
     return scored.map(x => x[1]);
@@ -166,7 +179,11 @@
       case 'poet': viewPoet(parts[1]); break;
       case 'themes': viewThemes(); break;
       case 'about': viewAbout(); break;
-      case 'random': location.replace('#/p/' + DB.order[Math.floor(Math.random() * DB.order.length)]); return;
+      case 'random': { // a poem not read yet, while there are any
+        const unread = DB.order.filter(id => !READ[id]), pool = unread.length ? unread : DB.order;
+        location.replace('#/p/' + pool[Math.floor(Math.random() * pool.length)]);
+        return;
+      }
       default: viewNotFound();
     }
     const memo = scrollMemo[currentKey];
@@ -179,7 +196,7 @@
   }, { rootMargin: '400px 0px' }) : null;
   function paintThumb(el) {
     const p = DB.byId[el.dataset.id];
-    if (p) el.innerHTML = Scene.paint(p.s, p.id, {});
+    if (p) el.innerHTML = Scene.paint(p.s, p.id, { seal: p.a, era: DB.authors[p.a].d });
   }
   function observeThumbs(root) {
     root.querySelectorAll('.thumb[data-id]').forEach(el => {
@@ -192,7 +209,8 @@
   function card(p, q) {
     const au = DB.authors[p.a];
     const line = (q && matchedLine(p, q)) || Z(p)[0];
-    return `<a class="card" href="#/p/${p.id}">
+    return `<a class="card${READ[p.id] ? ' read' : ''}" href="#/p/${p.id}">
+      ${READ[p.id] ? '<span class="readmark" title="You have read this poem"><span lang="zh-CN">已读</span> Read</span>' : ''}
       <div class="thumb" data-id="${p.id}"></div>
       <div class="card-body">
         <h3 class="card-title" lang="zh-CN">${TH(p)}</h3>
@@ -201,10 +219,12 @@
         <p class="card-en">${esc(p.te)}</p>
       </div></a>`;
   }
-  function tagChip(t, on, count) {
+  function tagChip(t, on, count, extra) {
     const info = DB.tagInfo[t];
-    return `<a class="chip${on ? ' on' : ''}" href="#/?tag=${enc(t)}" data-tag="${esc(t)}"><span class="z" lang="zh-CN">${esc(t)}</span>${esc(info.en)}${count != null ? `<span class="c">${count}</span>` : ''}</a>`;
+    return `<a class="chip${on ? ' on' : ''}${extra ? ' extra' : ''}" href="#/?tag=${enc(t)}" data-tag="${esc(t)}"><span class="z" lang="zh-CN">${esc(t)}</span>${esc(info.en)}${count != null ? `<span class="c">${count}</span>` : ''}</a>`;
   }
+  const ANTHOLOGIES = ['诗经', '汉乐府', '古诗十九首', '北朝民歌'];
+  function topPoets() { return Object.keys(DB.authors).filter(a => DB.poetCount[a] > 1 && !ANTHOLOGIES.includes(a)).slice(0, 12); }
   function toast(msg) {
     let el = document.getElementById('toast');
     if (!el) {
@@ -229,6 +249,7 @@
     if (state.poet) p.set('poet', state.poet);
     if (state.dyn) p.set('d', state.dyn);
     if (state.form) p.set('f', state.form);
+    if (state.unread) p.set('u', '1');
     const s = p.toString();
     return '#/' + (s ? '?' + s : '');
   }
@@ -243,7 +264,7 @@
   function viewHome(params) {
     state = {
       q: params.get('q') || '', tag: params.get('tag') || '', poet: params.get('poet') || '',
-      dyn: params.get('d') || '', form: params.get('f') || '', shown: PAGE,
+      dyn: params.get('d') || '', form: params.get('f') || '', unread: params.get('u') === '1', shown: PAGE,
     };
     const memo = scrollMemo[location.hash || '#/'];
     if (memo && memo.shown) state.shown = memo.shown;
@@ -251,9 +272,10 @@
     const tagsSorted = Object.keys(DB.tagCount).filter(t => DB.tagCount[t]).sort((a, b) => DB.tagCount[b] - DB.tagCount[a]);
     const dyns = DB.dynasties.filter(([d]) => DB.poems.some(p => DB.authors[p.a].d === d));
     const forms = Object.keys(DB.forms).filter(f => DB.formCount[f]);
-    const poetsByDyn = dyns.map(([d, de]) => {
+    const poetOpt = a => `<option value="${esc(a)}"${state.poet === a ? ' selected' : ''}>${esc(A(a))} ${esc(DB.authors[a].en)} (${DB.poetCount[a]})</option>`;
+    const poetsByDyn = `<optgroup label="名家 Best-loved">${topPoets().map(poetOpt).join('')}</optgroup>` + dyns.map(([d, de]) => {
       const ps = Object.keys(DB.authors).filter(a => DB.authors[a].d === d && DB.poetCount[a]);
-      return `<optgroup label="${esc(d)} ${esc(de)}">${ps.map(a => `<option value="${esc(a)}"${state.poet === a ? ' selected' : ''}>${esc(A(a))} ${esc(DB.authors[a].en)} (${DB.poetCount[a]})</option>`).join('')}</optgroup>`;
+      return `<optgroup label="${esc(d)} ${esc(de)}">${ps.map(poetOpt).join('')}</optgroup>`;
     }).join('');
     const hints = ['李白', 'moon', 'wine', '思乡', 'farewell', '春风', 'Su Shi', 'frontier'];
     app.innerHTML = `
@@ -268,18 +290,22 @@
         </div>
         <div class="hint">Try ${hints.map(h => `<button type="button" data-q="${esc(h)}">${esc(h)}</button>`).join(' ')}</div>
       </section>
-      <section class="filters" aria-label="Filters">
-        <div class="chiprow" id="dynrow"><span class="lbl">朝代 Era</span>
-          <button type="button" class="chip${state.dyn ? '' : ' on'}" data-dyn=""><span class="z">全部</span>All</button>
-          ${dyns.map(([d, de]) => `<button type="button" class="chip${state.dyn === d ? ' on' : ''}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(d)}</span>${esc(de)}</button>`).join('')}
-        </div>
-        <div class="chiprow" id="tagrow"><span class="lbl">题材 Theme</span>
-          ${tagsSorted.map(t => tagChip(t, state.tag === t, DB.tagCount[t])).join('')}
-        </div>
-        <div class="selrow">
-          <select id="psel" aria-label="Poet"><option value="">诗人 · All poets</option>${poetsByDyn}</select>
-          <select id="fsel" aria-label="Form"><option value="">体裁 · All forms</option>${forms.map(f => `<option value="${esc(f)}"${state.form === f ? ' selected' : ''}>${esc(f)} · ${esc(DB.forms[f])} (${DB.formCount[f]})</option>`).join('')}</select>
-          <button type="button" class="more-tags" id="tagwrap">Show all themes</button>
+      <section class="filters${settings.filtersShut ? ' shut' : ''}" aria-label="Filters">
+        <button type="button" class="ftoggle" id="ftoggle" aria-expanded="${!settings.filtersShut}" aria-controls="fbody">
+          <span class="z" lang="zh-CN">筛选</span>Filters<span class="chev" aria-hidden="true"></span></button>
+        <div class="fbody" id="fbody">
+          <div class="chiprow" id="dynrow"><span class="lbl"><span class="z" lang="zh-CN">朝代</span>Era</span>
+            <button type="button" class="chip${state.dyn ? '' : ' on'}" data-dyn=""><span class="z">全部</span>All</button>
+            ${dyns.map(([d, de]) => `<button type="button" class="chip${state.dyn === d ? ' on' : ''}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(d)}</span>${esc(de)}</button>`).join('')}
+          </div>
+          <div class="chiprow${settings.allTags ? ' all' : ''}" id="tagrow"><span class="lbl"><span class="z" lang="zh-CN">题材</span>Theme</span>
+            ${tagsSorted.map((t, i) => tagChip(t, state.tag === t, DB.tagCount[t], i >= TAGS_SHOWN)).join('')}
+            <button type="button" class="chip more" id="tagmore" aria-expanded="${!!settings.allTags}">${settings.allTags ? 'Fewer' : `+${tagsSorted.length - TAGS_SHOWN} more`}</button>
+          </div>
+          <div class="selrow">
+            <select id="psel" aria-label="Poet"><option value="">诗人 · All poets</option>${poetsByDyn}</select>
+            <select id="fsel" aria-label="Form"><option value="">体裁 · All forms</option>${forms.map(f => `<option value="${esc(f)}"${state.form === f ? ' selected' : ''}>${esc(f)} · ${esc(DB.forms[f])} (${DB.formCount[f]})</option>`).join('')}</select>
+          </div>
         </div>
       </section>
       <div id="feat"></div>
@@ -309,26 +335,33 @@
     });
     app.querySelector('#psel').addEventListener('change', e => { state.poet = e.target.value; state.shown = PAGE; syncHash(); renderResults(); });
     app.querySelector('#fsel').addEventListener('change', e => { state.form = e.target.value; state.shown = PAGE; syncHash(); renderResults(); });
-    app.querySelector('#tagwrap').addEventListener('click', e => {
-      const row = app.querySelector('#tagrow');
-      row.classList.toggle('wrap');
-      e.target.textContent = row.classList.contains('wrap') ? 'Fewer themes' : 'Show all themes';
+    app.querySelector('#tagmore').addEventListener('click', e => {
+      e.stopPropagation();
+      settings.allTags = !settings.allTags; saveSettings();
+      app.querySelector('#tagrow').classList.toggle('all', settings.allTags);
+      e.currentTarget.textContent = settings.allTags ? 'Fewer' : `+${tagsSorted.length - TAGS_SHOWN} more`;
+      e.currentTarget.setAttribute('aria-expanded', settings.allTags);
     });
-    if (state.tag) { const on = app.querySelector('#tagrow .chip.on'); if (on) on.scrollIntoView({ block: 'nearest', inline: 'center' }); }
+    app.querySelector('#ftoggle').addEventListener('click', e => {
+      settings.filtersShut = !settings.filtersShut; saveSettings();
+      app.querySelector('.filters').classList.toggle('shut', settings.filtersShut);
+      e.currentTarget.setAttribute('aria-expanded', !settings.filtersShut);
+    });
     renderResults();
   }
 
   function dayPoem() {
     const day = Math.floor((Date.now() - new Date().getTimezoneOffset() * 60000) / 86400000);
-    return DB.poems[(day * 37) % DB.poems.length];
+    return DB.poems[(day * 37) % Math.min(DB.poems.length, 199)];  // from the best-known ~200
   }
 
   function renderResults() {
     const filtered = DB.poems.filter(p => (!state.tag || p.g.includes(state.tag)) && (!state.poet || p.a === state.poet) &&
-      (!state.dyn || DB.authors[p.a].d === state.dyn) && (!state.form || p.f === state.form));
+      (!state.dyn || DB.authors[p.a].d === state.dyn) && (!state.form || p.f === state.form) && (!state.unread || !READ[p.id]));
     const list = state.q.trim() ? search(filtered, state.q) : filtered;
     lastList = list.map(p => p.id);
-    const anyFilter = state.q.trim() || state.tag || state.poet || state.dyn || state.form;
+    const anyFilter = state.q.trim() || state.tag || state.poet || state.dyn || state.form || state.unread;
+    const nRead = readCount(DB.poems);
 
     const feat = document.getElementById('feat');
     if (!anyFilter) {
@@ -352,6 +385,7 @@
     if (state.dyn) active.push(`<button type="button" class="chip" data-clear="dyn"><span class="z">${esc(state.dyn)}</span>${esc(DB.dynEn[state.dyn] || '')} ✕</button>`);
     if (state.poet) active.push(`<button type="button" class="chip" data-clear="poet"><span class="z">${esc(A(state.poet))}</span>✕</button>`);
     if (state.form) active.push(`<button type="button" class="chip" data-clear="form"><span class="z">${esc(state.form)}</span>✕</button>`);
+    if (state.unread) active.push(`<button type="button" class="chip" data-clear="unread"><span class="z">未读</span>Unread ✕</button>`);
 
     // poet banner when the query is a poet's name
     let banner = '';
@@ -370,7 +404,8 @@
     res.innerHTML = `
       <div class="reshead">
         <h2>${anyFilter ? '搜索结果<small>Results</small>' : '全部诗词<small>All poems</small>'}</h2>
-        <span class="count">${list.length} ${list.length === 1 ? 'poem' : 'poems'}</span>
+        <span class="count">${list.length} ${list.length === 1 ? 'poem' : 'poems'}${nRead ? ` · <span class="readn">read ${nRead} of ${DB.poems.length}</span>
+          <button type="button" class="chip unread${state.unread ? ' on' : ''}" id="unread" aria-pressed="${state.unread}"><span class="z">未读</span>Unread only</button>` : ''}</span>
       </div>
       ${active.length ? `<div class="active">${active.join('')}${active.length > 1 ? '<button type="button" class="chip" data-clear="all">Clear all</button>' : ''}</div><div style="height:12px"></div>` : ''}
       ${banner}
@@ -382,7 +417,7 @@
     scrollMemo[memoKey] = Object.assign(scrollMemo[memoKey] || {}, { shown: state.shown });
     res.querySelectorAll('[data-clear]').forEach(b => b.addEventListener('click', () => {
       const k = b.dataset.clear;
-      if (k === 'all') { state.q = state.tag = state.poet = state.dyn = state.form = ''; } else state[k] = '';
+      if (k === 'all') { state.q = state.tag = state.poet = state.dyn = state.form = ''; state.unread = false; } else state[k] = k === 'unread' ? false : '';
       if (k === 'q' || k === 'all') { const i = document.getElementById('q'); i.value = ''; document.getElementById('qclear').hidden = true; }
       if (k === 'dyn' || k === 'all') app.querySelectorAll('#dynrow .chip').forEach(c => c.classList.toggle('on', c.dataset.dyn === ''));
       if (k === 'tag' || k === 'all') app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.remove('on'));
@@ -390,6 +425,8 @@
       if (k === 'form' || k === 'all') document.getElementById('fsel').value = '';
       state.shown = PAGE; syncHash(); renderResults();
     }));
+    const ub = document.getElementById('unread');
+    if (ub) ub.addEventListener('click', () => { state.unread = !state.unread; state.shown = PAGE; syncHash(); renderResults(); });
     const more = document.getElementById('more');
     if (more) {
       more.addEventListener('click', () => { state.shown += PAGE * 2; renderResults(); });
@@ -403,14 +440,19 @@
   }
 
   /* ---------------- poem page ---------------- */
-  function zhLines(lines) {
-    return lines.map(l => {
+  function zhLines(lines, py) {
+    return lines.map((l, i) => {
       if (!l) return '<p class="gap"></p>';
-      return '<p>' + segs(l) + '</p>';
+      const syl = py && py[i] ? py[i].split(' ') : null;
+      return '<p>' + segs(l, syl && syl.length === Array.from(l).filter(c => CJK.test(c)).length ? syl : null) + '</p>';
     }).join('');
   }
-  function segs(l) {
-    return (l.match(/[^，。？！；：、]+[，。？！；：、”’」]*/g) || [l]).map(s => `<span class="seg">${esc(s)}</span>`).join('');
+  function segs(l, py) {
+    const parts = l.match(/[^，。？！；：、]+[，。？！；：、”’」]*/g) || [l];
+    if (!py) return parts.map(s => `<span class="seg">${esc(s)}</span>`).join('');
+    let k = 0;  // py: one syllable per CJK character of the line
+    return parts.map(s => `<span class="seg">${Array.from(s).map(c =>
+      CJK.test(c) && py[k] ? `<ruby>${esc(c)}<rt>${esc(py[k++])}</rt></ruby>` : esc(c)).join('')}</span>`).join('');
   }
   function enLines(lines) { return lines.map(l => l ? `<p>${rich(l)}</p>` : '<p class="gap"></p>').join(''); }
 
@@ -424,14 +466,17 @@
     const vertical = !!settings.vertical;
     const chars = p._z.length;
     document.title = `${p.t} · ${p.a} — ${p.te}`;
+    markRead(p.id);
     app.innerHTML = `
       <article class="poem">
         <div class="crumbs"><a href="#/">诗词</a><span>›</span><a href="#/poet/${enc(p.a)}" lang="zh-CN">${esc(A(p.a))}</a><span>›</span><span lang="zh-CN">${esc(T(p))}</span></div>
         <figure class="painting" id="painting"></figure>
         <div class="ptools">
+          <button type="button" class="pbtn" id="b-py" aria-pressed="${!!settings.pinyin}"><span class="pyi" aria-hidden="true">pīn</span><span class="z">拼音</span> Pinyin</button>
           <button type="button" class="pbtn" id="b-vert" aria-pressed="${vertical}">${ICON.vert}<span class="z">竖排</span> Vertical</button>
           ${'speechSynthesis' in window ? `<button type="button" class="pbtn" id="b-zh">${ICON.speak}<span class="z">朗读</span></button>
-          <button type="button" class="pbtn" id="b-en">${ICON.speak}English</button>` : ''}
+          <button type="button" class="pbtn" id="b-en">${ICON.speak}English</button>
+          <button type="button" class="pbtn" id="b-voice" title="Reading voice: female or male">${voiceLabel()}</button>` : ''}
           <button type="button" class="pbtn" id="b-share">${ICON.share}Share</button>
           <a class="pbtn" href="#/random">${ICON.dice}<span class="z">随机</span> Random</a>
         </div>
@@ -439,7 +484,7 @@
           <section class="zh${vertical ? ' vertical' : ''}${chars > 120 ? ' long' : ''}" lang="zh-CN"><div class="vwrap">
             <h1>${TH(p)}</h1>
             <div class="byline"><a href="#/poet/${enc(p.a)}">〔${esc(au.d)}〕${esc(A(p.a))}</a></div>
-            <div class="text">${zhLines(Z(p))}</div>
+            <div class="text" id="zhtext">${zhLines(Z(p))}</div>
           </div></section>
           <section class="en" lang="en">
             <h2>${esc(p.te)}</h2>
@@ -448,6 +493,7 @@
           </section>
         </div>
         <section class="note"><h3>About this poem</h3><p>${rich(p.n)}</p></section>
+        ${p.c ? '<section class="classic" id="classic" aria-label="Earlier translations"></section>' : ''}
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
         <div class="pmeta"><span lang="zh-CN">${esc(p.f)}</span> · ${esc(DB.forms[p.f])} · <a href="#/poet/${enc(p.a)}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
         <nav class="pager" aria-label="More poems">
@@ -455,7 +501,7 @@
           ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir">下一首 Next →</span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
         </nav>
       </article>`;
-    document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), seal: p.a, label: 'Ink painting for ' + p.te });
+    document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), seal: p.a, era: au.d, label: 'Ink painting for ' + p.te });
 
     const zh = app.querySelector('.zh');
     const bv = document.getElementById('b-vert');
@@ -466,8 +512,38 @@
       if (settings.vertical) { const w = zh.querySelector('.vwrap'); w.scrollLeft = w.scrollWidth; }
     });
     if (vertical) { const w = zh.querySelector('.vwrap'); w.scrollLeft = w.scrollWidth; }
+    const text = document.getElementById('zhtext');
+    const paintPinyin = () => {
+      const py = settings.pinyin && PY && PY[p.id];
+      zh.classList.toggle('py', !!py);
+      text.innerHTML = zhLines(Z(p), py ? py.slice(1) : null);
+    };
+    const bp = document.getElementById('b-py');
+    bp.addEventListener('click', () => {
+      settings.pinyin = !settings.pinyin; saveSettings();
+      bp.setAttribute('aria-pressed', settings.pinyin);
+      if (settings.pinyin) ensurePinyin().then(paintPinyin); else paintPinyin();
+    });
+    if (settings.pinyin) ensurePinyin().then(() => { if (document.body.contains(text)) paintPinyin(); });
+    if (p.c) ensureClassic().then(c => { const el = document.getElementById('classic'); if (el && c[p.id]) el.innerHTML = classicHtml(c[p.id]); });
+
     const bz = document.getElementById('b-zh'), be = document.getElementById('b-en');
-    if (bz) bz.addEventListener('click', () => speak([T(p), au.d + '，' + A(p.a)].concat(Z(p).filter(Boolean)).join('。'), 'zh-CN', bz));
+    // the voice can't be told a reading, so where a character is read unusually the speech text swaps in a
+    // same-sounding one (一骑 → 一寂); fetched ahead so speaking stays inside the click (iOS needs that)
+    let say = null;
+    if (bz) {
+      lazyJson('speech.json').then(d => { say = d && d[p.id]; });
+      bz.addEventListener('click', () => {
+        const lines = [p.t].concat(p.z).map((l, i) => (say && say[i]) || l);
+        speak([lines[0], au.d + '，' + p.a].concat(lines.slice(1).filter(Boolean)).join('。'), 'zh-CN', bz);
+      });
+    }
+    const bvo = document.getElementById('b-voice');
+    if (bvo) bvo.addEventListener('click', () => {
+      settings.voice = (settings.voice || 'f') === 'f' ? 'm' : 'f'; saveSettings();
+      bvo.innerHTML = voiceLabel();
+      if (speaking) { const b = speaking; stopSpeech(); b.click(); }  // restart in the new voice
+    });
     if (be) be.addEventListener('click', () => speak([p.te, 'by ' + au.en].concat(p.e.filter(Boolean)).join('\n'), 'en', be));
     document.getElementById('b-share').addEventListener('click', () => {
       const url = location.href;
@@ -481,10 +557,26 @@
 
   /* ---------------- speech ---------------- */
   let speaking = null;
+  const voiceLabel = () => (settings.voice || 'f') === 'm' ? '♂ <span class="z">男声</span> Male' : '♀ <span class="z">女声</span> Female';
   function stopSpeech() {
     if ('speechSynthesis' in window) speechSynthesis.cancel();
     if (speaking) speaking.setAttribute('aria-pressed', 'false');
     speaking = null;
+  }
+  // Browsers don't say whether a voice is male or female, so go by the names the common systems use
+  // (Windows/Edge, macOS/iOS, Android, Chrome). Unknown names count as neither.
+  const VOICE_F = /xiaoxiao|xiaoyi|xiaohan|xiaomo|xiaoxuan|xiaorui|xiaoshuang|xiaoyan|xiaochen|xiaomeng|xiaoqiu|xiaozhen|xiaoyou|huihui|yaoyao|hanhan|hiugaai|hiumaan|tingting|ting-ting|sinji|meijia|mei-jia|yu-shu|lili|shasha|google 普通话|google 國語|google 粵語|aria|jenny|\bava\b|emma|michelle|sonia|libby|zira|hazel|susan|samantha|karen|moira|tessa|victoria|allison|serena|fiona|\bkate\b|natasha|clara|catherine|linda|nancy|joanna|salli|kimberly|female|google us english/i;
+  const VOICE_M = /yunxi|yunyang|yunjian|yunfeng|yunhao|yunye|yunze|yunxia|kangkang|zhiwei|li-mu|limu|danny|wanlung|\bguy\b|davis|andrew|brian|christopher|\beric\b|roger|steffan|ryan|thomas|\btony\b|jason|david|\bmark\b|george|richard|james|\balex\b|daniel|\bfred\b|\btom\b|aaron|arthur|oliver|gordon|rishi|matthew|joey|justin|\bmale\b/i;
+  const voiceSex = v => VOICE_M.test(v.name) && !/female/i.test(v.name) ? 'm' : VOICE_F.test(v.name) ? 'f' : '';
+  function pickVoice(lang, want) {
+    const all = speechSynthesis.getVoices();
+    let vs = all.filter(v => v.lang.replace('_', '-').toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh-cn'));
+    if (!vs.length) vs = all.filter(v => v.lang.toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh'));
+    if (lang === 'en') vs.sort((a, b) => (b.lang === 'en-US') - (a.lang === 'en-US'));
+    const good = v => /natural|online|neural|premium|enhanced/i.test(v.name) ? 1 : 0;  // the better-sounding voices
+    const mine = vs.filter(v => voiceSex(v) === want).sort((a, b) => good(b) - good(a));
+    if (mine.length) return { voice: mine[0], exact: true };
+    return { voice: vs.slice().sort((a, b) => good(b) - good(a))[0] || null, exact: false };
   }
   function speak(text, lang, btn) {
     if (speaking === btn) { stopSpeech(); return; }
@@ -492,10 +584,14 @@
     const u = new SpeechSynthesisUtterance(text);
     u.lang = lang === 'en' ? 'en-US' : 'zh-CN';
     u.rate = lang === 'en' ? 0.92 : 0.72;
-    const voices = speechSynthesis.getVoices();
-    const v = voices.find(v => v.lang.replace('_', '-').toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh-cn')) ||
-      voices.find(v => v.lang.toLowerCase().startsWith(lang === 'en' ? 'en' : 'zh'));
-    if (v) u.voice = v;
+    const want = settings.voice || 'f', pick = pickVoice(lang, want);
+    if (pick.voice) u.voice = pick.voice;
+    if (!pick.exact && pick.voice) {
+      // no voice of that kind on this device: shift the pitch of what there is
+      const other = voiceSex(pick.voice);
+      if (other && other !== want) u.pitch = want === 'm' ? 0.7 : 1.3;
+      toast(`No ${want === 'm' ? 'male' : 'female'} ${lang === 'en' ? 'English' : 'Chinese'} voice on this device — using ${pick.voice.name.replace(/^(Microsoft|Google|Apple)\s+/, '').replace(/\s*[-(].*$/, '')}`);
+    }
     u.onend = u.onerror = () => { if (speaking === btn) { btn.setAttribute('aria-pressed', 'false'); speaking = null; } };
     speaking = btn;
     btn.setAttribute('aria-pressed', 'true');
@@ -506,15 +602,19 @@
   /* ---------------- poets ---------------- */
   function viewPoets() {
     document.title = '诗人 Poets · 诗词';
+    // DB.authors is in order of fame; within each era the best-known come first
+    const tile = a => {
+      const au = DB.authors[a], read = readCount(DB.poems.filter(p => p.a === a));
+      return `<a class="poet" href="#/poet/${enc(a)}"><span class="pz" lang="zh-CN">${esc(A(a))}</span>
+          <span class="pe"><b>${esc(au.en)}</b> · ${DB.poetCount[a]} ${DB.poetCount[a] === 1 ? 'poem' : 'poems'}${read ? ` <span class="readn">· ${read} read</span>` : ''}</span><span class="py">${esc(au.d)} · ${esc(au.y)}</span></a>`;
+    };
+    const section = (h, sub, ps) => `<section class="dyn"><h2><span lang="zh-CN">${h}</span><small>${sub}</small></h2><div class="poets">${ps.map(tile).join('')}</div></section>`;
+    const famous = section('名家', 'Best-loved poets', topPoets());
     const groups = DB.dynasties.map(([d, de]) => {
       const ps = Object.keys(DB.authors).filter(a => DB.authors[a].d === d && DB.poetCount[a]);
-      if (!ps.length) return '';
-      return `<section class="dyn"><h2><span lang="zh-CN">${esc(d)}</span><small>${esc(de)}</small></h2><div class="poets">
-        ${ps.map(a => { const au = DB.authors[a]; return `<a class="poet" href="#/poet/${enc(a)}"><span class="pz" lang="zh-CN">${esc(A(a))}</span>
-          <span class="pe"><b>${esc(au.en)}</b> · ${DB.poetCount[a]} ${DB.poetCount[a] === 1 ? 'poem' : 'poems'}</span><span class="py">${esc(au.y)}</span></a>`; }).join('')}
-      </div></section>`;
+      return ps.length ? section(esc(d), esc(de), ps) : '';
     }).join('');
-    app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">诗人</h1><p>${Object.keys(DB.poetCount).length} poets, from the Book of Songs to the last dynasty</p></div>${groups}`;
+    app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">诗人</h1><p>${Object.keys(DB.poetCount).length} poets, from the Book of Songs to the last dynasty</p></div>${famous}${groups}`;
   }
 
   function viewPoet(a) {
@@ -527,7 +627,7 @@
       <div class="crumbs" style="margin-top:18px"><a href="#/poets">诗人 Poets</a><span>›</span><span lang="zh-CN">${esc(A(a))}</span></div>
       <header class="poethead">
         <div class="big" lang="zh-CN">${esc(A(a))}</div>
-        <div><div class="en">${esc(au.en)}</div><div class="meta"><span lang="zh-CN">${esc(au.d)}</span> · ${esc(DB.dynEn[au.d])} · ${esc(au.y)} · ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'}</div>
+        <div><div class="en">${esc(au.en)}</div><div class="meta"><span lang="zh-CN">${esc(au.d)}</span> · ${esc(DB.dynEn[au.d])} · ${esc(au.y)} · ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'}${readCount(ps) ? ` · <span class="readn">${readCount(ps)} read</span>` : ''}</div>
         <p class="bio">${rich(au.b)}</p></div>
       </header>
       <div class="reshead"><h2>作品<small>Poems</small></h2></div>
@@ -563,16 +663,48 @@
         of the original, and still read as a poem — with rhyme and a steady beat wherever that can be done without betraying the sense.
         Classical Chinese packs an extraordinary amount into very few characters, so each poem also has a short note on its background
         and the meanings that a translation alone cannot carry.</p>
+        <h2 lang="zh-CN">旧译 · Earlier translations</h2>
+        <p>Where one exists, a poem also shows a classic English verse translation, credited to its translator and linked to the book it
+        comes from. All are in the public domain (published before 1930, translators who died long before 1972):</p>
+        <ul>
+          <li>James Legge, <a href="https://archive.org/details/shekingorbookofa0000unse" target="_blank" rel="noopener"><em>The She King</em></a> (1876)</li>
+          <li>Herbert A. Giles, <a href="https://archive.org/details/cu31924008867222" target="_blank" rel="noopener"><em>Chinese Poetry in English Verse</em></a> (1898) and
+            <a href="https://archive.org/details/gems-of-chinese-literature" target="_blank" rel="noopener"><em>Gems of Chinese Literature: Verse</em></a></li>
+          <li>L. Cranmer-Byng, <a href="https://www.gutenberg.org/ebooks/390" target="_blank" rel="noopener"><em>A Lute of Jade</em></a> (1909)</li>
+          <li>W. J. B. Fletcher, <a href="https://archive.org/details/gemsofchinesever00fletiala" target="_blank" rel="noopener"><em>Gems of Chinese Verse</em></a> (1919)</li>
+        </ul>
+        <p>They are given as printed, except where a rhyme was broken or a line plainly mistook the Chinese; those few are marked as
+        lightly adapted, and the printed text is always one click away.</p>
+        <h2 lang="zh-CN">拼 · Pinyin and reading aloud</h2>
+        <p>The 拼音 button shows the pronunciation above each character. Readings follow today's school textbooks, checked by hand
+        for the many characters a classical poem reads differently from modern speech — 一骑红尘 <em>jì</em>, 鬓毛衰 <em>cuī</em>,
+        明月何时照我还 <em>huán</em>. 朗读 reads the poem aloud with your device's own voice, nudged to say those characters right.</p>
         <h2 lang="zh-CN">画 · Paintings</h2>
         <p>The ink-wash pictures are not image files. Each poem carries a few words describing its scene — <code>night moon river boat</code> —
-        and the page paints it on the spot as a tiny SVG. The whole gallery costs about as much bandwidth as a single photograph.</p>
+        and the page paints it on the spot as a tiny SVG: in plain ink, pale ochre or Tang-style blue-green, composed by one of
+        Guo Xi's three distances (level, deep or high), signed with the title and the poet's seal. The whole gallery costs about as much
+        bandwidth as a single photograph.</p>
         <h2 lang="zh-CN">搜 · Search</h2>
         <p>Search in Chinese or English: a poet (<em>李白</em> or <em>Li Bai</em>), a line or a word (<em>明月</em>), or what a poem is about
-        (<em>moon</em>, <em>wine</em>, <em>homesick</em>, <em>frontier</em>, <em>autumn</em>). Combine words to narrow down: <em>Du Fu autumn</em>.</p>
+        (<em>moon</em>, <em>wine</em>, <em>homesick</em>, <em>frontier</em>, <em>autumn</em>). Combine words to narrow down: <em>Du Fu autumn</em>.
+        Every list puts the best-known poems and poets first.</p>
         <h2 lang="zh-CN">字 · Fonts</h2>
         <p>Poems are set in 霞鹜文楷 LXGW WenKai, titles in 马善政 Ma Shan Zheng brush script; the 字 button in the top bar switches to
         Song, brush or cursive faces. 繁 shows traditional characters, and 竖排 sets a poem vertically, right to left, as it would appear on a scroll.</p>
+        <h2 lang="zh-CN">读 · Your reading</h2>
+        <p>Poems you have opened are marked 已读 <em>read</em>, and <em>Unread only</em> on the home page hides them; Random picks one you
+        haven't read yet. This history is kept only in your own browser — nothing is sent anywhere.
+        <span id="readinfo"></span></p>
       </div>`;
+    const info = document.getElementById('readinfo'), n = readCount(DB.poems);
+    if (n) {
+      info.innerHTML = `You have read ${n} of ${DB.poems.length}. <button type="button" class="linkbtn" id="clearread">Clear my reading history</button>`;
+      document.getElementById('clearread').addEventListener('click', () => {
+        READ = {};
+        try { localStorage.removeItem('poems.read'); } catch (e) { }
+        info.textContent = 'Reading history cleared.';
+      });
+    }
   }
   function viewNotFound() {
     document.title = '诗词';
@@ -643,6 +775,23 @@
         if (s.length === tt.length) for (let i = 0; i < s.length; i++) if (s[i] !== tt[i]) T2S[tt[i]] = s[i];
       });
     }).catch(() => { settings.hant = false; toast('Traditional text unavailable'); });
+  }
+  const lazy = {};
+  function lazyJson(name) {
+    return lazy[name] || (lazy[name] = fetch('data/' + name).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch(() => { delete lazy[name]; return null; }));
+  }
+  function ensurePinyin() { return lazyJson('pinyin.json').then(d => { PY = d; }); }
+  function ensureClassic() { return lazyJson('classic.json').then(d => d || {}); }
+  function classicHtml(list) {
+    return `<h3>Earlier translations <span lang="zh-CN">旧译</span></h3>` + list.map(c => {
+      const year = (c.bk.match(/\((\d{4})\)/) || [])[1] || '';
+      return `<details class="ctr"><summary><span class="ct">“${rich(c.t)}”</span><span class="cb">${esc(c.by)}${year ? ', ' + year : ''}</span></summary>
+        <div class="cbody"><div class="text">${enLines(c.e)}</div>
+        <p class="csrc">Translated by ${esc(c.by)}, from <a href="${esc(c.u)}" target="_blank" rel="noopener"><em>${esc(c.bk.replace(/\s*\(\d{4}\)$/, ''))}</em>${year ? ` (${year})` : ''}</a>
+          · public domain.${c.ad ? ` Lightly adapted: ${esc(c.ad)}.` : ''}</p>
+        ${c.o ? `<details class="corig"><summary>Show the original ${year || ''} text</summary><div class="text">${enLines(c.o)}</div></details>` : ''}</div></details>`;
+    }).join('');
   }
   function rerender() {
     const y = window.scrollY;

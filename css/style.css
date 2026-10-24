@@ -155,10 +155,37 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .hint button { border: 0; background: none; padding: 2px 4px; color: var(--ink-2); text-decoration: underline dotted; text-underline-offset: 3px; cursor: pointer; font-family: var(--font-zh); }
 
 /* ---------- filters ---------- */
-.filters { margin: 18px 0 8px; display: grid; gap: 10px; }
-.chiprow { display: flex; gap: 6px; overflow-x: auto; padding: 2px 0 6px; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
-.chiprow.wrap { flex-wrap: wrap; overflow: visible; }
-.chiprow .lbl { font-size: 12px; color: var(--ink-3); align-self: center; white-space: nowrap; margin-right: 4px; min-width: 52px; }
+.filters { margin: 18px 0 8px; }
+.ftoggle {
+  display: inline-flex; align-items: baseline; gap: 6px; border: 0; background: none; padding: 4px 2px; cursor: pointer;
+  color: var(--ink-3); font-size: 13px; letter-spacing: .02em;
+}
+.ftoggle .z { font-family: var(--font-zh); font-size: 15px; color: var(--ink-2); }
+.ftoggle .chev { width: 7px; height: 7px; border: solid currentColor; border-width: 0 1.5px 1.5px 0; transform: translateY(-2px) rotate(45deg); transition: transform .2s; }
+.filters.shut .ftoggle .chev { transform: translateY(1px) rotate(-135deg); }
+.fbody { display: grid; gap: 10px; margin-top: 6px; }
+.filters.shut .fbody { display: none; }
+.chiprow { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chiprow .lbl { display: inline-flex; align-items: baseline; gap: 4px; font-size: 12px; color: var(--ink-3); white-space: nowrap; margin-right: 4px; min-width: 64px; }
+.chiprow .lbl .z { font-family: var(--font-zh); font-size: 14px; color: var(--ink-2); }
+#tagrow:not(.all) .chip.extra:not(.on) { display: none; }
+@media (max-width: 600px) {
+  .chiprow { gap: 5px; }
+  .chiprow .lbl { min-width: 0; flex-basis: 100%; }
+  .chiprow .chip { padding: 3px 9px; font-size: 13px; }
+  .chiprow .chip .z { font-size: 14px; }
+}
+.chip.more { border-style: dashed; color: var(--ink-3); background: none; }
+/* reading history */
+.card { position: relative; }
+.readmark {
+  position: absolute; top: 8px; left: 8px; z-index: 1; padding: 1px 8px; border-radius: 999px; font-size: 11.5px;
+  background: rgba(40, 32, 26, .62); color: #f4eee2; letter-spacing: .02em; pointer-events: none;
+}
+.readmark span { font-family: var(--font-zh); }
+.readn { color: var(--ink-3); }
+.count .chip.unread { margin-left: 8px; padding: 2px 9px; font-size: 13px; vertical-align: 1px; }
+.linkbtn { border: 0; background: none; padding: 0; color: var(--red); text-decoration: underline; cursor: pointer; font: inherit; }
 .chip {
   flex: none; display: inline-flex; align-items: baseline; gap: 5px; padding: 4px 11px; border-radius: 999px;
   border: 1px solid var(--line); background: var(--card); cursor: pointer; text-decoration: none; font-size: 14px; white-space: nowrap;
@@ -169,7 +196,6 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .chip:hover { border-color: var(--ink-3); }
 .chip.on { background: var(--red); border-color: var(--red); color: #fff; }
 .chip.on .z, .chip.on .c { color: #fff; }
-.more-tags { border: 0; background: none; color: var(--ink-3); font-size: 13px; cursor: pointer; text-decoration: underline dotted; }
 .selrow { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 .selrow select {
   height: 34px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); padding: 0 10px; font-size: 14px;
@@ -269,6 +295,13 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .zh .text .seg { display: inline-block; }
 .zh .text .gap { height: .9em; }
 .zh.long .text { font-size: clamp(18px, 2.2vw, 22px); line-height: 1.95; }
+/* pinyin (拼音) */
+.zh .text ruby { ruby-position: over; ruby-align: center; }
+.zh .text rt { font-family: var(--font-ui); font-size: .42em; letter-spacing: 0; color: var(--ink-3); font-weight: 400; }
+.zh.py .text { line-height: 2.7; letter-spacing: .14em; }
+.zh.py.long .text { line-height: 2.5; }
+.zh.py.vertical .text { line-height: 2.8; }
+.pbtn .pyi { font-size: 11px; font-weight: 600; letter-spacing: .02em; line-height: 1; }
 
 /* vertical (竖排) mode */
 .zh.vertical { text-align: start; }
@@ -299,6 +332,24 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 }
 .note h3 { margin: 0 0 6px; font-family: var(--font-ui); font-size: 12.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--red); font-weight: 600; }
 .note p { margin: 0; }
+.classic { max-width: 760px; margin: 22px auto 0; }
+.classic h3 { margin: 0 0 8px; font-family: var(--font-ui); font-size: 12.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); font-weight: 600; text-align: center; }
+.classic h3 span { font-family: var(--font-zh); letter-spacing: .1em; text-transform: none; font-size: 14px; }
+.ctr { background: var(--card); border: 1px solid var(--line); border-radius: 10px; margin-top: 8px; }
+.ctr > summary { cursor: pointer; padding: 11px 16px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; list-style: none; }
+.ctr > summary::-webkit-details-marker { display: none; }
+.ctr > summary::before { content: '+'; color: var(--ink-3); width: 1em; }
+.ctr[open] > summary::before { content: '−'; }
+.ctr .ct { font-family: var(--font-en); font-style: italic; font-size: 18px; color: var(--ink); }
+.ctr .cb { font-size: 13.5px; color: var(--ink-3); }
+.cbody { padding: 4px 18px 16px; }
+.cbody .text { font-family: var(--font-en); font-size: 18px; line-height: 1.65; width: fit-content; max-width: 100%; margin: 0 auto; }
+.cbody .text p { margin: 0; padding-left: 1.2em; text-indent: -1.2em; }
+.cbody .text .gap { height: .8em; }
+.csrc { font-size: 13px; color: var(--ink-3); text-align: center; margin: 12px 0 0; }
+.corig { margin-top: 8px; text-align: center; }
+.corig > summary { cursor: pointer; font-size: 13px; color: var(--ink-3); text-decoration: underline dotted; }
+.corig .text { text-align: left; margin-top: 8px; opacity: .85; }
 .ptags { max-width: 760px; margin: 18px auto 0; display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
 .pmeta { text-align: center; color: var(--ink-3); font-size: 13.5px; margin-top: 12px; }
 .pager { max-width: 760px; margin: 34px auto 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }

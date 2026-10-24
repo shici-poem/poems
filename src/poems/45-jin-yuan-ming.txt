@@ -109,24 +109,6 @@ It only means to fill the earth and sky with purity and grace.
 --
 Wang Mian, the self-taught master of ink plum painting, inscribed this on one of his paintings. The ink-washing pond recalls the calligrapher Wang Xizhi, whose pond turned black from rinsing brushes. Plum blossom painted in ink has no bright colour to win praise — only the "pure spirit" (清气) of integrity, like the painter who refused every offer of office.
 
-== 四块玉·别情 | Four Pieces of Jade: Parting
-by: 关汉卿
-form: 散曲
-tags: 离别 相思 柳 女性
-scene: day willow river hills tower person
-自送别，心难舍，一点相思几时绝？
-凭阑袖拂杨花雪。溪又斜，山又遮，人去也。
---
-Since I saw you off,
-My heart can't let you go;
-This thread of longing — when will it ever end?
-I lean on the rail and brush away the willow-down's snow.
-The stream curves round,
-The hills cut off the view —
-And you're gone, out of sight, I know.
---
-A woman watches her beloved leave until the winding stream and the hills hide him from view. Plain, colloquial and piercing — the spirit of the Yuan *sanqu*.
-
 == 正宫·端正好（碧云天） | Duanzheng Hao (Blue Clouds Above) — from The Western Chamber
 by: 王实甫
 form: 散曲
@@ -141,30 +123,6 @@ Who dyed the frosted woods so drunken-red at dawn?
 It's all the tears of those who part, I've found.
 --
 From *The Romance of the Western Chamber*: Cui Yingying sees off her lover Zhang Junrui as he leaves for the capital examinations. It borrows Fan Zhongyan's "blue clouds in the sky, yellow leaves on the ground", and its conceit — that the red autumn maples were dyed by the lovers' tears — is the most famous line in Chinese drama.
-
-== 折桂令·春情 | Plucking the Cassia: Spring Feelings
-by: 徐再思
-form: 散曲
-tags: 爱情 相思 春 女性 月
-scene: night spring moon candle window person
-平生不会相思，才会相思，便害相思。
-身似浮云，心如飞絮，气若游丝。
-空一缕余香在此，盼千金游子何之。
-证候来时，正是何时？灯半昏时，月半明时。
---
-All my life I never knew what lovesickness could be;
-Just learning lovesickness,
-I'm sick with lovesickness, you see.
-My body's like a floating cloud,
-My heart like drifting down,
-My breath as thin as gossamer, and free.
-A wisp of lingering fragrance still is here;
-The one I long for, far away — where can he be?
-When does the sickness strike?
-When the lamp is half dim,
-When the moon's half bright, and shines on me.
---
-A girl's first love, in a song that plays on 相思, "lovesickness", three times in a row. Every symptom is described with comic precision — body like a cloud, heart like a catkin, breath like a silk thread — and the attack comes late at night, when lamp and moon are both half-bright.
 
 == 石灰吟 | Ode to Lime
 by: 于谦
@@ -242,21 +200,6 @@ No flowers, no wine: they've all been ploughed to fields, too.
 --
 Tang Yin (Tang Bohu), the legendary Suzhou painter, barred from office for life by an examination scandal, built a "Peach Blossom Hut" in Suzhou and lived on his paintings and his wine. Repeating "peach blossom" like a folk song, he mocks the rich and powerful, whose grand tombs end up ploughed into farmland. "Others laugh at me for being mad; I laugh at them for not seeing through" is still quoted.
 
-== 蔽月山房 | The Mountain Study Where the Moon Is Hidden
-by: 王守仁
-form: 七绝
-tags: 哲理 月 山 童趣
-scene: night moon mountains cottage
-山近月远觉月小，便道此山大于月。
-若人有眼大如天，当见山高月更阔。
---
-The hill is near, the moon is far — so the moon looks small,
-And people say the hill is bigger than the moon.
-But one whose eyes were wide as the whole sky
-Would see the hill is high — but the moon is wider than them all.
---
-Written by Wang Yangming at eleven, in a study where a hill hid the moon. A child's observation of perspective becomes a philosopher's lesson: our judgements depend on where we stand, and a wider view changes everything.
-
 == 临江仙（滚滚长江东逝水） | Immortal by the River (On and On the Long River Flows)
 by: 杨慎
 form: 词
@@ -281,27 +224,6 @@ And all the deeds of past and present, high and low,
 Become the stuff of laughter and of idle talk — no more.
 --
 Written by Yang Shen in exile in Yunnan, as part of a long ballad of Chinese history. Three centuries later it was chosen to open the novel *Romance of the Three Kingdoms*, and as the theme song of the 1994 television series it became known to every Chinese person. All the heroes' rivalries end as stories over wine for old fishermen.
-
-== 韬钤深处 | Deep Among the Military Books
-by: 戚继光
-form: 五律
-tags: 爱国 壮志 海
-scene: night stars sea cottage person
-小筑暂高枕，忧时旧有盟。
-呼樽来揖客，挥麈坐谈兵。
-云护牙签满，星含宝剑横。
-封侯非我意，但愿海波平。
---
-In my small house I rest a while, my pillow high;
-To share the nation's cares is an oath I swore long ago.
-I call for wine to greet my guests,
-And, waving my whisk, sit discussing war and foe.
-The clouds guard shelves of ivory-tagged books;
-The starlight gleams on the sword laid crosswise there.
-To be made a lord is not my wish —
-I only pray the waves of the sea be calm and fair.
---
-Qi Jiguang was the Ming general who drove the *wokou* pirates from China's south-east coast in the 1550s and 1560s. 封侯非我意，但愿海波平 — "to be made a lord is not my wish; I only hope the sea's waves are calm" — expresses the soldier's true aim: not glory, but peace.
 
 == 皂罗袍（原来姹紫嫣红开遍） | Black Silk Robe (So All the Gorgeous Flowers Have Bloomed) — from The Peony Pavilion
 by: 汤显祖

@@ -386,7 +386,7 @@ Wang Changling, a fellow poet and friend, was banished to remote Longbiao (in to
 by: 李白
 form: 七绝
 tags: 花 春 女性 爱情
-scene: night spring moon palace flowers clouds
+scene: night spring moon palace flowers clouds lady
 云想衣裳花想容，春风拂槛露华浓。
 若非群玉山头见，会向瑶台月下逢。
 --
@@ -401,7 +401,7 @@ Written to order around 743, when Emperor Xuanzong and his beloved Consort Yang 
 by: 李白
 form: 乐府
 tags: 相思 秋 月 战争 闺怨
-scene: night autumn moon wall wind
+scene: night autumn moon wall wind lady
 长安一片月，万户捣衣声。
 秋风吹不尽，总是玉关情。
 何日平胡虏，良人罢远征。
@@ -446,7 +446,7 @@ An old ballad title, reworked on an immense scale: the moon over the Tianshan ra
 by: 李白
 form: 乐府
 tags: 闺怨 月 秋 夜 相思
-scene: night autumn moon palace window
+scene: night autumn moon palace window lady
 玉阶生白露，夜久侵罗袜。
 却下水晶帘，玲珑望秋月。
 --
@@ -456,21 +456,6 @@ She lowers the crystal curtain — there,
 Through its glinting beads, the autumn moon still glows.
 --
 A palace lament in which nothing is said of feeling. A woman has waited on the steps so long that the dew soaks her stockings; she goes in and lowers the blind — and still cannot stop gazing at the moon through it. Ezra Pound admired the poem for saying everything by implication.
-
-== 怨情 | Grievance
-by: 李白
-form: 五绝
-tags: 闺怨 相思 女性
-scene: day window palace flowers
-美人卷珠帘，深坐颦蛾眉。
-但见泪痕湿，不知心恨谁。
---
-The beauty rolls the pearly curtain high,
-Sits deep within, her moth-brows knit in pain.
-You only see the tear-stains, not yet dry —
-But whom her heart resents, she won't explain.
---
-Another portrait of a woman's sorrow told only through gesture: rolling up the blind (to watch for someone), sitting long, frowning, weeping. "Moth-brows" — long, curved, delicate eyebrows — were the classic mark of beauty. The cause is left a mystery.
 
 == 宣州谢朓楼饯别校书叔云 | Farewell to Secretary Shuyun at Xie Tiao's Tower in Xuanzhou
 by: 李白
@@ -628,21 +613,6 @@ I'll never know which land is foreign, or where I went.
 --
 Lanling (in Shandong) was famous for its wine, scented with 郁金 (turmeric or curcuma). Most travel poems are homesick; this one, from Li Bai's carefree younger days, cheerfully proposes that good enough wine makes anywhere home.
 
-== 越中览古 | Viewing the Past at Yue
-by: 李白
-form: 七绝
-tags: 怀古 时光 人生
-scene: dusk palace birds flowers person
-越王勾践破吴归，义士还家尽锦衣。
-宫女如花满春殿，只今惟有鹧鸪飞。
---
-King Goujian of Yue came home, the land of Wu destroyed;
-His loyal warriors returned, all dressed in brocade.
-Palace girls, like flowers, filled the spring halls he enjoyed —
-And now, there's only partridges flying where they played.
---
-Goujian, king of Yue, was crushed by Wu, slept on brushwood and tasted gall for years to keep his vengeance alive, and finally destroyed Wu in 473 BC. Three lines of triumph and splendour; then one line of desolation sweeps it all away.
-
 == 山中问答 | Question and Answer in the Mountains
 by: 李白
 form: 七绝
@@ -692,7 +662,7 @@ The opening of a longer poem, recited by every Chinese child: a little boy's gue
 by: 李白
 form: 乐府
 tags: 爱情 相思 女性 离别 秋
-scene: autumn river butterfly cottage maple person
+scene: autumn river butterfly cottage maple lady
 妾发初覆额，折花门前剧。
 郎骑竹马来，绕床弄青梅。
 同居长干里，两小无嫌猜。

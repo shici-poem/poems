@@ -34,27 +34,6 @@ The spring birds and autumn insects simply sing because they must.
 --
 Huang Jingren, a gifted, impoverished poet who died at thirty-four. 十有九人堪白眼，百无一用是书生 — "nine in ten deserve the whites of my eyes; of all things, a scholar is the most useless" — is still the classic bitter joke of frustrated intellectuals. The "whites of the eyes" are Ruan Ji's look of contempt.
 
-== 绮怀（其十五） | Tender Memories (XV)
-by: 黄景仁
-form: 七律
-tags: 爱情 相思 夜 音乐 时光
-scene: night stars flowers wall person
-几回花下坐吹箫，银汉红墙入望遥。
-似此星辰非昨夜，为谁风露立中宵。
-缠绵思尽抽残茧，宛转心伤剥后蕉。
-三五年时三五月，可怜杯酒不曾消。
---
-How many times beneath the flowers I sat and played the flute,
-Gazing at the Milky Way, the red wall far away.
-Like stars tonight that are not last night's stars —
-For whom do I stand in wind and dew at midnight, till the day?
-My lingering love is drawn out, like the last silk from a cocoon;
-My heart is wounded like a plantain stripped, layer by layer, in decay.
-At fifteen, in the fifteenth night's full moon —
-Alas, no cup of wine has ever washed that pain away.
---
-The fifteenth of sixteen poems remembering a first love — a girl he met at fifteen and lost. 似此星辰非昨夜，为谁风露立中宵 — "these stars are not last night's stars; for whom do I stand at midnight in the wind and dew?" — answers Li Shangyin's "last night's stars, last night's wind", and is one of the most quoted lines of longing in Chinese.
-
 == 己亥杂诗（其五） | Poems of the Year Jihai (V)
 by: 龚自珍
 form: 七绝
@@ -110,7 +89,7 @@ In 1842 Lin Zexu, who had destroyed the British opium at Humen, was made the sca
 by: 高鼎
 form: 七绝
 tags: 春 童趣 柳 鸟 田园
-scene: spring willow oriole grass fields person two
+scene: spring willow oriole grass fields child kite
 草长莺飞二月天，拂堤杨柳醉春烟。
 儿童散学归来早，忙趁东风放纸鸢。
 --
@@ -150,28 +129,3 @@ This chestful of hot blood — I'll guard it, treasure it;
 For spilled, it still can turn to jade-green waves anew.
 --
 Qiu Jin, revolutionary and feminist, left an arranged marriage to study in Japan and plot against the Qing. Blood "turning to green jade" recalls Chang Hong, a loyal Zhou official whose spilled blood became green jade three years after his unjust death. She was beheaded in 1907, aged thirty-one.
-
-== 蝶恋花（阅尽天涯离别苦） | Butterflies Love Flowers (I've Seen All the Pain of Parting)
-by: 王国维
-form: 词
-tags: 时光 爱情 离别 春 花
-scene: dusk spring petals window candle two
-阅尽天涯离别苦，不道归来，零落花如许。
-花底相看无一语，绿窗春与天俱莫。
-
-待把相思灯下诉，一缕新欢，旧恨千千缕。
-最是人间留不住，朱颜辞镜花辞树。
---
-I've seen all the pain of parting at the ends of the earth —
-But never thought, on coming home,
-To find the flowers fallen, all this way.
-Beneath the flowers we gaze at each other, wordless;
-At the green window, spring and the light both fade away.
-
-I'd tell her all my longing by the lamp —
-A single thread of new joy,
-A thousand threads of old pain, grey.
-What this world can least keep, most of all:
-Young faces leaving the mirror; flowers leaving the spray.
---
-Wang Guowei — whose "three stages" of achievement appear in several notes on this site — comes home after long travels to find his wife aged and the spring gone. 最是人间留不住，朱颜辞镜花辞树 — "what the world can least keep: rosy youth leaving the mirror, blossoms leaving the tree" — is the most quoted line of his own lyrics.

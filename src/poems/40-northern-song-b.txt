@@ -2,7 +2,7 @@
 by: 欧阳修
 form: 词
 tags: 节日 爱情 月 相思 柳
-scene: night moon willow lantern person
+scene: night moon willow lantern lady
 去年元夜时，花市灯如昼。
 月上柳梢头，人约黄昏后。
 
@@ -46,31 +46,6 @@ The scattered red flies past the swing, and away.
 --
 A wife shut deep in a great house while her husband rides off to the pleasure quarters (Zhangtai Lane). Li Qingzhao loved the opening line so much that she began several lyrics with it — and it is her testimony that settles the authorship, since some collections give the lyric to Feng Yansi. The last couplet — the flowers, asked, say nothing, and fly away past the swing where she once played — is one of the most admired in the *ci*.
 
-== 浪淘沙（把酒祝东风） | Waves Washing Sand (I Raise My Cup to the East Wind)
-by: 欧阳修
-form: 词
-tags: 友情 离别 春 花 饮酒 时光
-scene: spring flowers willow wall two cup
-把酒祝东风，且共从容。
-垂杨紫陌洛城东。总是当时携手处，游遍芳丛。
-
-聚散苦匆匆，此恨无穷。
-今年花胜去年红。可惜明年花更好，知与谁同？
---
-I raise my cup and pray the east wind:
-Linger with us, take your ease.
-The willows hang along Luoyang's purple lanes —
-Where we walked hand in hand in days like these,
-Through all the flowers, under the trees.
-
-Meetings and partings come too fast;
-This sorrow has no end.
-This year the flowers are redder than last year's;
-Next year they'll be lovelier still, my friend —
-But who will see them with me then?
---
-Luoyang, 1032, at a reunion with his friend Mei Yaochen. The flowers get better every year — but the friends who share them scatter. The last line makes the beauty of next spring a cause of sorrow.
-
 == 画眉鸟 | The Thrush
 by: 欧阳修
 form: 七绝
@@ -85,75 +60,6 @@ Now I know a bird in a golden cage, for all its ease,
 Can never sing as sweetly as one free in the woods below.
 --
 Written while Ouyang Xiu was demoted to Chuzhou. A thrush in a golden cage — like an official at court — sings less sweetly than one free in the forest: a gentle hymn to freedom, and to his exile.
-
-== 踏莎行（候馆梅残） | Treading the Grass (At the Inn, the Plum Is Fading)
-by: 欧阳修
-form: 词
-tags: 离别 相思 春 柳 花
-scene: spring willow plum bridge rider hills tower
-候馆梅残，溪桥柳细，草薰风暖摇征辔。
-离愁渐远渐无穷，迢迢不断如春水。
-
-寸寸柔肠，盈盈粉泪，楼高莫近危阑倚。
-平芜尽处是春山，行人更在春山外。
---
-At the inn, the plum is fading;
-By the stream bridge, the willows slight;
-Sweet grass, warm wind — I shake the reins and ride.
-The sorrow of parting grows endless as I go,
-On and on, unbroken, like a spring river's tide.
-
-Inch by inch, her tender heart;
-Brimming, her rouged tears flow.
-The tower is high — don't lean against the rail.
-Where the level meadows end, there are the spring hills —
-And the traveller is further still, beyond them, far away.
---
-The first stanza is the traveller riding away, his sorrow growing with every step like a spring river; the second is the woman left behind in her tower. In the famous last couplet she gazes to the edge of the plain, to the spring hills — and he is beyond even them.
-
-== 采桑子（群芳过后西湖好） | Picking Mulberries (When the Flowers Have Passed, West Lake Is Fair)
-by: 欧阳修
-form: 词
-tags: 春 闲适 柳 鸟 雨 山水
-scene: spring rain lake willow swallows petals pavilion
-群芳过后西湖好，狼籍残红。飞絮濛濛，垂柳阑干尽日风。
-
-笙歌散尽游人去，始觉春空。垂下帘栊，双燕归来细雨中。
---
-When all the flowers have passed, West Lake is lovely still:
-The fallen red lies strewn,
-The willow-down drifts free,
-The willows by the railings sway all day in the breeze.
-
-The songs and pipes are done; the crowds have gone away;
-And now I feel how empty spring can be.
-I let the curtain down —
-And through the fine rain, two swallows come home to me.
---
-Ouyang Xiu retired in 1071 to the West Lake of Yingzhou (Fuyang, Anhui — not the lake at Hangzhou) and wrote ten lyrics about it to this tune. Here he finds beauty after the crowds and flowers have gone: quiet, emptiness, and a pair of swallows in the rain.
-
-== 玉楼春（尊前拟把归期说） | Spring in the Jade Tower (Over the Wine, I Meant to Say)
-by: 欧阳修
-form: 词
-tags: 离别 爱情 春 花 饮酒 人生
-scene: spring flowers wall two cup
-尊前拟把归期说，未语春容先惨咽。
-人生自是有情痴，此恨不关风与月。
-
-离歌且莫翻新阕，一曲能教肠寸结。
-直须看尽洛城花，始共春风容易别。
---
-Over the wine I meant to tell her when I would return;
-Before I'd said a word, her spring-fair face dissolved in tears.
-We humans are born fools for love, I've come to learn —
-This grief is none of the wind's or moon's affairs.
-
-Don't play the parting song again in a new key —
-One tune's enough to tie the heart in knots, inch by inch.
-First let us see all Luoyang's flowers, every tree —
-Then from the spring wind we can part without a flinch.
---
-Leaving Luoyang in 1034. 人生自是有情痴，此恨不关风与月 — "people are simply born fools for love; this grief has nothing to do with wind or moon" — is often quoted: our sorrows come from our own hearts, not the scenery. The last couplet is typical Ouyang Xiu bravado: let us enjoy everything first, and parting will be easy.
 
 == 泊船瓜洲 | Mooring at Guazhou
 by: 王安石

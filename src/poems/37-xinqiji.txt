@@ -119,7 +119,7 @@ A night walk through the countryside near Shangrao, where Xin Qiji lived in enfo
 by: 辛弃疾
 form: 词
 tags: 田园 童趣 夏 闲适
-scene: summer cottage river grass lotus two person
+scene: summer cottage river grass lotus elder lady child
 茅檐低小，溪上青青草。
 醉里吴音相媚好，白发谁家翁媪？
 
@@ -249,46 +249,6 @@ To wipe away a hero's tears?
 --
 Nanjing, 1174. Xin Qiji, a northerner who came south to fight, climbs the Pavilion of the Joyful Heart. The distant hills, like a woman's hairpins and topknots, offer only sorrow; he slaps every railing in frustration. He will not go home like Zhang Han, who resigned to eat the perch of his native river, nor buy land like the petty men Liu Bei despised. As the general Huan Wen said, seeing willows he had planted grown huge: "If even trees age like this, how can men bear it?" — and there is no one to wipe his tears.
 
-== 摸鱼儿（更能消几番风雨） | Groping for Fish (How Many More Storms)
-by: 辛弃疾
-form: 词
-tags: 春 失意 爱国 花 柳
-scene: dusk spring sun petals willow tower mist
-更能消、几番风雨，匆匆春又归去。
-惜春长怕花开早，何况落红无数。
-春且住，见说道、天涯芳草无归路。
-怨春不语。算只有殷勤，画檐蛛网，尽日惹飞絮。
-
-长门事，准拟佳期又误，蛾眉曾有人妒。
-千金纵买相如赋，脉脉此情谁诉？
-君莫舞，君不见、玉环飞燕皆尘土！
-闲愁最苦。休去倚危栏，斜阳正在，烟柳断肠处。
---
-How many more storms can spring withstand?
-In haste, the spring is leaving once again.
-Loving spring, I always feared the flowers would bloom too soon —
-And now, the fallen petals past all count!
-Spring, stay a while!
-They say the fragrant grass at the world's end has blocked your way back home.
-I'm angry that the spring says not a word.
-It seems that only, faithfully,
-The spiders' webs beneath the painted eaves
-Spend all day catching willow-down that drifts.
-
-That business at the Long Gate Palace —
-The promised day again was missed;
-Her moth-brows once made others burn with spite.
-Though she paid a thousand gold for Xiangru's plea,
-Who can she tell of this deep, silent love?
-You others, do not dance!
-Don't you see? Yuhuan and Feiyan are dust!
-Idle sorrow is the bitterest.
-Don't go and lean upon the high rail —
-The setting sun is there,
-Where misty willows break the heart.
---
-1179, as Xin Qiji was transferred yet again, far from any chance to fight. On the surface, a lament for the passing of spring and for Empress Chen, who, abandoned in the Long Gate Palace, paid the poet Sima Xiangru a thousand gold for a rhapsody to win back the emperor's love. Underneath, the sorrow of a loyal servant pushed aside by jealous rivals — who, the poem warns, will turn to dust like the favourite consorts Yang Yuhuan and Zhao Feiyan. The emperor is said to have been displeased when he read it.
-
 == 贺新郎（甚矣吾衰矣） | Congratulating the Bridegroom (How Old I've Grown)
 by: 辛弃疾
 form: 词
@@ -331,97 +291,3 @@ Those who know me
 Are just two or three.
 --
 Written in retirement around 1200, in a pavilion named after Tao Yuanming's poem "Lingering Clouds", which mourns absent friends. 我见青山多妩媚，料青山见我应如是 — "I find the green mountains charming; I expect they find me so too" — is among the most quoted lines Xin Qiji wrote: a lonely man finding his only equal in the mountains. "The clouds fly, the wind rises" echoes Liu Bang's *Song of the Great Wind*.
-
-== 鹧鸪天（陌上柔桑破嫩芽） | Partridge Sky (Tender Mulberries Bud by the Path)
-by: 辛弃疾
-form: 词
-tags: 春 田园 花 哲理
-scene: dusk spring fields hills crows cottage flag river flowers
-陌上柔桑破嫩芽，东邻蚕种已生些。
-平冈细草鸣黄犊，斜日寒林点暮鸦。
-
-山远近，路横斜，青旗沽酒有人家。
-城中桃李愁风雨，春在溪头荠菜花。
---
-Along the paths, the tender mulberries put out their buds;
-Next door, a few silkworm eggs have hatched already, small.
-On the flat ridge, the yellow calves low in the fine grass;
-In the slanting sun, the cold woods are dotted with crows, all.
-
-Hills far and near,
-Roads crossing at a slant;
-Where a blue flag flies, a cottage sells its wine.
-In town, the peach and plum trees fear the wind and rain —
-But spring is by the creek, where shepherd's-purse flowers shine.
---
-Village spring in Xin Qiji's retirement. The last couplet becomes philosophy: the delicate city flowers, peach and plum, beloved of the fashionable, are battered by every storm, while spring truly lives in the humble shepherd's-purse by the creek — like the hardy common people, or a retired official in the countryside.
-
-== 太常引·建康中秋夜为吕叔潜赋 | Taichang Melody: Mid-Autumn Night at Jiankang, for Lü Shuqian
-by: 辛弃疾
-form: 词
-tags: 月 节日 秋 壮志 饮酒
-scene: night autumn moon clouds person cup
-一轮秋影转金波，飞镜又重磨。
-把酒问姮娥：被白发、欺人奈何？
-
-乘风好去，长空万里，直下看山河。
-斫去桂婆娑，人道是、清光更多。
---
-The autumn moon's round shadow turns and spills its golden waves;
-The flying mirror's polished bright again.
-Wine in hand, I ask the Moon Goddess:
-"White hair is cheating me — what can be done, and when?"
-
-I'd ride the wind and soar away,
-Ten thousand li across the sky,
-And look straight down on all the rivers and the hills below.
-I'd chop the swaying cassia down —
-For then, they say, the moon's clear light would brighter glow.
---
-Mid-Autumn, 1174, in Nanjing. A cassia tree was said to grow in the moon, endlessly chopped at by the immortal Wu Gang. Xin Qiji would cut it down so the moon shines brighter — read as a wish to clear away the corrupt officials who darken the court.
-
-== 西江月·遣兴 | West River Moon: Venting My Feelings
-by: 辛弃疾
-form: 词
-tags: 饮酒 人生 失意 闲适
-scene: night pine person moon jar
-醉里且贪欢笑，要愁那得工夫。
-近来始觉古人书，信着全无是处。
-
-昨夜松边醉倒，问松我醉何如。
-只疑松动要来扶，以手推松曰去！
---
-When I'm drunk, I'll just enjoy a laugh —
-Who has the time to worry?
-Lately I've come to feel the books of the ancient wise
-Are useless, if you trust them through and through.
-
-Last night, beside a pine, I fell down drunk;
-I asked the pine, "How drunk am I?" — I knew
-The pine was moving to help me up, it seemed —
-I pushed the pine and said, "Away with you!"
---
-A comic self-portrait of the frustrated hero in retirement. "Believing everything in books is worse than having no books" was a saying of Mencius; Xin Qiji's books promised that loyalty would be rewarded, and life has proved them wrong. Then the pine-tree scene — pure comedy with an edge: even drunk, he refuses help.
-
-== 清平乐·独宿博山王氏庵 | Pure Serene Music: Alone for the Night at the Wang Family Hut on Mount Bo
-by: 辛弃疾
-form: 词
-tags: 爱国 壮志 秋 雨 夜 人生
-scene: night autumn rain wind pine cottage candle
-绕床饥鼠，蝙蝠翻灯舞。
-屋上松风吹急雨，破纸窗间自语。
-
-平生塞北江南，归来华发苍颜。
-布被秋宵梦觉，眼前万里江山。
---
-Hungry rats scurry round the bed;
-Bats flit and dance around the lamp.
-On the roof, the pine wind drives a sudden rain;
-The torn paper window mutters to itself in the damp.
-
-All my life — north of the frontier, south of the River;
-I've come home grey-haired, my face grown old.
-Under a cotton quilt I wake from a dream on an autumn night —
-Before my eyes, ten thousand li of rivers and hills unrolled.
---
-A night alone in a ruined hut on Mount Bo: rats, bats, rain, a flapping paper window. Then the last line — waking from a dream, he sees "ten thousand li of rivers and mountains": the lost lands of the north he still dreams of winning back.

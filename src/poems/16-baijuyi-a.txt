@@ -106,7 +106,7 @@ A tiny invitation that every Chinese reader treasures: the "green ants" are the 
 by: 白居易
 form: 乐府
 tags: 民生 冬 雪
-scene: winter snow mountains wall rider smoke
+scene: winter snow wall ox elder rider smoke
 卖炭翁，伐薪烧炭南山中。
 满面尘灰烟火色，两鬓苍苍十指黑。
 卖炭得钱何所营？身上衣裳口中食。
@@ -171,21 +171,6 @@ Now and then, I hear bamboo snap in the night.
 --
 Snow is never seen directly: it is felt as cold, seen as a glow on the window-paper, and heard as bamboo stems cracking under its weight.
 
-== 村夜 | Village Night
-by: 白居易
-form: 七绝
-tags: 田园 秋 月 夜 花
-scene: night autumn moon fields frost cottage
-霜草苍苍虫切切，村南村北行人绝。
-独出前门望野田，月明荞麦花如雪。
---
-Frosted grass is grey; the insects chirr and chirr;
-South of the village, north of it, no traveller can be seen.
-Alone I step out of my gate to gaze at the fields:
-In the moonlight, buckwheat flowers are white as snow, serene.
---
-811, when Bai Juyi was at his family home in mourning for his mother. Grey, silent, lonely — and then a sudden whiteness of moonlit buckwheat blossoms brightens the whole poem.
-
 == 花非花 | A Flower That Is Not a Flower
 by: 白居易
 form: 杂言
@@ -204,77 +189,11 @@ She goes like morning cloud, gone without trace, gone past.
 --
 A riddling love song with no subject named — a lover's secret visits, perhaps, or a dream, or life itself. The "morning cloud" recalls the goddess of Mount Wu, who visited a king in his dream and was "morning cloud and evening rain".
 
-== 长相思（汴水流） | Endless Longing (The Bian Flows)
-by: 白居易
-form: 词
-tags: 相思 闺怨 江河 月
-scene: night moon river tower hills person
-汴水流，泗水流，流到瓜洲古渡头。
-吴山点点愁。
-思悠悠，恨悠悠，恨到归时方始休。
-月明人倚楼。
---
-The Bian flows on, the Si flows on,
-Flowing to Guazhou's ancient ferry stair;
-The hills of Wu, dot after dot, are sorrow there.
-Longing, so long — regret, so long —
-Regret that ends only when he comes home again.
-In the bright moon, she leans on the tower stair.
---
-An early *ci* lyric with a folk-song lilt. A woman follows in her mind the rivers her man travelled down, all the way to the ferry at Guazhou on the Yangtze; even the distant hills of Wu look like spots of grief. The repetitions (流…流, 悠悠…悠悠) imitate both the rivers and the endlessness of longing.
-
-== 忆江南（其二） | Remembering the South (II)
-by: 白居易
-form: 词
-tags: 思乡 秋 月 江河
-scene: night autumn moon temple pavilion river
-江南忆，最忆是杭州。
-山寺月中寻桂子，郡亭枕上看潮头。
-何日更重游？
---
-Of the South, what I remember best
-Is Hangzhou, above all the rest:
-At the hill temple, seeking cassia seeds beneath the moon;
-At the prefect's pavilion, on my pillow, watching the tide's crest.
-When shall I go back on that quest?
---
-Legend said that cassia seeds fell from the moon (where a cassia tree grows) around Hangzhou's Lingyin Temple each autumn. The tidal bore of the Qiantang River, which could be watched from the governor's pavilion, is one of the great sights of China.
-
-== 后宫词 | Palace Lament
-by: 白居易
-form: 七绝
-tags: 闺怨 女性 夜 音乐
-scene: night palace candle window
-泪湿罗巾梦不成，夜深前殿按歌声。
-红颜未老恩先断，斜倚熏笼坐到明。
---
-Tears soak her silk handkerchief; she cannot sleep or dream;
-Deep in the night, from the front hall, comes music and song.
-Her rosy face not yet old, the emperor's favour's gone;
-She leans on the incense cage, and sits there all night long.
---
-One of three thousand palace women, forgotten while the emperor feasts in the front hall with another. The incense cage (熏笼) was a basket over a brazier used to warm and perfume clothes — the only warmth she has left.
-
-== 邯郸冬至夜思家 | Thinking of Home on the Winter Solstice at Handan
-by: 白居易
-form: 七绝
-tags: 思乡 节日 冬 夜 羁旅
-scene: night winter candle cottage person
-邯郸驿里逢冬至，抱膝灯前影伴身。
-想得家中夜深坐，还应说着远行人。
---
-At the Handan post-station, the Winter Solstice comes;
-Hugging my knees by the lamp, my shadow keeps me company.
-I picture my family at home, sitting up late tonight —
-They must be talking of the one who's far away: of me.
---
-The Winter Solstice was one of the great family festivals of the Tang. Like Wang Wei's Double Ninth poem, the homesickness is turned around: he imagines them missing him.
-
 == 观刈麦 | Watching the Wheat Harvest
 by: 白居易
 form: 五古
 tags: 民生 夏 田园
-scene: summer sun fields person two
+scene: summer sun fields person lady child
 田家少闲月，五月人倍忙。
 夜来南风起，小麦覆陇黄。
 妇姑荷箪食，童稚携壶浆，
@@ -317,69 +236,3 @@ Thinking of this, I'm secretly ashamed,
 And all day long I can't forget the shame I bear.
 --
 806, when Bai Juyi was a county magistrate near Chang'an. The farmers want the day to be longer so they can harvest more, though it is killing them; the gleaning widow has lost her land to taxes. The poem's last lines — an official confessing he has done nothing to deserve his salary — are rare and remarkable in any literature.
-
-== 放言五首（其三） | Speaking Freely (III)
-by: 白居易
-form: 七律
-tags: 哲理 人生 时光
-scene: day mountains pine person
-赠君一法决狐疑，不用钻龟与祝蓍。
-试玉要烧三日满，辨材须待七年期。
-周公恐惧流言日，王莽谦恭未篡时。
-向使当初身便死，一生真伪复谁知？
---
-I'll give you a way to settle every doubt
-Without cracking tortoise shells or casting yarrow stalks:
-To test true jade, you burn it three whole days;
-To judge good timber, wait seven years — then talk.
-The Duke of Zhou lived in fear when rumours spread;
-Wang Mang seemed humble — till he seized the throne.
-Had either died before the truth came out,
-Who would have known what each one was? Who'd have known?
---
-Written in exile in 815. True jade survives three days in fire; the camphor tree is only distinguishable from a lesser tree after seven years of growth. The Duke of Zhou, the most loyal of regents, was rumoured to be plotting usurpation; Wang Mang, who did usurp the Han throne, was famous for his humility beforehand. Only time reveals the truth of a person.
-
-== 采莲曲 | Lotus-Picking Song
-by: 白居易
-form: 七绝
-tags: 爱情 夏 女性 花
-scene: summer lotus lake boat person
-菱叶萦波荷飐风，荷花深处小船通。
-逢郎欲语低头笑，碧玉搔头落水中。
---
-Water-chestnut leaves twine on the waves; lotus sways in the wind;
-Deep among the lotus blooms, a little boat glides through.
-She meets her young man, wants to speak — lowers her head and smiles,
-And her green jade hairpin slips into the water, too.
---
-A lotus-gathering girl meets her sweetheart; too shy to speak, she bows her head — and loses her hairpin in the lake. The tiny accident says everything about her flustered heart.
-
-== 南浦别 | Parting at South Shore
-by: 白居易
-form: 五绝
-tags: 离别 秋 风 友情
-scene: autumn river boat willow two wind
-南浦凄凄别，西风袅袅秋。
-一看肠一断，好去莫回头。
---
-At South Shore, a sad farewell;
-The west wind sighs — it's autumn now.
-Each look back breaks my heart once more —
-Go well, and don't look back somehow.
---
-South Shore (南浦) was a stock name for a place of parting, from the *Songs of Chu*: "I see you off at the southern shore." The simple, broken plea — "go well, don't turn your head" — is because every glance back is another heartbreak.
-
-== 舟中读元九诗 | Reading Yuan the Ninth's Poems in My Boat
-by: 白居易
-form: 七绝
-tags: 友情 夜 江河 失意
-scene: night river boat candle wind
-把君诗卷灯前读，诗尽灯残天未明。
-眼痛灭灯犹暗坐，逆风吹浪打船声。
---
-I read your book of poems by the lamp;
-The poems end, the lamp burns low — still not yet dawn.
-My eyes ache; I put the lamp out, sit on in the dark;
-Against the wind, the waves strike the boat on and on.
---
-815: Bai Juyi, on his way into exile at Jiangzhou, reads the poems of his dearest friend Yuan Zhen, himself in exile. The wind and waves battering the boat in the dark stand for the storms that have scattered them both.

@@ -3,6 +3,7 @@
 
 Usage:  python tools/build.py          build + print warnings
         python tools/build.py --list   also print every poem title (handy for dedup)
+        python tools/build.py --check  validate only, write nothing
 """
 import hashlib
 import json
@@ -87,6 +88,7 @@ pine willow plum peach bamboo maple lotus chrysanthemum reeds grass flowers peta
 geese crane crows swallows birds butterfly oriole
 tower pavilion temple cottage bridge wall fort desert smoke flag palace fields
 cup jar lantern candle window
+lady child elder ox kite
 """.split())
 
 ZH_OK = re.compile(r"^[㐀-鿿豈-﫿\U00020000-\U0002ffff，。？！、；：“”‘’《》·—…（）]+$")
@@ -117,6 +119,71 @@ def load_authors():
             born = -born
         authors[zh] = {"en": en, "d": dyn, "y": years, "b": bio, "_born": born}
     return authors
+
+
+def load_ranking():
+    """src/ranking.txt: one '<poet> <title>' per line, most famous first."""
+    rank = {}
+    for n, line in enumerate((SRC / "ranking.txt").read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line in rank:
+            die(f"ranking.txt:{n}: listed twice: {line}")
+        rank[line] = len(rank)
+    return rank
+
+
+def load_classic(by_key):
+    """src/classic/*.txt: earlier public-domain verse translations, shown under a poem.
+
+    == <poet> <title>            (as in src/poems)
+    by: Herbert A. Giles
+    book: Chinese Poetry in English Verse (1898)
+    link: https://archive.org/details/…           (the scan or e-text it was taken from)
+    title: Night Thoughts
+    adapted: one line saying what was changed   (only if the text was touched)
+    <translation lines>
+    --
+    <the translator's original lines>           (only if adapted)
+    """
+    out = {}
+    for path in sorted((SRC / "classic").glob("*.txt")) if (SRC / "classic").exists() else []:
+        text = path.read_text(encoding="utf-8").replace("\r\n", "\n")
+        for block in re.split(r"^== ", text, flags=re.M)[1:]:
+            lines = block.split("\n")
+            key = lines[0].strip()
+            where = f"classic/{path.name}: {key}"
+            if key not in by_key:
+                die(f"{where}: no such poem (use '<poet> <title>' exactly as in src/poems)")
+            meta, i = {}, 1
+            while i < len(lines) and re.match(r"^(by|book|link|title|adapted):", lines[i]):
+                k, v = lines[i].split(":", 1)
+                meta[k] = v.strip()
+                i += 1
+            for k in ("by", "book", "link", "title"):
+                if not meta.get(k):
+                    die(f"{where}: missing '{k}:'")
+            if not meta["link"].startswith("https://"):
+                die(f"{where}: link must be an https:// URL")
+            parts = re.split(r"^--\s*$", "\n".join(lines[i:]), flags=re.M)
+            body = lambda t: re.sub(r"\n{3,}", "\n\n", "\n".join(l.rstrip() for l in t.strip("\n").split("\n"))).split("\n")
+            e = body(parts[0])
+            if not "".join(e).strip():
+                die(f"{where}: empty translation")
+            entry = {"by": meta["by"], "bk": meta["book"], "u": meta["link"], "t": meta["title"], "e": e}
+            if "adapted" in meta:
+                if len(parts) != 2:
+                    die(f"{where}: 'adapted:' needs the original text after a '--' line")
+                entry["ad"] = meta["adapted"]
+                entry["o"] = body(parts[1])
+            elif len(parts) != 1:
+                die(f"{where}: '--' section without 'adapted:'")
+            out.setdefault(by_key[key], []).append(entry)
+    year = lambda e: int((re.search(r"\((\d{4})\)", e["bk"]) or [0, 0])[1])
+    for v in out.values():
+        v.sort(key=year)  # oldest first
+    return out
 
 
 def parse_file(path):
@@ -150,7 +217,9 @@ def parse_file(path):
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     show_list = "--list" in sys.argv
+    check = "--check" in sys.argv
     authors = load_authors()
+    ranking = load_ranking()
     poems, warnings, seen = [], [], {}
     used_authors = set()
     for path in sorted((SRC / "poems").glob("*.txt")):
@@ -178,6 +247,8 @@ def main():
             if key in seen:
                 die(f"{where}: duplicate of {seen[key]}")
             seen[key] = where
+            if a + " " + p["title"] not in ranking:
+                die(f"{where}: not in src/ranking.txt")
             zh = [l.strip() for l in p["zh"]]
             if any(l.startswith("@ref") for l in zh):
                 die(f"{where}: Chinese text not filled in yet — run tools/fill_text.py")
@@ -206,12 +277,18 @@ def main():
     if len(set(ids)) != len(ids):
         die("id collision — tweak a title")
 
-    order = {d: i for i, (d, _) in enumerate(DYNASTIES)}
-    file_rank = {p["id"]: i for i, p in enumerate(poems)}
-    poems.sort(key=lambda p: (order[authors[p["a"]]["d"]], authors[p["a"]]["_born"], p["a"], file_rank[p["id"]]))
+    missing = set(ranking) - {p["a"] + " " + p["t"] for p in poems}
+    if missing:
+        die("ranking.txt lists unknown poems: " + ", ".join(sorted(missing)))
+    # every list on the site is in popularity order
+    poems.sort(key=lambda p: ranking[p["a"] + " " + p["t"]])
 
-    out_authors = {k: {kk: vv for kk, vv in v.items() if not kk.startswith("_")}
-                   for k, v in authors.items() if k in used_authors}
+    # a poet's fame: their poems' ranks, with the best-known counting most
+    fame = {}
+    for i, p in enumerate(poems):
+        fame[p["a"]] = fame.get(p["a"], 0) + 1 / (i + 30)
+    poet_order = sorted(used_authors, key=lambda a: -fame[a])
+    out_authors = {k: {kk: vv for kk, vv in authors[k].items() if not kk.startswith("_")} for k in poet_order}
     data = {
         "dynasties": DYNASTIES,
         "forms": FORMS,
@@ -219,11 +296,16 @@ def main():
         "authors": out_authors,
         "poems": poems,
     }
-    OUT.mkdir(exist_ok=True)
+    classic = load_classic({p["a"] + " " + p["t"]: p["id"] for p in poems})
+    for p in poems:
+        if p["id"] in classic:
+            p["c"] = len(classic[p["id"]])  # the texts themselves load lazily from classic.json
     js = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
-    (OUT / "poems.json").write_text(js, encoding="utf-8")
-
-    hant(poems, out_authors)
+    if not check:
+        OUT.mkdir(exist_ok=True)
+        (OUT / "poems.json").write_text(js, encoding="utf-8")
+        (OUT / "classic.json").write_text(json.dumps(classic, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        hant(poems, out_authors)
 
     for w in warnings:
         print("WARN:", w)
@@ -239,7 +321,7 @@ def main():
             print(f"  {p['a']} 《{p['t']}》 {p['id']}")
     print("authors:", " ".join(f"{a}{n}" for a, n in sorted(by_author.items(), key=lambda x: -x[1])))
     print("tags:", " ".join(f"{t}{n}" for t, n in sorted(tag_count.items(), key=lambda x: -x[1])))
-    print(f"{len(poems)} poems, {len(out_authors)} authors, poems.json = {len(js.encode('utf-8')) // 1024} KB")
+    print(f"{len(poems)} poems, {len(out_authors)} authors, {sum(map(len, classic.values()))} earlier translations, poems.json = {len(js.encode('utf-8')) // 1024} KB")
 
 
 def hant(poems, authors):

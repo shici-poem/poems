@@ -62,7 +62,7 @@ Wang Changling, slandered and demoted, sees a friend off to Luoyang from the Lot
 by: 王昌龄
 form: 七绝
 tags: 闺怨 春 柳 女性 相思
-scene: spring willow tower person
+scene: spring willow tower lady
 闺中少妇不知愁，春日凝妆上翠楼。
 忽见陌头杨柳色，悔教夫婿觅封侯。
 --
@@ -77,7 +77,7 @@ A masterpiece of the sudden turn. The willows by the road — the trees of parti
 by: 王昌龄
 form: 七绝
 tags: 夏 女性 花 音乐
-scene: summer lotus lake boat person
+scene: summer lotus lake boat lady
 荷叶罗裙一色裁，芙蓉向脸两边开。
 乱入池中看不见，闻歌始觉有人来。
 --
@@ -87,51 +87,6 @@ Lost amid the pond, she cannot now be seen —
 Until a song rings out, and you know where she hides.
 --
 The girl is so like the lotus — green skirt, pink cheeks — that she vanishes among the flowers; only her song gives her away.
-
-== 长信秋词（其三） | Autumn Song of Changxin Palace (III)
-by: 王昌龄
-form: 七绝
-tags: 闺怨 女性 秋 鸟
-scene: dawn autumn palace crows person
-奉帚平明金殿开，暂将团扇共徘徊。
-玉颜不及寒鸦色，犹带昭阳日影来。
---
-At dawn, with broom in hand, she waits for the golden hall to open,
-And lingers for a while beside her round silk fan.
-Her jade-white face is worth less than a crow's black feathers —
-For the crows still bring the sunlight of Zhaoyang, as only they can.
---
-Lady Ban, a virtuous Han consort, was displaced by the dancer Zhao Feiyan and withdrew to the Changxin Palace to serve the Empress Dowager. She once compared herself to a fan, discarded when autumn comes. Here her beauty is worth less than the black crows — who at least fly from Zhaoyang Palace, where the emperor is, with its sunshine (his favour) on their wings.
-
-== 从军行（其一） | Army Song (I)
-by: 王昌龄
-form: 七绝
-tags: 边塞 相思 秋 音乐
-scene: dusk autumn tower fort sun wind
-烽火城西百尺楼，黄昏独上海风秋。
-更吹羌笛关山月，无那金闺万里愁。
---
-West of the beacon-fire city stands a hundred-foot tower;
-At dusk I climb it alone; autumn wind blows off the sea.
-Then a Qiang flute plays "Moon over the Mountain Pass" — what power
-Can ease her grief ten thousand li away, in her golden room, for me?
---
-A soldier on the tower at dusk hears a flute playing a frontier song of homesickness — and thinks not of his own grief but of his wife's, far away, which he can do nothing to relieve. The "sea" is Qinghai Lake.
-
-== 送柴侍御 | Seeing Off Censor Chai
-by: 王昌龄
-form: 七绝
-tags: 离别 友情 月 山
-scene: night moon mountains river boat two
-沅水通波接武冈，送君不觉有离伤。
-青山一道同云雨，明月何曾是两乡。
---
-The Yuan's waves flow straight on to Wugang;
-Seeing you off, I hardly feel the parting's pain.
-One range of green hills shares the same clouds and rain —
-And when was the bright moon in two lands? It shines on both the same.
---
-A rare cheerful farewell, written in exile at Longbiao: the same river, the same hills, the same weather and the same moon join the friends, so they are never really apart.
 
 == 登鹳雀楼 | Climbing Stork Tower
 by: 王之涣

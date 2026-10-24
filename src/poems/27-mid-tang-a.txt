@@ -31,63 +31,6 @@ Above the cliffs, the carefree clouds chase each other through.
 --
 "Ai-nai" (欸乃) is the creak of an oar or a boatman's call; at that sound the landscape seems to spring into colour as the mist clears — one of the most magical lines in Chinese. The aimless, "heartless" clouds (无心) are the fisherman's — and the exiled poet's — freedom from desire.
 
-== 登柳州城楼寄漳汀封连四州 | From the City Tower of Liuzhou, to Four Friends in Exile
-by: 柳宗元
-form: 七律
-tags: 友情 失意 雨 风 羁旅
-scene: day rain wind tower wall lotus mountains river
-城上高楼接大荒，海天愁思正茫茫。
-惊风乱飐芙蓉水，密雨斜侵薜荔墙。
-岭树重遮千里目，江流曲似九回肠。
-共来百越文身地，犹自音书滞一乡。
---
-From the tall tower on the wall I face the wilderness;
-Sea and sky stretch boundless as my grief and care.
-A sudden wind tears at the lotus on the water;
-Dense rain lashes slantwise at the ivy-covered wall there.
-The ridge-top trees block my thousand-li gaze;
-The river twists, as my insides twist in ninefold pain.
-We came together to this tattooed land of Yue —
-Yet our letters lie stranded, each in his own domain.
---
-In 815 Liu Zongyuan and four friends of the failed reform party, briefly recalled, were exiled again — each to a remote southern prefecture. From his tower at Liuzhou (Guangxi) he writes to the other four. The storm battering the fragrant lotus and the creepers is the political storm that broke the good men.
-
-== 溪居 | Living by the Creek
-by: 柳宗元
-form: 五古
-tags: 田园 隐逸 失意 闲适
-scene: day river fields cottage boat person
-久为簪组累，幸此南夷谪。
-闲依农圃邻，偶似山林客。
-晓耕翻露草，夜榜响溪石。
-来往不逢人，长歌楚天碧。
---
-So long weighed down by hatpin and by seal,
-I'm lucky to be banished to the southern wild.
-At leisure, I live next to farmers' plots;
-By chance I'm like a hermit of the hills, beguiled.
-At dawn I plough and turn the dewy grass;
-At night my oar knocks on the creek stones as I row.
-I come and go and never meet a soul,
-And sing long songs beneath Chu's blue sky, alone.
---
-Exiled to Yongzhou, Liu Zongyuan calls his banishment "lucky" — free of the hatpin and seal-ribbon of office, living like a farmer. The cheerfulness is real, but also bitterly ironic: no one comes; no one sees him.
-
-== 与浩初上人同看山寄京华亲故 | Viewing the Mountains with the Monk Haochu: To My Family in the Capital
-by: 柳宗元
-form: 七绝
-tags: 思乡 秋 山 羁旅
-scene: autumn peaks sea person
-海畔尖山似剑铓，秋来处处割愁肠。
-若为化得身千亿，散上峰头望故乡。
---
-The sharp peaks by the sea are like sword blades;
-In autumn, everywhere, they cut my sorrowing heart.
-If I could split into a thousand million selves,
-I'd climb each peak to gaze toward home, each self apart.
---
-The jagged karst peaks around Liuzhou become blades slicing his homesick heart. The wish to multiply his body like a Buddha's manifestations, so that a self might stand on every peak looking north, suits a poem written with a monk.
-
 == 早春呈水部张十八员外（其一） | Early Spring: To Zhang the Eighteenth of the Ministry of Waters
 by: 韩愈
 form: 七绝
@@ -143,7 +86,7 @@ Flowers compete in beauty before spring leaves, while plain willow catkins and e
 by: 孟郊
 form: 乐府
 tags: 人生 思乡 离别 春
-scene: night candle cottage person window
+scene: night candle cottage lady window
 慈母手中线，游子身上衣。
 临行密密缝，意恐迟迟归。
 谁言寸草心，报得三春晖。
@@ -176,7 +119,7 @@ Meng Jiao passed the *jinshi* examination in 796, aged forty-six, after two fail
 by: 贾岛
 form: 五绝
 tags: 隐逸 山 禅
-scene: day pine mountains clouds person two
+scene: day pine mountains clouds person child
 松下问童子，言师采药去。
 只在此山中，云深不知处。
 --
@@ -207,18 +150,3 @@ I leave for now, but will come back again —
 I won't break faith with this quiet place, as vowed.
 --
 The source of the story of 推敲 (*tuīqiāo*, "push–knock"): riding his donkey, Jia Dao could not decide whether the monk should "push" (推) or "knock at" (敲) the gate, and, lost in thought, rode into the procession of the governor Han Yu — who, instead of punishing him, said "knock" was better. Ever since, 推敲 means to weigh one's words with care.
-
-== 剑客 | The Swordsman
-by: 贾岛
-form: 五绝
-tags: 壮志 咏物 人生
-scene: day person mountains
-十年磨一剑，霜刃未曾试。
-今日把示君，谁有不平事？
---
-Ten years I've spent in grinding this one sword;
-Its frost-bright blade has never yet been tried.
-Today I hold it up for you to see —
-Who suffers wrong that wants to be set right?
---
-十年磨一剑, "ten years to grind one sword", is now the proverb for long, patient preparation. The sword is Jia Dao's talent, honed through years of study and ready for use — if only someone would give him the chance.

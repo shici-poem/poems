@@ -106,36 +106,6 @@ Comes home through wind and snow, at night, to the door.
 --
 Twenty characters, a complete short film: a traveller finds shelter at dusk in a poor mountain hut; in the night a dog barks — the master is coming home through the storm. 风雪夜归人, "a man coming home on a night of wind and snow", is one of the best-loved images in Chinese.
 
-== 送灵澈上人 | Seeing Off the Monk Lingche
-by: 刘长卿
-form: 五绝
-tags: 禅 离别 山 友情
-scene: dusk sun temple bamboo mountains person
-苍苍竹林寺，杳杳钟声晚。
-荷笠带斜阳，青山独归远。
---
-The bamboo-grove temple, dark and green;
-Far off, the evening bell is sounding slow.
-His bamboo hat bears the slanting sun;
-Alone, into the green hills far, I watch him go.
---
-A farewell to the monk-poet Lingche. The poet stays behind; the monk, his rain-hat lit by the setting sun, grows smaller and smaller among the green hills — a painting in twenty characters.
-
-== 弹琴 | Playing the Qin
-by: 刘长卿
-form: 五绝
-tags: 音乐 失意 哲理
-scene: night pine person moon
-泠泠七弦上，静听松风寒。
-古调虽自爱，今人多不弹。
---
-Clear and cool, the seven strings sing;
-I listen to "Wind in the Pines", cold and lone.
-These ancient tunes are what I love the most —
-But few play them now; their time has flown.
---
-"Wind in the Pines" (风入松) was an old qin tune. On the surface, a lament that the pure music of the qin has given way to flashier new music from Central Asia; underneath, Liu Changqing's own integrity, out of fashion in his age.
-
 == 枫桥夜泊 | Night Mooring at Maple Bridge
 by: 张继
 form: 七绝

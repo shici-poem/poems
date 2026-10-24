@@ -13,27 +13,6 @@ And not because the autumn wind has carried it at all.
 --
 The cicada's mouthparts look like the tassels of an official's cap, and it was believed to live on dew — so it is an upright official. A person of real worth is heard far and wide by his own merit, without needing powerful backing. One of the "three great cicada poems" of the Tang, with Luo Binwang's and Li Shangyin's.
 
-== 野望 | Gazing Across the Wilds
-by: 王绩
-form: 五律
-tags: 秋 隐逸 田园 山
-scene: dusk autumn sun hills fields rider person
-东皋薄暮望，徙倚欲何依。
-树树皆秋色，山山唯落晖。
-牧人驱犊返，猎马带禽归。
-相顾无相识，长歌怀采薇。
---
-At dusk I gaze out from the eastern shore,
-And wander — where's a place where I belong?
-Each tree is tinged with autumn's colour now;
-Each hill holds only sunset's glow, not long.
-The herdsmen drive their calves back home;
-The hunters' horses come with game in tow.
-We look at each other; no one knows me here —
-I sing of the fern-gatherers of long ago.
---
-One of the first true regulated poems of the Tang, plain and natural after the ornate court verse of the age before. The fern-gatherers were Boyi and Shuqi, princes who refused to serve the new Zhou dynasty and lived on wild ferns until they starved — models of the principled recluse.
-
 == 咏鹅 | Ode to the Goose
 by: 骆宾王
 form: 五古
@@ -48,42 +27,6 @@ White feathers float on water green;
 Red feet paddle the clear waves by.
 --
 Said to have been written by Luo Binwang at the age of seven, and the first poem many Chinese children learn: sound, shape and colour — white, green, red, clear — in eighteen characters.
-
-== 在狱咏蝉 | Ode to the Cicada, Written in Prison
-by: 骆宾王
-form: 五律
-tags: 咏物 失意 秋
-scene: autumn wind leaves wall
-西陆蝉声唱，南冠客思深。
-不堪玄鬓影，来对白头吟。
-露重飞难进，风多响易沉。
-无人信高洁，谁为表予心？
---
-In autumn's western reach, the cicada sings;
-The southern-capped prisoner's thoughts run deep.
-How can I bear the shadow of those black-glossed wings
-Come to sing "White Head" to me as I weep?
-The dew is heavy — it can hardly fly ahead;
-The wind is strong — its song is quickly drowned.
-No one believes in its high purity — and who
-Will speak my heart for me, and make it known around?
---
-Written in 678 when Luo Binwang was imprisoned on false charges after criticising Empress Wu. "Western land" (西陆) means autumn; a captive from Chu once wore his southern-style cap in prison, so "southern cap" means a prisoner. "White Head" is an old song of a rejected wife. The cicada, symbol of purity, is the poet himself.
-
-== 于易水送人 | Seeing a Friend Off at the Yi River
-by: 骆宾王
-form: 五绝
-tags: 怀古 离别 壮志 江河
-scene: winter river wind two
-此地别燕丹，壮士发冲冠。
-昔时人已没，今日水犹寒。
---
-Here Jing Ke bade Prince Dan of Yan goodbye;
-In fury the hero's hair stood up against his crown.
-The men of those days are long gone, and lie
-Long dead — yet still the water's cold, flowing down.
---
-In 227 BC the assassin Jing Ke set out from the Yi River to kill the king of Qin (later the First Emperor), singing "The wind is sighing, the Yi River is cold; the hero goes, and will not return." He failed and was killed. "The water is still cold": the heroic spirit endures.
 
 == 送杜少府之任蜀州 | Seeing Off Assistant Magistrate Du to His Post in Shu
 by: 王勃
@@ -105,63 +48,6 @@ So here, where the roads divide, let's not, like girls and boys,
 Wet our handkerchiefs with tears, and weep the more.
 --
 Wang Bo's farewell to a friend posted to Sichuan (the "Five Fords" of the Min River). Instead of tears, comfort: 海内存知己，天涯若比邻 — "with a true friend anywhere in the world, the ends of the earth are like next door" — is one of the most quoted lines on friendship ever written.
-
-== 滕王阁诗 | The Pavilion of Prince Teng
-by: 王勃
-form: 七古
-tags: 怀古 时光 江河 山水
-scene: dusk tower river clouds rain mountains
-滕王高阁临江渚，佩玉鸣鸾罢歌舞。
-画栋朝飞南浦云，珠帘暮卷西山雨。
-闲云潭影日悠悠，物换星移几度秋。
-阁中帝子今何在？槛外长江空自流。
---
-Prince Teng's high pavilion overlooks the river's isle;
-His jade and carriage bells are still; the songs have died away.
-At dawn, the clouds of South Shore drift past the painted beams;
-At dusk, pearl blinds roll up on Western Hills, all rain and grey.
-Idle clouds and shadows in the pool — the long days slip on by;
-Things change, the stars move on — how many autumns since that day?
-The prince who feasted in this hall — where is he now?
-Beyond the rail, the Long River flows on its lonely way.
---
-Composed in 675 at a banquet in the Pavilion of Prince Teng at Nanchang, as the closing poem of Wang Bo's famous *Preface*. Legend says the host intended his son-in-law to shine, but the twenty-five-year-old Wang Bo took up the brush and stunned everyone. The prince is gone; only the river remains. Wang Bo drowned the following year.
-
-== 山中 | In the Mountains
-by: 王勃
-form: 五绝
-tags: 思乡 秋 羁旅 风
-scene: autumn wind mountains leaves river
-长江悲已滞，万里念将归。
-况属高风晚，山山黄叶飞。
---
-By the Long River I grieve, so long held here;
-Ten thousand li from home, I long to return.
-And now the autumn wind blows high and late,
-And yellow leaves fly over every hill in turn.
---
-Written in Sichuan, where Wang Bo had been sent away after offending the emperor with a playful essay. The yellow leaves whirling over every hill are homesickness made visible.
-
-== 从军行（杨炯） | Army Song (Yang Jiong)
-by: 杨炯
-form: 五律
-tags: 边塞 壮志 战争 雪
-scene: winter snow fort flag rider wind
-烽火照西京，心中自不平。
-牙璋辞凤阙，铁骑绕龙城。
-雪暗凋旗画，风多杂鼓声。
-宁为百夫长，胜作一书生。
---
-The beacon fires light up the western capital's sky;
-My heart cannot be calm; it burns inside.
-With ivory tallies, generals leave the Phoenix Gate;
-Iron cavalry encircle Dragon City wide.
-Snow dims the painted banners till they fade;
-The roaring wind is mingled with the drums.
-I'd rather lead a hundred men in war
-Than be a scholar poring over books, now war has come.
---
-The cry of a young scholar who wants action, not books, when the frontier is in danger. The ivory tally (牙璋) was half of a split token authorising a general to command. 宁为百夫长，胜作一书生 became the slogan of scholars turning soldier.
 
 == 风 | Wind
 by: 李峤
@@ -212,7 +98,7 @@ Youzhou Terrace (near Beijing) was said to be the Golden Terrace built by King Z
 by: 贺知章
 form: 七绝
 tags: 思乡 时光 人生 童趣
-scene: spring cottage willow person two
+scene: spring cottage willow elder child
 少小离家老大回，乡音无改鬓毛衰。
 儿童相见不相识，笑问客从何处来。
 --
@@ -222,21 +108,6 @@ The children see me, a stranger to them all —
 "Where are you from, sir?" they ask, with a grin.
 --
 He Zhizhang came home to Yuezhou (Zhejiang) in 744, aged eighty-five, after more than fifty years at court. The children's innocent question — asking a native where he comes from — holds all the gentle comedy and sadness of the poem.
-
-== 回乡偶书（其二） | Coming Home (II)
-by: 贺知章
-form: 七绝
-tags: 思乡 时光 春 江河
-scene: spring lake willow cottage person
-离别家乡岁月多，近来人事半消磨。
-惟有门前镜湖水，春风不改旧时波。
---
-I've been away from home so many, many years;
-Of all the people I once knew, half have passed away.
-Only Mirror Lake before my door, it appears,
-In the spring wind still ripples as it did in the old days.
---
-The companion poem: people change and die, but the lake keeps its ripples. Nature's constancy deepens human transience.
 
 == 咏柳 | Ode to the Willow
 by: 贺知章

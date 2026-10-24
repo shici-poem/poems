@@ -157,27 +157,6 @@ Flowers and moonlight in the breeze of spring, as then.
 --
 A dream of the old splendour of his capital: a stream of carriages, dragon-like horses, flowers and moonlight in the spring breeze. 车如流水马如龙 became the idiom for bustling traffic. The "regret" is that he woke.
 
-== 长相思（一重山） | Endless Longing (One Range of Hills)
-by: 李煜
-form: 词
-tags: 相思 秋 山 鸟 闺怨
-scene: autumn maple mountains geese chrysanthemum window
-一重山，两重山。
-山远天高烟水寒，相思枫叶丹。
-
-菊花开，菊花残。
-塞雁高飞人未还，一帘风月闲。
---
-One range of hills, then two;
-Far hills, high sky, cold misty water too;
-My longing burns as red as maple leaves.
-
-Chrysanthemums bloom, chrysanthemums die;
-The wild geese fly back high, but he has not come by;
-The wind and moon stay idle at the blind as she grieves.
---
-A woman's longing through the seasons: the maples redden, the chrysanthemums bloom and fade, the geese return — but her man does not. The attribution to Li Yu is traditional.
-
 == 摊破浣溪沙（菡萏香销翠叶残） | Washing Silk in the Stream, Extended (The Lotus Scent Is Gone)
 by: 李璟
 form: 词
@@ -223,28 +202,3 @@ All day she waits for him, and he does not come —
 She looks up, and hears the magpies' joyful chant.
 --
 The opening — the wind suddenly rising and ruffling a pond of spring water — is a famous image of a heart stirred by nothing in particular. The ruler Li Jing teased Feng Yansi: "A wind ruffling a pond — what has that to do with you?" Magpies were believed to announce good news or an arriving guest, so the poem ends on a flicker of hope.
-
-== 鹊踏枝（谁道闲情抛掷久） | The Magpie Treads the Branch (Who Says I Cast It Off)
-by: 冯延巳
-form: 词
-tags: 春 人生 饮酒 月 柳
-scene: dusk spring crescent willow bridge person wind
-谁道闲情抛掷久？每到春来，惆怅还依旧。
-日日花前常病酒，不辞镜里朱颜瘦。
-
-河畔青芜堤上柳，为问新愁，何事年年有？
-独立小桥风满袖，平林新月人归后。
---
-Who says I'd long since thrown these idle feelings away?
-Each time the spring returns,
-The old melancholy burns.
-Every day, among the flowers, I drink until I'm ill,
-And never mind how in my mirror my young face grows thin.
-
-The green weeds by the river, the willows on the dyke —
-I ask: why does this new sorrow
-Come back each year again?
-Alone upon the little bridge, the wind fills up my sleeves;
-Over the level woods, the new moon — when everyone's gone in.
---
-Melancholy without a cause, renewed every spring like the grass — the essence of the early *ci*. The closing picture — a lone figure on a small bridge, sleeves full of wind, a new moon over the woods after everyone has gone home — is one of the most beautiful endings in the genre.

@@ -17,7 +17,7 @@ A tiny gesture says everything: the letter is sealed, the messenger is ready to 
 by: 张籍
 form: 乐府
 tags: 爱情 女性 相思
-scene: day palace tower window person
+scene: day palace tower window lady
 君知妾有夫，赠妾双明珠。
 感君缠绵意，系在红罗襦。
 妾家高楼连苑起，良人执戟明光里。
@@ -67,41 +67,11 @@ My make-up done, I whisper to my groom:
 --
 A coded letter. Before the examination of 826, Zhu Qingyu sent this poem to the influential official Zhang Ji: the new bride is the candidate, the parents-in-law are the examiners, the eyebrows his essays — "will they pass?" Zhang Ji replied with a poem assuring him she was the loveliest girl of all. He passed.
 
-== 宫词（其一） | Palace Song (I)
-by: 张祜
-form: 五绝
-tags: 闺怨 音乐 女性 思乡
-scene: night palace candle person
-故国三千里，深宫二十年。
-一声何满子，双泪落君前。
---
-Three thousand li from home she came;
-Twenty years locked deep within the palace walls.
-She sings "He Manzi" once — the very name —
-And before her lord, a pair of tears falls.
---
-"He Manzi" was a heartbreaking song named after a singer condemned to death, who sang it hoping for a pardon. A palace singer, far from home for twenty years, sings it before the emperor and weeps. Legend says a consort of Emperor Wuzong sang it at his deathbed and died of grief.
-
-== 题金陵渡 | Written at Jinling Ferry
-by: 张祜
-form: 七绝
-tags: 羁旅 夜 月 江河
-scene: night crescent river tower boat
-金陵津渡小山楼，一宿行人自可愁。
-潮落夜江斜月里，两三星火是瓜洲。
---
-By Jinling Ferry, a little inn upon the hill;
-A traveller who spends the night here can't help but grieve.
-The tide ebbs; the night river lies under the slanting moon, still;
-Two or three twinkling lights across — that's Guazhou, I believe.
---
-This Jinling Ferry is at Zhenjiang on the Yangtze, opposite Guazhou. A sleepless traveller looks across the dark river: a few distant lights are all there is of the far shore — and of the world.
-
 == 小儿垂钓 | A Child Fishing
 by: 胡令能
 form: 七绝
 tags: 童趣 田园 夏
-scene: summer river grass person reeds
+scene: summer river grass child reeds
 蓬头稚子学垂纶，侧坐莓苔草映身。
 路人借问遥招手，怕得鱼惊不应人。
 --

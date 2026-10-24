@@ -212,33 +212,6 @@ Am frozen in such sorrow, too, tonight?
 --
 Su Shi, no admirer of Liu Yong's sentimental songs, said of the lines 渐霜风凄紧，关河冷落，残照当楼 that they were "no less than the heights of the Tang". The second stanza imagines his beloved mistaking every boat on the horizon for his — an echo of Wen Tingyun's "a thousand sails go by, and none is his".
 
-== 天仙子（水调数声持酒听） | The Celestial Immortal (Wine in Hand, I Hear the Water Song)
-by: 张先
-form: 词
-tags: 春 月 夜 花 时光
-scene: night spring moon clouds flowers lake birds window
-水调数声持酒听，午醉醒来愁未醒。
-送春春去几时回？临晚镜，伤流景，往事后期空记省。
-
-沙上并禽池上暝，云破月来花弄影。
-重重帘幕密遮灯，风不定，人初静，明日落红应满径。
---
-Wine in hand, I listen to a few notes of the "Water Song";
-I wake at noon from drink, but my sadness lingers on.
-I see the spring off — when will spring come back again?
-Facing the evening mirror,
-Grieving the years that flow,
-I recall the past, and future vows, in vain.
-
-Birds pair on the sand; dusk settles on the pond;
-The clouds part, the moon comes out, the flowers play with their shades.
-Layer on layer of curtains screen the lamp;
-The wind won't settle;
-The house is quiet now;
-Tomorrow, fallen petals will strew every path, I'm afraid.
---
-云破月来花弄影 — "the clouds part, the moon comes out, and the flowers play with their shadows" — made Zhang Xian famous; with two other lines about shadows it earned him the nickname "Zhang of the Three Shadows". The verb 弄, "play with", brings the whole moonlit garden to life.
-
 == 浣溪沙（一曲新词酒一杯） | Washing Silk in the Stream (A New Song, a Cup of Wine)
 by: 晏殊
 form: 词
@@ -282,51 +255,3 @@ I'd send a coloured note, a letter on fine silk —
 But mountains are long, the waters wide: who knows where?
 --
 昨夜西风凋碧树，独上高楼，望尽天涯路 — Wang Guowei made this the first of his "three stages" of every great achievement: climbing alone, seeing far, setting the goal. In the poem itself, it is a woman gazing down an endless road for someone who does not come.
-
-== 破阵子（燕子来时新社） | Breaking Through the Ranks (When the Swallows Come)
-by: 晏殊
-form: 词
-tags: 春 女性 童趣 鸟 节日
-scene: spring willow oriole swallows lake person two
-燕子来时新社，梨花落后清明。
-池上碧苔三四点，叶底黄鹂一两声，日长飞絮轻。
-
-巧笑东邻女伴，采桑径里逢迎。
-疑怪昨宵春梦好，元是今朝斗草赢，笑从双脸生。
---
-The swallows come at the spring festival;
-The pear blossoms fall at Qingming.
-On the pond, three or four flecks of green moss;
-Under the leaves, an oriole's one or two notes ring;
-The days are long, and willow-down floats light.
-
-The giggling girl next door, my friend,
-Meets me on the path to pick mulberry leaves.
-"I wondered why I had such a lovely dream last night —
-It's because today I won at fighting grass!"
-And smiles light up both her cheeks.
---
-A sunny spring scene in the voice of young girls, unusual for the stately Yan Shu. "Fighting grass" (斗草) was a game in which girls competed to gather the most kinds of plants, or hooked grass stems together and pulled. The good dream must have been an omen.
-
-== 玉楼春（东城渐觉风光好） | Spring in the Jade Tower (East of the City)
-by: 宋祁
-form: 词
-tags: 春 花 饮酒 人生 柳
-scene: dawn spring lake boat willow flowers sun
-东城渐觉风光好，縠皱波纹迎客棹。
-绿杨烟外晓寒轻，红杏枝头春意闹。
-
-浮生长恨欢娱少，肯爱千金轻一笑？
-为君持酒劝斜阳，且向花间留晚照。
---
-East of the city, I feel the scenery grow fair;
-The rippling waves, like crepe, welcome the boats along.
-Beyond the misty willows, the morning chill is light;
-On the red apricot boughs, spring breaks into noisy song.
-
-In this brief life, I always grieve that joys are few —
-Would I prize a thousand gold above one smile?
-For you, I'll raise my cup and toast the setting sun,
-And ask it to linger in the flowers a while.
---
-红杏枝头春意闹 — "on the red apricot boughs, spring is in uproar" — one verb, 闹 ("noisy, boisterous"), makes spring audible; Wang Guowei said "with the word 闹, the whole scene comes alive". It earned Song Qi the nickname "the Red Apricot Minister".

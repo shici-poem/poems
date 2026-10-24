@@ -2,7 +2,7 @@
 by: 杜牧
 form: 七绝
 tags: 节日 春 雨 饮酒 羁旅
-scene: spring rain peach cottage person
+scene: spring rain peach cottage person child ox
 清明时节雨纷纷，路上行人欲断魂。
 借问酒家何处有？牧童遥指杏花村。
 --
@@ -62,7 +62,7 @@ The Qinhuai River in Nanjing was lined with pleasure houses. "Flowers of the Rea
 by: 杜牧
 form: 七绝
 tags: 闺怨 秋 夜 女性 天空
-scene: night autumn stars palace candle
+scene: night autumn stars palace candle lady
 银烛秋光冷画屏，轻罗小扇扑流萤。
 天阶夜色凉如水，卧看牵牛织女星。
 --
@@ -177,78 +177,3 @@ The candle has a heart, and grieves to see us part —
 It sheds its tears for us till dawn, all the while.
 --
 Too much feeling makes the lovers seem cold and silent. The candle's "heart" is its wick (心 means both), and its "tears" the dripping wax — so the candle weeps for the lovers who cannot.
-
-== 金谷园 | The Golden Valley Garden
-by: 杜牧
-form: 七绝
-tags: 怀古 花 春 女性 悼亡
-scene: dusk spring petals tower river birds
-繁华事散逐香尘，流水无情草自春。
-日暮东风怨啼鸟，落花犹似坠楼人。
---
-The glory is scattered, gone with the scented dust;
-The heartless water flows; the grass grows green, as spring has its way.
-At dusk, in the east wind, the crying birds complain;
-The falling flowers look like her who fell from the tower that day.
---
-The Golden Valley Garden in Luoyang belonged to Shi Chong (249–300), the richest man of the Jin, famous for his extravagance. When a powerful rival demanded his beloved concubine Green Pearl, she threw herself from a tower rather than be taken. Five centuries later, Du Mu finds only grass, water and falling petals.
-
-== 将赴吴兴登乐游原 | Climbing Leyou Plain Before Leaving for Wuxing
-by: 杜牧
-form: 七绝
-tags: 失意 隐逸 怀古
-scene: day hills clouds rider wall
-清时有味是无能，闲爱孤云静爱僧。
-欲把一麾江海去，乐游原上望昭陵。
---
-To savour life in peaceful times, you must be no use at all;
-At leisure I love the lone cloud; in stillness, the monk's way.
-Now, with a governor's banner, I'll go where the rivers call —
-From Leyou Plain, toward the Zhao Tomb, I gaze today.
---
-850: about to leave the capital to govern Wuxing (Huzhou), Du Mu climbs Leyou Plain and gazes toward the Zhao Tomb of Emperor Taizong, the great founder of the Tang golden age. The first line is ironic: in such "peaceful times", only the useless can enjoy themselves — and he is not wanted. The look toward Taizong's tomb is a silent longing for a ruler who valued talent.
-
-== 齐安郡后池绝句 | Quatrain on the Rear Pond at Qi'an
-by: 杜牧
-form: 七绝
-tags: 夏 雨 鸟 花
-scene: summer rain lake lotus oriole flowers
-菱透浮萍绿锦池，夏莺千啭弄蔷薇。
-尽日无人看微雨，鸳鸯相对浴红衣。
---
-Water-chestnuts push through duckweed — the pond's green brocade;
-Summer orioles trill a thousand songs and play among the rose.
-All day, no one watches the fine rain drifting through the glade;
-Mandarin ducks, face to face, bathe in their red-feathered clothes.
---
-Du Mu as governor of Huangzhou (Qi'an). A rainy summer garden with no one in it — except a pair of mandarin ducks, symbols of happy love, whose red feathers are their "red robes". The poet's loneliness is felt only by contrast.
-
-== 长安秋望 | Autumn View of Chang'an
-by: 杜牧
-form: 五绝
-tags: 秋 天空 山
-scene: autumn day tower mountains maple
-楼倚霜树外，镜天无一毫。
-南山与秋色，气势两相高。
---
-The tower leans out beyond the frosted trees;
-The mirror sky has not one speck of grey.
-The Southern Hills and autumn's clear expanse
-Both soar, and vie in grandeur, high as they may.
---
-A crystal-clear autumn day in Chang'an. From a tower, the sky is a spotless mirror, and the Zhongnan mountains and the autumn air itself seem to compete to be loftier.
-
-== 叹花 | Sighing over Flowers
-by: 杜牧
-form: 七绝
-tags: 花 时光 爱情 春 人生
-scene: summer wind petals peach
-自是寻春去校迟，不须惆怅怨芳时。
-狂风落尽深红色，绿叶成阴子满枝。
---
-It's I who came too late in search of spring;
-I shouldn't grieve, or blame the flowering days.
-The wild wind's blown away the crimson blossoming;
-Green leaves make shade; the boughs bear fruit in sprays.
---
-Legend says the young Du Mu, in Huzhou, saw a lovely girl of about ten and promised her mother he would return to marry her within ten years. He came back fourteen years later to find her married, with children. Without the story, it is simply a gentle poem about missed chances — and about a different fulfilment: the fruit that follows the flowers.

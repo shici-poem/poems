@@ -38,7 +38,7 @@ A happy memory of girlhood in Jinan: tipsy after a day out, the girls row home i
 by: 李清照
 form: 词
 tags: 秋 悼亡 相思 雨 饮酒 女性 鸟
-scene: dusk autumn rain chrysanthemum window geese wind
+scene: dusk autumn rain chrysanthemum window geese wind lady
 寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
 乍暖还寒时候，最难将息。
 三杯两盏淡酒，怎敌他、晚来风急！
@@ -103,7 +103,7 @@ Written while her husband Zhao Mingcheng was away. Geese flying in formation spe
 by: 李清照
 form: 词
 tags: 相思 节日 秋 花 饮酒 女性
-scene: dusk autumn chrysanthemum window wind mist
+scene: dusk autumn chrysanthemum window wind mist lady
 薄雾浓云愁永昼，瑞脑销金兽。
 佳节又重阳，玉枕纱厨，半夜凉初透。
 
@@ -128,7 +128,7 @@ Sent to her husband at the Double Ninth, when families drank chrysanthemum wine 
 by: 李清照
 form: 词
 tags: 悼亡 春 花 人生 女性
-scene: dusk spring petals river boat person
+scene: dusk spring petals river boat lady
 风住尘香花已尽，日晚倦梳头。
 物是人非事事休，欲语泪先流。
 
@@ -191,7 +191,7 @@ Li Qingzhao's one great "heroic" lyric, written in her refugee years: a dream vo
 by: 李清照
 form: 词
 tags: 春 女性 童趣 爱情 花
-scene: spring flowers cottage person
+scene: spring flowers cottage lady
 蹴罢秋千，起来慵整纤纤手。
 露浓花瘦，薄汗轻衣透。
 
@@ -210,132 +210,3 @@ Then, leaning on the door, she looks back —
 And sniffs a green plum, as if that were what she'd come to do.
 --
 A girl caught off guard by a visitor — perhaps the young man she will marry — runs off in her socks, then cannot resist peeking back, pretending to smell the green plums. One of the most charming portraits of a girl in Chinese. (Its attribution to Li Qingzhao is traditional, though sometimes questioned.)
-
-== 永遇乐（落日熔金） | Joy of Eternal Union (The Setting Sun Melts into Gold)
-by: 李清照
-form: 词
-tags: 节日 时光 思乡 春 女性 人生
-scene: dusk spring sun clouds willow lantern window
-落日熔金，暮云合璧，人在何处。
-染柳烟浓，吹梅笛怨，春意知几许。
-元宵佳节，融和天气，次第岂无风雨。
-来相召、香车宝马，谢他酒朋诗侣。
-
-中州盛日，闺门多暇，记得偏重三五。
-铺翠冠儿，拈金雪柳，簇带争济楚。
-如今憔悴，风鬟霜鬓，怕见夜间出去。
-不如向、帘儿底下，听人笑语。
---
-The setting sun melts into gold;
-The evening clouds join like a ring of jade —
-Where is the one I love?
-Mist dyes the willows thick;
-A flute plays "Plum Blossoms", sad and slow —
-How much of spring is here?
-The Lantern Festival again,
-The weather mild and fair —
-Yet who knows if wind and rain may follow?
-They come to call, with scented carriages and fine horses;
-I thank my drinking friends and poet-friends — and stay.
-
-In the glory days of the Central Plain,
-We girls had leisure time to spare,
-And how we loved the Lantern Fifteenth!
-In caps of kingfisher feathers,
-With gold-twisted willow sprays of silk,
-We vied to look our finest there.
-Now, worn and wasted,
-With wind-tossed hair and frosted temples,
-I'm afraid to go out at night.
-Better to stay behind the blind,
-And listen to the laughter of others passing by.
---
-The Lantern Festival (the fifteenth of the first month) in Hangzhou, around 1150. The aged, widowed Li Qingzhao sets the festival of her youth in the lost northern capital, Kaifeng, against her present loneliness. 人在何处 can mean "where am I?" or "where is he?" The patriotic poet Liu Chenweng said he wept every time he read it.
-
-== 凤凰台上忆吹箫（香冷金猊） | On Phoenix Terrace, Remembering the Flute (The Gold Lion's Incense Is Cold)
-by: 李清照
-form: 词
-tags: 离别 相思 爱情 女性
-scene: dawn tower window river mist person
-香冷金猊，被翻红浪，起来慵自梳头。
-任宝奁尘满，日上帘钩。
-生怕离怀别苦，多少事、欲说还休。
-新来瘦，非干病酒，不是悲秋。
-
-休休，这回去也，千万遍阳关，也则难留。
-念武陵人远，烟锁秦楼。
-惟有楼前流水，应念我、终日凝眸。
-凝眸处，从今又添，一段新愁。
---
-The gold lion's incense has gone cold;
-The quilt is tossed in crimson waves;
-I rise, too listless to comb my hair.
-Let dust fill up my jewel box,
-And the sun climb the curtain hook — who'd care?
-I dread the bitter pain of parting so —
-How many things I'd say, then leave them there!
-I've grown so thin of late —
-And not from too much wine,
-Nor from autumn's melancholy air.
-
-Enough, enough!
-This time he's going —
-Though I sang "Yang Pass" ten thousand times,
-I still could not make him stay.
-I think of him, far off in Wuling;
-Mist locks the tower of Qin in grey.
-Only the water flowing by the tower
-Must pity me, gazing all the day.
-Where my gaze rests, from now on,
-There will be added
-Another new sorrow, come today.
---
-Written when her husband Zhao Mingcheng left to take up a post, around 1121. She cannot say what she feels for fear of making the parting harder. "Yang Pass" is Wang Wei's farewell song; the "man of Wuling" — the fisherman who found Peach Blossom Spring and could never find it again — is the absent husband; the tower of Qin belonged to the princess Nongyu, who played the flute with her husband until the two flew away on phoenixes, giving the tune its name.
-
-== 鹧鸪天·桂花 | Partridge Sky: Osmanthus
-by: 李清照
-form: 词
-tags: 花 秋 咏物 哲理
-scene: autumn flowers pavilion moon
-暗淡轻黄体性柔，情疏迹远只香留。
-何须浅碧深红色，自是花中第一流。
-
-梅定妒，菊应羞，画阑开处冠中秋。
-骚人可煞无情思，何事当年不见收。
---
-Dim and pale yellow, gentle in its grace;
-Aloof and far-off, it leaves only scent behind.
-What need has it of pale blue or deep red's face? —
-It is, by nature, the first flower of its kind.
-
-The plum is surely jealous, the chrysanthemum ashamed;
-By the painted railing, it's the crown of autumn's prime.
-The old poet of the *Songs of Chu* — how heartless he must have been,
-Not to name it among his flowers, in his time!
---
-The sweet osmanthus (桂花) has tiny, plain yellow flowers but an overwhelming scent. Li Qingzhao — no conventional beauty, but a supreme talent — calls it "by nature the first among flowers", and scolds Qu Yuan, who named many fragrant plants in his *Encountering Sorrow* but not this one.
-
-== 添字丑奴儿（窗前谁种芭蕉树） | Ugly Slave, Extended (Who Planted the Plantain)
-by: 李清照
-form: 词
-tags: 思乡 雨 夜 女性
-scene: night rain window cottage person
-窗前谁种芭蕉树，阴满中庭。
-阴满中庭，叶叶心心，舒卷有余情。
-
-伤心枕上三更雨，点滴霖霪。
-点滴霖霪，愁损北人，不惯起来听。
---
-Who planted the plantain tree before my window here?
-Its shade fills all the yard;
-Its shade fills all the yard.
-Leaf by leaf, and heart by heart,
-It furls and unfurls with feelings still to spare.
-
-Heartsick, on my pillow, the midnight rain:
-Drip, drip, drip, it never ends;
-Drip, drip, drip, it never ends.
-It wounds this northerner's heart —
-I'm not used to rising up to listen there.
---
-Written as a refugee in the south. The broad leaves of the plantain (banana) tree, each furled round its "heart", seem full of feeling; at night the rain drums on them without end. Only a "northerner" — someone who has lost her home in the north — would lie awake listening.

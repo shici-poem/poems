@@ -69,7 +69,7 @@ Lu You's first wife, his cousin Tang Wan, was forced to divorce him by his mothe
 by: 唐琬
 form: 词
 tags: 爱情 离别 女性 悼亡 雨
-scene: dusk rain petals pavilion wall person
+scene: dusk rain petals pavilion wall lady
 世情薄，人情恶，雨送黄昏花易落。
 晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
 
@@ -246,21 +246,6 @@ Where once a startled swan's reflection came in view.
 --
 Written in 1199, forty-four years after the meeting with Tang Wan in Shen Garden, when Lu You was seventy-five. The "startled swan" (惊鸿) is an image of a beautiful woman, from Cao Zhi's *Goddess of the Luo*: her reflection once passed over this very water.
 
-== 沈园（其二） | Shen Garden (II)
-by: 陆游
-form: 七绝
-tags: 悼亡 爱情 时光 柳
-scene: spring willow lake pavilion person
-梦断香消四十年，沈园柳老不吹绵。
-此身行作稽山土，犹吊遗踪一泫然。
---
-The dream has broken, the fragrance faded — forty years ago;
-Shen Garden's willows are too old to shed their down.
-This body will soon be earth on Kuaiji's hills below —
-Yet still I mourn these traces, and my tears fall down.
---
-The second of the pair. Tang Wan had died some forty years before; the willows are old, and so is the poet, who knows he will soon lie buried in the hills of Kuaiji. Still he comes back to weep.
-
 == 剑门道中遇微雨 | Meeting Light Rain on the Road to Sword Gate
 by: 陆游
 form: 七绝
@@ -275,18 +260,3 @@ Am I then meant to be a poet — is that line mine? —
 In the fine rain, on a donkey, through Sword Gate I depart.
 --
 1172: Lu You was moved from the front line to a desk job in Chengdu — the end of his military hopes. Poets rode donkeys (Li Bai, Du Fu, Jia Dao all did); soldiers rode horses. Riding a donkey into Sichuan through the Sword Gate in the rain, he asks bitterly: is a poet all I am meant to be?
-
-== 梅花绝句（其一） | Plum Blossom Quatrain (I)
-by: 陆游
-form: 七绝
-tags: 花 冬 咏物 闲适
-scene: winter plum mountains snow person
-闻道梅花坼晓风，雪堆遍满四山中。
-何方可化身千亿，一树梅花一放翁。
---
-I hear the plum blossoms have opened in the morning breeze,
-Like drifts of snow all through the hills on every side.
-If only I could split into a million selves, to please
-Each plum tree with an old Fangweng beside!
---
-Lu You called himself Fangweng, "the Old Man Unrestrained". He loved plum blossom so much that he wished he could multiply himself, so that every tree could have its own admirer.

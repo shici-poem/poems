@@ -88,46 +88,6 @@ The snow must yield the plum its scent — and so the contest's done.
 --
 A playful debate between two winter beauties. The verdict — snow is whiter, plum is sweeter — became a saying about everyone having their own strengths.
 
-== 雪梅（其二） | Snow and Plum (II)
-by: 卢梅坡
-form: 七绝
-tags: 雪 花 冬
-scene: dusk winter snow plum cottage
-有梅无雪不精神，有雪无诗俗了人。
-日暮诗成天又雪，与梅并作十分春。
---
-Plum blossom without snow has no true spirit;
-Snow without a poem makes a person crude and dull.
-At dusk the poem's finished — and it's snowing once again:
-With plum and snow together, spring is full.
---
-The companion poem: plum, snow and poetry together make a perfect spring — the three "pure" things of a scholar's winter.
-
-== 唐多令·惜别 | Tang Duo Ling: Sorrow at Parting
-by: 吴文英
-form: 词
-tags: 离别 相思 秋 月 柳
-scene: night autumn moon tower willow river boat
-何处合成愁？离人心上秋。纵芭蕉、不雨也飕飕。
-都道晚凉天气好，有明月、怕登楼。
-
-年事梦中休，花空烟水流。燕辞归、客尚淹留。
-垂柳不萦裙带住，漫长是、系行舟。
---
-What makes up sorrow, as it's made?
-Autumn upon a parted heart.
-The plantains sigh and rustle, though no rain has come.
-They all say the evening cool is fine —
-But with the moon so bright, I dare not climb the tower, apart.
-
-The year's affairs have ended, like a dream;
-The flowers gone, the misty waters flow.
-The swallow's gone home; the traveller lingers still.
-The willows would not twine her skirt-sash, to keep her here —
-Instead they tie my boat forever, and won't let go.
---
-The famous opening is a character riddle: 愁 (sorrow) is made of 秋 (autumn) on top of 心 (heart) — "autumn on the heart of one who is parted". Wu Wenying's lover has left; the willows that should have held her back hold only his boat.
-
 == 过零丁洋 | Crossing the Lonely Sea
 by: 文天祥
 form: 七律
@@ -220,7 +180,7 @@ By a Buddhist monk of the Southern Song. The last couplet — "apricot-blossom r
 by: 雷震
 form: 七绝
 tags: 田园 童趣 夏 音乐
-scene: dusk summer sun lake hills grass person
+scene: dusk summer sun lake hills grass child ox
 草满池塘水满陂，山衔落日浸寒漪。
 牧童归去横牛背，短笛无腔信口吹。
 --

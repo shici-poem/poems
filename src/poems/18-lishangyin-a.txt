@@ -95,7 +95,7 @@ Leyou Plain was the highest spot in Chang'an, with a view over the whole city. �
 by: 李商隐
 form: 七绝
 tags: 月 夜 相思 女性
-scene: night moon stars window candle palace
+scene: night moon stars window candle palace lady
 云母屏风烛影深，长河渐落晓星沉。
 嫦娥应悔偷灵药，碧海青天夜夜心。
 --
@@ -142,27 +142,6 @@ And you're beyond Penglai by ten thousand mountains' fold.
 --
 In a Han legend, Liu Chen met two fairies in the Tiantai Mountains, stayed half a year, and returned to find seven generations had passed — he could never find them again. The lover is now even further than that fairyland. The candle half-lighting the kingfisher-embroidered quilt and the drifting musk are the traces of a night together.
 
-== 隋宫（紫泉宫殿） | The Sui Palace
-by: 李商隐
-form: 七律
-tags: 怀古 柳 鸟
-scene: dusk palace willow crows river sail
-紫泉宫殿锁烟霞，欲取芜城作帝家。
-玉玺不缘归日角，锦帆应是到天涯。
-于今腐草无萤火，终古垂杨有暮鸦。
-地下若逢陈后主，岂宜重问后庭花。
---
-The halls of Purple Spring lay locked in mist and rosy haze;
-He wanted to make Wucheng his imperial home.
-Had the jade seal not gone to the man with the sun-horned brow,
-His brocade sails would have reached the world's end, to roam.
-Today, in the rotting grass, there are no fireflies;
-Forever, on the drooping willows, evening crows remain.
-If underground he meets the Last Lord of Chen,
-How could he ask for "Flowers of the Rear Court" again?
---
-Emperor Yang of Sui (r. 604–618) left his capital for pleasure cruises to Yangzhou (Wucheng) in dragon boats with brocade sails, bankrupting the state; he was murdered, and the empire passed to Li Yuan, founder of the Tang, whose "sun-horned" forehead was a sign of a destined emperor. Yang had fireflies gathered by the bushel to light his night outings, and planted the willows along the Grand Canal. The Last Lord of Chen lost his kingdom — to the Sui — while composing the song "Flowers of the Rear Courtyard". The two decadent rulers would have much to discuss in the underworld.
-
 == 蝉 | The Cicada
 by: 李商隐
 form: 五律
@@ -183,24 +162,3 @@ I thank you for your stern warning, cicada — I'd say
 My whole household is as pure and poor as you, I vow.
 --
 The cicada, believed to live on dew alone, was a symbol of the incorruptible scholar. Li Shangyin, trapped in minor posts by court factions, sees himself in the insect that sings itself hoarse on a tree that does not care.
-
-== 落花 | Falling Flowers
-by: 李商隐
-form: 五律
-tags: 花 春 失意 时光
-scene: dusk spring petals pavilion sun
-高阁客竟去，小园花乱飞。
-参差连曲陌，迢递送斜晖。
-肠断未忍扫，眼穿仍欲归。
-芳心向春尽，所得是沾衣。
---
-The guests have left the high pavilion at last;
-In the little garden, petals whirl and fly.
-In tangled drifts they line the winding paths;
-Far off, they see the slanting sun go by.
-Heartbroken, I can't bring myself to sweep;
-I gaze till my eyes ache, and long for their return.
-Their fragrant hearts have spent themselves on spring —
-And all they get is tears that wet my clothes in turn.
---
-Written around 846, when Li Shangyin was idle at home after his mother's death, his career stalled. The petals that give their "fragrant heart" to spring and receive only tears in return are his own devotion, unrewarded.

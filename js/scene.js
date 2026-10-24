@@ -47,6 +47,21 @@
     var horizon = water ? r(110, 126) : desert ? r(125, 140) : r(126, 142);
     var side = chance(0.5) ? 'L' : 'R';
 
+    // 三远 — Guo Xi's three ways to build a landscape: 平远 level distance (low ridges, wide space),
+    // 深远 deep distance (ridge behind ridge, mist between), 高远 high distance (one towering peak)
+    var comp = 'level';
+    if (has('peaks') || has('waterfall') || has('mountains')) {
+      var cr = R();
+      comp = has('waterfall') || cr < (has('mountains') ? 0.22 : 0.45) ? 'high' : cr < 0.72 ? 'deep' : 'level';
+    } else if (!water && !desert && !has('sea') && chance(0.3)) comp = 'deep';
+    // colour manner: 水墨 plain ink, 浅绛 pale ochre washes, 青绿 blue-green mineral colours (a Tang favourite)
+    var era = opt.era || '';
+    var wts = /唐|隋|南北朝|魏晋/.test(era) ? [0.4, 0.2] : /宋|元|金/.test(era) ? [0.5, 0.35] : [0.5, 0.3];
+    var sr0 = R(), manner = sr0 < wts[0] ? 'ink' : sr0 < wts[0] + wts[1] ? 'ochre' : 'green';
+    // where the inscription goes: the open side of the sky (the peak, if any, stands on the other side)
+    var peakSide = side;
+    var inscribe = comp === 'high' ? (peakSide === 'L' ? 'R' : 'L') : side;
+
     function grad(stops, vertical, x2) {
       var id = nid();
       defs.push('<linearGradient id="' + id + '" x1="0" y1="0" x2="' + (vertical === false ? (x2 || 1) : 0) +
@@ -140,10 +155,16 @@
       var last = pts[pts.length - 1];
       return d + 'L' + n(last[0]) + ',' + n(last[1]);
     }
+    function wash(layer, op) { // fill for a mountain mass in the painting's colour manner
+      if (snowy) return grad([[0, '#ffffff', 0.95], [0.5, '#d9dbdc', 0.9], [1, INK, op * 0.4]]);
+      var far = layer === 'far';
+      if (manner === 'green') return grad([[0, far ? '#5f7f95' : '#2c5a6e', op * 1.15], [0.55, far ? '#7f9c98' : '#4c876e', op * 0.8], [1, '#a9c09a', op * 0.1]]);
+      if (manner === 'ochre') return grad([[0, far ? '#77736f' : '#5e4636', op * 1.05], [0.5, far ? '#a0866a' : '#a8774c', op * 0.55], [1, '#c9a982', op * 0.08]]);
+      return grad([[0, INK, op], [1, INK, op * 0.06]]);
+    }
     function mountain(layer, base, hMax, peaks, op, sharp, tint) {
       var pts = ridge(base, hMax, peaks, sharp), line = smooth(pts);
-      var top = tint || INK;
-      var fill = snowy ? grad([[0, '#ffffff', 0.95], [0.5, '#d9dbdc', 0.9], [1, INK, op * 0.4]]) : grad([[0, top, op], [1, top, op * 0.06]]);
+      var fill = tint && !snowy ? grad([[0, tint, op], [1, tint, op * 0.06]]) : wash(layer, op);
       L[layer].push('<path d="' + line + 'L' + (W + 10) + ',' + n(base + 6) + 'L-10,' + n(base + 6) + 'Z" fill="' + fill + '"/>');
       L[layer].push('<path d="' + line + '" fill="none" stroke="' + INK + '" stroke-opacity="' + n(Math.min(0.85, op * (snowy ? 1.2 : 0.9))) + '" stroke-width="' + (sharp ? 0.9 : 0.7) + '"/>');
       if (opt.detail && layer !== 'far') { // 皴 texture strokes
@@ -156,24 +177,59 @@
       }
       return pts;
     }
-    function mist(y, o) {
+    function mist(y, o, layer) {
       for (var i = 0; i < 3; i++) {
-        L.near.push('<ellipse cx="' + n(r(0, W)) + '" cy="' + n(y + r(-4, 4)) + '" rx="' + n(r(60, 130)) + '" ry="' + n(r(4, 9)) + '" fill="' + skyLow + '" opacity="' + n(o) + '"/>');
+        L[layer || 'near'].push('<ellipse cx="' + n(r(0, W)) + '" cy="' + n(y + r(-4, 4)) + '" rx="' + n(r(60, 130)) + '" ry="' + n(r(4, 9)) + '" fill="' + skyLow + '" opacity="' + n(o) + '"/>');
       }
     }
+    function tallPeak() { // 高远: a towering main peak with a lesser one leaning on it
+      var dir = peakSide === 'L' ? 1 : -1, px = peakSide === 'L' ? r(48, 92) : r(208, 252);
+      var top = r(14, 30), base = horizon + 4;
+      peakX = px; peakTop = top;
+      [[px + dir * r(34, 46), top + r(26, 40), r(30, 40), 0.4], [px, top, r(52, 70), 0.62]].forEach(function (pk) {
+        var x0 = pk[0], t = pk[1], w = pk[2], op = pk[3], l = [], rr = [];
+        var b1 = r(1.5, 3.5), b2 = r(1.5, 3.5);
+        for (var i = 0; i <= 8; i++) { // a pointed summit, flanks broken by shoulders and ledges
+          var f = i / 8, yy = t + (base - t) * f;
+          l.push([x0 - w * Math.pow(f, 1.1) - Math.abs(Math.sin(f * Math.PI * b1)) * w * 0.12 * f + r(-2, 2) * f, yy]);
+          rr.push([x0 + w * 0.85 * Math.pow(f, 1.05) + Math.abs(Math.sin(f * Math.PI * b2)) * w * 0.1 * f + r(-2, 2) * f, yy]);
+        }
+        var d = 'M' + l.map(function (p) { return n(p[0]) + ',' + n(p[1]); }).reverse().join('L') + 'L' + rr.map(function (p) { return n(p[0]) + ',' + n(p[1]); }).join('L');
+        L.mid.push('<path d="' + d + 'Z" fill="' + wash('mid', op) + '"/>');
+        L.mid.push('<path d="' + d + '" fill="none" stroke="' + INK + '" stroke-opacity="' + n(op * 1.1) + '" stroke-width=".8" stroke-linejoin="round"/>');
+        for (var k = 0; k < (opt.detail ? 26 : 12); k++) { // 披麻皴 hemp-fibre texture strokes down the slopes
+          var ff = r(0.12, 0.85), side2 = chance(0.5) ? l : rr, idx = Math.min(7, Math.floor(ff * 8));
+          var sx = side2[idx][0] + (side2 === l ? 1 : -1) * r(3, w * 0.5 * ff), sy = side2[idx][1] + r(0, 6);
+          L.mid.push('<path d="M' + n(sx) + ',' + n(sy) + 'q' + n(r(-3, 3)) + ',' + n(r(5, 9)) + ' ' + n(r(-2, 2)) + ',' + n(r(10, 18)) + '" stroke="' + INK + '" stroke-opacity="' + n(op * 0.45) + '" stroke-width=".5" fill="none"/>');
+        }
+        for (var m = 0; m < 6; m++) { // 苔点 moss dots on the ridge
+          var q = (chance(0.5) ? l : rr)[Math.floor(r(1, 6))];
+          L.mid.push('<circle cx="' + n(q[0] + r(-2, 2)) + '" cy="' + n(q[1] + r(-1, 2)) + '" r="' + n(r(0.6, 1.2)) + '" fill="' + INK + '" opacity=".6"/>');
+        }
+      });
+      mist(top + (base - top) * r(0.5, 0.65), 0.75, 'mid'); // a cloud band across the waist
+    }
 
-    var bigMountains = has('mountains') || has('peaks');
+    var bigMountains = has('mountains') || has('peaks'), peakX = 0, peakTop = 0;
+    if (comp === 'deep') { // ridge behind ridge, each paler, mist between
+      mountain('far', horizon - r(24, 32), r(16, 28), 4, 0.1);
+      mist(horizon - r(22, 28), 0.6, 'far');
+      mountain('far', horizon - r(10, 16), r(16, 30), 4, 0.16);
+      mist(horizon - r(9, 14), 0.55, 'far');
+    }
     if (!(has('sea') && !bigMountains)) {
       mountain('far', horizon + 1, bigMountains ? r(45, 75) : r(14, 30), 4, bigMountains ? 0.22 : 0.15);
     }
-    if (has('mountains')) { mountain('mid', horizon + 2, r(28, 50), 3, 0.5); mist(horizon - 4, 0.55); }
-    if (has('peaks')) { mountain('mid', horizon + 3, r(70, 100), 4, 0.58, true); mist(horizon - r(10, 25), 0.6); }
+    if (comp === 'high') tallPeak();
+    if (has('mountains') && comp !== 'high') { mountain('mid', horizon + 2, r(28, 50), 3, 0.5); mist(horizon - 4, 0.55); }
+    if (has('peaks') && comp !== 'high') { mountain('mid', horizon + 3, r(70, 100), 4, 0.58, true); mist(horizon - r(10, 25), 0.6); }
     if (has('mist')) { mist(horizon - r(8, 30), 0.7); mist(horizon - r(0, 6), 0.6); }
 
     if (has('waterfall')) {
       var fx = side === 'L' ? r(205, 245) : r(55, 95), ft = r(25, 45);
       var cl = side === 'L' ? 1 : -1;
-      L.mid.push('<path d="M' + n(fx - 30 * cl) + ',' + n(horizon + 6) + 'L' + n(fx - 22 * cl) + ',' + n(ft + 10) + 'Q' + n(fx - 12 * cl) + ',' + n(ft - 8) + ' ' + n(fx) + ',' + n(ft) +
+      if (comp === 'high') { cl = peakSide === 'L' ? 1 : -1; fx = peakX + cl * r(4, 10); ft = peakTop + r(30, 42); } // falls down the great peak's face
+      else L.mid.push('<path d="M' + n(fx - 30 * cl) + ',' + n(horizon + 6) + 'L' + n(fx - 22 * cl) + ',' + n(ft + 10) + 'Q' + n(fx - 12 * cl) + ',' + n(ft - 8) + ' ' + n(fx) + ',' + n(ft) +
         'L' + n(fx + 8 * cl) + ',' + n(ft + 4) + 'Q' + n(fx + 26 * cl) + ',' + n(ft - 6) + ' ' + n(fx + 36 * cl) + ',' + n(ft + 18) + 'L' + n(fx + 44 * cl) + ',' + n(horizon + 6) + 'Z" fill="' +
         grad([[0, INK, 0.75], [1, INK, 0.25]]) + '"/>');
       L.mid.push('<path d="M' + n(fx) + ',' + n(ft) + 'L' + n(fx + 8 * cl) + ',' + n(ft + 4) + 'L' + n(fx + 10 * cl) + ',' + n(horizon + 6) + 'L' + n(fx - 2 * cl) + ',' + n(horizon + 6) + 'Z" fill="#f7f4ec" opacity=".95"/>');
@@ -267,6 +323,10 @@
       horse: function (x, y, s) { return horseP(x, y, s, flip); },
       rider: function (x, y, s) { return horseP(x, y, s, flip) + person(x + (flip ? 3 : -3) * s, y - 15 * s, s * 0.85, flip); },
       jar: jar, cup: cup, candle: candle,
+      lady: function (x, y, s) { return lady(x, y, s * 1.1, flip); },
+      child: function (x, y, s) { return child(x, y, s, !flip); },
+      elder: function (x, y, s) { return elder(x, y, s * 1.1, flip); },
+      ox: function (x, y, s) { return ox(x, y, s, flip, has('child')); },
     };
     function baseY(x, depth) { // depth 0 (far) .. 1 (near)
       return bankMode ? shoreTop + 5 + depth * (H - shoreTop - 8) : shoreTop + 8 + depth * (H - shoreTop - 14);
@@ -277,7 +337,8 @@
     var push = function (w, kind) { if (has(w)) landItems.push(kind || w); };
     ['palace', 'temple', 'tower', 'pavilion', 'cottage'].forEach(function (w) { push(w); });
     ['pine', 'willow', 'plum', 'peach', 'bamboo', 'maple'].forEach(function (w) { push(w); });
-    push('chrysanthemum'); push('two'); push('person'); push('rider'); push('horse');
+    push('chrysanthemum'); push('two'); push('person'); push('lady'); push('elder'); push('rider'); push('horse'); push('ox');
+    if (!has('ox')) push('child'); // with an ox, the child rides it (牧童骑牛)
     var objects = ['jar', 'cup', 'candle'].filter(has);
 
     if (landX0 >= 0 && landItems.length) {
@@ -303,12 +364,14 @@
       });
     }
     landItems.sort(function (p, q) { return p.y - q.y; });
+    var childAt = null;
     landItems.forEach(function (it) {
       var s = it.far ? 0.35 : scaleAt(it.y);
       var fn = DRAW[it.kind];
       if (fn) L.obj.push(fn(it.x, it.y, s));
       if (it.kind === 'cottage' && has('smoke')) L.obj.push(chimney(it.x + 6 * s, it.y - 22 * s, s));
-      if ((it.kind === 'person' || it.kind === 'two') && objects.length) {
+      if (it.kind === 'child' || (it.kind === 'ox' && has('child'))) childAt = { x: it.x, y: it.y - (it.kind === 'ox' ? 16 * s : 8 * s) };
+      if (['person', 'two', 'lady', 'elder'].indexOf(it.kind) >= 0 && objects.length) {
         objects.forEach(function (o, k) { L.obj.push(DRAW[o](it.x + (k + 1) * 9 * s * (side === 'L' ? 1 : -1), it.y + 1, s)); });
         objects = [];
       }
@@ -368,6 +431,13 @@
     if (has('birds')) for (var bd = 0; bd < 4; bd++) L.air.push(bird(r(60, 240), r(20, horizon * 0.6), r(0.6, 1), INK, 0.7));
     if (has('swallows')) for (var sw = 0; sw < 3; sw++) L.air.push(swallow(r(60, 240), r(40, horizon - 10), r(0.9, 1.3)));
     if (has('oriole')) L.air.push(oriole(r(80, 220), r(50, horizon - 10), 1));
+    if (has('kite')) { // 纸鸢, its string running down to the child
+      var kx = r(90, 210), ky = r(22, 50), hold = childAt || { x: r(60, 240), y: horizon + 30 };
+      L.air.push('<path d="M' + n(hold.x) + ',' + n(hold.y) + 'Q' + n((hold.x + kx) / 2 + 15) + ',' + n((hold.y + ky) / 2 + 20) + ' ' + n(kx) + ',' + n(ky + 6) + '" stroke="' + INK + '" stroke-width=".35" fill="none" opacity=".7"/>' +
+        '<path d="M' + n(kx) + ',' + n(ky - 7) + 'L' + n(kx + 5) + ',' + n(ky) + 'L' + n(kx) + ',' + n(ky + 7) + 'L' + n(kx - 5) + ',' + n(ky) + 'Z" fill="#c8352a" stroke="#6b2a20" stroke-width=".4"/>' +
+        '<path d="M' + n(kx) + ',' + n(ky - 7) + 'V' + n(ky + 7) + 'M' + n(kx - 5) + ',' + n(ky) + 'H' + n(kx + 5) + '" stroke="#e9c46a" stroke-width=".4"/>' +
+        '<path d="M' + n(kx) + ',' + n(ky + 7) + 'q4,5 0,9t0,9" stroke="#c8352a" stroke-width=".7" fill="none"/>');
+    }
     if (has('butterfly')) for (var bf = 0; bf < 2; bf++) L.air.push(butterfly(landX0 >= 0 && water ? r(landX0 + 5, landX1) : r(80, 220), r(horizon - 10, H - 30), r(0.9, 1.2)));
 
     /* ---------- weather ---------- */
@@ -407,20 +477,33 @@
 
     if (has('window')) L.frame.push(windowFrame());
 
-    if (opt.detail) {
-      if (opt.title) {
-        var chars = Array.from(opt.title.replace(/[·・].*$/, '').replace(/（.*?）/g, '')).slice(0, 8);
-        var tx = side === 'L' ? 18 : W - 18;
-        if (has('window')) tx = side === 'L' ? 36 : W - 36;
-        chars.forEach(function (ch, i) {
-          L.frame.push('<text x="' + tx + '" y="' + (34 + i * 13) + '" font-size="12" text-anchor="middle" fill="' + INK + '" opacity=".82" font-family="\'Ma Shan Zheng\',\'LXGW WenKai Screen\',KaiTi,STKaiti,serif">' + esc(ch) + '</text>');
+    // 题款 inscription: the title in a column of brush script, the poet's name beside it, then the seal
+    var BRUSH = 'font-family="\'Ma Shan Zheng\',\'LXGW WenKai Screen\',KaiTi,STKaiti,serif"';
+    var tx = inscribe === 'L' ? 18 : W - 18, inward = inscribe === 'L' ? 1 : -1;
+    if (has('window')) tx += inward * 18;
+    if (opt.detail && opt.title) {
+      var chars = Array.from(opt.title.replace(/[·・].*$/, '').replace(/（.*?）/g, '')).slice(0, 8);
+      chars.forEach(function (ch, i) {
+        L.frame.push('<text x="' + tx + '" y="' + (34 + i * 13) + '" font-size="12" text-anchor="middle" fill="' + INK + '" opacity=".82" ' + BRUSH + '>' + esc(ch) + '</text>');
+      });
+      if (opt.seal) {
+        var nx = tx + inward * 12, name = Array.from(opt.seal).slice(0, 4), ny = 34 + Math.max(0, chars.length - name.length - 1) * 13;
+        name.forEach(function (ch, i) {
+          L.frame.push('<text x="' + nx + '" y="' + n(ny + i * 9.5) + '" font-size="8.5" text-anchor="middle" fill="' + INK + '" opacity=".7" ' + BRUSH + '>' + esc(ch) + '</text>');
         });
-        if (opt.seal) {
-          var sy3 = 34 + chars.length * 13 - 4;
-          L.frame.push('<rect x="' + (tx - 6) + '" y="' + sy3 + '" width="12" height="12" rx="1.5" fill="#b8322a" opacity=".9"/>' +
-            '<text x="' + tx + '" y="' + (sy3 + 9.5) + '" font-size="9" text-anchor="middle" fill="#f6e9dc" font-family="\'Ma Shan Zheng\',KaiTi,serif">' + esc(Array.from(opt.seal)[0]) + '</text>');
-        }
+        L.frame.push(seal(nx, ny + name.length * 9.5 - 3, 12, opt.seal));
       }
+    } else if (opt.seal) {
+      L.frame.push(seal(tx, 10, 10, Array.from(opt.seal)[0])); // thumbnails: just a small seal
+    }
+
+    if (opt.detail) { // ink that bleeds a little at the edges, and the grain of the paper
+      defs.push('<filter id="' + uid + '_ink" x="-3%" y="-3%" width="106%" height="106%"><feTurbulence type="fractalNoise" baseFrequency=".035" numOctaves="2" seed="' + (hash(uid) % 97) + '"/>' +
+        '<feDisplacementMap in="SourceGraphic" scale="3"/></filter>' +
+        '<filter id="' + uid + '_paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>' +
+        '<feColorMatrix values="0 0 0 0 .35 0 0 0 0 .28 0 0 0 0 .2 0 0 0 -1.6 .9"/></filter>');
+      ['far', 'mid', 'near'].forEach(function (k) { L[k] = ['<g filter="url(#' + uid + '_ink)">'].concat(L[k], ['</g>']); });
+      L.fx.push('<rect width="' + W + '" height="' + H + '" filter="url(#' + uid + '_paper)" opacity=".22"/>');
     }
 
     var body = ['sky', 'far', 'mid', 'near', 'water', 'ground', 'obj', 'air', 'fx', 'glow', 'frame'].map(function (k) { return L[k].join(''); }).join('');
@@ -570,6 +653,44 @@
         '<path d="M' + n(x + 2 * s * f) + ',' + n(y - 10 * s) + 'q' + n(5 * s * f) + ',' + n(2 * s) + ' ' + n(7 * s * f) + ',' + n(6 * s) + '" stroke="' + c + '" stroke-width="' + n(1.6 * s) + '" fill="none" opacity=".85"/>' +
         '<circle cx="' + n(x) + '" cy="' + n(y - 14.5 * s) + '" r="' + n(2.6 * s) + '" fill="' + c + '"/>' +
         '<path d="M' + n(x - 1.5 * s) + ',' + n(y - 17 * s) + 'h' + n(3 * s) + 'v' + n(-1.6 * s) + 'h' + n(-3 * s) + 'Z" fill="' + c + '"/>';
+    }
+    function lady(x, y, s, flip) { // long trailing gown, hair in a high bun, a sash lifting in the air
+      var f = flip ? -1 : 1, robe = ['#a4493d', '#8b5a7a', '#5b7d8c', '#b3664a'][Math.floor(r(0, 4))];
+      return '<path d="M' + n(x - 2.4 * s) + ',' + n(y - 13 * s) + 'Q' + n(x - 4 * s) + ',' + n(y - 5 * s) + ' ' + n(x - 7 * s * f) + ',' + n(y + 0.5 * s) +
+        'Q' + n(x) + ',' + n(y + 1.5 * s) + ' ' + n(x + 9 * s * f) + ',' + n(y) + 'Q' + n(x + 4 * s * f) + ',' + n(y - 5 * s) + ' ' + n(x + 2.4 * s) + ',' + n(y - 13 * s) + 'Z" fill="' + robe + '" opacity=".9"/>' +
+        '<path d="M' + n(x - 2.5 * s * f) + ',' + n(y - 10 * s) + 'q' + n(-6 * s * f) + ',' + n(2 * s) + ' ' + n(-8 * s * f) + ',' + n(7 * s) + 'q' + n(-1 * s * f) + ',' + n(3 * s) + ' ' + n(2 * s * f) + ',' + n(6 * s) + '" stroke="#e8d3a8" stroke-width="' + n(0.6 * s) + '" fill="none"/>' +
+        '<path d="M' + n(x + 2 * s * f) + ',' + n(y - 11 * s) + 'q' + n(4 * s * f) + ',' + n(2 * s) + ' ' + n(4 * s * f) + ',' + n(6 * s) + '" stroke="' + robe + '" stroke-width="' + n(1.8 * s) + '" fill="none" stroke-linecap="round"/>' +
+        '<circle cx="' + n(x) + '" cy="' + n(y - 15 * s) + '" r="' + n(2.3 * s) + '" fill="#efe2cc" stroke="' + INK + '" stroke-width=".3"/>' +
+        '<path d="M' + n(x - 2.4 * s) + ',' + n(y - 15.5 * s) + 'q0,' + n(-3 * s) + ' ' + n(2.4 * s) + ',' + n(-3 * s) + 'q' + n(2.4 * s) + ',0 ' + n(2.4 * s) + ',' + n(3 * s) + 'Z" fill="' + INK + '"/>' +
+        '<ellipse cx="' + n(x - 0.6 * s * f) + '" cy="' + n(y - 19.2 * s) + '" rx="' + n(1.9 * s) + '" ry="' + n(1.4 * s) + '" fill="' + INK + '"/>' +
+        '<path d="M' + n(x + 0.8 * s) + ',' + n(y - 19.5 * s) + 'l' + n(2.6 * s * f) + ',' + n(-1.2 * s) + '" stroke="#c8352a" stroke-width="' + n(0.5 * s) + '"/>';
+    }
+    function child(x, y, s, flip) { // 总角: two tufts of hair
+      var f = flip ? -1 : 1, c = '#4f6b8a';
+      return '<path d="M' + n(x - 2 * s) + ',' + n(y - 7 * s) + 'L' + n(x - 4 * s) + ',' + n(y - 1 * s) + 'L' + n(x - 1.5 * s) + ',' + n(y - 1 * s) + 'L' + n(x - 1.5 * s) + ',' + n(y) +
+        'M' + n(x + 1.5 * s) + ',' + n(y) + 'L' + n(x + 1.5 * s) + ',' + n(y - 1 * s) + 'L' + n(x + 4 * s) + ',' + n(y - 1 * s) + 'L' + n(x + 2 * s) + ',' + n(y - 7 * s) + 'Z" fill="' + c + '" stroke="' + c + '" stroke-width=".6" stroke-linejoin="round"/>' +
+        '<path d="M' + n(x + 1.5 * s * f) + ',' + n(y - 6 * s) + 'l' + n(3.5 * s * f) + ',' + n(-3 * s) + '" stroke="' + c + '" stroke-width="' + n(1.1 * s) + '" stroke-linecap="round"/>' +
+        '<circle cx="' + n(x) + '" cy="' + n(y - 9 * s) + '" r="' + n(2.1 * s) + '" fill="#efe2cc" stroke="' + INK + '" stroke-width=".3"/>' +
+        '<circle cx="' + n(x - 1.8 * s) + '" cy="' + n(y - 11 * s) + '" r="' + n(1 * s) + '" fill="' + INK + '"/><circle cx="' + n(x + 1.8 * s) + '" cy="' + n(y - 11 * s) + '" r="' + n(1 * s) + '" fill="' + INK + '"/>';
+    }
+    function elder(x, y, s, flip) { // stooping, with a staff
+      var f = flip ? -1 : 1;
+      return person(x, y, s * 0.95, flip, '#5a4d42') +
+        '<path d="M' + n(x + 6 * s * f) + ',' + n(y - 13 * s) + 'L' + n(x + 8 * s * f) + ',' + n(y) + '" stroke="#5e4c36" stroke-width="' + n(0.8 * s) + '" stroke-linecap="round"/>' +
+        '<path d="M' + n(x - 1 * s) + ',' + n(y - 12.5 * s) + 'q' + n(1 * s * f) + ',' + n(3 * s) + ' 0,' + n(4 * s) + '" stroke="#e8e2d6" stroke-width="' + n(0.9 * s) + '" fill="none"/>';
+    }
+    function ox(x, y, s, flip, rider) { // 黄牛, with the herd-boy on its back
+      var f = flip ? -1 : 1, k = 0.9 * s, col = '#6b4a32';
+      var out = '<path d="M' + n(x - 12 * k * f) + ',' + n(y - 8 * k) + 'Q' + n(x - 13 * k * f) + ',' + n(y - 16 * k) + ' ' + n(x - 4 * k * f) + ',' + n(y - 15 * k) +
+        'L' + n(x + 7 * k * f) + ',' + n(y - 15.5 * k) + 'Q' + n(x + 11 * k * f) + ',' + n(y - 16 * k) + ' ' + n(x + 12 * k * f) + ',' + n(y - 13 * k) +
+        'L' + n(x + 16 * k * f) + ',' + n(y - 10 * k) + 'L' + n(x + 15 * k * f) + ',' + n(y - 7 * k) + 'L' + n(x + 11 * k * f) + ',' + n(y - 8 * k) +
+        'Q' + n(x + 9 * k * f) + ',' + n(y - 6 * k) + ' ' + n(x + 8 * k * f) + ',' + n(y - 6 * k) + 'L' + n(x - 10 * k * f) + ',' + n(y - 6 * k) + 'Z" fill="' + col + '" opacity=".92"/>';
+      [-10, -6, 5, 8].forEach(function (lx) { out += '<path d="M' + n(x + lx * k * f) + ',' + n(y - 7 * k) + 'V' + n(y) + '" stroke="' + col + '" stroke-width="' + n(1.4 * k) + '"/>'; });
+      out += '<path d="M' + n(x + 11.5 * k * f) + ',' + n(y - 14.5 * k) + 'q' + n(1 * k * f) + ',' + n(-3 * k) + ' ' + n(-1.5 * k * f) + ',' + n(-4 * k) + 'M' + n(x + 13 * k * f) + ',' + n(y - 14 * k) + 'q' + n(2 * k * f) + ',' + n(-3 * k) + ' ' + n(0.5 * k * f) + ',' + n(-4.5 * k) +
+        '" stroke="#d9c8a6" stroke-width="' + n(0.7 * k) + '" fill="none"/>' +
+        '<path d="M' + n(x - 12 * k * f) + ',' + n(y - 13 * k) + 'q' + n(-3 * k * f) + ',' + n(3 * k) + ' ' + n(-2 * k * f) + ',' + n(8 * k) + '" stroke="' + col + '" stroke-width=".6" fill="none"/>';
+      if (rider) out += child(x - 1 * k * f, y - 14.5 * k, s * 0.85, flip);
+      return out;
     }
     function horseP(x, y, s, flip) {
       var f = flip ? -1 : 1, k = 0.9 * s, ox = x - 18 * k * f, oy = y - 27 * k;
@@ -724,6 +845,20 @@
     function cup(x, y, s) {
       return '<path d="M' + n(x - 4 * s) + ',' + n(y - 6 * s) + 'h' + n(8 * s) + 'q0,' + n(4 * s) + ' ' + n(-4 * s) + ',' + n(4.5 * s) + 'q' + n(-4 * s) + ',' + n(-0.5 * s) + ' ' + n(-4 * s) + ',' + n(-4.5 * s) + 'Z" fill="#c9b37a" stroke="#6b5444" stroke-width=".4"/>' +
         '<path d="M' + n(x) + ',' + n(y - 1.5 * s) + 'v' + n(1.5 * s) + 'M' + n(x - 2 * s) + ',' + n(y) + 'h' + n(4 * s) + '" stroke="#6b5444" stroke-width="' + n(0.6 * s) + '"/>';
+    }
+    function seal(cx, top, size, text) { // 印章: red stone, characters read right column first, top to bottom
+      var ch = Array.from(text).slice(0, 4), k = ch.length;
+      var w = k === 2 ? size * 0.66 : size, h = k === 2 ? size * 1.25 : size, x0 = cx - w / 2;
+      var cells = k === 1 ? [[0.5, 0.5, 1]] : k === 2 ? [[0.5, 0.27, 0.5], [0.5, 0.73, 0.5]] :
+        k === 3 ? [[0.73, 0.5, 1], [0.27, 0.27, 0.5], [0.27, 0.73, 0.5]] : [[0.73, 0.27, 0.5], [0.73, 0.73, 0.5], [0.27, 0.27, 0.5], [0.27, 0.73, 0.5]];
+      var out = '<rect x="' + n(x0) + '" y="' + n(top) + '" width="' + n(w) + '" height="' + n(h) + '" rx="' + n(size * 0.1) + '" fill="#b8322a" opacity=".9"/>' +
+        '<rect x="' + n(x0 + size * 0.07) + '" y="' + n(top + size * 0.07) + '" width="' + n(w - size * 0.14) + '" height="' + n(h - size * 0.14) + '" fill="none" stroke="#f6e9dc" stroke-width="' + n(size * 0.04) + '" opacity=".7"/>';
+      ch.forEach(function (c, i) {
+        var cell = cells[i], fs = k === 1 ? size * 0.72 : size * 0.44;
+        out += '<text x="' + n(x0 + w * cell[0]) + '" y="' + n(top + h * cell[1] + fs * 0.36) + '" font-size="' + n(fs) + '" text-anchor="middle" fill="#f6e9dc" ' +
+          'font-family="\'Ma Shan Zheng\',KaiTi,serif">' + esc(c) + '</text>';
+      });
+      return out;
     }
     function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   }

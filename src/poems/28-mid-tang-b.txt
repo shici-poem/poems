@@ -64,21 +64,6 @@ But when this one has faded, there are no more flowers to show.
 --
 Chrysanthemums have been linked with Tao Yuanming ever since he wrote of "picking chrysanthemums by the eastern hedge". Yuan Zhen gives a simple, touching reason for loving them: they are the last flowers of the year.
 
-== 闻乐天授江州司马 | On Hearing That Bai Juyi Has Been Made Marshal of Jiangzhou
-by: 元稹
-form: 七绝
-tags: 友情 失意 雨 夜 风
-scene: night rain wind window candle
-残灯无焰影幢幢，此夕闻君谪九江。
-垂死病中惊坐起，暗风吹雨入寒窗。
---
-The dying lamp burns low, its shadows flickering;
-Tonight I hear you're banished to Jiujiang, far away.
-Though sick to death, I start up in my bed;
-Dark wind blows rain through the cold window's grey.
---
-815: Yuan Zhen, himself exiled and gravely ill in Tongzhou, hears that his best friend Bai Juyi has been demoted to Jiangzhou (Jiujiang). Bai Juyi wrote that he could never read the poem without pain. The dark wind blowing rain through the window is the whole bleak world they shared.
-
 == 雁门太守行 | Song of the Governor of Yanmen
 by: 李贺
 form: 乐府
@@ -114,21 +99,6 @@ When will I wear a golden bridle, and go
 Galloping through clear autumn? — Now I can only look.
 --
 One of twenty-three "Horse Poems", in which a fine horse waiting for a worthy master is the talented young Li He waiting for recognition — which never came. The golden bridle is an honoured place in the emperor's service.
-
-== 南园（其五） | South Garden (V)
-by: 李贺
-form: 七绝
-tags: 壮志 爱国 失意
-scene: day palace tower flag rider
-男儿何不带吴钩，收取关山五十州。
-请君暂上凌烟阁，若个书生万户侯？
---
-Why shouldn't a man wear a hooked sword of Wu,
-And win back fifty prefectures beyond the passes' gate?
-Just climb the Lingyan Pavilion for a moment, and view —
-Which bookish scholar there was made a lord of high estate?
---
-The Lingyan Pavilion displayed portraits of the twenty-four heroes who helped found the Tang — nearly all of them generals. Li He, a sickly scholar barred from the examinations on a technicality, chafes: the fifty prefectures held by rebellious warlords will be won back by the sword, not the pen.
 
 == 李凭箜篌引 | Li Ping Plays the Konghou
 by: 李贺
@@ -231,33 +201,3 @@ Tonight the moon is bright, and all look up to see —
 I wonder in whose house the autumn longing looms?
 --
 The Mid-Autumn Festival, when families gather under the full moon. The ground white with moonlight, crows silent in the trees, dew falling on the cassia (the tree that grows in the moon) — and a gentle question: everyone is looking at the moon, but whose heart is missing someone most?
-
-== 新嫁娘词（其三） | The New Bride (III)
-by: 王建
-form: 五绝
-tags: 女性 人生
-scene: day cottage smoke person two
-三日入厨下，洗手作羹汤。
-未谙姑食性，先遣小姑尝。
---
-On the third day, I went into the kitchen,
-Washed my hands, and made a pot of soup.
-Not knowing yet how Mother likes her food,
-I let her daughter taste it first — to see if it would suit.
---
-On the third day after the wedding a bride had to cook for her new mother-in-law. Clever and tactful, she asks her husband's little sister — who knows her mother's tastes — to try it first. A smiling glimpse of domestic life.
-
-== 雨过山村 | Passing a Mountain Village in the Rain
-by: 王建
-form: 七绝
-tags: 田园 雨 夏 花
-scene: summer rain bamboo bridge cottage flowers fields
-雨里鸡鸣一两家，竹溪村路板桥斜。
-妇姑相唤浴蚕去，闲着中庭栀子花。
---
-In the rain, from one or two homes, the cocks are crowing;
-By the bamboo creek, the village path, a plank bridge leaning.
-Mother and daughter-in-law call each other off to wash the silkworm eggs,
-Leaving the gardenias in the yard alone and gleaming.
---
-A mountain village in the rain at silkworm season. Everyone is busy, so only the gardenias in the courtyard are "idle" — a lovely detail of farm life.
