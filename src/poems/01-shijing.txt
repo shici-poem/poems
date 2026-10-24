@@ -1,0 +1,430 @@
+== 关雎 | The Ospreys Cry
+by: 诗经
+form: 四言
+tags: 爱情 相思 江河 鸟 女性
+scene: day river reeds birds person
+关关雎鸠，在河之洲。
+窈窕淑女，君子好逑。
+
+参差荇菜，左右流之。
+窈窕淑女，寤寐求之。
+
+求之不得，寤寐思服。
+悠哉悠哉，辗转反侧。
+
+参差荇菜，左右采之。
+窈窕淑女，琴瑟友之。
+
+参差荇菜，左右芼之。
+窈窕淑女，钟鼓乐之。
+--
+"Guan-guan!" the ospreys cry
+On the islet in the stream.
+A lovely, modest maiden —
+A fine lord's bride, his dream.
+
+The water-plants grow long and short;
+She gathers left and right.
+The lovely, modest maiden —
+He seeks her day and night.
+
+He seeks her and can't win her;
+Waking, sleeping, she's in his mind.
+Longing, longing, on and on,
+He tosses, turns — no rest to find.
+
+The water-plants grow long and short;
+She picks them left and right.
+The lovely, modest maiden —
+With zither and lute he'll court her, as is right.
+
+The water-plants grow long and short;
+She sorts them left and right.
+The lovely, modest maiden —
+With bells and drums he'll bring her delight.
+--
+The first poem of the *Book of Songs*, and so of all Chinese poetry — about three thousand years old. Ospreys, believed to mate for life, call to each other; a young man falls for a girl gathering water plants and dreams of winning her with music. Confucius said it showed "joy without excess, sorrow without harm". 窈窕淑女，君子好逑 is still the classic phrase for a perfect match.
+
+== 蒹葭 | The Reeds
+by: 诗经
+form: 四言
+tags: 爱情 相思 秋 江河
+scene: dawn autumn reeds river frost mist person
+蒹葭苍苍，白露为霜。
+所谓伊人，在水一方。
+溯洄从之，道阻且长。
+溯游从之，宛在水中央。
+
+蒹葭萋萋，白露未晞。
+所谓伊人，在水之湄。
+溯洄从之，道阻且跻。
+溯游从之，宛在水中坻。
+
+蒹葭采采，白露未已。
+所谓伊人，在水之涘。
+溯洄从之，道阻且右。
+溯游从之，宛在水中沚。
+--
+The reeds are green, so green;
+The white dew turns to frost.
+The one that I am longing for
+Is by the water, lost.
+Upstream I go to find her —
+The road is hard and long;
+Downstream I go to find her —
+She seems in midstream — gone.
+
+The reeds are lush and thick;
+The white dew is not dry.
+The one that I am longing for
+Is where the banks rise high.
+Upstream I go to find her —
+The road is steep to climb;
+Downstream I go to find her —
+She's on an isle, each time.
+
+The reeds are bright and full;
+The white dew's lingering still.
+The one that I am longing for
+Is at the water's sill.
+Upstream I go to find her —
+The road winds left and right;
+Downstream I go to find her —
+She's on a sandbar, out of sight.
+--
+The most haunting love song of the *Book of Songs*: an autumn river, reeds white with frost, and a beloved — 伊人, "that person" — always glimpsed across the water or in the middle of the stream, never reached. It has been read as courtship, as the search for a worthy man, and as the pursuit of every unattainable ideal.
+
+== 桃夭 | The Young Peach Tree
+by: 诗经
+form: 四言
+tags: 爱情 花 春 女性
+scene: spring peach cottage person
+桃之夭夭，灼灼其华。
+之子于归，宜其室家。
+
+桃之夭夭，有蕡其实。
+之子于归，宜其家室。
+
+桃之夭夭，其叶蓁蓁。
+之子于归，宜其家人。
+--
+The peach tree, young and fair,
+Its blossoms burning bright!
+This girl is going to be wed —
+She'll make her home a delight.
+
+The peach tree, young and fair,
+Its fruit is round and full!
+This girl is going to be wed —
+She'll make her household whole.
+
+The peach tree, young and fair,
+Its leaves grow thick and green!
+This girl is going to be wed —
+She'll bless her new kin within.
+--
+A wedding song. The bride is a young peach tree — first its blazing blossoms (her beauty), then its fruit (children), then its thick leaves (a flourishing family). 桃之夭夭，灼灼其华 is still written on wedding cards, and 灼灼, "burning bright", is the classic word for peach blossom.
+
+== 采薇（节选） | Gathering Ferns (excerpt)
+by: 诗经
+form: 四言
+tags: 战争 思乡 柳 雪 羁旅
+scene: winter snow willow person hills
+昔我往矣，杨柳依依。
+今我来思，雨雪霏霏。
+行道迟迟，载渴载饥。
+我心伤悲，莫知我哀！
+--
+When I went away long ago,
+The willows swayed so tenderly;
+Now that I am coming home,
+The snowflakes whirl and fly.
+Slow, slow, I walk the road,
+So thirsty, and so hungry, I.
+My heart is full of sorrow —
+No one knows my grief, or why.
+--
+The last stanza of a soldier's song, describing his return from years of fighting the Xianyun nomads in the north. 昔我往矣，杨柳依依；今我来思，雨雪霏霏 — willows when he left, snow when he returns — is often called the most beautiful couplet in the *Book of Songs*: four images hold a whole lost youth.
+
+== 硕鼠 | Big Rat
+by: 诗经
+form: 四言
+tags: 民生 田园
+scene: day fields cottage person
+硕鼠硕鼠，无食我黍！
+三岁贯女，莫我肯顾。
+逝将去女，适彼乐土。
+乐土乐土，爰得我所。
+
+硕鼠硕鼠，无食我麦！
+三岁贯女，莫我肯德。
+逝将去女，适彼乐国。
+乐国乐国，爰得我直。
+
+硕鼠硕鼠，无食我苗！
+三岁贯女，莫我肯劳。
+逝将去女，适彼乐郊。
+乐郊乐郊，谁之永号？
+--
+Big rat, big rat,
+Keep off my millet, I say!
+Three years I've fed you,
+And you've never looked my way.
+I swear that I will leave you
+For a happier land some day —
+A happy land, a happy land,
+Where I can find my way.
+
+Big rat, big rat,
+Keep off my wheat, I plead!
+Three years I've fed you,
+And you never paid me heed.
+I swear that I will leave you
+For a happier state indeed —
+A happy state, a happy state,
+Where I'll get what I need.
+
+Big rat, big rat,
+Keep off my sprouting grain!
+Three years I've fed you,
+And you've never eased my pain.
+I swear that I will leave you
+For a happier country plain —
+A happy plain, a happy plain,
+Where none will cry in vain.
+--
+A peasants' protest from the state of Wei, around the 7th century BC: the "big rat" is the lord who devours their harvest. The dream of a "happy land" (乐土) where labour is rewarded is one of the oldest utopias in literature.
+
+== 静女 | The Gentle Girl
+by: 诗经
+form: 四言
+tags: 爱情 女性 童趣
+scene: day wall grass two
+静女其姝，俟我于城隅。
+爱而不见，搔首踟蹰。
+
+静女其娈，贻我彤管。
+彤管有炜，说怿女美。
+
+自牧归荑，洵美且异。
+匪女之为美，美人之贻。
+--
+The gentle girl, so pretty,
+Waits for me at the corner of the wall;
+She hides — I cannot see her —
+I scratch my head, and pace, and call.
+
+The gentle girl, so lovely,
+Gave me a crimson reed;
+How brightly it is glowing —
+I love its beauty, indeed.
+
+From the pasture she brought me a shoot of grass,
+Truly lovely, and so rare.
+It's not that you're so lovely, little grass —
+It's that you come from my lady fair.
+--
+A lovers' tryst: the girl playfully hides; the young man frets; then he treasures her humble gifts — a red reed pipe, a sprout of grass from the pasture — because she gave them. 匪女之为美，美人之贻 — "it's not you that's beautiful, but the beauty who gave you" — is the whole logic of love in a line.
+
+== 子衿 | Your Collar
+by: 诗经
+form: 四言
+tags: 爱情 相思 女性
+scene: day wall tower person
+青青子衿，悠悠我心。
+纵我不往，子宁不嗣音？
+
+青青子佩，悠悠我思。
+纵我不往，子宁不来？
+
+挑兮达兮，在城阙兮。
+一日不见，如三月兮。
+--
+Blue, blue, your collar;
+Long, long, my heart's desire.
+Even if I don't come to you,
+Can't you send word, or inquire?
+
+Blue, blue, your girdle-jade;
+Long, long, my longing grows.
+Even if I don't come to you,
+Why don't you come? Who knows?
+
+I pace back and forth
+Upon the city tower.
+One day I do not see you
+Feels like three months, every hour!
+--
+A girl waits on the city wall for her lover, a student — the "blue collar" was a scholar's dress. 一日不见，如三月兮, "one day without seeing you is like three months", gave Chinese the idiom 一日三秋. Cao Cao borrowed the first couplet in his *Short Song*, turning it into a longing for men of talent.
+
+== 木瓜 | The Quince
+by: 诗经
+form: 四言
+tags: 爱情 友情
+scene: spring peach cottage two
+投我以木瓜，报之以琼琚。
+匪报也，永以为好也！
+
+投我以木桃，报之以琼瑶。
+匪报也，永以为好也！
+
+投我以木李，报之以琼九。
+匪报也，永以为好也！
+--
+You threw a quince to me;
+I gave you jade for your girdle in return.
+Not as payment —
+But so our love will forever burn!
+
+You threw a peach to me;
+I gave you a jade of fine repute.
+Not as payment —
+But so our love will forever take root!
+
+You threw a plum to me;
+I gave you a gem of black jade, bright.
+Not as payment —
+But so our love will last, day and night!
+--
+A courtship game: a girl throws fruit to the young man she likes; he answers with jade — not to "repay" her, but to pledge lasting love. 投桃报李, "a plum in return for a peach", became the idiom for exchanging kindness.
+
+== 击鼓 | Beating the Drums
+by: 诗经
+form: 四言
+tags: 战争 爱情 离别 相思
+scene: day flag rider horse pine
+击鼓其镗，踊跃用兵。
+土国城漕，我独南行。
+
+从孙子仲，平陈与宋。
+不我以归，忧心有忡。
+
+爰居爰处？
+爰丧其马？
+于以求之？
+于林之下。
+
+死生契阔，与子成说。
+执子之手，与子偕老。
+
+于嗟阔兮，不我活兮。
+于嗟洵兮，不我信兮。
+--
+The war drums boom and boom;
+We leap and train with spear and blade.
+Some build walls at home or at Cao —
+I alone march south, as I'm made.
+
+Under Sun Zizhong we march
+To make peace with Chen and Song.
+He won't let me go back home;
+My heart is grieved all along.
+
+Where shall I stop? Where shall I stay?
+Where has my horse gone astray?
+Where shall I go to look for it?
+Down in the woods, far away.
+
+"In life or death, near or far," I said,
+"With you this vow I'll keep:
+I'll take your hand in mine, and we
+Will grow old together, till we sleep."
+
+Alas, we are so far apart —
+I fear I'll never live to see you;
+Alas, so long I've been away —
+I cannot keep my word to you.
+--
+A soldier's lament from the state of Wei: marching far to the south, he fears he will never return. 执子之手，与子偕老 — "I'll hold your hand and grow old with you" — originally a soldier's vow that he fears he cannot keep, is now the most popular wedding vow in China.
+
+== 无衣 | No Clothes?
+by: 诗经
+form: 四言
+tags: 战争 友情 壮志 爱国
+scene: day flag fort rider horse
+岂曰无衣？
+与子同袍。
+王于兴师，修我戈矛。
+与子同仇！
+
+岂曰无衣？
+与子同泽。
+王于兴师，修我矛戟。
+与子偕作！
+
+岂曰无衣？
+与子同裳。
+王于兴师，修我甲兵。
+与子偕行！
+--
+Who says you have no clothes?
+Share my cloak, my friend.
+The king has raised an army;
+Our axes and spears we'll mend —
+Your foe is mine, to the end!
+
+Who says you have no clothes?
+Share my shirt, my brother.
+The king has raised an army;
+We'll sharpen our halberds, each for the other —
+We'll rise up together!
+
+Who says you have no clothes?
+Share my coat of mail.
+The king has raised an army;
+We'll ready our armour and weapons for the trail —
+We'll march together, and not fail!
+--
+A war song of the state of Qin — the future conquerors of all China — full of comradeship: soldiers share their clothes and march against a common enemy. 同袍, "sharing a cloak", is still the word for comrades-in-arms.
+
+== 黍离 | The Millet Rows
+by: 诗经
+form: 四言
+tags: 怀古 失意 田园
+scene: day fields wall person
+彼黍离离，彼稷之苗。
+行迈靡靡，中心摇摇。
+知我者，谓我心忧；
+不知我者，谓我何求。
+悠悠苍天，此何人哉？
+
+彼黍离离，彼稷之穗。
+行迈靡靡，中心如醉。
+知我者，谓我心忧；
+不知我者，谓我何求。
+悠悠苍天，此何人哉？
+
+彼黍离离，彼稷之实。
+行迈靡靡，中心如噎。
+知我者，谓我心忧；
+不知我者，谓我何求。
+悠悠苍天，此何人哉？
+--
+The millet grows in rows, row on row;
+The sorghum's sprouting green.
+I walk on slowly, slowly,
+My heart shaken, as in a dream.
+Those who know me say I'm grieving;
+Those who don't, ask what I seek.
+O distant, boundless blue sky —
+Who has done this? Speak!
+
+The millet grows in rows, row on row;
+The sorghum is in ear.
+I walk on slowly, slowly,
+My heart as drunk with grief, I fear.
+Those who know me say I'm grieving;
+Those who don't, ask what I seek.
+O distant, boundless blue sky —
+Who has done this? Speak!
+
+The millet grows in rows, row on row;
+The sorghum's grain is grown.
+I walk on slowly, slowly,
+My heart is choked, like stone.
+Those who know me say I'm grieving;
+Those who don't, ask what I seek.
+O distant, boundless blue sky —
+Who has done this? Speak!
+--
+Tradition says a Zhou official, passing the ruins of the old Western Zhou capital after it fell in 771 BC, found its palaces turned to millet fields and wrote this lament. 黍离之悲, "the grief of the millet rows", became the standard phrase for mourning a fallen dynasty or a lost homeland.

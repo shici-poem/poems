@@ -65,7 +65,11 @@ def main():
                 print(f"  NOT FOUND: {path.name}: {author} {title}")
                 return m.group(0)
             paras = [re.sub(r"[(（][^)）]*[)）]?", "", cc.convert(l)) for l in hits[0][2]]  # drop editorial notes
-            lines = [seg for l in paras for seg in re.findall(r"[^。？！；]+[。？！；]+”?", l) or [l]]
+            split = [re.findall(r"[^。？！；]+[。？！；]+”?", l) or [l] for l in paras]
+            if a == "诗经":  # Book of Songs paragraphs are stanzas: keep a blank line between them
+                lines = [seg for i, st in enumerate(split) for seg in ([""] if i else []) + st]
+            else:
+                lines = [seg for st in split for seg in st]
             print(f"  filled: {path.name}: {author} {title} ({len(lines)} lines)")
             return m.group(0)[: m.start("ref") - m.start()] + "\n".join(lines)
 
