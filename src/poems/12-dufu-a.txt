@@ -1,0 +1,510 @@
+== 春望 | Spring View
+by: 杜甫
+form: 五律
+tags: 爱国 战争 春 思乡 时光
+scene: spring wall flowers birds person
+国破山河在，城春草木深。
+感时花溅泪，恨别鸟惊心。
+烽火连三月，家书抵万金。
+白头搔更短，浑欲不胜簪。
+--
+The state lies broken; hills and rivers stay;
+Spring in the city: grass and trees grow deep.
+Grieved by the times, I see the flowers weep;
+Hating our parting, birdsong makes my heart leap.
+The beacon fires have burned three months on end;
+A letter from home is worth ten thousand gold.
+I scratch my white head; the hair grows thinner still —
+Soon it will be too thin a pin to hold.
+--
+Spring 757 in Chang'an, occupied by An Lushan's rebels. Du Fu was trapped in the ruined capital while his family was far away. The first line sets the empire's collapse against the indifferent permanence of nature. Lines 3–4 can be read both ways at once — the flowers and birds weep and start with him, or he weeps and starts at them. A scholar wore his hair in a topknot held with a pin; Du Fu's is falling out from grief.
+
+== 登高 | Climbing the Heights
+by: 杜甫
+form: 七律
+tags: 秋 人生 时光 羁旅 江河
+scene: autumn peaks river leaves birds person wind
+风急天高猿啸哀，渚清沙白鸟飞回。
+无边落木萧萧下，不尽长江滚滚来。
+万里悲秋常作客，百年多病独登台。
+艰难苦恨繁霜鬓，潦倒新停浊酒杯。
+--
+The wind is swift, the sky is high, the gibbons cry their grief;
+The isle is clear, the sand is white, the birds wheel back around.
+Endlessly the falling leaves come rustling, leaf on leaf;
+Unendingly the Long River comes rolling on with sound.
+Ten thousand li from home, in mournful autumn, a stranger everywhere,
+Sick all my life, I climb the terrace alone — no friend of mine.
+Hardship and bitter grief have frosted all my hair;
+Worn out, I've just given up my cup of cloudy wine.
+--
+Written in autumn 767 at Kuizhou on the Yangtze, on the Double Ninth Festival, when people climbed heights with their families and drank chrysanthemum wine. Du Fu, fifty-five, sick and far from home, climbs alone — and has had to give up wine for his health. Often called the greatest seven-character regulated poem ever written: every line is part of a parallel pair, and the middle couplet's falling leaves and endless river are an image of time itself.
+
+== 春夜喜雨 | Welcome Rain on a Spring Night
+by: 杜甫
+form: 五律
+tags: 春 雨 夜 花 田园
+scene: night spring rain river boat flowers cottage
+好雨知时节，当春乃发生。
+随风潜入夜，润物细无声。
+野径云俱黑，江船火独明。
+晓看红湿处，花重锦官城。
+--
+Good rain knows its proper season:
+It comes in spring, when all things start to grow.
+It slips in with the wind by night,
+And nourishes the world — so fine, so silent, slow.
+The country paths are black with cloud;
+A lone boat's lantern on the river is aglow.
+At dawn, look where it's red and wet:
+Brocade City's flowers hang heavy, row on row.
+--
+Chengdu, 761, during the happiest years of Du Fu's life, at his thatched cottage. The rain is a considerate friend who "knows" when it is needed and arrives quietly in the night. Brocade City (锦官城) is Chengdu, once the seat of the official in charge of the silk-brocade industry — and in the morning it is indeed brocaded with flowers.
+
+== 绝句（两个黄鹂鸣翠柳） | Quatrain (Two Golden Orioles)
+by: 杜甫
+form: 七绝
+tags: 春 鸟 山水 柳
+scene: spring willow oriole crane mountains snow river sail window
+两个黄鹂鸣翠柳，一行白鹭上青天。
+窗含西岭千秋雪，门泊东吴万里船。
+--
+Two golden orioles sing in the emerald willow;
+A line of white egrets climbs the blue of the sky.
+My window frames the West Range's thousand-autumn snow;
+At my gate, boats from Eastern Wu, ten thousand li, lie by.
+--
+Four lines, four perfectly parallel images — yellow and green, white and blue; near and far; sound and stillness — like four panels of a painted screen. Written at his Chengdu cottage in 764 when peace had briefly returned: the boats from Wu, on the lower Yangtze, mean the river route east is open again.
+
+== 望岳 | Gazing at Mount Tai
+by: 杜甫
+form: 五古
+tags: 山 壮志 山水
+scene: dawn peaks clouds birds mist
+岱宗夫如何？齐鲁青未了。
+造化钟神秀，阴阳割昏晓。
+荡胸生曾云，决眦入归鸟。
+会当凌绝顶，一览众山小。
+--
+What is it like, Mount Tai, the lord of peaks?
+Over Qi and Lu its green goes on and on.
+Creation gathered here its wonder and its grace;
+Its shaded and its sunlit sides divide the dusk and dawn.
+Layer on layer the clouds rise, and stir my breast;
+Home-flying birds dart into my straining eyes.
+One day I'll stand upon its highest crest,
+And see how small all other mountains lie.
+--
+Written by the twenty-four-year-old Du Fu after failing the imperial examination. Mount Tai (岱宗, "the ancestor of mountains") in Shandong, the holiest of China's Five Great Peaks, is so vast that its green spans the old states of Qi and Lu. The last couplet, all youthful ambition, echoes Mencius: "Confucius climbed Mount Tai and found the world small."
+
+== 江南逢李龟年 | Meeting Li Guinian South of the River
+by: 杜甫
+form: 七绝
+tags: 时光 人生 春 音乐 友情
+scene: spring petals river two pavilion
+岐王宅里寻常见，崔九堂前几度闻。
+正是江南好风景，落花时节又逢君。
+--
+In Prince Qi's mansion I saw you often then;
+In Cui the Ninth's great hall I heard you sing.
+Now in the south, the scenery's fine again —
+And I meet you as the blossoms fall from spring.
+--
+Li Guinian was the most celebrated singer at Emperor Xuanzong's court in the golden years before the An Lushan rebellion. In 770, the last year of Du Fu's life, the two old men met again as refugees in the south. Nothing sad is said; "the season of falling flowers" says everything about the lost golden age — and about the two of them.
+
+== 闻官军收河南河北 | Hearing That the Imperial Army Has Recovered Henan and Hebei
+by: 杜甫
+form: 七律
+tags: 爱国 思乡 战争 春
+scene: spring river boat peaks person
+剑外忽传收蓟北，初闻涕泪满衣裳。
+却看妻子愁何在，漫卷诗书喜欲狂。
+白日放歌须纵酒，青春作伴好还乡。
+即从巴峡穿巫峡，便下襄阳向洛阳。
+--
+Beyond Sword Pass, the news has come — the North has been restored!
+When first I heard, my tears ran down and drenched my clothes right through.
+I look at wife and children — where's their sorrow? Out the door!
+I roll my books up, mad with joy — what else is there to do?
+In broad daylight I'll sing aloud and drink till I am done;
+Spring's green will keep us company — how good to journey home!
+Straight from the Gorge of Ba, we'll thread the Gorge of Wu, and run
+Down to Xiangyang, and on to Luoyang, never more to roam.
+--
+Spring 763: after eight years, the An Lushan rebellion was crushed when government troops retook the rebels' base in the north-east (Jibei). Du Fu, a refugee in Sichuan beyond the Sword Gate Pass, hears the news. Called "the most joyful poem of his life", it ends by racing through four place-names, as if the journey home were already happening.
+
+== 茅屋为秋风所破歌 | Song of My Thatched Hut Torn by the Autumn Wind
+by: 杜甫
+form: 七古
+tags: 民生 秋 风 雨 人生
+scene: autumn wind rain cottage bamboo river person
+八月秋高风怒号，卷我屋上三重茅。
+茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。
+南村群童欺我老无力，忍能对面为盗贼。
+公然抱茅入竹去，唇焦口燥呼不得，归来倚杖自叹息。
+俄顷风定云墨色，秋天漠漠向昏黑。
+布衾多年冷似铁，娇儿恶卧踏里裂。
+床头屋漏无干处，雨脚如麻未断绝。
+自经丧乱少睡眠，长夜沾湿何由彻！
+安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山。
+呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！
+--
+In the eighth month, autumn's high; the wind howls in its rage,
+And rolls away three layers of the thatch from off my roof.
+The thatch flies over the river, strewn across the farther bank;
+The high bits catch and tangle in the treetops of the wood,
+The low bits whirl and spin, and sink in hollows of the pond.
+The boys of South Village bully me — I'm old and have no strength —
+And have the heart to rob me to my face!
+They carry off the thatch in broad daylight into the bamboo;
+My lips are parched, my mouth is dry, I shout to no avail;
+I come back, lean on my stick, and sigh alone.
+Soon the wind drops; the clouds turn black as ink;
+The autumn sky grows dim and dark toward night.
+My cotton quilt, years old, is cold as iron;
+My darling boy sleeps badly, and has kicked its lining through.
+Above the bed the roof leaks — not a single spot is dry;
+The rain falls thick as hemp threads, and never stops.
+Since the troubles came I've hardly slept —
+Soaked through, how can I last this long night till the light?
+Oh, for a mansion of ten thousand rooms and more,
+To shelter all the poor scholars under heaven and make them smile,
+Unshaken by wind and rain, as steady as a mountain!
+Ah! If ever I could see such a house rise up before my eyes,
+Then let my hut alone be broken, and I freeze to death — I'd be content!
+--
+Chengdu, autumn 761. The hut that a year earlier had brought Du Fu such peace is wrecked in a storm. The poem moves from comic misery — the village boys making off with his thatch, his exhausted shouting — to a vast compassion: he would gladly freeze if every poor scholar in the world could have a roof. It is among the most loved expressions of selflessness in Chinese literature.
+
+== 石壕吏 | The Officer at Shihao Village
+by: 杜甫
+form: 五古
+tags: 战争 民生 夜
+scene: night crescent cottage wall person two
+暮投石壕村，有吏夜捉人。
+老翁逾墙走，老妇出门看。
+吏呼一何怒！妇啼一何苦！
+听妇前致词：三男邺城戍。
+一男附书至，二男新战死。
+存者且偷生，死者长已矣！
+室中更无人，惟有乳下孙。
+有孙母未去，出入无完裙。
+老妪力虽衰，请从吏夜归。
+急应河阳役，犹得备晨炊。
+夜久语声绝，如闻泣幽咽。
+天明登前途，独与老翁别。
+--
+At dusk I lodged at Shihao village late;
+By night an officer came, seizing men.
+The old man fled across the wall; his wife went to the gate.
+How fierce the officer's shouts! How bitter her crying then!
+I heard her come before him and explain:
+"My three sons went to guard the city of Ye.
+From one of them a letter came again:
+Two sons have just been killed in the fray.
+The living one scrapes by from day to day;
+The dead are gone, forever passed away.
+There's no one else inside our home,
+But a grandson at his mother's breast;
+For him his mother's stayed — but she can't roam:
+She hasn't one whole skirt in which she could be dressed.
+This old woman's strength is weak, I know,
+But let me go with you tonight, I pray:
+To answer Heyang's muster, quick, I'll go,
+And cook the troops their breakfast at break of day."
+Deep in the night the voices died away;
+I seemed to hear someone sobbing low.
+At dawn I set out on my way,
+And only the old man saw me go.
+--
+Spring 759, after the government army's defeat at Ye, when press-gangs were seizing anyone they could find. Du Fu, lodging in a village in Henan, records without a word of comment: at night the old woman gives herself up to save her family; at dawn only the old man is left to say goodbye. One of the "Three Officers" (三吏), his great war ballads.
+
+== 月夜忆舍弟 | Thinking of My Brothers on a Moonlit Night
+by: 杜甫
+form: 五律
+tags: 思乡 月 秋 战争 友情
+scene: night autumn moon geese fort frost
+戍鼓断人行，边秋一雁声。
+露从今夜白，月是故乡明。
+有弟皆分散，无家问死生。
+寄书长不达，况乃未休兵。
+--
+The garrison drums have stopped all travellers on their way;
+At the autumn frontier, one wild goose cries in the night.
+From tonight on, the dew turns white, as the old seasons say;
+The moon, I know, at home is shining far more bright.
+I have brothers, but they're scattered far apart;
+No home is left to ask if they're alive or dead.
+The letters that I send never reach their mark —
+And still the wars go on, and still no peace ahead.
+--
+Qinzhou, autumn 759. The night is "White Dew" (白露), one of the twenty-four solar terms, marking the turn into autumn. A single wild goose — geese fly in families, and stand for brothers — cries alone. "The moon is brighter over my hometown" became a proverb: everything is better at home.
+
+== 旅夜书怀 | Thoughts While Travelling at Night
+by: 杜甫
+form: 五律
+tags: 羁旅 人生 江河 夜 失意
+scene: night moon stars river boat grass birds
+细草微风岸，危樯独夜舟。
+星垂平野阔，月涌大江流。
+名岂文章著，官应老病休。
+飘飘何所似，天地一沙鸥。
+--
+Fine grass, a gentle breeze along the shore;
+A tall mast, and my lonely boat by night.
+The stars hang low above the boundless plain;
+The moon wells up as the great River takes flight.
+Fame — has my writing ever won me that?
+Old and sick, I let my office pass me by.
+Drifting, drifting — what is it I'm like?
+A lone gull between the earth and sky.
+--
+Written in 765 as Du Fu, having lost his patron in Chengdu, sailed down the Yangtze. The vast, luminous middle couplet — stars sagging to the plain, the moon surging in the current — sets up the final image: one small gull in the immensity of the universe.
+
+== 登岳阳楼 | Climbing Yueyang Tower
+by: 杜甫
+form: 五律
+tags: 爱国 羁旅 山水 江河 人生
+scene: day lake tower boat clouds person
+昔闻洞庭水，今上岳阳楼。
+吴楚东南坼，乾坤日夜浮。
+亲朋无一字，老病有孤舟。
+戎马关山北，凭轩涕泗流。
+--
+Long had I heard of Dongting's waters wide;
+Today I climb the Yueyang Tower's height.
+Here Wu and Chu split east and south apart;
+Heaven and earth float on it day and night.
+From kin and friends, not one word comes to me;
+Old and sick, I have one lonely boat.
+North of the passes, war-horses still ride —
+I lean on the rail and let my tears run free.
+--
+768, two years before Du Fu's death. Dongting Lake in Hunan is so vast that the ancient lands of Wu and Chu seem split by it, and the whole universe floats upon it. Against this immensity, Du Fu has nothing — no letters, only a boat, and war still raging in the north.
+
+== 蜀相 | The Chancellor of Shu
+by: 杜甫
+form: 七律
+tags: 怀古 爱国 春 鸟
+scene: spring pine temple oriole grass
+丞相祠堂何处寻？锦官城外柏森森。
+映阶碧草自春色，隔叶黄鹂空好音。
+三顾频烦天下计，两朝开济老臣心。
+出师未捷身先死，长使英雄泪满襟。
+--
+Where shall I seek the shrine of the great Chancellor of Shu?
+Outside Brocade City, where the cypress trees grow tall.
+The green grass on the steps makes spring's colour for itself;
+Behind the leaves the orioles sing, for no one, after all.
+Three visits, urgent, sought his plans to set the world aright;
+Two reigns he served, the old minister, with all his heart and might.
+He led his army out, but died before the victory —
+And ever since, heroes have wept their sleeves wet at the sight.
+--
+Zhuge Liang (181–234), chancellor of the Shu-Han kingdom in the Three Kingdoms era, is China's model of wisdom and loyalty. Liu Bei visited his thatched hut three times to beg for his counsel; Zhuge Liang served him and then his son, and died in camp in 234 on his fifth northern campaign. Du Fu visited the shrine in Chengdu in 760. The last couplet is quoted whenever a great endeavour is cut short.
+
+== 春日忆李白 | Remembering Li Bai on a Spring Day
+by: 杜甫
+form: 五律
+tags: 友情 春 饮酒 相思
+scene: spring dusk clouds river willow
+白也诗无敌，飘然思不群。
+清新庾开府，俊逸鲍参军。
+渭北春天树，江东日暮云。
+何时一樽酒，重与细论文。
+--
+Li Bai — your poems have no peer;
+Your thoughts float free, far from the crowd's ways:
+Fresh and clear as Lord Yu Xin's,
+Bold and graceful as Bao Zhao's lays.
+North of the Wei, I see spring trees;
+East of the River, you watch evening clouds.
+When shall we share a jug of wine again,
+And talk of poetry, line by line, aloud?
+--
+Du Fu met Li Bai in 744 and travelled with him; after 745 they never met again. Du Fu wrote some fifteen poems about Li Bai. Yu Xin and Bao Zhao were great poets of the Southern Dynasties. "Spring trees north of the Wei, dusk clouds east of the River" — Du Fu in Chang'an, Li Bai in the south — became a set phrase for friends who miss each other.
+
+== 赠花卿 | For General Hua
+by: 杜甫
+form: 七绝
+tags: 音乐 江河 天空
+scene: day clouds river wall flowers
+锦城丝管日纷纷，半入江风半入云。
+此曲只应天上有，人间能得几回闻。
+--
+In Brocade City, strings and pipes play every day,
+Half on the river wind, half to the clouds they float away.
+Such music surely only heaven should possess —
+How many times can mortals hear it? Few, I'd say.
+--
+General Hua Jingding had put down a rebellion in Chengdu, then let his troops loot the city — and, many commentators believe, used music reserved for the emperor at his feasts. Du Fu's lavish praise may be a veiled rebuke: "this belongs in heaven" — that is, at the imperial court, not here.
+
+== 江畔独步寻花（其六） | Walking Alone by the River in Search of Flowers (VI)
+by: 杜甫
+form: 七绝
+tags: 春 花 鸟 闲适
+scene: spring flowers peach butterfly oriole cottage
+黄四娘家花满蹊，千朵万朵压枝低。
+留连戏蝶时时舞，自在娇莺恰恰啼。
+--
+At Fourth Sister Huang's, the path is filled with flowers;
+Thousands of blossoms, myriads, bend the branches low.
+The playful butterflies keep dancing, lingering for hours;
+The carefree orioles sing their sweet songs, just so.
+--
+One of seven quatrains Du Fu wrote in Chengdu on a solitary walk in search of spring flowers. Fourth Sister Huang was a neighbour. The doubled sounds 留连, 时时, 自在, 恰恰 make the lines dance and sing like the creatures they describe.
+
+== 绝句（迟日江山丽） | Quatrain (Long Spring Days)
+by: 杜甫
+form: 五绝
+tags: 春 鸟 花 江河
+scene: spring sun river swallows flowers grass
+迟日江山丽，春风花草香。
+泥融飞燕子，沙暖睡鸳鸯。
+--
+Long spring days: the rivers and the hills are fair;
+The spring breeze brings the scent of flowers and grass.
+The mud has thawed — the swallows fly to build;
+On warm sand, mandarin ducks doze as the hours pass.
+--
+Chengdu, 764. A first poem for many Chinese schoolchildren: four lines, four images of spring — light, scent, motion (swallows gathering soft mud for their nests) and stillness (a pair of mandarin ducks, symbols of devoted couples, asleep on the warm sand).
+
+== 月夜 | Moonlit Night
+by: 杜甫
+form: 五律
+tags: 相思 月 爱情 战争 夜
+scene: night moon window mist cottage
+今夜鄜州月，闺中只独看。
+遥怜小儿女，未解忆长安。
+香雾云鬟湿，清辉玉臂寒。
+何时倚虚幌，双照泪痕干。
+--
+Tonight the moon shines over Fuzhou far away;
+In her chamber, she is watching it alone.
+I think with pity of our little ones —
+Too young to know I'm in Chang'an, not home.
+The scented mist must dampen her cloud-soft hair;
+The clear light chills her jade-white arms tonight.
+When shall we lean by the thin curtain, side by side,
+Our tear-stains dried together in the moonlight?
+--
+Autumn 756. Du Fu had left his wife and children at Fuzhou to join the new emperor, but was captured by rebels and held in Chang'an. Instead of describing his own longing, he imagines his wife gazing at the moon alone — one of the very few Tang poems about a man's love for his wife, and one of the most tender.
+
+== 客至 | A Guest Arrives
+by: 杜甫
+form: 七律
+tags: 友情 春 田园 饮酒 闲适
+scene: spring river cottage flowers birds two jar
+舍南舍北皆春水，但见群鸥日日来。
+花径不曾缘客扫，蓬门今始为君开。
+盘飧市远无兼味，樽酒家贫只旧醅。
+肯与邻翁相对饮，隔篱呼取尽余杯。
+--
+North and south of my house, spring waters everywhere,
+And only flocks of gulls come visiting each day.
+My flowered path was never swept for any guest;
+My wicker gate today, for you, first opens its way.
+The market's far — my dinner has no second dish;
+My house is poor — the wine's last year's old brew, I fear.
+If you'd be willing, let us drink with my old neighbour —
+I'll call him over the fence to drain the last cups here.
+--
+Chengdu, 761: a visit from a county magistrate named Cui. Du Fu's apologies for his humble fare are full of warmth, and the closing picture — calling the old neighbour over the hedge to finish the wine — is the essence of simple country friendship.
+
+== 八阵图 | The Eight-Array Plan
+by: 杜甫
+form: 五绝
+tags: 怀古 江河
+scene: day river mountains clouds
+功盖三分国，名成八阵图。
+江流石不转，遗恨失吞吴。
+--
+His deeds outshone the kingdoms of the three;
+The Eight-Array Plan won him undying fame.
+The river flows; its stones will never shift —
+Regret for the war on Wu is all that still remains.
+--
+The Eight-Array Plan was Zhuge Liang's battle formation; stone mounds said to mark it stood on a sandbar of the Yangtze at Kuizhou, unmoved by floods for centuries — like his loyalty. The last line has two readings: regret that Liu Bei's disastrous attack on Wu broke their alliance, or regret at never conquering Wu at all.
+
+== 天末怀李白 | Thinking of Li Bai at the Edge of the Sky
+by: 杜甫
+form: 五律
+tags: 友情 秋 失意 相思
+scene: autumn wind geese river clouds
+凉风起天末，君子意如何？
+鸿雁几时到，江湖秋水多。
+文章憎命达，魑魅喜人过。
+应共冤魂语，投诗赠汨罗。
+--
+A cool wind rises at the edge of the sky —
+My friend, what are your thoughts tonight, I wonder?
+When will the wild geese bring your letter by?
+The lakes and rivers swell with autumn water.
+Fine writing hates a man whose fate goes right;
+The goblins gloat when travellers pass their way.
+You'll talk, I think, with the wronged ghost tonight,
+And cast a poem to him in the Miluo's spray.
+--
+Qinzhou, 759: Du Fu has heard that Li Bai is being sent into exile in Yelang. "Literature hates a fortunate fate" (文章憎命达) — great writers are doomed to suffer — became proverbial. The "wronged ghost" is Qu Yuan, the slandered poet who drowned himself in the Miluo River, near Li Bai's route into exile. Wild geese were said to carry letters.
+
+== 秋兴八首（其一） | Autumn Meditations (I)
+by: 杜甫
+form: 七律
+tags: 秋 思乡 羁旅 江河 山
+scene: autumn maple peaks river boat chrysanthemum mist
+玉露凋伤枫树林，巫山巫峡气萧森。
+江间波浪兼天涌，塞上风云接地阴。
+丛菊两开他日泪，孤舟一系故园心。
+寒衣处处催刀尺，白帝城高急暮砧。
+--
+Jade dew has withered and wounded the maple woods;
+Wu Mountain and Wu Gorge lie bleak and drear.
+On the river, waves leap up to touch the sky;
+Over the passes, wind-clouds darken the earth near.
+Twice now the chrysanthemums bloom — tears of other days;
+My lonely boat stays moored — my heart to my old garden tied.
+Everywhere, winter clothes speed knife and ruler on;
+High Baidi town, at dusk, hears the pounding mallets outside.
+--
+The first of "Autumn Meditations", eight linked poems written at Kuizhou in 766 and often considered the summit of Du Fu's art. Autumn in the Three Gorges: the chrysanthemums have bloomed twice since he arrived — two years stranded — and the boat that should take him home stays tied, like his heart. The sound of women beating cloth for winter clothes closes the poem in dusk and cold.
+
+== 咏怀古迹（其三） | Thoughts on Ancient Sites (III)
+by: 杜甫
+form: 七律
+tags: 怀古 女性 音乐 失意
+scene: dusk mountains desert grass sun
+群山万壑赴荆门，生长明妃尚有村。
+一去紫台连朔漠，独留青冢向黄昏。
+画图省识春风面，环佩空归夜月魂。
+千载琵琶作胡语，分明怨恨曲中论。
+--
+The mountains and ten thousand gorges rush toward Jingmen's gate;
+Here's the village where the Bright Consort was born and bred.
+Once gone from the Purple Palace to the northern deserts' waste,
+She left only a green tomb, facing the dusk ahead.
+From a painting, the emperor half-knew her spring-wind face;
+Her soul comes home in vain, jade pendants chiming, by moonlight.
+For a thousand years the pipa has sung in foreign ways,
+And in its melodies her bitter grief is told outright.
+--
+Wang Zhaojun, the "Bright Consort" (明妃), a Han palace lady, was married off to a Xiongnu khan in 33 BC. Legend says the court painter made her portrait ugly because she refused to bribe him, so the emperor never noticed her until the day she left. Her tomb on the steppe was said to stay green when all the grass around it withered. She became the symbol of talent unrecognised — and of Du Fu himself, far from court.
+
+== 登楼 | Climbing the Tower
+by: 杜甫
+form: 七律
+tags: 爱国 怀古 春 花
+scene: spring tower flowers river clouds mountains
+花近高楼伤客心，万方多难此登临。
+锦江春色来天地，玉垒浮云变古今。
+北极朝廷终不改，西山寇盗莫相侵。
+可怜后主还祠庙，日暮聊为梁甫吟。
+--
+Flowers beside the tower wound a traveller's heart;
+In times of trouble everywhere, I climb this height.
+Spring on Brocade River fills all heaven and earth;
+Clouds on Jade Rampart change, as ages take their flight.
+Like the Pole Star, our court will never change;
+You bandits of the Western Hills — don't dare invade!
+Alas, the Last Lord of Shu still has his temple here;
+At dusk I'll chant the Liangfu Song as shadows fade.
+--
+Chengdu, spring 764. Tibetan armies had briefly taken Chang'an the year before and were raiding Sichuan (the "Western Hills"). Du Fu declares that the Tang court, like the Pole Star, will endure. Liu Shan, the feeble Last Lord of Shu-Han, lost his kingdom yet still has a shrine — a pointed reminder to the reigning emperor. The *Liangfu Song* was a favourite of Zhuge Liang.

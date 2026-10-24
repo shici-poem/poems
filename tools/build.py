@@ -25,10 +25,10 @@ FORMS = {
     "五言律诗": "Five-character regulated verse", "七言律诗": "Seven-character regulated verse",
     "五言古诗": "Five-character old-style verse", "七言古诗": "Seven-character old-style verse",
     "五言排律": "Extended regulated verse", "乐府": "Yuefu ballad", "杂言": "Mixed-meter verse",
-    "四言诗": "Four-character verse", "楚辞": "Songs of Chu", "词": "Ci lyric", "散曲": "Sanqu song",
+    "四言诗": "Four-character verse", "六言诗": "Six-character verse", "楚辞": "Songs of Chu", "词": "Ci lyric", "散曲": "Sanqu song",
 }
 FORM_ALIASES = {"五绝": "五言绝句", "七绝": "七言绝句", "五律": "五言律诗", "七律": "七言律诗",
-                "五古": "五言古诗", "七古": "七言古诗", "排律": "五言排律", "曲": "散曲", "四言": "四言诗"}
+                "五古": "五言古诗", "七古": "七言古诗", "排律": "五言排律", "曲": "散曲", "四言": "四言诗", "六言": "六言诗"}
 
 # tag: (English label, extra search words)
 TAGS = {
@@ -183,7 +183,7 @@ def main():
                 if l and not ZH_OK.match(l):
                     bad = "".join(sorted(set(c for c in l if not ZH_OK.match(c))))
                     warnings.append(f"{where}: odd characters {bad!r} in: {l}")
-                if l and l[-1] not in "。？！；…”":
+                if l and l[-1] not in "。？！；…”，、：":
                     warnings.append(f"{where}: line does not end with full stop: {l}")
             en = [l.rstrip() for l in p["en"]]
             if not p["note"]:
