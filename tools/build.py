@@ -179,6 +179,8 @@ def main():
                 die(f"{where}: duplicate of {seen[key]}")
             seen[key] = where
             zh = [l.strip() for l in p["zh"]]
+            if any(l.startswith("@ref") for l in zh):
+                die(f"{where}: Chinese text not filled in yet — run tools/fill_text.py")
             for l in zh:
                 if l and not ZH_OK.match(l):
                     bad = "".join(sorted(set(c for c in l if not ZH_OK.match(c))))

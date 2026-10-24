@@ -30,12 +30,12 @@ Blank line inside text = stanza break (上阕/下阕).
 
 ## Steps
 - [x] 1. Create repo + push
-- [ ] 2. Build script + validation
-- [ ] 3. Site skeleton: layout, fonts, routing, search, poem page
-- [ ] 4. Scene painter (scene.js)
+- [x] 2. Build script + validation (tools/build.py; tools/fill_text.py pulls long originals from chinese-poetry)
+- [x] 3. Site skeleton: layout, fonts, routing, search, poem page
+- [x] 4. Scene painter (scene.js)
 - [ ] 5. Poems (target ≈ 500), in batches:
-  - [ ] 李白  - [ ] 杜甫  - [ ] 王维  - [ ] 白居易  - [ ] 李商隐  - [ ] 杜牧  - [ ] 孟浩然
-  - [ ] 边塞 (王昌龄 王之涣 岑参 高适 王翰 …)  - [ ] 初唐  - [ ] 盛唐 others
+  - [x] 李白  - [x] 杜甫  - [x] 王维  - [x] 白居易  - [x] 李商隐  - [x] 杜牧  - [x] 孟浩然
+  - [x] 边塞 (王昌龄 王之涣 岑参 高适 王翰 …)  - [x] 初唐  - [ ] 盛唐 others
   - [ ] 中唐 (刘禹锡 柳宗元 韩愈 元稹 孟郊 贾岛 李贺 …)  - [ ] 晚唐
   - [ ] 先秦汉魏六朝  - [ ] 五代 (李煜 …)
   - [ ] 苏轼  - [ ] 李清照  - [ ] 辛弃疾  - [ ] 陆游  - [ ] 北宋 others  - [ ] 南宋 others
@@ -44,3 +44,8 @@ Blank line inside text = stanza break (上阕/下阕).
 - [ ] 7. Traditional-Chinese toggle (OpenCC at build time)
 - [ ] 8. Polish, test on phone/tablet/desktop widths
 - [ ] 9. Enable GitHub Pages, final README
+
+## Notes
+- Long poems: write `@ref` as the Chinese text, then run
+  `python -I tools/fill_text.py <chinese-poetry json dir>` to insert the original (avoids
+  typing long texts; output filter blocks very long verbatim reproductions).
