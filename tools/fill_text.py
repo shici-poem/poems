@@ -60,7 +60,8 @@ def main():
             if not hits:
                 print(f"  NOT FOUND: {path.name}: {author} {title}")
                 return m.group(0)
-            lines = [seg for l in hits[0][2] for seg in re.findall(r"[^。？！；]+[。？！；]+”?", cc.convert(l)) or [cc.convert(l)]]
+            paras = [re.sub(r"[(（][^)）]*[)）]?", "", cc.convert(l)) for l in hits[0][2]]  # drop editorial notes
+            lines = [seg for l in paras for seg in re.findall(r"[^。？！；]+[。？！；]+”?", l) or [l]]
             print(f"  filled: {path.name}: {author} {title} ({len(lines)} lines)")
             return m.group(0)[: m.start("ref") - m.start()] + "\n".join(lines)
 

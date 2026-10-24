@@ -1,0 +1,293 @@
+== 白雪歌送武判官归京 | Song of White Snow: Seeing Judge Wu Off to the Capital
+by: 岑参
+form: 七古
+tags: 边塞 雪 离别 冬 友情
+scene: winter snow mountains fort flag rider
+北风卷地白草折，胡天八月即飞雪。
+忽如一夜春风来，千树万树梨花开。
+散入珠帘湿罗幕，狐裘不暖锦衾薄。
+将军角弓不得控，都护铁衣冷难着。
+瀚海阑干百丈冰，愁云惨淡万里凝。
+中军置酒饮归客，胡琴琵琶与羌笛。
+纷纷暮雪下辕门，风掣红旗冻不翻。
+轮台东门送君去，去时雪满天山路。
+山回路转不见君，雪上空留马行处。
+--
+The north wind rolls the land and snaps the white grass low;
+In the eighth month, the northern sky is flying thick with snow.
+As if, in a single night, the breeze of spring had come,
+A thousand trees, ten thousand trees, burst into pear-blossom.
+It drifts through pearl curtains, soaks the silken tent within;
+Fox furs give no warmth, and brocade quilts seem thin.
+The general cannot draw his horn-bow, stiff with cold;
+The Protector's iron armour is too chill to hold.
+The desert sea is cracked with ice a hundred fathoms high;
+Gloomy clouds, ten thousand li, are frozen as they lie.
+In the central tent we set out wine to toast the parting guest,
+With Hu fiddles, pipas and Qiang flutes playing their best.
+At dusk the snow falls thick and fast upon the camp's front gate;
+The red flag, frozen stiff, won't flutter in the wind's weight.
+By Luntai's eastern gate I see you on your way;
+Snow fills the road across the Tianshan as you leave today.
+The mountain bends, the road turns, and you're lost from view;
+Only hoofprints in the snow remain, where your horse went through.
+--
+Luntai, in today's Xinjiang, 754: Cen Shen sees off a colleague returning to Chang'an. Snow arriving overnight like pear blossom on a spring wind is the most famous snow image in Chinese poetry. The ending — the friend gone, only hoofprints left in the snow — is pure longing.
+
+== 逢入京使 | Meeting an Envoy Bound for the Capital
+by: 岑参
+form: 七绝
+tags: 思乡 边塞 羁旅
+scene: day desert rider horse two
+故园东望路漫漫，双袖龙钟泪不干。
+马上相逢无纸笔，凭君传语报平安。
+--
+I gaze east toward my home — the road goes on and on;
+Both my sleeves are soaked with tears that never dry.
+We meet on horseback — no brush, no paper, none;
+Please tell my family I'm safe and well, as you pass by.
+--
+On his way to the Central Asian frontier in 749, Cen Shen meets an envoy heading back to Chang'an. No time to write — only a spoken message: "I'm safe." The simplest words carry the deepest feeling.
+
+== 碛中作 | Written in the Desert
+by: 岑参
+form: 七绝
+tags: 边塞 羁旅 月 思乡
+scene: dusk desert moon rider horse
+走马西来欲到天，辞家见月两回圆。
+今夜不知何处宿，平沙万里绝人烟。
+--
+I ride west till it seems I'll reach the edge of the sky;
+Twice since I left my home I've seen the moon grow round.
+Tonight I do not know where I shall lie —
+Ten thousand li of sand, and not a hearth-smoke to be found.
+--
+Crossing the Gobi (碛) in 749. Two full moons measure two months away from home; the endless sand without "the smoke of human fires" measures the loneliness.
+
+== 行军九日思长安故园 | On the March at the Double Ninth, Thinking of My Garden in Chang'an
+by: 岑参
+form: 五绝
+tags: 节日 战争 思乡 秋 花
+scene: autumn chrysanthemum fort flag hills
+强欲登高去，无人送酒来。
+遥怜故园菊，应傍战场开。
+--
+I force myself to climb the heights today,
+But no one's here to bring me any wine.
+I think with pity of my garden's flowers far away —
+They must be blooming by the battle line.
+--
+The Double Ninth festival of 757, with the army in the field; Chang'an, Cen Shen's home, was in rebel hands. Instead of drinking chrysanthemum wine with friends, he imagines the chrysanthemums of his abandoned garden flowering beside the fighting. Tao Yuanming once sat out this festival with no wine until a friend sent some; here, no one does.
+
+== 春梦 | Spring Dream
+by: 岑参
+form: 七绝
+tags: 相思 春 爱情 夜
+scene: night spring window river crescent
+洞房昨夜春风起，遥忆美人湘江水。
+枕上片时春梦中，行尽江南数千里。
+--
+Last night the spring wind stirred inside my chamber's door;
+I thought of my love, far off by the Xiang River's shore.
+Upon my pillow, in a moment's dream of spring,
+I travelled thousands of li south of the Yangtze, and more.
+--
+A lovely paradox of time and distance: a dream lasting a moment covers thousands of li to reach a loved one. "Spring dream" (春梦) is also an image of fleeting happiness.
+
+== 别董大（其一） | Farewell to Dong the Elder (I)
+by: 高适
+form: 七绝
+tags: 离别 友情 冬 雪 鸟
+scene: winter snow geese clouds sun two rider
+千里黄云白日曛，北风吹雁雪纷纷。
+莫愁前路无知己，天下谁人不识君。
+--
+A thousand li of yellow cloud; the white sun's dim and low;
+The north wind blows the wild geese on through swirling snow.
+Don't fear the road ahead will hold no friend who knows your name —
+Who in all the world is there who doesn't know your fame?
+--
+Dong the Elder was Dong Tinglan, the greatest qin player of the age. Gao Shi, then poor and unknown, sees him off in a snowstorm with no gift but this encouragement — one of the most heartening farewell poems ever written.
+
+== 除夜作 | Written on New Year's Eve
+by: 高适
+form: 七绝
+tags: 思乡 节日 冬 夜 羁旅 时光
+scene: night winter candle cottage person
+旅馆寒灯独不眠，客心何事转凄然。
+故乡今夜思千里，霜鬓明朝又一年。
+--
+At the inn, beside a cold lamp, alone and wide awake —
+Why does this traveller's heart turn so forlorn and drear?
+Tonight, a thousand li away, my family thinks of me;
+By morning, my frost-grey temples will have aged another year.
+--
+New Year's Eve, the great night of family reunion, spent alone at an inn. Again the turn: it is his family who are thinking of him. At midnight everyone in China grows a year older — his grey hair with them.
+
+== 塞上听吹笛 | Hearing a Flute on the Frontier
+by: 高适
+form: 七绝
+tags: 边塞 音乐 月 夜 花
+scene: night moon fort mountains horse petals snow
+雪净胡天牧马还，月明羌笛戍楼间。
+借问梅花何处落，风吹一夜满关山。
+--
+The snow is gone; beneath the Hu sky, the horse herds come back home;
+In bright moonlight a Qiang flute plays among the watchtowers there.
+And where, I ask, do the plum blossoms fall?
+The wind blows them all night, filling the passes everywhere.
+--
+A beautiful double image. "Plum Blossoms Falling" (梅花落) was a flute tune; the poet imagines its notes, like petals, blown by the wind over all the mountain passes. Flowers, music and homesickness merge.
+
+== 燕歌行 | Song of Yan
+by: 高适
+form: 七古
+tags: 边塞 战争 民生 相思
+scene: dusk desert fort flag rider mountains
+汉家烟尘在东北，汉将辞家破残贼。
+男儿本自重横行，天子非常赐颜色。
+𪭢金伐鼓下榆关，旌旆逶迤碣石间。
+校尉羽书飞瀚海，单于猎火照狼山。
+山川萧条极边土，胡骑凭陵杂风雨。
+战士军前半死生，美人帐下犹歌舞。
+大漠穷秋塞草腓，孤城落日斗兵稀。
+身当恩遇恒轻敌，力尽关山未解围。
+铁衣远戍辛勤久，玉箸应啼别离后。
+少妇城南欲断肠，征人蓟北空回首。
+边庭飘飖那可度，绝域苍茫更何有。
+杀气三时作阵云，寒声一夜传刁斗。
+相看白刃血纷纷，死节从来岂顾勋。
+君不见沙场征战苦，至今犹忆李将军。
+--
+Smoke and dust of war rise in the Han's north-east;
+Han generals leave their homes to crush the rebels, to the least.
+Men of spirit prize the chance to ride across the land;
+The Son of Heaven grants them favour, rare and grand.
+With clanging gongs and pounding drums they march down through Elm Pass;
+Their banners wind among the crags of Jieshi, mass on mass.
+The colonels' feathered war-reports fly over the desert sea;
+On Wolf Mountain the khan's hunting fires blaze free.
+Mountains and rivers are desolate to the edge of the frontier ground;
+Hu horsemen charge with wind and rain, swarming all around.
+At the front, the soldiers — half are dead and half alive;
+Beneath the general's tent, the beauties sing and dance and thrive.
+In the great desert, autumn's end; the frontier grass is sere;
+The lone fort at sunset — few soldiers left to fight are here.
+So favoured by the emperor, the general scorned the foe;
+Now, strength spent at the passes, the siege won't lift or go.
+In iron mail on distant guard through long and bitter years —
+Since parting, their wives must weep their jade-chopstick tears.
+South of the city, young wives' hearts are breaking with despair;
+North in Ji, the soldiers turn their heads in vain, to stare.
+The frontier's wild and windswept — how can it be crossed?
+The far land's vast and empty — nothing there but loss.
+All day the killing-air forms battle clouds on high;
+All night the watchmen's gongs ring out their freezing cry.
+They face each other's naked blades; the blood in spatters flies —
+To die for duty, who would think of honours or of prize?
+Have you not seen the bitterness of fighting on the sands?
+To this day the soldiers long for General Li to lead their bands.
+--
+Written in 738 after news of a disastrous campaign in the north-east, where a general's arrogance and false victory reports cost many lives. "At the front, half the soldiers dead; in the general's tent, beauties still singing and dancing" is the most damning couplet in frontier poetry. "Jade chopsticks" are a woman's two streams of tears. General Li is Li Guang of the Han, who shared every hardship with his men.
+
+== 古从军行 | An Old Army Song
+by: 李颀
+form: 七古
+tags: 边塞 战争 民生 音乐
+scene: dusk desert snow fort horse geese
+白日登山望烽火，黄昏饮马傍交河。
+行人刁斗风沙暗，公主琵琶幽怨多。
+野云万里无城郭，雨雪纷纷连大漠。
+胡雁哀鸣夜夜飞，胡儿眼泪双双落。
+闻道玉门犹被遮，应将性命逐轻车。
+年年战骨埋荒外，空见蒲桃入汉家。
+--
+By day we climb the hills to watch for beacon fires;
+At dusk we water horses by the Jiao's cold tide.
+The watch-gongs clang through the dark of wind and sand;
+The princess's pipa sings of grief she cannot hide.
+Wild clouds for ten thousand li, and not a town or wall;
+Rain and snow come swirling down across the desert wide.
+The northern geese cry mournfully, night after night they fly;
+The Hu boys' tears fall down in pairs, and none can dry.
+They say the Jade Gate's still shut against our coming home —
+We must follow the light chariots, and stake our lives, and die.
+Year after year, the bones of war are buried in the waste —
+And all we get is grapes, brought into the Han to taste.
+--
+An "old" frontier song, set in the Han but aimed at Xuanzong's wars. The princess's pipa recalls the Han princess married off to a Central Asian king, who played her grief on the pipa. When Emperor Wu of Han's army failed against Ferghana, he shut the Jade Gate and forbade the soldiers to return; the only gain from all the dead was the grapevine, brought back to China. The last line is one of the bitterest in Tang poetry.
+
+== 塞下曲（其二） | Frontier Song (II)
+by: 卢纶
+form: 五绝
+tags: 边塞 壮志 夜
+scene: night crescent pine grass wind rider
+林暗草惊风，将军夜引弓。
+平明寻白羽，没在石棱中。
+--
+Dark woods; the grass starts up as wind sweeps by;
+The general draws his bow at dead of night.
+At dawn they seek his white-fletched arrow — why,
+It's buried in a rock, sunk out of sight!
+--
+Based on a story of the Han general Li Guang, who shot at what he took for a tiger in the dark grass — and in the morning found his arrow buried in a rock. The "grass startled by wind" hints at the tiger without naming it.
+
+== 塞下曲（其三） | Frontier Song (III)
+by: 卢纶
+form: 五绝
+tags: 边塞 雪 冬 夜 壮志
+scene: night winter snow geese rider horse
+月黑雁飞高，单于夜遁逃。
+欲将轻骑逐，大雪满弓刀。
+--
+No moon; the wild geese fly up high and far;
+The khan has fled, escaping in the night.
+We'd chase him down with our light horse —
+Heavy snow covers bows and blades in white.
+--
+The night is so dark that the khan's escape is known only from the startled geese. The last line — the cavalry poised, snow piling on their weapons — freezes the moment before the chase.
+
+== 夜上受降城闻笛 | Hearing a Flute at Night on the Wall of Shouxiang
+by: 李益
+form: 七绝
+tags: 边塞 思乡 月 夜 音乐
+scene: night moon desert fort frost
+回乐烽前沙似雪，受降城外月如霜。
+不知何处吹芦管，一夜征人尽望乡。
+--
+Before Huile's beacon tower, the sand lies white as snow;
+Outside the Surrender City walls, the moon is like the frost.
+From somewhere — who knows where? — a reed pipe's playing low;
+All night the soldiers gaze toward home, and feel what they have lost.
+--
+Shouxiang ("Accepting Surrender") was a fortress on the Yellow River in the far north. Sand and moonlight turn the world white; an unseen reed pipe plays; every soldier turns toward home. Set to music, the poem was sung all over the empire.
+
+== 江南曲 | Song of the South
+by: 李益
+form: 五绝
+tags: 闺怨 女性 江河 爱情
+scene: day river boat person
+嫁得瞿塘贾，朝朝误妾期。
+早知潮有信，嫁与弄潮儿。
+--
+I married a merchant of Qutang Gorge;
+Every day he breaks his word to me.
+Had I known the tide keeps faith so true,
+I'd have wed a boy who rides the tides at sea.
+--
+A merchant's wife, in the voice of a southern folk song. The tide comes back on time, every time; her husband never does — so she'd rather have married one of the young men who play in the great tidal bore of the Qiantang River. Funny and sad at once.
+
+== 陇西行（其二） | Song of Longxi (II)
+by: 陈陶
+form: 七绝
+tags: 边塞 战争 悼亡 相思
+scene: dusk desert river grass fort
+誓扫匈奴不顾身，五千貂锦丧胡尘。
+可怜无定河边骨，犹是春闺梦里人。
+--
+They swore to sweep the Xiongnu out, with no thought for their life;
+Five thousand men in sable and brocade fell in the northern dust.
+Alas — the bones along the Wuding River, white and bare,
+Are still the living men in the spring dreams of each wife.
+--
+The most heartbreaking war poem in Chinese: the wives at home, not yet knowing, still dream of their husbands — who are already bones by the Wuding River ("River of No Fixed Course") on the northern frontier. "Sable and brocade" was the uniform of elite Han troops.

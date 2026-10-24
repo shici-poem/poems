@@ -1,0 +1,254 @@
+== 清明 | Qingming
+by: 杜牧
+form: 七绝
+tags: 节日 春 雨 饮酒 羁旅
+scene: spring rain peach cottage person
+清明时节雨纷纷，路上行人欲断魂。
+借问酒家何处有？牧童遥指杏花村。
+--
+The Qingming rain comes drizzling down without an end;
+The travellers on the road are lost in grief, heart-sore.
+"Where can I find a tavern?" I ask — and round the bend,
+A herd-boy points far off to Apricot Village's door.
+--
+Qingming ("Clear and Bright", early April) is the festival for sweeping ancestors' graves — a day of mourning, traditionally wet. The tavern and the apricot blossoms promise a little warmth. "Apricot Blossom Village" (杏花村) became the name of a famous liquor, and several towns still claim to be the place.
+
+== 山行 | Mountain Walk
+by: 杜牧
+form: 七绝
+tags: 秋 山 山水 花
+scene: dusk autumn mountains maple clouds cottage rider
+远上寒山石径斜，白云生处有人家。
+停车坐爱枫林晚，霜叶红于二月花。
+--
+Far up the cold mountain, a stone path slants and climbs;
+Where the white clouds rise, there are homes of people too.
+I stop my carriage: I love the maple woods at evening time —
+The frosted leaves are redder than spring flowers ever grew.
+--
+The great autumn poem: Du Mu stops simply to look. The last line overturns the usual melancholy of autumn — frost-touched maples outshine even the flowers of the second month of spring. (坐 here means "because".)
+
+== 江南春 | Spring South of the River
+by: 杜牧
+form: 七绝
+tags: 春 山水 怀古 雨 鸟 禅
+scene: spring rain temple flag oriole river mist
+千里莺啼绿映红，水村山郭酒旗风。
+南朝四百八十寺，多少楼台烟雨中。
+--
+A thousand li of orioles; the green sets off the red;
+Wine pennants flutter in the wind by river towns and hills.
+Four hundred eighty temples the Southern Dynasties spread —
+How many towers stand in the misty rain there still?
+--
+The whole of the south in spring, in fourteen characters — then history. The Southern Dynasties (420–589) built hundreds of temples around Nanjing; their emperors' piety did not save them. The temples stand silent in the rain, beautiful and a little ironic.
+
+== 泊秦淮 | Mooring on the Qinhuai
+by: 杜牧
+form: 七绝
+tags: 怀古 夜 月 江河 音乐 爱国
+scene: night moon river boat mist lantern
+烟笼寒水月笼沙，夜泊秦淮近酒家。
+商女不知亡国恨，隔江犹唱后庭花。
+--
+Mist veils the cold water, moonlight veils the sand;
+I moor on the Qinhuai at night, near taverns by the shore.
+The singing girls don't know the grief of a fallen land —
+Across the river they still sing "Rear Court Flowers", as before.
+--
+The Qinhuai River in Nanjing was lined with pleasure houses. "Flowers of the Rear Courtyard" was composed by the Last Lord of Chen as his dynasty collapsed in 589 — the very sound of decadence and ruin. The real target is not the singers but the officials who request the song while the Tang itself declines.
+
+== 秋夕 | Autumn Evening
+by: 杜牧
+form: 七绝
+tags: 闺怨 秋 夜 女性 天空
+scene: night autumn stars palace candle
+银烛秋光冷画屏，轻罗小扇扑流萤。
+天阶夜色凉如水，卧看牵牛织女星。
+--
+A silver candle's autumn glow chills the painted screen;
+With a little silk fan she chases fireflies as they fly.
+On the palace steps the night is cool as water's sheen;
+She lies and gazes at the Herdboy and the Weaver in the sky.
+--
+A lonely palace lady on an autumn night. The silk fan was a symbol of a discarded woman, put away when summer ends; fireflies were said to breed in neglected grass. She watches the two star-lovers who meet once a year — more than she can hope for.
+
+== 赤壁 | Red Cliff
+by: 杜牧
+form: 七绝
+tags: 怀古 战争 江河
+scene: day river wind sail fort
+折戟沉沙铁未销，自将磨洗认前朝。
+东风不与周郎便，铜雀春深锁二乔。
+--
+A broken halberd in the sand — its iron's not yet gone;
+I wash and polish it, and know it from that bygone age.
+Had the east wind not blown to help young Zhou Yu on,
+The two Qiao sisters, deep in spring, would be locked in Bronze Sparrow's cage.
+--
+At the Battle of Red Cliff (208), Zhou Yu of Wu, helped by a timely east wind, burned Cao Cao's fleet. Du Mu's mischievous what-if: without that wind, Cao Cao would have won — and carried off Zhou Yu's wife and her sister, the famous beauties Da Qiao and Xiao Qiao, to his Bronze Sparrow Terrace. History turned on a gust of wind.
+
+== 题乌江亭 | Written at Wujiang Pavilion
+by: 杜牧
+form: 七绝
+tags: 怀古 战争 哲理 壮志
+scene: dusk river pavilion boat
+胜败兵家事不期，包羞忍耻是男儿。
+江东子弟多才俊，卷土重来未可知。
+--
+In war, no one can know beforehand who will win or lose;
+To bear the shame and swallow pride — that is what makes a man.
+East of the River there were many youths of talent —
+Who knows? He might have rolled the dust back up, and come again.
+--
+At Wujiang the defeated Xiang Yu refused a ferryman's offer to carry him back east of the Yangtze to raise a new army — he could not face the elders whose sons had died for him — and cut his own throat. Du Mu argues he should have endured the shame and tried again. 卷土重来, "rolling the dust back up", became the idiom for a comeback.
+
+== 过华清宫（其一） | Passing Huaqing Palace (I)
+by: 杜牧
+form: 七绝
+tags: 怀古 女性 民生
+scene: day palace mountains rider horse
+长安回望绣成堆，山顶千门次第开。
+一骑红尘妃子笑，无人知是荔枝来。
+--
+Looking back from Chang'an: hills like heaps of embroidery;
+On the summit, a thousand palace gates swing open, one by one.
+A horseman in red dust — the Consort smiles with glee;
+No one knows it's lychees he has brought, at a run.
+--
+Huaqing Palace on Mount Li was the winter retreat of Emperor Xuanzong and Consort Yang. She loved fresh lychees, so relays of horsemen galloped them a thousand miles from the far south, killing horses on the way, so they would arrive fresh. A whole empire's waste, in one smile.
+
+== 寄扬州韩绰判官 | To Judge Han Chuo in Yangzhou
+by: 杜牧
+form: 七绝
+tags: 友情 秋 月 音乐 相思
+scene: night autumn moon bridge river hills
+青山隐隐水迢迢，秋尽江南草未凋。
+二十四桥明月夜，玉人何处教吹箫？
+--
+Green hills grow dim; the waters stretch away;
+Autumn ends, yet the southern grass is green.
+On a moonlit night at the Twenty-four Bridges, say,
+Where are you teaching a jade beauty the flute, unseen?
+--
+Written to an old friend in Yangzhou, where Du Mu had spent happy, dissolute years. The Twenty-four Bridges of Yangzhou became a byword for romantic nights. "Jade person" can mean a lovely courtesan — or the handsome friend himself, teased about his pleasures.
+
+== 遣怀 | Unburdening My Heart
+by: 杜牧
+form: 七绝
+tags: 人生 饮酒 时光 失意
+scene: night tower lantern river boat
+落魄江湖载酒行，楚腰纤细掌中轻。
+十年一觉扬州梦，赢得青楼薄幸名。
+--
+Down on my luck, I roamed the lakes and rivers, wine in hand,
+With slender Chu-waisted girls light enough to dance on a palm.
+Ten years — then I woke from my Yangzhou dream, to understand
+All I'd won was a heartless rake's name in the houses of charm.
+--
+Du Mu looks back on his years as a young secretary in Yangzhou, notorious for his nights in the pleasure quarters. King Ling of Chu loved slender waists; the Han beauty Zhao Feiyan was said to be light enough to dance on a palm. The self-mockery is tinged with regret.
+
+== 赠别（其一） | Parting Gift (I)
+by: 杜牧
+form: 七绝
+tags: 离别 爱情 女性 春
+scene: spring willow tower flowers
+娉娉袅袅十三余，豆蔻梢头二月初。
+春风十里扬州路，卷上珠帘总不如。
+--
+So graceful, slender, just past thirteen years —
+A cardamom bud on the bough as early spring appears.
+Along ten li of Yangzhou's road in spring's warm air,
+Roll up every pearl curtain — no beauty there compares.
+--
+Written for a young singing girl as Du Mu left Yangzhou in 835. 豆蔻年华, "cardamom years" — a phrase from this poem — still means a girl of thirteen or fourteen. Behind every pearl blind on Yangzhou's famous avenue there were beauties; none matched her.
+
+== 赠别（其二） | Parting Gift (II)
+by: 杜牧
+form: 七绝
+tags: 离别 爱情 夜
+scene: night candle window two cup
+多情却似总无情，唯觉樽前笑不成。
+蜡烛有心还惜别，替人垂泪到天明。
+--
+So full of love, I seem to have no love at all;
+Over our cups I only find I cannot smile.
+The candle has a heart, and grieves to see us part —
+It sheds its tears for us till dawn, all the while.
+--
+Too much feeling makes the lovers seem cold and silent. The candle's "heart" is its wick (心 means both), and its "tears" the dripping wax — so the candle weeps for the lovers who cannot.
+
+== 金谷园 | The Golden Valley Garden
+by: 杜牧
+form: 七绝
+tags: 怀古 花 春 女性 悼亡
+scene: dusk spring petals tower river birds
+繁华事散逐香尘，流水无情草自春。
+日暮东风怨啼鸟，落花犹似坠楼人。
+--
+The glory is scattered, gone with the scented dust;
+The heartless water flows; the grass grows green, as spring has its way.
+At dusk, in the east wind, the crying birds complain;
+The falling flowers look like her who fell from the tower that day.
+--
+The Golden Valley Garden in Luoyang belonged to Shi Chong (249–300), the richest man of the Jin, famous for his extravagance. When a powerful rival demanded his beloved concubine Green Pearl, she threw herself from a tower rather than be taken. Five centuries later, Du Mu finds only grass, water and falling petals.
+
+== 将赴吴兴登乐游原 | Climbing Leyou Plain Before Leaving for Wuxing
+by: 杜牧
+form: 七绝
+tags: 失意 隐逸 怀古
+scene: day hills clouds rider wall
+清时有味是无能，闲爱孤云静爱僧。
+欲把一麾江海去，乐游原上望昭陵。
+--
+To savour life in peaceful times, you must be no use at all;
+At leisure I love the lone cloud; in stillness, the monk's way.
+Now, with a governor's banner, I'll go where the rivers call —
+From Leyou Plain, toward the Zhao Tomb, I gaze today.
+--
+850: about to leave the capital to govern Wuxing (Huzhou), Du Mu climbs Leyou Plain and gazes toward the Zhao Tomb of Emperor Taizong, the great founder of the Tang golden age. The first line is ironic: in such "peaceful times", only the useless can enjoy themselves — and he is not wanted. The look toward Taizong's tomb is a silent longing for a ruler who valued talent.
+
+== 齐安郡后池绝句 | Quatrain on the Rear Pond at Qi'an
+by: 杜牧
+form: 七绝
+tags: 夏 雨 鸟 花
+scene: summer rain lake lotus oriole flowers
+菱透浮萍绿锦池，夏莺千啭弄蔷薇。
+尽日无人看微雨，鸳鸯相对浴红衣。
+--
+Water-chestnuts push through duckweed — the pond's green brocade;
+Summer orioles trill a thousand songs and play among the rose.
+All day, no one watches the fine rain drifting through the glade;
+Mandarin ducks, face to face, bathe in their red-feathered clothes.
+--
+Du Mu as governor of Huangzhou (Qi'an). A rainy summer garden with no one in it — except a pair of mandarin ducks, symbols of happy love, whose red feathers are their "red robes". The poet's loneliness is felt only by contrast.
+
+== 长安秋望 | Autumn View of Chang'an
+by: 杜牧
+form: 五绝
+tags: 秋 天空 山
+scene: autumn day tower mountains maple
+楼倚霜树外，镜天无一毫。
+南山与秋色，气势两相高。
+--
+The tower leans out beyond the frosted trees;
+The mirror sky has not one speck of grey.
+The Southern Hills and autumn's clear expanse
+Both soar, and vie in grandeur, high as they may.
+--
+A crystal-clear autumn day in Chang'an. From a tower, the sky is a spotless mirror, and the Zhongnan mountains and the autumn air itself seem to compete to be loftier.
+
+== 叹花 | Sighing over Flowers
+by: 杜牧
+form: 七绝
+tags: 花 时光 爱情 春 人生
+scene: summer wind petals peach
+自是寻春去校迟，不须惆怅怨芳时。
+狂风落尽深红色，绿叶成阴子满枝。
+--
+It's I who came too late in search of spring;
+I shouldn't grieve, or blame the flowering days.
+The wild wind's blown away the crimson blossoming;
+Green leaves make shade; the boughs bear fruit in sprays.
+--
+Legend says the young Du Mu, in Huzhou, saw a lovely girl of about ten and promised her mother he would return to marry her within ten years. He came back fourteen years later to find her married, with children. Without the story, it is simply a gentle poem about missed chances — and about a different fulfilment: the fruit that follows the flowers.
