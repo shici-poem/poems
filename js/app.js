@@ -304,6 +304,7 @@
             ${dyns.map(([d, de]) => `<button type="button" class="chip${state.dyn === d ? ' on' : ''}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(d)}</span>${esc(de)}</button>`).join('')}
           </div>
           <div class="chiprow${settings.allTags ? ' all' : ''}${settings.tagShut ? ' shut' : ''}" id="tagrow">${foldLabel('tagShut', '题材', 'Theme')}
+            <button type="button" class="chip${state.tag ? '' : ' on'}" data-tag=""><span class="z">全部</span>All</button>
             ${tagsSorted.map((t, i) => tagChip(t, state.tag === t, DB.tagCount[t], i >= TAGS_SHOWN)).join('')}
             <button type="button" class="chip more" id="tagmore" aria-expanded="${!!settings.allTags}">${settings.allTags ? 'Fewer' : `+${tagsSorted.length - TAGS_SHOWN} more`}</button>
           </div>
@@ -334,7 +335,7 @@
     app.querySelector('#tagrow').addEventListener('click', e => {
       const b = e.target.closest('[data-tag]'); if (!b) return;
       e.preventDefault();
-      state.tag = state.tag === b.dataset.tag ? '' : b.dataset.tag; state.shown = PAGE;
+      state.tag = state.tag === b.dataset.tag ? '' : b.dataset.tag; state.shown = PAGE;  // a second tap on a theme clears it, like 全部
       app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.toggle('on', c.dataset.tag === state.tag));
       syncHash(); renderResults();
     });
@@ -430,7 +431,7 @@
       if (k === 'all') { state.q = state.tag = state.poet = state.dyn = state.form = ''; state.unread = state.read = false; } else state[k] = k === 'unread' || k === 'read' ? false : '';
       if (k === 'q' || k === 'all') { const i = document.getElementById('q'); i.value = ''; document.getElementById('qclear').hidden = true; }
       if (k === 'dyn' || k === 'all') app.querySelectorAll('#dynrow .chip').forEach(c => c.classList.toggle('on', c.dataset.dyn === ''));
-      if (k === 'tag' || k === 'all') app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.remove('on'));
+      if (k === 'tag' || k === 'all') app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.toggle('on', c.dataset.tag === ''));
       if (k === 'poet' || k === 'all') document.getElementById('psel').value = '';
       if (k === 'form' || k === 'all') document.getElementById('fsel').value = '';
       state.shown = PAGE; syncHash(); renderResults();
