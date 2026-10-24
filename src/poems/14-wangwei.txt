@@ -1,0 +1,491 @@
+== 相思 | Love Seeds
+by: 王维
+form: 五绝
+tags: 相思 友情 春 咏物
+scene: spring sun flowers hills
+红豆生南国，春来发几枝。
+愿君多采撷，此物最相思。
+--
+Red beans grow in the southern land;
+When spring comes, how many sprigs appear?
+I hope you'll gather many in your hand —
+They hold the deepest longing, dear.
+--
+The red bean (红豆), a bright scarlet seed of the south, is called the "love-longing seed" (相思子) after a legend of a woman who wept beneath a tree for her husband killed at the frontier until her tears turned into red beans. Wang Wei wrote the poem for his friend, the singer Li Guinian, who sang it at banquets; it became one of the most-sung lyrics of the Tang.
+
+== 鹿柴 | Deer Park
+by: 王维
+form: 五绝
+tags: 山 禅 隐逸 山水
+scene: dusk mountains pine sun mist
+空山不见人，但闻人语响。
+返景入深林，复照青苔上。
+--
+On the empty mountain, no one can be seen —
+Yet voices echo, somewhere, faintly heard.
+The sunset's light comes back into the deep woods,
+And shines again upon the moss of green.
+--
+One of the twenty quatrains of the *Wangchuan Collection*, written at Wang Wei's country estate. Nothing happens — voices without people, a slant of evening light on moss — yet the poem has been called the purest expression of Chan (Zen) stillness in Chinese verse. Translators love it: Eliot Weinberger wrote a whole book, *Nineteen Ways of Looking at Wang Wei*, comparing versions of these twenty characters.
+
+== 竹里馆 | The Bamboo Grove Lodge
+by: 王维
+form: 五绝
+tags: 隐逸 月 音乐 夜 禅
+scene: night moon bamboo person
+独坐幽篁里，弹琴复长啸。
+深林人不知，明月来相照。
+--
+Alone I sit among the dark bamboo,
+I pluck my zither, then I whistle long.
+Deep in the woods, where no one knows I'm here,
+The bright moon comes to shine upon my song.
+--
+Another Wangchuan poem. "Long whistling" (长啸) was a Daoist breathing art and a free spirit's way of expressing feeling. No one hears the music — except the moon, which comes as a friend.
+
+== 鸟鸣涧 | Birdsong in the Ravine
+by: 王维
+form: 五绝
+tags: 春 夜 月 鸟 禅 山
+scene: night spring moon mountains petals birds
+人闲桂花落，夜静春山空。
+月出惊山鸟，时鸣春涧中。
+--
+At ease, I hear the cassia blossoms fall;
+The night is still; the spring hills empty lie.
+The rising moon startles the mountain birds —
+From time to time, they in the spring ravine cry.
+--
+So quiet that one can hear tiny flowers dropping; so still that moonrise startles the birds. Sound is used to deepen silence — a classic technique of Chinese verse. (桂花 here is probably a spring-flowering cassia or osmanthus.)
+
+== 山居秋暝 | Autumn Evening in the Mountains
+by: 王维
+form: 五律
+tags: 秋 山水 隐逸 月 田园
+scene: dusk autumn moon pine mountains river bamboo lotus boat
+空山新雨后，天气晚来秋。
+明月松间照，清泉石上流。
+竹喧归浣女，莲动下渔舟。
+随意春芳歇，王孙自可留。
+--
+In the empty hills, after fresh rain,
+The evening air brings autumn on.
+The bright moon shines among the pines;
+Clear spring water over stones runs on.
+Bamboos rustle — washing girls come home;
+Lotus leaves stir — down go fishing boats.
+Let spring's fragrance fade as it will:
+Here a prince may stay, content to remain.
+--
+Wang Wei's best-loved regulated poem. The famous second couplet — moon among pines, water over stones — is a perfect ink painting. An old song called on "princes" (gentlemen) to leave the wild mountains, since "spring grasses grow, and you cannot stay"; Wang Wei turns it around: the hills, even in autumn, are where one belongs.
+
+== 送元二使安西 | Seeing Off Yuan the Second on His Mission to Anxi
+by: 王维
+form: 七绝
+tags: 离别 友情 饮酒 柳 边塞
+scene: dawn spring rain willow cottage cup two
+渭城朝雨浥轻尘，客舍青青柳色新。
+劝君更尽一杯酒，西出阳关无故人。
+--
+The morning rain in Weicheng lays the light dust low;
+Around the inn, the willows' fresh green glows.
+Come, drink one more cup of wine before you go —
+West of Yang Pass, there's no old friend who knows.
+--
+Anxi was the Tang protectorate in Central Asia; Yang Pass, near Dunhuang, was the last gate of China. This quatrain was set to music as the *Three Refrains at Yang Pass* (阳关三叠), the most famous farewell song in Chinese history, sung at partings for a thousand years. The willows, as always, are a parting gift.
+
+== 九月九日忆山东兄弟 | Thinking of My Brothers in Shandong on the Double Ninth
+by: 王维
+form: 七绝
+tags: 思乡 节日 秋 友情
+scene: autumn mountains chrysanthemum person
+独在异乡为异客，每逢佳节倍思亲。
+遥知兄弟登高处，遍插茱萸少一人。
+--
+Alone, a stranger in a stranger's land,
+At every festival I miss my family twice as much.
+Far off, I know my brothers climb the heights,
+Each wearing dogwood — all but one, out of touch.
+--
+Written when Wang Wei was only seventeen, living in the capital. On the Double Ninth (the 9th day of the 9th month), families climbed hills and wore sprigs of cornel (茱萸) to ward off evil. Instead of saying "I miss them", he imagines them missing him. Line two is the proverb every Chinese person far from home quotes at festival time.
+
+== 使至塞上 | Envoy to the Frontier
+by: 王维
+form: 五律
+tags: 边塞 羁旅 山水
+scene: dusk sun desert smoke river geese rider
+单车欲问边，属国过居延。
+征蓬出汉塞，归雁入胡天。
+大漠孤烟直，长河落日圆。
+萧关逢候骑，都护在燕然。
+--
+With a single carriage I go to visit the frontier,
+Past Juyan and the vassal lands beyond.
+Like tumbleweed blown out of the Han passes,
+Like a wild goose winging home into the Hu sky.
+Across the vast desert, a lone smoke rising straight;
+Above the long river, the setting sun hangs round.
+At Xiao Pass I meet a mounted scout:
+"The Protector-General is at Mount Yanran."
+--
+737: Wang Wei was sent as an envoy to congratulate a general on a victory in the north-west. The third couplet — a single plume of beacon smoke dead straight in the windless desert, the sun perfectly round over the Yellow River — was praised in *Dream of the Red Chamber* as the ideal of a line that is "unreasonable, yet more true than reason". Mount Yanran was where a Han general carved a record of his victory over the Xiongnu.
+
+== 杂诗（其二） | Miscellaneous Poem (II)
+by: 王维
+form: 五绝
+tags: 思乡 冬 花
+scene: winter plum window snow
+君自故乡来，应知故乡事。
+来日绮窗前，寒梅著花未？
+--
+You've just come from our old hometown —
+You must know how things there are going.
+The day you left, before my latticed window,
+Had the winter plum begun its blossoming?
+--
+Of all the things he could ask about home — family, friends, the harvest — the poet asks only about one plum tree outside his window. The smallest detail carries the whole of homesickness.
+
+== 山中送别 | Farewell in the Mountains
+by: 王维
+form: 五绝
+tags: 离别 友情 春 山
+scene: dusk spring mountains cottage grass
+山中相送罢，日暮掩柴扉。
+春草明年绿，王孙归不归？
+--
+In the hills, I've seen my friend off on his way;
+At dusk I close my rough brushwood gate.
+When spring grass turns green again next year,
+Will you come back, my prince, or will I wait?
+--
+The farewell is already over in the first line; the poem lives in the moment after — the gate closed in the dusk, and a question thrown forward to next spring. "Spring grass and the wandering prince" echoes the *Songs of Chu*: "The prince wanders and does not return; spring grass grows thick."
+
+== 送别（下马饮君酒） | Farewell (Dismount and Drink)
+by: 王维
+form: 五古
+tags: 离别 隐逸 友情 失意
+scene: day mountains clouds rider two cup
+下马饮君酒，问君何所之？
+君言不得意，归卧南山陲。
+但去莫复问，白云无尽时。
+--
+Dismount and drink this wine with me —
+Where are you going, may I ask?
+You say the world has not gone well for you;
+You'll lie down by the Southern Mountains, leave your task.
+Then go — I'll ask no more:
+White clouds are endless, as before.
+--
+A friend gives up his career to become a recluse. Wang Wei does not argue or console; the white clouds — symbol of the free, unworldly life — are "without end", unlike fame and office. The restraint is the comfort.
+
+== 终南别业 | My Retreat at Zhongnan
+by: 王维
+form: 五律
+tags: 隐逸 禅 山 闲适
+scene: day mountains clouds river person pine
+中岁颇好道，晚家南山陲。
+兴来每独往，胜事空自知。
+行到水穷处，坐看云起时。
+偶然值林叟，谈笑无还期。
+--
+In middle age I came to love the Way;
+In later years I made my home where the South Hills end.
+When the mood comes, I often go alone;
+Its joys are mine to know, and no one else's, friend.
+I walk to where the stream runs out,
+And sit to watch the clouds begin to rise.
+By chance I meet an old man of the woods;
+We talk and laugh, and lose track of the time that flies.
+--
+"Walk to where the water ends, sit and watch the clouds rise" (行到水穷处，坐看云起时) is one of the most quoted couplets in Chinese — a Zen image of following life wherever it goes: where one path ends, another begins in the sky.
+
+== 汉江临泛 | Boating on the Han River
+by: 王维
+form: 五律
+tags: 江河 山水 饮酒
+scene: day river mountains boat mist wall
+楚塞三湘接，荆门九派通。
+江流天地外，山色有无中。
+郡邑浮前浦，波澜动远空。
+襄阳好风日，留醉与山翁。
+--
+Here Chu's frontier joins the three Xiang rivers;
+At Jingmen, nine branches of the River meet.
+The river flows beyond heaven and earth;
+The hills' hues hover between being and not being.
+Towns and cities float on the shore ahead;
+The waves set the far sky trembling, shaking free.
+Xiangyang has such fine wind and sun —
+Let me stay drunk here, like the Old Mountain Man, with glee.
+--
+Wang Wei was a painter as much as a poet, and line four — mountains "between existence and non-existence" — is a description of ink-wash painting itself, where distant hills dissolve into blank silk. The Old Mountain Man was Shan Jian, a Jin-dynasty governor of Xiangyang famous for getting drunk at its scenic pools.
+
+== 观猎 | Watching the Hunt
+by: 王维
+form: 五律
+tags: 冬 壮志 风 雪
+scene: winter wind rider horse fields clouds birds
+风劲角弓鸣，将军猎渭城。
+草枯鹰眼疾，雪尽马蹄轻。
+忽过新丰市，还归细柳营。
+回看射雕处，千里暮云平。
+--
+The wind is strong; the horn-bows twang —
+The general hunts by Weicheng town.
+The grass is withered; sharp are the falcons' eyes;
+The snow is gone; the horses' hooves fly light.
+Suddenly they're past the Xinfeng market,
+And back again at Willow Camp tonight.
+He turns to look where he shot down the eagle:
+A thousand li of evening clouds lie flat and bright.
+--
+Admired for its opening — the sound of the bows comes before we even see the general — and its sweeping close. Willow Camp (细柳营) was the camp of the famously disciplined Han general Zhou Yafu; "shooting the eagle" (射雕) was the mark of a supreme archer.
+
+== 辛夷坞 | Magnolia Bank
+by: 王维
+form: 五绝
+tags: 花 禅 山 春
+scene: spring mountains flowers petals river
+木末芙蓉花，山中发红萼。
+涧户寂无人，纷纷开且落。
+--
+On the tips of the branches, lotus-like blooms
+Put out their red buds in the hills.
+By the stream-side huts, silent, no one —
+They open, and then fall, in flurries, still.
+--
+From the *Wangchuan Collection*. The magnolia (辛夷) blooms high on bare branches like lotus flowers. No one sees them; they open and fall, entirely for themselves. A Buddhist image of things arising and passing away, without purpose or witness.
+
+== 渭川田家 | Farmhouses on the Wei River
+by: 王维
+form: 五古
+tags: 田园 隐逸 闲适 夏
+scene: dusk sun fields cottage person birds
+斜光照墟落，穷巷牛羊归。
+野老念牧童，倚杖候荆扉。
+雉雊麦苗秀，蚕眠桑叶稀。
+田夫荷锄至，相见语依依。
+即此羡闲逸，怅然吟式微。
+--
+The slanting light falls on the village;
+Down the lanes the cattle and sheep come home.
+An old man, thinking of the herd-boy,
+Leans on his staff and waits by the thorn-wood gate.
+Pheasants call; the wheat is in the ear;
+Silkworms sleep; the mulberry leaves grow thin.
+Farmers come back with hoes on their shoulders;
+They meet and chat, reluctant to part.
+It's this I envy — such leisure and ease;
+Wistfully I chant, "Why not go home?"
+--
+A gentle evening of farm life, envied by an official tired of the court. "Why not go home" (式微) is the refrain of a *Book of Songs* poem urging a return home — here, to a simple life.
+
+== 积雨辋川庄作 | Written at Wangchuan Villa after Long Rain
+by: 王维
+form: 七律
+tags: 田园 隐逸 夏 雨 禅
+scene: summer rain fields crane oriole cottage smoke pine
+积雨空林烟火迟，蒸藜炊黍饷东菑。
+漠漠水田飞白鹭，阴阴夏木啭黄鹂。
+山中习静观朝槿，松下清斋折露葵。
+野老与人争席罢，海鸥何事更相疑。
+--
+After long rain, in the empty woods, the cooking smoke climbs slow;
+Steamed greens and millet go out to the eastern fields below.
+Across the misty paddies, white egrets glide;
+In the shady summer trees, golden orioles sing.
+In the hills I practise stillness, watching morning glories close;
+Under the pines, I keep a pure fast, picking dewy mallows' green.
+This old rustic no longer jostles others for a seat —
+Why should the seagulls still suspect what I mean?
+--
+Wang Wei, a devout Buddhist, at his country villa. The middle couplets are famous for their painterly colours. The ending alludes to two Daoist stories: a man who gave up his airs found strangers no longer deferred to him at inns; and a man without guile could play with seagulls — until the day he meant to catch one, and they flew away.
+
+== 山中 | In the Mountains
+by: 王维
+form: 五绝
+tags: 山 冬 山水
+scene: winter mountains river maple mist
+荆溪白石出，天寒红叶稀。
+山路元无雨，空翠湿人衣。
+--
+White stones jut out in the Jing Creek;
+The weather's cold; red leaves are few.
+Along the mountain path there was no rain —
+Yet the empty green dampens my clothes through.
+--
+The last two lines are a famous paradox: no rain fell, but the mountain greenery is so dense and moist that it seems to soak the walker. Su Shi said of Wang Wei, "in his poems there are paintings" — with this poem as an example.
+
+== 酬张少府 | Reply to Assistant Magistrate Zhang
+by: 王维
+form: 五律
+tags: 隐逸 禅 月 音乐 闲适
+scene: night moon pine person river fisher
+晚年惟好静，万事不关心。
+自顾无长策，空知返旧林。
+松风吹解带，山月照弹琴。
+君问穷通理，渔歌入浦深。
+--
+In my late years I care for stillness only;
+The world's ten thousand things are not my care.
+I look at myself: I have no grand designs,
+Just the knowledge to go back to my old forest there.
+The pine wind blows my loosened belt;
+The mountain moon lights me as I play.
+You ask me the truth of failure and success? —
+A fisherman's song drifts deep into the bay.
+--
+A friend asked Wang Wei about the principles of worldly success and failure. His answer is no answer: a fisherman's song fading into the reeds. In the *Songs of Chu*, a fisherman sang to Qu Yuan of adapting to the times — but Wang Wei just lets the song drift away.
+
+== 过香积寺 | Visiting the Temple of Gathered Fragrance
+by: 王维
+form: 五律
+tags: 禅 山 秋
+scene: dusk mountains pine temple clouds lake
+不知香积寺，数里入云峰。
+古木无人径，深山何处钟。
+泉声咽危石，日色冷青松。
+薄暮空潭曲，安禅制毒龙。
+--
+I did not know the Temple of Gathered Fragrance;
+For miles I climbed into the cloudy peaks.
+Ancient trees, no path for human feet;
+Deep in the hills, a bell — from where it speaks?
+The spring's voice chokes among the jagged rocks;
+The sunlight chills upon the green pines' crown.
+At dusk, beside the bend of an empty pool,
+Calm meditation tames the poison dragon down.
+--
+The temple is never reached in the poem — only sensed, through a bell and the stillness. The famous fifth and sixth lines turn sound into a sob and light into cold. The "poison dragon" is a Buddhist image of the passions, subdued by meditation.
+
+== 终南山 | Zhongnan Mountain
+by: 王维
+form: 五律
+tags: 山 山水 天空
+scene: day peaks clouds mist river person
+太乙近天都，连山到海隅。
+白云回望合，青霭入看无。
+分野中峰变，阴晴众壑殊。
+欲投人处宿，隔水问樵夫。
+--
+Taiyi soars close to heaven's capital;
+Range on range, it runs to the sea's far end.
+White clouds close behind me as I look back;
+Blue haze vanishes as I step in.
+The central peak divides the starry fields;
+Sun and shade are different in each ravine.
+Wanting a place where people live, to spend the night,
+I call across the stream to a woodcutter, seen.
+--
+Zhongnan (also called Taiyi), south of Chang'an, is so huge that its central peak was said to divide two astrological zones. The second couplet captures the experience of walking into mist: clouds close up behind, haze dissolves ahead. A single tiny woodcutter at the end gives the scale.
+
+== 少年行（其一） | Song of Youth (I)
+by: 王维
+form: 七绝
+tags: 饮酒 友情 壮志 柳
+scene: spring tower willow horse rider
+新丰美酒斗十千，咸阳游侠多少年。
+相逢意气为君饮，系马高楼垂柳边。
+--
+Xinfeng's fine wine costs ten thousand a jug;
+Xianyang's gallant knights are mostly young.
+When they meet and hearts take fire, they drink to each other,
+Their horses tied by the high tower where the willows hung.
+--
+A dashing glimpse of the young knights-errant of the capital: fine wine, instant friendship, horses tethered beneath the willows of a wine tower. Written when Wang Wei himself was young.
+
+== 画 | A Painting
+by: 王维
+form: 五绝
+tags: 山水 花 鸟 童趣
+scene: spring mountains waterfall flowers birds
+远看山有色，近听水无声。
+春去花还在，人来鸟不惊。
+--
+From afar, the mountains have their colours;
+Close up, the water makes no sound.
+Spring has gone, yet the flowers remain;
+People come, yet the birds don't flutter round.
+--
+A riddle-poem that every Chinese child learns: what landscape has silent water, flowers that never fade, and birds that never fly away? A painting. The attribution to Wang Wei is traditional but uncertain.
+
+== 送沈子福归江东 | Seeing Shen Zifu Off to Jiangdong
+by: 王维
+form: 七绝
+tags: 离别 友情 相思 春 柳
+scene: spring willow river boat two
+杨柳渡头行客稀，罟师荡桨向临圻。
+惟有相思似春色，江南江北送君归。
+--
+At the willow ferry, few travellers remain;
+The boatman rows his oars toward Linqi's shore.
+Only my longing, like the colours of spring,
+Will follow you home, south and north of the River, evermore.
+--
+The final image is lovely: spring is everywhere on both banks of the Yangtze, and so is the poet's affection, accompanying his friend all the way home.
+
+== 书事 | Noting the Moment
+by: 王维
+form: 五绝
+tags: 雨 闲适 禅
+scene: day rain cottage grass window
+轻阴阁小雨，深院昼慵开。
+坐看苍苔色，欲上人衣来。
+--
+Light clouds hold back the drizzle;
+The deep courtyard gate, at noon, I'm too lazy to undo.
+I sit and gaze at the green of the moss —
+It seems about to climb onto my clothes, too.
+--
+A drowsy moment after rain. The moss is so vividly green that, in the stillness, it seems ready to creep up onto the watcher — the boundary between self and world dissolving.
+
+== 归嵩山作 | Returning to Mount Song
+by: 王维
+form: 五律
+tags: 隐逸 秋 山 江河 鸟
+scene: dusk autumn sun mountains river birds wall rider
+清川带长薄，车马去闲闲。
+流水如有意，暮禽相与还。
+荒城临古渡，落日满秋山。
+迢递嵩高下，归来且闭关。
+--
+A clear stream girds the long thickets;
+My carriage moves at an easy pace.
+The flowing water seems to have a will;
+The evening birds fly home with me apace.
+A ruined city by an ancient ferry;
+The setting sun fills the autumn hills.
+Far off, below the heights of Mount Song,
+I'll come home and shut my gate, and keep still.
+--
+A journey home into retirement. The water and the homing birds seem to share his mood; the ruined city and sunset bring a touch of melancholy before the final resolution — to close the gate on the world.
+
+== 田园乐（其六） | Joys of the Countryside (VI)
+by: 王维
+form: 六言
+tags: 田园 春 闲适 花 鸟
+scene: dawn spring peach willow mist cottage oriole
+桃红复含宿雨，柳绿更带朝烟。
+花落家童未扫，莺啼山客犹眠。
+--
+Pink peach blossoms still hold last night's rain;
+Green willows wear the morning's misty veil.
+Fallen flowers — the houseboy hasn't swept them;
+Orioles sing — the mountain guest still sleeps, all hale.
+--
+A rare six-character quatrain, every line packed with colour and parallelism. Nothing needs doing: the petals can lie, the guest can sleep.
+
+== 息夫人 | Lady Xi
+by: 王维
+form: 五绝
+tags: 女性 怀古 花 闺怨
+scene: spring palace flowers window
+莫以今时宠，能忘旧日恩。
+看花满眼泪，不共楚王言。
+--
+Don't think that the favour she's shown today
+Could make her forget the love of before.
+She gazes at flowers, her eyes full of tears,
+And will not speak to the King of Chu anymore.
+--
+In 680 BC the King of Chu destroyed the state of Xi and took its queen for himself. She bore him two sons but, the *Zuo Zhuan* records, never spoke to him. Wang Wei wrote this at a banquet where a prince had taken a pancake-seller's wife; shown her old husband, she wept — and the prince let her go home.
