@@ -33,8 +33,9 @@ def key(s):
 def walk(node, out):
     if isinstance(node, dict):
         title = node.get("title") or node.get("chapter") or node.get("rhythmic")
-        if "paragraphs" in node and title and node.get("author"):
-            out.append((key(node["author"]), key(title), node["paragraphs"]))
+        paras = node.get("paragraphs") or node.get("para")
+        if paras and title and node.get("author"):
+            out.append((key(node["author"]), key(title), paras))
         for v in node.values():
             walk(v, out)
     elif isinstance(node, list):

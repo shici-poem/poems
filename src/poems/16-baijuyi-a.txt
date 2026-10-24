@@ -116,7 +116,7 @@ scene: winter snow mountains wall rider smoke
 翩翩两骑来是谁？黄衣使者白衫儿。
 手把文书口称敕，回车叱牛牵向北。
 一车炭，千余斤，宫使驱将惜不得。
-半匹红绡一丈绫，系向牛头充炭直。
+半匹红纱一丈绫，系向牛头充炭直。
 --
 The old charcoal seller
 Cuts wood and burns charcoal in the Southern Hills.
@@ -209,7 +209,7 @@ by: 白居易
 form: 词
 tags: 相思 闺怨 江河 月
 scene: night moon river tower hills person
-汴水流，泗水流，流到瓜州古渡头。
+汴水流，泗水流，流到瓜洲古渡头。
 吴山点点愁。
 思悠悠，恨悠悠，恨到归时方始休。
 月明人倚楼。

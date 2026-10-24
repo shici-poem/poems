@@ -53,7 +53,7 @@ Short longing — no end that I see.
 Had I known how it would bind my heart so,
 Better we'd never met, long ago.
 --
-Called the "three-five-seven-character poem" for its lines that grow from three to five to seven characters, like a rising breath. The leaves that gather and scatter, the crows that settle and are startled, mirror the restless heart. The famous last couplet — "had I known it would bind my heart like this, better we had never met" — is still quoted by lovers today.
+Called the "three-five-seven-character poem" for its lines that grow from three to five to seven characters, like a rising breath. The leaves that gather and scatter, the crows that settle and are startled, mirror the restless heart. The famous last couplet — "had I known it would bind my heart like this, better we had never met" — is still quoted by lovers today. (The last six lines are found only in later editions; the earliest texts end with "this hour, this night".)
 
 == 劳劳亭 | Laolao Pavilion
 by: 李白
@@ -361,7 +361,7 @@ scene: night autumn moon window clouds candle
 络纬秋啼金井阑，微霜凄凄簟色寒。
 孤灯不明思欲绝，卷帷望月空长叹。
 美人如花隔云端！
-上有青冥之高天，下有渌水之波澜。
+上有青冥之长天，下有渌水之波澜。
 天长路远魂飞苦，梦魂不到关山难。
 长相思，摧心肝！
 --
