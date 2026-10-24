@@ -1,0 +1,292 @@
+== 示儿 | To My Sons
+by: 陆游
+form: 七绝
+tags: 爱国 人生 悼亡
+scene: night candle person cottage
+死去元知万事空，但悲不见九州同。
+王师北定中原日，家祭无忘告乃翁。
+--
+I always knew that death would bring an end to everything;
+I only grieve I'll never see the nation whole again.
+The day the royal army wins back the north for our king,
+At the family offering, don't forget to tell your father then.
+--
+Lu You's last poem, written on his deathbed in 1210 at eighty-five. His whole life's wish — to see the north recovered from the Jurchen Jin — remains unfulfilled, so he asks his sons to report it to his spirit at the ancestral sacrifice. (Seventy years later, the Song itself fell to the Mongols.)
+
+== 游山西村 | Visiting a Village West of the Hills
+by: 陆游
+form: 七律
+tags: 田园 春 哲理 柳 花 友情
+scene: spring hills river willow flowers cottage moon person
+莫笑农家腊酒浑，丰年留客足鸡豚。
+山重水复疑无路，柳暗花明又一村。
+箫鼓追随春社近，衣冠简朴古风存。
+从今若许闲乘月，拄杖无时夜叩门。
+--
+Don't laugh at the farmer's cloudy wine, brewed at the year's end;
+In a good year there's chicken and pork enough to keep a guest.
+Hill upon hill, stream upon stream — I thought the road would end;
+Then dark willows, bright flowers — another village, blessed.
+Flutes and drums go round: the spring festival draws near;
+Their dress is plain, and the good old ways still linger here.
+From now on, if I may come strolling by moonlight,
+I'll knock upon your door with my staff, at any hour of night.
+--
+1167, in Lu You's home district near Shaoxing, after he was dismissed for urging war against the Jin. 山重水复疑无路，柳暗花明又一村 — "where hills and streams seem to end the road, past dark willows and bright flowers another village appears" — became the Chinese proverb for unexpected hope when all seems lost.
+
+== 钗头凤（红酥手） | The Phoenix Hairpin (Soft Pink Hands)
+by: 陆游
+form: 词
+tags: 爱情 离别 春 柳 悼亡
+scene: spring willow wall pavilion petals peach
+红酥手，黄縢酒，满城春色宫墙柳。
+东风恶，欢情薄。一怀愁绪，几年离索。错，错，错！
+
+春如旧，人空瘦，泪痕红浥鲛绡透。
+桃花落，闲池阁。山盟虽在，锦书难托。莫，莫，莫！
+--
+Your soft pink hands,
+The wine with its yellow seal,
+The whole town full of spring, and willows by the palace wall.
+The east wind was cruel;
+Our joy was thin and frail.
+A heart full of sorrow,
+Years of parting, all.
+Wrong! Wrong! Wrong!
+
+Spring is as it was;
+You, thin for nothing, pale;
+Rouged tears soak through your silken kerchief, every fall.
+The peach blossoms drop
+On the idle pond and hall.
+Our mountain-vows still stand,
+But no letter can be sent at all.
+No! No! No!
+--
+Lu You's first wife, his cousin Tang Wan, was forced to divorce him by his mother. Years later, around 1155, they met by chance in the Shen family garden in Shaoxing; she, remarried, sent him wine and food. He wrote this lyric on the garden wall. The "east wind" is his mother; the refrains 错 ("wrong!") and 莫 ("no more!") are cries of despair. Tang Wan answered with a lyric of her own — and died soon after.
+
+== 钗头凤（世情薄） | The Phoenix Hairpin (The World's Ways Are Cold)
+by: 唐琬
+form: 词
+tags: 爱情 离别 女性 悼亡 雨
+scene: dusk rain petals pavilion wall person
+世情薄，人情恶，雨送黄昏花易落。
+晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
+
+人成各，今非昨，病魂常似秋千索。
+角声寒，夜阑珊。怕人寻问，咽泪装欢。瞒，瞒，瞒！
+--
+The world's ways are cold,
+And people cruel;
+Rain sends the dusk, and flowers fall with ease.
+The morning wind dries
+My tears' last trace.
+I want to write my heart out —
+Instead I lean on the rail and speak to the breeze.
+Hard! Hard! Hard!
+
+We've gone our ways;
+Today's not yesterday;
+My sick soul swings like a swing's rope, never still.
+The bugle's cold;
+The night's near done.
+Afraid that people ask,
+I swallow tears and feign a smile, against my will.
+Hide! Hide! Hide!
+--
+Tang Wan's answer to Lu You, written — tradition says — beneath his lyric on the garden wall. Her pain is doubled: she must hide it from her new husband and from everyone around her. She died not long after. (Some scholars believe the lyric was later reconstructed from fragments.)
+
+== 卜算子·咏梅 | Song of Divination: The Plum Blossom
+by: 陆游
+form: 词
+tags: 咏物 花 冬 失意 哲理
+scene: dusk winter plum bridge rain wind
+驿外断桥边，寂寞开无主。
+已是黄昏独自愁，更著风和雨。
+
+无意苦争春，一任群芳妒。
+零落成泥碾作尘，只有香如故。
+--
+Beyond the post-house, by a broken bridge,
+It blooms alone, and no one owns it now.
+Already dusk, and sad and on its own,
+And wind and rain besides upon the bough.
+
+It does not wish to fight for spring's acclaim;
+Let all the other flowers envy, if they must.
+Though fallen into mud and ground to dust,
+Its fragrance stays — forever just the same.
+--
+The plum blossom, flowering alone in winter by a broken bridge, battered by wind and rain, wanting nothing from spring — and keeping its fragrance even when trampled into dust — is Lu You's portrait of his own integrity, a patriot sidelined by the peace party. Mao Zedong wrote a famous reply to it.
+
+== 十一月四日风雨大作（其二） | A Great Storm on the Fourth Day of the Eleventh Month (II)
+by: 陆游
+form: 七绝
+tags: 爱国 壮志 风 雨 冬 夜
+scene: night winter rain wind cottage person horse
+僵卧孤村不自哀，尚思为国戍轮台。
+夜阑卧听风吹雨，铁马冰河入梦来。
+--
+Stiff in my bed in a lonely village, I don't pity my plight;
+I still long to guard Luntai for my country's sake.
+Late at night I lie and hear the wind lash the rain —
+And armoured horses on frozen rivers gallop through my dreams till I wake.
+--
+Written in 1192, when Lu You was sixty-seven and living in retirement. The winter storm outside becomes, in his dream, cavalry charging across frozen rivers on the northern frontier — the war he was never allowed to fight. Luntai was a Tang frontier fort in Central Asia.
+
+== 秋夜将晓出篱门迎凉有感（其二） | Going Out at the Hedge Gate Before Dawn on an Autumn Night (II)
+by: 陆游
+form: 七绝
+tags: 爱国 江河 山 秋
+scene: dawn autumn river mountains peaks
+三万里河东入海，五千仞岳上摩天。
+遗民泪尽胡尘里，南望王师又一年。
+--
+Thirty thousand li, the Yellow River rolls east to the sea;
+Five thousand fathoms, Mount Hua soars up to scrape the sky.
+Under foreign dust, the people left behind have wept their eyes dry,
+Looking south for the royal army — another year goes by.
+--
+Before dawn on an autumn night in 1192, Lu You pictures the Yellow River and Mount Hua — symbols of the north, held by the Jin for sixty-five years — and the Chinese still living there, who have wept themselves dry waiting year after year for an army from the south that never comes.
+
+== 书愤（早岁那知世事艰） | Venting My Indignation
+by: 陆游
+form: 七律
+tags: 爱国 壮志 失意 时光
+scene: autumn snow river boat fort horse
+早岁那知世事艰，中原北望气如山。
+楼船夜雪瓜洲渡，铁马秋风大散关。
+塞上长城空自许，镜中衰鬓已先斑。
+出师一表真名世，千载谁堪伯仲间。
+--
+When young, how could I know the world's affairs were hard?
+I gazed north at the Central Plain, my spirit like a mountain high.
+Towered warships, night snow, at the Guazhou crossing;
+Armoured horses, autumn wind, at Dasan Pass nearby.
+I once called myself the frontier's Great Wall — in vain;
+My temples in the mirror are already turning grey.
+The Memorial for the Campaign made Zhuge Liang's name eternal —
+Who in a thousand years has been his equal, I'd say?
+--
+1186: Lu You at sixty-one, out of office. In youth he had served at the front — at Guazhou on the Yangtze, where the Song navy repelled the Jin in 1161, and at Dasan Pass in the north-west. A southern general once called himself "the Great Wall", and Lu You had thought the same of himself. Now he can only admire Zhuge Liang, whose memorial before marching north vowed to give his all until death.
+
+== 临安春雨初霁 | Spring Rain Clearing in Lin'an
+by: 陆游
+form: 七律
+tags: 春 雨 失意 花
+scene: night spring rain tower cottage flowers window
+世味年来薄似纱，谁令骑马客京华？
+小楼一夜听春雨，深巷明朝卖杏花。
+矮纸斜行闲作草，晴窗细乳戏分茶。
+素衣莫起风尘叹，犹及清明可到家。
+--
+These years the taste of the world has grown as thin as gauze;
+Who made me ride a horse to be a guest in the capital again?
+All night in my little tower I listen to the spring rain;
+Tomorrow, in the deep lane, they'll be selling apricot blossoms, then.
+On short paper, in slanting lines, I idly write in running hand;
+By the sunny window I play at whisking tea to a fine, milky foam.
+White robe, don't sigh about the dust and wind of the capital —
+By Qingming, I'll still be in time to get back home.
+--
+Hangzhou (Lin'an), 1186, waiting for an audience to receive a minor post. 小楼一夜听春雨，深巷明朝卖杏花 — "all night in my little tower I hear the spring rain; tomorrow, in the deep lane, they'll sell apricot blossoms" — is one of the loveliest couplets in Chinese, though its mood is idle frustration: an old patriot reduced to calligraphy and tea games. A Jin-dynasty line said the capital's dust turns white clothes black.
+
+== 冬夜读书示子聿 | Reading on a Winter Night: To My Son Yu
+by: 陆游
+form: 七绝
+tags: 哲理 冬 人生
+scene: night winter candle window person
+古人学问无遗力，少壮工夫老始成。
+纸上得来终觉浅，绝知此事要躬行。
+--
+The ancients spared no effort in their studies, young or old;
+What they began in youth was only finished when they aged.
+What's learned from books will always seem a shallow hold —
+To truly know a thing, in doing it you must engage.
+--
+Advice to his youngest son on a winter night of reading. 纸上得来终觉浅，绝知此事要躬行 — "knowledge from paper is always shallow; to truly know, you must do it yourself" — is one of the most quoted maxims on learning in Chinese.
+
+== 诉衷情（当年万里觅封侯） | Telling My Heart (Once I Rode Ten Thousand Li)
+by: 陆游
+form: 词
+tags: 爱国 壮志 失意 时光 边塞
+scene: day cottage river person horse
+当年万里觅封侯，匹马戍梁州。
+关河梦断何处？尘暗旧貂裘。
+
+胡未灭，鬓先秋，泪空流。
+此生谁料，心在天山，身老沧洲。
+--
+Once I rode ten thousand li to win a noble's place,
+Alone on my horse, to guard Liangzhou.
+Where did that dream of passes and of rivers break?
+Dust dims my old sable coat now.
+
+The foe is not destroyed;
+My temples are already autumn-grey;
+My tears flow on in vain.
+Who'd have thought, in this life,
+My heart would be in the Tianshan,
+And my body grow old by the water, far away?
+--
+An old man's lament. In 1172 Lu You served on the north-western front near Liangzhou (Hanzhong), planning a campaign that never came. Now his old army coat gathers dust; his heart is still at the Tianshan frontier, but his body grows old by the waters of his retirement (沧洲, the recluse's riverside).
+
+== 沈园（其一） | Shen Garden (I)
+by: 陆游
+form: 七绝
+tags: 悼亡 爱情 春 时光
+scene: dusk spring sun bridge lake willow wall
+城上斜阳画角哀，沈园非复旧池台。
+伤心桥下春波绿，曾是惊鸿照影来。
+--
+On the city wall, the sun slants low; the painted horn laments;
+Shen Garden's pond and terrace aren't the ones I knew.
+Beneath the bridge of heartbreak, the spring ripples are green —
+Where once a startled swan's reflection came in view.
+--
+Written in 1199, forty-four years after the meeting with Tang Wan in Shen Garden, when Lu You was seventy-five. The "startled swan" (惊鸿) is an image of a beautiful woman, from Cao Zhi's *Goddess of the Luo*: her reflection once passed over this very water.
+
+== 沈园（其二） | Shen Garden (II)
+by: 陆游
+form: 七绝
+tags: 悼亡 爱情 时光 柳
+scene: spring willow lake pavilion person
+梦断香消四十年，沈园柳老不吹绵。
+此身行作稽山土，犹吊遗踪一泫然。
+--
+The dream has broken, the fragrance faded — forty years ago;
+Shen Garden's willows are too old to shed their down.
+This body will soon be earth on Kuaiji's hills below —
+Yet still I mourn these traces, and my tears fall down.
+--
+The second of the pair. Tang Wan had died some forty years before; the willows are old, and so is the poet, who knows he will soon lie buried in the hills of Kuaiji. Still he comes back to weep.
+
+== 剑门道中遇微雨 | Meeting Light Rain on the Road to Sword Gate
+by: 陆游
+form: 七绝
+tags: 羁旅 雨 失意 人生
+scene: spring rain peaks mountains rider
+衣上征尘杂酒痕，远游无处不消魂。
+此身合是诗人未？细雨骑驴入剑门。
+--
+My robe is stained with travel dust and drops of wine;
+On this long road, each place I pass has moved my heart.
+Am I then meant to be a poet — is that line mine? —
+In the fine rain, on a donkey, through Sword Gate I depart.
+--
+1172: Lu You was moved from the front line to a desk job in Chengdu — the end of his military hopes. Poets rode donkeys (Li Bai, Du Fu, Jia Dao all did); soldiers rode horses. Riding a donkey into Sichuan through the Sword Gate in the rain, he asks bitterly: is a poet all I am meant to be?
+
+== 梅花绝句（其一） | Plum Blossom Quatrain (I)
+by: 陆游
+form: 七绝
+tags: 花 冬 咏物 闲适
+scene: winter plum mountains snow person
+闻道梅花坼晓风，雪堆遍满四山中。
+何方可化身千亿，一树梅花一放翁。
+--
+I hear the plum blossoms have opened in the morning breeze,
+Like drifts of snow all through the hills on every side.
+If only I could split into a million selves, to please
+Each plum tree with an old Fangweng beside!
+--
+Lu You called himself Fangweng, "the Old Man Unrestrained". He loved plum blossom so much that he wished he could multiply himself, so that every tree could have its own admirer.
