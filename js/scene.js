@@ -189,6 +189,13 @@
       season === 'autumn' ? ['#e6d7b8', '#d3bf98'] : season === 'spring' || season === 'summer' ? ['#e2e2c8', '#cdd0ac'] : ['#e8dfcc', '#d6c9ae'];
     if (has('frost')) groundCol = ['#eef1f2', '#dde4e8'];
     var landX0 = 0, landX1 = W, shoreTop;
+    // two compositions for water scenes: a bank on one side, or a foreground bank across the bottom
+    var bankMode = water && !has('sea') && chance(0.4);
+    function onLand(x, y) {
+      if (!water) return true;
+      if (bankMode) return y > shoreTop + 3;
+      return side === 'L' ? x <= landX1 : x >= landX0;
+    }
 
     if (water) {
       var wcol = time === 'dusk' ? ['#ead2b7', '#d7c3ad'] : time === 'dawn' ? ['#ead9cf', '#d3d4d0'] : ['#dfe5e3', '#c6d0d0'];
@@ -205,6 +212,14 @@
           L.water.push('<path d="' + d + '" fill="none" stroke="' + INK + '" stroke-opacity="' + n(0.18 + wv * 0.06) + '" stroke-width=".8"/>');
         }
       }
+      if (bankMode) {
+        shoreTop = H - r(24, 32);
+        var edge = 'M-2,' + n(shoreTop + r(-3, 3)) + 'Q' + n(W * r(0.2, 0.4)) + ',' + n(shoreTop - r(3, 8)) + ' ' + n(W * 0.55) + ',' + n(shoreTop + r(0, 4)) +
+          'T' + (W + 2) + ',' + n(shoreTop + r(-4, 3));
+        L.ground.push('<path d="' + edge + 'L' + (W + 2) + ',' + H + 'L-2,' + H + 'Z" fill="' + grad([[0, groundCol[0]], [1, groundCol[1]]]) + '"/>');
+        L.ground.push('<path d="' + edge + '" fill="none" stroke="' + INK + '" stroke-opacity=".35" stroke-width=".7"/>');
+        landX0 = 8; landX1 = W - 8;
+      } else {
       // shore
       var sx = side === 'L' ? 0 : W, dir = side === 'L' ? 1 : -1;
       var a = r(0.26, 0.36) * W, b = r(0.42, 0.52) * W;
@@ -216,6 +231,7 @@
         L.ground.push('<path d="' + shore.replace(/L[\d.]+,[\d.]+L[\d.]+,[\d.]+Z$/, '') + '" fill="none" stroke="' + INK + '" stroke-opacity=".35" stroke-width=".7"/>');
         if (side === 'L') { landX0 = 6; landX1 = a * 0.95; } else { landX0 = W - a * 0.95; landX1 = W - 6; }
       } else { landX0 = landX1 = -1; }
+      }
     } else {
       shoreTop = horizon;
       L.ground.push('<rect y="' + n(horizon) + '" width="' + W + '" height="' + n(H - horizon) + '" fill="' + grad([[0, groundCol[0]], [1, groundCol[1]]]) + '"/>');
@@ -253,7 +269,7 @@
       jar: jar, cup: cup, candle: candle,
     };
     function baseY(x, depth) { // depth 0 (far) .. 1 (near)
-      return shoreTop + 8 + depth * (H - shoreTop - 14);
+      return bankMode ? shoreTop + 5 + depth * (H - shoreTop - 8) : shoreTop + 8 + depth * (H - shoreTop - 14);
     }
     function scaleAt(y) { return 0.55 + 0.75 * (y - horizon) / (H - horizon); }
 
@@ -269,7 +285,7 @@
       landItems.forEach(function (kind, i) {
         var big = ['palace', 'temple', 'tower', 'pavilion', 'cottage', 'pine', 'willow', 'maple', 'peach', 'bamboo', 'plum'].indexOf(kind) >= 0;
         var x = landX0 + span * (i + 0.5) / slots + r(-span / slots / 4, span / slots / 4);
-        if (water) {
+        if (water && !bankMode) {
           // keep things on the bank (the shore curves away toward the water)
           var far = side === 'L' ? x / landX1 : (W - x) / (W - landX0);
           x = side === 'L' ? Math.min(x, landX1 - 8) : Math.max(x, landX0 + 8);
@@ -304,22 +320,23 @@
     });
 
     /* ---------- water things ---------- */
-    function waterX() { return side === 'L' ? r(W * 0.55, W * 0.85) : r(W * 0.15, W * 0.45); }
-    if (has('reeds') && water) L.obj.push(reeds(side === 'L' ? r(W * 0.32, W * 0.42) : r(W * 0.58, W * 0.68), H - r(18, 35), 1));
+    function waterX() { return bankMode ? r(W * 0.15, W * 0.85) : side === 'L' ? r(W * 0.55, W * 0.85) : r(W * 0.15, W * 0.45); }
+    if (has('reeds') && bankMode) L.obj.push(reeds(r(30, W - 30), shoreTop + 6, 0.9));
+    else if (has('reeds') && water) L.obj.push(reeds(side === 'L' ? r(W * 0.32, W * 0.42) : r(W * 0.58, W * 0.68), H - r(18, 35), 1));
     else if (has('reeds')) L.obj.push(reeds(r(30, W - 30), H - 15, 1));
     if (has('bridge')) {
       var bx = water ? (side === 'L' ? W * 0.45 : W * 0.55) : r(80, 220), by = water ? horizon + r(16, 26) : horizon + 20;
       L.obj.push(bridge(bx, by, water ? 1 : 0.8));
     }
     if (has('boat') || has('fisher')) {
-      var bx2 = waterX(), by2 = r(horizon + 30, H - 18);
+      var bx2 = waterX(), by2 = bankMode ? r(horizon + 12, shoreTop - 6) : r(horizon + 30, H - 18);
       L.obj.push(boat(bx2, by2, scaleAt(by2) * 1.1, has('fisher'), false));
     }
     if (has('sail')) {
       var sx2 = waterX(), sy2 = horizon + r(3, 10);
       L.obj.push(boat(sx2, sy2, 0.45, false, true));
     }
-    if (has('lotus')) L.obj.push(lotus(side === 'L' ? r(W * 0.5, W * 0.8) : r(W * 0.2, W * 0.5), H - r(12, 22)));
+    if (has('lotus')) L.obj.push(bankMode ? lotus(r(W * 0.25, W * 0.75), shoreTop - r(3, 10)) : lotus(side === 'L' ? r(W * 0.5, W * 0.8) : r(W * 0.2, W * 0.5), H - r(12, 22)));
 
     /* ---------- far structures ---------- */
     if (has('wall')) L.near.push(wall(horizon + (water ? -1 : r(4, 12))));
@@ -329,7 +346,7 @@
     if (has('grass') || (!water && !desert && !snowy && chance(0.5))) {
       for (var gi = 0; gi < 14; gi++) {
         var gx = r(0, W), gy = r(horizon + 10, H - 2);
-        if (water && (side === 'L' ? gx > landX1 : gx < landX0)) continue;
+        if (!onLand(gx, gy)) continue;
         var gc = season === 'autumn' ? '#9c7a3e' : '#5d7a4a';
         L.ground.push('<path d="M' + n(gx) + ',' + n(gy) + 'q' + n(r(-2, 2)) + ',-' + n(r(3, 6)) + ' ' + n(r(-3, 3)) + ',-' + n(r(5, 9)) + 'M' + n(gx + 2) + ',' + n(gy) + 'q1,-3 ' + n(r(1, 4)) + ',-' + n(r(4, 7)) +
           '" stroke="' + gc + '" stroke-width=".6" fill="none" opacity=".7"/>');
@@ -339,7 +356,7 @@
       var fcs = ['#d8657a', '#e9b44c', '#ffffff', '#c86fb0'];
       for (var fl = 0; fl < 22; fl++) {
         var flx = r(0, W), fly = r(horizon + 12, H - 4);
-        if (water && (side === 'L' ? flx > landX1 : flx < landX0)) continue;
+        if (!onLand(flx, fly)) continue;
         L.ground.push('<circle cx="' + n(flx) + '" cy="' + n(fly) + '" r="' + n(r(0.8, 1.8)) + '" fill="' + fcs[fl % 4] + '" opacity=".9"/>');
       }
     }

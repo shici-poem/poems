@@ -33,13 +33,13 @@ Blank line inside text = stanza break (上阕/下阕).
 - [x] 2. Build script + validation (tools/build.py; tools/fill_text.py pulls long originals from chinese-poetry)
 - [x] 3. Site skeleton: layout, fonts, routing, search, poem page
 - [x] 4. Scene painter (scene.js)
-- [ ] 5. Poems (target ≈ 500), in batches:
+- [x] 5. Poems (target ≈ 500) — done: 548 poems, 153 poets
   - [x] 李白  - [x] 杜甫  - [x] 王维  - [x] 白居易  - [x] 李商隐  - [x] 杜牧  - [x] 孟浩然
   - [x] 边塞 (王昌龄 王之涣 岑参 高适 王翰 …)  - [x] 初唐  - [x] 盛唐 others
   - [x] 中唐 (刘禹锡 柳宗元 韩愈 元稹 孟郊 贾岛 李贺 …)  - [x] 晚唐
-  - [ ] 先秦汉魏六朝  - [x] 五代 (李煜 …)
-  - [x] 苏轼  - [x] 李清照  - [x] 辛弃疾  - [x] 陆游  - [x] 北宋 others  - [ ] 南宋 others
-  - [ ] 元明清
+  - [x] 先秦汉魏六朝  - [x] 五代 (李煜 …)
+  - [x] 苏轼  - [x] 李清照  - [x] 辛弃疾  - [x] 陆游  - [x] 北宋 others  - [x] 南宋 others
+  - [x] 元明清
 - [ ] 6. Verify Chinese texts against chinese-poetry dataset
 - [ ] 7. Traditional-Chinese toggle (OpenCC at build time)
 - [ ] 8. Polish, test on phone/tablet/desktop widths
