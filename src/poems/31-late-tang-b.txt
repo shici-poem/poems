@@ -1,0 +1,152 @@
+== 不第后赋菊 | On Chrysanthemums, After Failing the Examination
+by: 黄巢
+form: 七绝
+tags: 花 秋 壮志 战争
+scene: autumn chrysanthemum wall flag wind
+待到秋来九月八，我花开后百花杀。
+冲天香阵透长安，满城尽带黄金甲。
+--
+Wait till the autumn comes — the ninth month, the eighth day:
+When my flowers open, all the hundred flowers die.
+Their fragrance, storming heaven, will sweep through Chang'an's every way,
+And the whole city will wear gold armour, gleaming high.
+--
+Written by Huang Chao after failing the imperial examination. The chrysanthemum, which blooms at the Double Ninth, becomes an army: its golden petals are armour, its fragrance an assault on the capital. In 880 Huang Chao's rebels really did take Chang'an — the poem reads as a prophecy.
+
+== 题菊花 | On Chrysanthemums
+by: 黄巢
+form: 七绝
+tags: 花 秋 壮志 民生
+scene: autumn chrysanthemum wind cottage
+飒飒西风满院栽，蕊寒香冷蝶难来。
+他年我若为青帝，报与桃花一处开。
+--
+In the rustling west wind, they fill the courtyard all around;
+Their hearts are cold, their scent is chill — no butterflies come near.
+If one day I should be the Green Emperor of Spring,
+I'd have them bloom beside the peach blossoms, when the spring is here.
+--
+The Green Emperor (青帝) was the god of spring. Chrysanthemums bloom in the cold of autumn, when no butterflies come; the young rebel vows to give them their place in the warmth of spring — to overturn the order that keeps the poor out in the cold.
+
+== 咸阳城东楼 | The East Tower of Xianyang
+by: 许浑
+form: 七律
+tags: 怀古 风 雨 秋
+scene: dusk autumn wind tower wall river reeds willow clouds
+一上高城万里愁，蒹葭杨柳似汀洲。
+溪云初起日沉阁，山雨欲来风满楼。
+鸟下绿芜秦苑夕，蝉鸣黄叶汉宫秋。
+行人莫问当年事，故国东来渭水流。
+--
+I climb the city wall, and grief spreads ten thousand li;
+The reeds and willows look like islets on a southern shore.
+Clouds rise from the stream; the sun sinks behind the hall's high eaves;
+The mountain rain is coming — wind fills the tower's every door.
+Birds land in the green weeds of the Qin park as evening falls;
+Cicadas cry in yellow leaves where Han palaces stood before.
+Traveller, don't ask about the things of long ago —
+Past the old capital, from the east, the Wei flows as of yore.
+--
+Xianyang, capital of the Qin, lies across the Wei River from Chang'an. 山雨欲来风满楼, "the mountain rain is coming; the wind fills the tower", became the proverb for the tense moment before a storm breaks — political or otherwise. The ruined Qin and Han palaces foreshadow the fall of the Tang itself.
+
+== 贫女 | The Poor Girl
+by: 秦韬玉
+form: 七律
+tags: 女性 失意 民生
+scene: day cottage window person candle
+蓬门未识绮罗香，拟托良媒益自伤。
+谁爱风流高格调，共怜时世俭梳妆。
+敢将十指夸针巧，不把双眉斗画长。
+苦恨年年压金线，为他人作嫁衣裳。
+--
+Born behind a wicker gate, I've never known the scent of silk;
+I'd seek a matchmaker — but that would only hurt me more.
+Who loves a noble manner and a lofty, gentle style?
+They all prefer the cheap and showy fashions everyone adores.
+I dare to boast my fingers have a needle's matchless art;
+I won't compete in painting eyebrows long, to steal a heart.
+Year after year I bitterly press gold thread — and it's to make
+The wedding dresses other girls will wear, for others' sake.
+--
+A poor, skilled, virtuous girl whom no one marries, while she sews bridal gowns for others — an allegory of the talented scholar without connections, whose work serves other men's advancement. 为他人作嫁衣裳, "making wedding clothes for others", is now a common idiom.
+
+== 山亭夏日 | Summer Day at the Mountain Pavilion
+by: 高骈
+form: 七绝
+tags: 夏 闲适 花 风
+scene: summer pavilion lake flowers wind pine
+绿树阴浓夏日长，楼台倒影入池塘。
+水晶帘动微风起，满架蔷薇一院香。
+--
+Green trees cast heavy shade; the summer days are long;
+The tower's reflection falls upon the pond.
+The crystal curtain stirs: a breeze begins to blow;
+A trellis full of roses scents the courtyard all around.
+--
+A cool summer afternoon at a mountain pavilion: shade, reflection, a stirring curtain — and then the scent of roses fills the courtyard. The breeze is never seen, only inferred from the curtain and the perfume.
+
+== 咏田家 | The Farmer's Lot
+by: 聂夷中
+form: 五古
+tags: 民生 田园
+scene: day fields cottage person candle
+二月卖新丝，五月粜新谷。
+医得眼前疮，剜却心头肉。
+我愿君王心，化作光明烛。
+不照绮罗筵，只照逃亡屋。
+--
+In the second month he sells his silk, not yet spun;
+In the fifth month he sells his grain, not yet grown.
+To heal the sore before his eyes, it's done
+By cutting out the flesh from his heart's own.
+I wish our sovereign's heart would turn
+Into a candle, shining clear and bright —
+Not lighting silk-robed banquets as they burn,
+But the empty homes of those who fled in flight.
+--
+Desperate farmers borrowed against crops not yet harvested — selling silk in the second month, before the silkworms have even hatched, and grain in the fifth, before the harvest, at ruinous prices. "Healing the sore before your eyes by cutting the flesh from your heart" became the proverb for a desperate short-term fix. The second half begs the emperor to look at the deserted homes of peasants driven off by debt.
+
+== 己亥岁（其一） | The Year Jihai (I)
+by: 曹松
+form: 七绝
+tags: 战争 民生 哲理
+scene: dusk river hills fort grass
+泽国江山入战图，生民何计乐樵苏。
+凭君莫话封侯事，一将功成万骨枯。
+--
+The rivers and the hills down south are drawn on maps of war;
+How can the people live in peace, cutting firewood and grass?
+I beg you, don't speak to me of lordships won in war —
+One general's fame is built upon ten thousand bones, alas.
+--
+Written in 879, as the Tang fought Huang Chao's rebels across the south. 一将功成万骨枯, "one general's success, ten thousand withered bones", became the most quoted line against war in Chinese.
+
+== 江楼感旧 | Memories at the River Tower
+by: 赵嘏
+form: 七绝
+tags: 相思 月 夜 江河 时光
+scene: night moon river tower person
+独上江楼思渺然，月光如水水如天。
+同来望月人何处？风景依稀似去年。
+--
+Alone I climb the river tower; my thoughts drift far and free;
+The moonlight's like the water, and the water like the sky.
+The one who came to watch the moon with me — where can she be?
+The scenery seems just as it was last year, as days go by.
+--
+A return to a place of happy memory. 月光如水水如天 — moonlight like water, water like sky — dissolves the world into one shimmering emptiness, matching the empty place beside him.
+
+== 雨晴 | After the Rain
+by: 王驾
+form: 七绝
+tags: 春 雨 花 童趣
+scene: spring rain flowers butterfly cottage
+雨前初见花间蕊，雨后兼无叶里花。
+蛱蝶飞来过墙去，却疑春色在邻家。
+--
+Before the rain, the buds had just appeared among the flowers;
+After the rain, there's not a blossom left among the leaves.
+The butterflies fly over, then across the wall —
+As if spring's colour's moved next door, they seem to believe.
+--
+The rain has stripped the garden, and the disappointed butterflies flutter over the wall — as if spring had simply moved next door. A light, witty touch on the passing of spring.
