@@ -1,0 +1,332 @@
+== 渔家傲·秋思 | The Fisherman's Pride: Autumn Thoughts
+by: 范仲淹
+form: 词
+tags: 边塞 秋 思乡 战争 鸟
+scene: dusk autumn sun peaks fort geese smoke frost
+塞下秋来风景异，衡阳雁去无留意。
+四面边声连角起，千嶂里，长烟落日孤城闭。
+
+浊酒一杯家万里，燕然未勒归无计。
+羌管悠悠霜满地，人不寐，将军白发征夫泪。
+--
+When autumn comes to the frontier, the land looks strange;
+The geese fly off to Hengyang, with no wish to remain.
+On every side the frontier's sounds rise with the bugles' call;
+Among a thousand peaks,
+Long smoke, the setting sun, a lonely fort's gates shut again.
+
+A cup of cloudy wine, and home ten thousand li away;
+No victory carved on Mount Yanran — so no way home.
+The Qiang flutes wail and wail; frost covers all the ground;
+No one sleeps:
+The general's hair is white; the soldiers weep alone.
+--
+Fan Zhongyan commanded the north-western frontier against the Western Xia from 1040. Unlike most frontier poems, written by poets who imagined war, this is a general's own lyric — bleak and honest. Geese fly south as far as Hengyang, where they were said to turn back; on Mount Yanran a Han general carved a record of victory, which the Song has not achieved. The last line gives tears to general and soldier alike.
+
+== 苏幕遮·怀旧 | Su Mu Zhe: Remembering
+by: 范仲淹
+form: 词
+tags: 秋 思乡 相思 饮酒 月
+scene: dusk autumn sun leaves river hills mist tower
+碧云天，黄叶地，秋色连波，波上寒烟翠。
+山映斜阳天接水，芳草无情，更在斜阳外。
+
+黯乡魂，追旅思，夜夜除非，好梦留人睡。
+明月楼高休独倚，酒入愁肠，化作相思泪。
+--
+Blue clouds above, yellow leaves below;
+The autumn colours meet the waves,
+And on the waves, cold mist of jade-green glow.
+Hills catch the setting sun; the sky meets the water;
+The heartless fragrant grass
+Stretches on beyond the sunset's glow.
+
+My homesick soul is dark;
+My traveller's thoughts pursue —
+Night after night, unless
+Sweet dreams can keep me sleeping through.
+In bright moonlight, don't lean on the high tower alone:
+The wine goes down into a grieving heart,
+And turns to tears of longing, too.
+--
+A rare tender lyric by a stern statesman. 碧云天，黄叶地 — "blue clouds in the sky, yellow leaves on the ground" — was borrowed by Wang Shifu for *The Romance of the Western Chamber*. The fragrant grass stretching beyond the sunset is the road home, endlessly far; and the famous last line: wine poured into a sad heart turns to tears of longing.
+
+== 江上渔者 | The Fisherman on the River
+by: 范仲淹
+form: 五绝
+tags: 民生 江河 风
+scene: day river wind fisher boat person
+江上往来人，但爱鲈鱼美。
+君看一叶舟，出没风波里。
+--
+The people strolling by the river, to and fro,
+Love only the taste of perch — how sweet!
+But look at that leaf of a boat out there,
+Tossed in and out of sight where the wind and waves meet.
+--
+The diners on the bank enjoy the perch; few think of the fisherman risking his life in the storm to catch it. A tiny poem of social conscience by a statesman famous for putting the people first.
+
+== 雨霖铃（寒蝉凄切） | Bells in the Rain (Autumn Cicadas)
+by: 柳永
+form: 词
+tags: 离别 爱情 秋 柳 月 饮酒
+scene: dusk autumn rain willow river boat pavilion two crescent
+寒蝉凄切，对长亭晚，骤雨初歇。
+都门帐饮无绪，留恋处、兰舟催发。
+执手相看泪眼，竟无语凝噎。
+念去去、千里烟波，暮霭沉沉楚天阔。
+
+多情自古伤离别，更那堪、冷落清秋节！
+今宵酒醒何处？杨柳岸、晓风残月。
+此去经年，应是良辰、好景虚设。
+便纵有、千种风情，更与何人说？
+--
+The autumn cicadas shrill their sad refrain;
+Facing the long pavilion at evening,
+The sudden rain has just let up again.
+Outside the gate we drink in the tent, with no heart;
+Just as we linger, loath to leave,
+The orchid boat calls me to depart.
+Hand in hand, we gaze at each other's tear-filled eyes,
+And choke, with not a word to say.
+I think of the long road ahead —
+A thousand li of misty waves,
+The evening haze hangs heavy on the wide Chu sky, so grey.
+
+Since ancient times the tender-hearted grieve at parting —
+And how much worse in autumn's chill, so desolate and clear!
+Tonight, when I wake from the wine, where will I be?
+A willow-lined bank,
+The dawn wind, and a waning moon, I fear.
+Once gone, for years to come,
+The fairest times and loveliest views will be for nothing here.
+Even if I had a thousand kinds of tender feelings,
+Who would there be to hear?
+--
+The most famous lyric of parting in the Song, by Liu Yong, the poet of the pleasure quarters, leaving the capital Kaifeng and a beloved courtesan. 今宵酒醒何处？杨柳岸，晓风残月 — "where will I wake tonight? A willow bank, the dawn wind, a waning moon" — became the very image of the gentle "graceful" (婉约) school. When Su Shi asked how his own lyrics compared, he was told Liu Yong's should be sung by a girl of seventeen with ivory clappers, and his by a big man from the west with an iron one.
+
+== 蝶恋花（伫倚危楼风细细） | Butterflies Love Flowers (Leaning Long on the High Tower)
+by: 柳永
+form: 词
+tags: 爱情 相思 春 饮酒
+scene: dusk spring tower grass mist sun person
+伫倚危楼风细细，望极春愁，黯黯生天际。
+草色烟光残照里，无言谁会凭阑意。
+
+拟把疏狂图一醉，对酒当歌，强乐还无味。
+衣带渐宽终不悔，为伊消得人憔悴。
+--
+I stand and lean on the high tower in a gentle breeze;
+I gaze afar — and spring's grief
+Darkly rises where the earth and heaven convene.
+The grass, the misty light, in the last of the sun —
+Who knows why I lean here, silent, at the rail, unseen?
+
+I thought I'd let myself go wild, and drown it all in wine;
+With wine in hand I sing,
+But forced joy has no taste of its own.
+My belt grows looser, yet I'll never regret —
+For her, I'll waste away, worn to skin and bone.
+--
+衣带渐宽终不悔，为伊消得人憔悴 — "my belt grows ever looser, but I'll never regret it; for her I waste away" — Wang Guowei made this the second of his "three stages" of every great achievement: wholehearted, sleepless devotion.
+
+== 望海潮（东南形胜） | Gazing at the Tide (The Finest Place in the South-East)
+by: 柳永
+form: 词
+tags: 山水 江河 花 秋 夏
+scene: day lake river bridge willow lotus boat mountains
+东南形胜，三吴都会，钱塘自古繁华。
+烟柳画桥，风帘翠幕，参差十万人家。
+云树绕堤沙。
+怒涛卷霜雪，天堑无涯。
+市列珠玑，户盈罗绮，竞豪奢。
+
+重湖叠巘清嘉。
+有三秋桂子，十里荷花。
+羌管弄晴，菱歌泛夜，嬉嬉钓叟莲娃。
+千骑拥高牙。
+乘醉听箫鼓，吟赏烟霞。
+异日图将好景，归去凤池夸。
+--
+The finest place in all the south-east,
+The great city of the three Wu lands,
+Qiantang has flourished since of old.
+Misty willows, painted bridges,
+Blinds in the breeze and kingfisher screens,
+A hundred thousand homes, in rows untold.
+Cloud-high trees line the sandy dyke;
+The raging tide rolls up its frost and snow —
+A moat of heaven, without end.
+Its markets glitter with pearls and jade;
+Its houses overflow with silks,
+As they vie to outspend.
+
+Lakes upon lakes and peaks on peaks, so clear and fine;
+There are cassia blossoms in the autumn,
+And lotus for ten li.
+Qiang flutes play in the sunshine;
+Water-chestnut songs float through the night;
+Old fishermen and lotus girls laugh with glee.
+A thousand horsemen escort the governor's flag;
+Tipsy, he listens to flutes and drums,
+And sings of the mist and rosy clouds he sees.
+Some day he'll paint this lovely scene,
+And take it back to court, to boast of these.
+--
+Hangzhou (Qiantang) in its glory, written by Liu Yong for the city's governor. A legend says that when the Jin ruler Wanyan Liang read of Hangzhou's "cassia in autumn and ten li of lotus", he resolved to conquer the south — a poem so beautiful it started a war. (He failed.)
+
+== 八声甘州（对潇潇暮雨洒江天） | Eight Beats of Ganzhou (Facing the Evening Rain)
+by: 柳永
+form: 词
+tags: 思乡 秋 雨 相思 江河 羁旅
+scene: dusk autumn rain river tower boat sun
+对潇潇、暮雨洒江天，一番洗清秋。
+渐霜风凄紧，关河冷落，残照当楼。
+是处红衰翠减，苒苒物华休。
+惟有长江水，无语东流。
+
+不忍登高临远，望故乡渺邈，归思难收。
+叹年来踪迹，何事苦淹留？
+想佳人、妆楼颙望，误几回、天际识归舟。
+争知我、倚阑干处，正恁凝愁！
+--
+Facing the soughing evening rain that sweeps the river and the sky,
+Washing autumn clean once more —
+Little by little the frosty wind grows harsh and cold,
+The passes and the rivers bleak,
+The sunset's last glow on the tower's floor.
+Everywhere the reds are fading and the greens grow thin;
+Slowly, all the splendour of the world is done.
+Only the water of the Long River
+Flows silently east, on and on.
+
+I cannot bear to climb up high and gaze afar,
+Toward my home, so far beyond my sight;
+My longing to go home is hard to hold.
+I sigh at all my wandering these years —
+Why do I linger here, in such a plight?
+I picture my love, gazing from her dressing tower,
+How many times mistaking, at the sky's edge, some boat for mine;
+How could she know that I, here leaning on the rail,
+Am frozen in such sorrow, too, tonight?
+--
+Su Shi, no admirer of Liu Yong's sentimental songs, said of the lines 渐霜风凄紧，关河冷落，残照当楼 that they were "no less than the heights of the Tang". The second stanza imagines his beloved mistaking every boat on the horizon for his — an echo of Wen Tingyun's "a thousand sails go by, and none is his".
+
+== 天仙子（水调数声持酒听） | The Celestial Immortal (Wine in Hand, I Hear the Water Song)
+by: 张先
+form: 词
+tags: 春 月 夜 花 时光
+scene: night spring moon clouds flowers lake birds window
+水调数声持酒听，午醉醒来愁未醒。
+送春春去几时回？临晚镜，伤流景，往事后期空记省。
+
+沙上并禽池上暝，云破月来花弄影。
+重重帘幕密遮灯，风不定，人初静，明日落红应满径。
+--
+Wine in hand, I listen to a few notes of the "Water Song";
+I wake at noon from drink, but my sadness lingers on.
+I see the spring off — when will spring come back again?
+Facing the evening mirror,
+Grieving the years that flow,
+I recall the past, and future vows, in vain.
+
+Birds pair on the sand; dusk settles on the pond;
+The clouds part, the moon comes out, the flowers play with their shades.
+Layer on layer of curtains screen the lamp;
+The wind won't settle;
+The house is quiet now;
+Tomorrow, fallen petals will strew every path, I'm afraid.
+--
+云破月来花弄影 — "the clouds part, the moon comes out, and the flowers play with their shadows" — made Zhang Xian famous; with two other lines about shadows it earned him the nickname "Zhang of the Three Shadows". The verb 弄, "play with", brings the whole moonlit garden to life.
+
+== 浣溪沙（一曲新词酒一杯） | Washing Silk in the Stream (A New Song, a Cup of Wine)
+by: 晏殊
+form: 词
+tags: 春 时光 花 鸟 饮酒 人生
+scene: dusk spring sun swallows petals pavilion person
+一曲新词酒一杯，去年天气旧亭台。夕阳西下几时回？
+
+无可奈何花落去，似曾相识燕归来。小园香径独徘徊。
+--
+A new song, and a cup of wine;
+The weather's just like last year's, the same old pavilion, too.
+The sun sets in the west — when will it come back in time?
+
+Nothing can be done: the flowers fall away;
+As if we'd met before, the swallows come back home.
+Along the fragrant garden path, alone I pace and roam.
+--
+The most famous couplet of the Northern Song: 无可奈何花落去，似曾相识燕归来 — "nothing can be done, the flowers fall; as if old friends, the swallows return." Loss and return, the same and not the same: time's cycle in two lines. Yan Shu is said to have had the second line for years before he found the first.
+
+== 蝶恋花（槛菊愁烟兰泣露） | Butterflies Love Flowers (Chrysanthemums Grieve in Mist)
+by: 晏殊
+form: 词
+tags: 相思 秋 月 花 鸟 离别
+scene: night autumn moon chrysanthemum tower window swallows
+槛菊愁烟兰泣露，罗幕轻寒，燕子双飞去。
+明月不谙离恨苦，斜光到晓穿朱户。
+
+昨夜西风凋碧树，独上高楼，望尽天涯路。
+欲寄彩笺兼尺素，山长水阔知何处？
+--
+By the railing, chrysanthemums grieve in mist; the orchids weep with dew;
+The silk curtains feel a gentle chill;
+The swallows fly off, two by two.
+The bright moon doesn't know the pain of being apart —
+Till dawn its slanting light shines through the red door, through and through.
+
+Last night the west wind stripped the green trees bare;
+Alone I climbed the high tower,
+And gazed along the road to the world's end — no one there.
+I'd send a coloured note, a letter on fine silk —
+But mountains are long, the waters wide: who knows where?
+--
+昨夜西风凋碧树，独上高楼，望尽天涯路 — Wang Guowei made this the first of his "three stages" of every great achievement: climbing alone, seeing far, setting the goal. In the poem itself, it is a woman gazing down an endless road for someone who does not come.
+
+== 破阵子（燕子来时新社） | Breaking Through the Ranks (When the Swallows Come)
+by: 晏殊
+form: 词
+tags: 春 女性 童趣 鸟 节日
+scene: spring willow oriole swallows lake person two
+燕子来时新社，梨花落后清明。
+池上碧苔三四点，叶底黄鹂一两声，日长飞絮轻。
+
+巧笑东邻女伴，采桑径里逢迎。
+疑怪昨宵春梦好，元是今朝斗草赢，笑从双脸生。
+--
+The swallows come at the spring festival;
+The pear blossoms fall at Qingming.
+On the pond, three or four flecks of green moss;
+Under the leaves, an oriole's one or two notes ring;
+The days are long, and willow-down floats light.
+
+The giggling girl next door, my friend,
+Meets me on the path to pick mulberry leaves.
+"I wondered why I had such a lovely dream last night —
+It's because today I won at fighting grass!"
+And smiles light up both her cheeks.
+--
+A sunny spring scene in the voice of young girls, unusual for the stately Yan Shu. "Fighting grass" (斗草) was a game in which girls competed to gather the most kinds of plants, or hooked grass stems together and pulled. The good dream must have been an omen.
+
+== 玉楼春（东城渐觉风光好） | Spring in the Jade Tower (East of the City)
+by: 宋祁
+form: 词
+tags: 春 花 饮酒 人生 柳
+scene: dawn spring lake boat willow flowers sun
+东城渐觉风光好，縠皱波纹迎客棹。
+绿杨烟外晓寒轻，红杏枝头春意闹。
+
+浮生长恨欢娱少，肯爱千金轻一笑？
+为君持酒劝斜阳，且向花间留晚照。
+--
+East of the city, I feel the scenery grow fair;
+The rippling waves, like crepe, welcome the boats along.
+Beyond the misty willows, the morning chill is light;
+On the red apricot boughs, spring breaks into noisy song.
+
+In this brief life, I always grieve that joys are few —
+Would I prize a thousand gold above one smile?
+For you, I'll raise my cup and toast the setting sun,
+And ask it to linger in the flowers a while.
+--
+红杏枝头春意闹 — "on the red apricot boughs, spring is in uproar" — one verb, 闹 ("noisy, boisterous"), makes spring audible; Wang Guowei said "with the word 闹, the whole scene comes alive". It earned Song Qi the nickname "the Red Apricot Minister".
