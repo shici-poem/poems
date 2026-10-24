@@ -40,10 +40,10 @@ Blank line inside text = stanza break (上阕/下阕).
   - [x] 先秦汉魏六朝  - [x] 五代 (李煜 …)
   - [x] 苏轼  - [x] 李清照  - [x] 辛弃疾  - [x] 陆游  - [x] 北宋 others  - [x] 南宋 others
   - [x] 元明清
-- [ ] 6. Verify Chinese texts against chinese-poetry dataset
-- [ ] 7. Traditional-Chinese toggle (OpenCC at build time)
-- [ ] 8. Polish, test on phone/tablet/desktop widths
-- [ ] 9. Enable GitHub Pages, final README
+- [x] 6. Verify Chinese texts against chinese-poetry dataset (tools/verify_text.py; 151 differences reviewed by hand, 5 corrected)
+- [x] 7. Traditional-Chinese toggle (OpenCC at build time)
+- [x] 8. Polish, test on phone/tablet/desktop widths (automated Chrome DevTools tests)
+- [x] 9. Enable GitHub Pages, final README — live at https://shici-poem.github.io/poems/
 
 ## Notes
 - Long poems: write `@ref` as the Chinese text, then run
