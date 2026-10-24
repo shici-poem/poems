@@ -1,0 +1,300 @@
+== 离骚（节选一） | Encountering Sorrow (excerpt I)
+by: 屈原
+form: 楚辞
+tags: 失意 爱国 民生 壮志
+scene: dusk river person reeds
+长太息以掩涕兮，哀民生之多艰。
+余虽好修姱以鞿羁兮，謇朝谇而夕替。
+既替余以蕙纕兮，又申之以揽茝。
+亦余心之所善兮，虽九死其犹未悔。
+--
+I heave a long sigh and wipe away my tears,
+Grieving that the people's lives are so hard.
+Though I loved what's fine, and held myself in check,
+At dawn I spoke my mind — by dusk I was barred.
+They cast me out for wearing melilot,
+And then for gathering angelica, too.
+But this is what my heart holds dearest —
+Though I die nine deaths, I'll not regret what's true.
+--
+From *Encountering Sorrow* (离骚), Qu Yuan's 373-line masterpiece, the longest lyric poem of ancient China, written after he was slandered and banished by the King of Chu. Fragrant plants — melilot, angelica — stand for his virtue. 虽九死其犹未悔, "though I die nine times, I will not regret it", is the creed of every principled dissenter in Chinese history.
+
+== 离骚（节选二） | Encountering Sorrow (excerpt II)
+by: 屈原
+form: 楚辞
+tags: 壮志 人生 天空 哲理
+scene: dusk sun mountains clouds peaks person
+朝发轫于苍梧兮，夕余至乎县圃。
+欲少留此灵琐兮，日忽忽其将暮。
+吾令羲和弭节兮，望崦嵫而勿迫。
+路曼曼其修远兮，吾将上下而求索。
+--
+At dawn I loosed my wheels at Cangwu's hill;
+By dusk I'd reached the Hanging Garden's height.
+I wished to linger at the spirit gates —
+But the sun was rushing headlong into night.
+I bade Xihe, the sun's driver, check her reins,
+And not to race for Yanzi, where the sun goes down.
+The road is long, so long, and far away —
+I'll search above, below, the whole world round.
+--
+Later in *Encountering Sorrow*, Qu Yuan sets out on a shamanic journey through the heavens in search of understanding. Cangwu is where the sage-king Shun lies buried; the Hanging Garden is on the Kunlun mountains of the gods; Xihe drives the chariot of the sun. 路漫漫其修远兮，吾将上下而求索 — "the road is long and far; I will search high and low" — is one of the most quoted lines in Chinese, a motto for every quest for truth.
+
+== 国殇 | Hymn to the Fallen
+by: 屈原
+form: 楚辞
+tags: 战争 爱国 悼亡 壮志
+scene: day flag rider horse sun clouds fields
+操吴戈兮被犀甲，车错毂兮短兵接。
+旌蔽日兮敌若云，矢交坠兮士争先。
+凌余阵兮躐余行，左骖殪兮右刃伤。
+霾两轮兮絷四马，援玉枹兮击鸣鼓。
+天时怼兮威灵怒，严杀尽兮弃原野。
+出不入兮往不反，平原忽兮路超远。
+带长剑兮挟秦弓，首身离兮心不惩。
+诚既勇兮又以武，终刚强兮不可凌。
+身既死兮神以灵，魂魄毅兮为鬼雄！
+--
+With dagger-axes of Wu and armour of rhino hide,
+Hub grinds on hub, and blade meets blade as chariots collide.
+The banners blot the sun; the foe swarm like clouds on every side;
+The arrows cross and fall; the warriors race to be first to stride.
+They break our ranks, they trample on our lines;
+The left horse dies; the right one's slashed and bleeds.
+Our wheels sink deep, our four steeds tangled in their reins;
+He seizes the jade drumstick and beats the drum for deeds.
+Heaven's anger rages; the dread gods are in wrath;
+All slain, they lie abandoned on the plain.
+They marched out, and never came back in;
+The plain is vast, the road is long — in vain.
+With long swords at their sides and Qin bows in their hands,
+Though head and body part, their hearts will never yield.
+They were truly brave, and mighty in war too,
+Steadfast to the end, unconquered on the field.
+Their bodies dead, their spirits shine and live;
+Their souls unbending — heroes even among the dead!
+--
+"Hymn to the Fallen" (国殇), from Qu Yuan's *Nine Songs*, is a requiem for the soldiers of Chu killed fighting Qin — perhaps the earliest great war poem in Chinese. The last line, 魂魄毅兮为鬼雄, "their souls unbending, heroes among ghosts", was echoed fourteen centuries later by Li Qingzhao: "in death, be a hero among ghosts".
+
+== 垓下歌 | Song of Gaixia
+by: 项羽
+form: 杂言
+tags: 怀古 战争 爱情 壮志
+scene: night moon fort flag horse two
+力拔山兮气盖世。时不利兮骓不逝。
+骓不逝兮可奈何！虞兮虞兮奈若何！
+--
+My strength could tear up mountains; my spirit overtopped the world;
+But the times are against me, and my dappled steed won't go.
+My steed won't go — what can be done?
+Yu, my Yu — what will become of you now?
+--
+In 202 BC, surrounded at Gaixia by Liu Bang's armies and hearing the songs of his own homeland, Chu, sung in the enemy camp (四面楚歌, "Chu songs on all sides", now the idiom for being besieged), Xiang Yu drank with his beloved consort Yu and sang this song. She is said to have killed herself; he broke out, fought his last battle and died at the Wu River. The scene is the subject of the opera *Farewell My Concubine*.
+
+== 大风歌 | Song of the Great Wind
+by: 刘邦
+form: 杂言
+tags: 壮志 思乡 怀古 风
+scene: day wind clouds palace flag
+大风起兮云飞扬。
+威加海内兮归故乡。
+安得猛士兮守四方！
+--
+A great wind rises; the clouds fly far and wide.
+My power fills the world; I come back home with pride.
+Where shall I find brave men to guard the land on every side?
+--
+In 195 BC, returning as emperor to his home town of Pei after crushing a rebellion, Liu Bang feasted his old neighbours, struck a zither, and sang this song while 120 local children joined in; then he danced, and wept. Triumph and anxiety in three lines: he has won the empire — but who will hold it? He died a few months later.
+
+== 北方有佳人 | In the North There Is a Beauty
+by: 李延年
+form: 乐府
+tags: 女性 爱情 音乐
+scene: day palace person flowers
+北方有佳人，绝世而独立。
+一顾倾人城，再顾倾人国。
+宁不知倾城与倾国，佳人难再得。
+--
+In the north there lives a lovely maid,
+Peerless in all the world, she stands alone.
+One glance from her, and a city falls;
+A second glance, and a kingdom's overthrown.
+Who would not risk a city or a kingdom?
+A beauty like her is not twice known.
+--
+Sung by Li Yannian, a musician at the court of Emperor Wu of Han around 100 BC — about his own sister. The emperor asked whether such a woman existed; she was brought to him and became his beloved Lady Li. 倾城倾国, "toppling cities and states", became the stock phrase for supreme beauty.
+
+== 长歌行 | A Long Song
+by: 汉乐府
+form: 乐府
+tags: 时光 哲理 人生 春 秋
+scene: dawn spring sun flowers river cottage
+青青园中葵，朝露待日晞。
+阳春布德泽，万物生光辉。
+常恐秋节至，焜黄华叶衰。
+百川东到海，何时复西归？
+少壮不努力，老大徒伤悲！
+--
+In the garden, the mallows grow green;
+The morning dew waits for the sun to dry.
+Bright spring spreads its blessings wide,
+And all things shine beneath the sky.
+But I fear the autumn season's coming,
+When flowers and leaves turn yellow and die.
+A hundred rivers flow east to the sea —
+When will they ever flow back to the west?
+If you don't strive while young and strong,
+You'll grieve in vain when old, with no rest.
+--
+An anonymous Han ballad. 少壮不努力，老大徒伤悲 — "if you don't work hard when young, you'll grieve in vain when old" — is one of the most quoted proverbs in Chinese, painted on school walls everywhere.
+
+== 江南 | South of the River
+by: 汉乐府
+form: 乐府
+tags: 夏 花 童趣 江河
+scene: summer lotus lake boat person
+江南可采莲，莲叶何田田。
+鱼戏莲叶间。
+鱼戏莲叶东，鱼戏莲叶西，
+鱼戏莲叶南，鱼戏莲叶北。
+--
+South of the River, we can pick the lotus;
+How lush the lotus leaves, how round!
+Fish play among the lotus leaves:
+Fish play east of the lotus leaves,
+Fish play west of the lotus leaves,
+Fish play south of the lotus leaves,
+Fish play north of the lotus leaves — all around!
+--
+An anonymous Han lotus-picking song. The last four lines, naming the four directions, may have been sung by a chorus answering a lead singer, the pickers' boats darting among the leaves like the fish. Pure joy, with no "meaning" at all.
+
+== 上邪 | O Heaven Above!
+by: 汉乐府
+form: 乐府
+tags: 爱情 女性 哲理
+scene: day mountains river snow clouds
+上邪！我欲与君相知，长命无绝衰。
+山无陵，江水为竭，冬雷震震，夏雨雪，天地合，乃敢与君绝！
+--
+O Heaven above!
+I want to love you and be loved,
+Forever, never fading, never done.
+Only when the mountains are worn flat,
+And the rivers all run dry,
+When thunder rolls in winter,
+And snow falls in summer,
+When heaven and earth are joined in one —
+Only then will I dare to part from you!
+--
+An anonymous Han love oath in a woman's voice. The impossibilities she lists — mountains levelled, rivers dried, winter thunder, summer snow, heaven and earth merged — make it the most passionate vow of love in Chinese.
+
+== 十五从军征 | At Fifteen I Went to War
+by: 汉乐府
+form: 乐府
+tags: 战争 思乡 民生 悼亡
+scene: dusk cottage grass person pine
+十五从军征，八十始得归。
+道逢乡里人：家中有阿谁？
+遥看是君家，松柏冢累累。
+兔从狗窦入，雉从梁上飞。
+中庭生旅谷，井上生旅葵。
+舂谷持作饭，采葵持作羹。
+羹饭一时熟，不知贻阿谁！
+出门东向看，泪落沾我衣。
+--
+At fifteen I went off to war;
+At eighty I came home again.
+On the road I met a man from my village:
+"Who is left at home?" I asked him then.
+"Over there's your house, far off —
+Among the pines and cypresses, graves in a row."
+Hares come in through the dog-hole;
+Pheasants fly from the beams, to and fro.
+In the courtyard, wild grain grows;
+By the well, wild mallows spread.
+I husked the grain to cook some rice;
+I picked the mallows for soup instead.
+Soup and rice were soon both done —
+But who was there to give them to?
+I went out of the gate and looked to the east,
+And my tears fell, and soaked my clothes right through.
+--
+An anonymous Han ballad. A man conscripted at fifteen comes home at eighty to find his whole family dead and his house a ruin overrun by animals and wild plants. He cooks a meal — and there is no one to share it with. One of the most devastating anti-war poems ever written, in the plainest words.
+
+== 行行重行行 | On and On You Go
+by: 古诗十九首
+form: 五古
+tags: 相思 离别 闺怨 女性
+scene: dusk clouds sun person horse birds
+行行重行行，与君生别离。
+相去万余里，各在天一涯。
+道路阻且长，会面安可知？
+胡马依北风，越鸟巢南枝。
+相去日已远，衣带日已缓。
+浮云蔽白日，游子不顾反。
+思君令人老，岁月忽已晚。
+弃捐勿复道，努力加餐饭。
+--
+On and on you go, and on and on,
+And we're parted, though we both still live.
+Ten thousand li and more between us lie,
+Each of us at one far edge of the sky.
+The road is hard and long, my friend —
+Who knows if we shall meet again?
+The northern horse still leans into the north wind;
+The southern bird still nests on the southern bough.
+Each day the distance grows, and now
+Each day my belt hangs looser.
+The floating clouds have covered the white sun;
+The wanderer has no thought of coming home.
+Thinking of you has made me old;
+The year grows late — and I'm alone.
+Enough — I'll say no more of it.
+Take care, and try to eat a little more.
+--
+The first of the *Nineteen Old Poems* of the late Han. A wife writes to her absent husband — or a woman to a lover who has wandered off and may not return ("floating clouds hiding the sun" hints at another woman). Even horses and birds long for home. The famous ending turns from reproach to tenderness: forget what I said — just look after yourself and eat well.
+
+== 迢迢牵牛星 | Far, Far Away, the Herdboy Star
+by: 古诗十九首
+form: 五古
+tags: 爱情 相思 天空 夜 女性
+scene: night stars person window
+迢迢牵牛星，皎皎河汉女。
+纤纤擢素手，札札弄机杼。
+终日不成章，泣涕零如雨。
+河汉清且浅，相去复几许？
+盈盈一水间，脉脉不得语。
+--
+Far, far away, the Herdboy Star;
+Bright, bright, the Weaver Girl beside the Silver River.
+Slender, slender, she raises her pale hands;
+Click, clack, her shuttle flies, her loom-threads quiver.
+All day long, no pattern is complete;
+Her tears fall down like rain.
+The Silver River's clear and shallow —
+How far apart are they, the twain?
+Across a single brimming stream,
+They gaze in silence, and cannot speak again.
+--
+The legend of the Herdboy (Altair) and the Weaver Girl (Vega), lovers separated by the Milky Way, told in ten lines full of doubled words (迢迢, 皎皎, 纤纤, 札札, 盈盈, 脉脉) that sound like weaving itself. The river between them is "clear and shallow" — and yet uncrossable. The source of every Seventh Night poem that followed.
+
+== 涉江采芙蓉 | I Wade the River to Pick Lotus
+by: 古诗十九首
+form: 五古
+tags: 相思 爱情 离别 夏 花
+scene: summer lotus river person grass
+涉江采芙蓉，兰泽多芳草。
+采之欲遗谁？所思在远道。
+还顾望旧乡，长路漫浩浩。
+同心而离居，忧伤以终老。
+--
+I wade the river to pick lotus flowers;
+The orchid marsh is full of fragrant grass.
+For whom do I gather them? To give to whom? —
+The one I love is far away, alas.
+I turn and gaze toward my old home;
+The long road stretches on, so vast and wide.
+Two hearts as one, but living far apart —
+We'll grieve until we're old, until we've died.
+--
+Picking flowers for a lover is as old as the *Book of Songs*, and 芙蓉 (lotus) puns on 夫容, "a husband's face". But the beloved is far away, and the flowers have no one to go to. 同心而离居 — "one heart, two homes" — is the essence of separation.
