@@ -1,0 +1,348 @@
+== 观沧海 | Gazing at the Sea
+by: 曹操
+form: 四言
+tags: 海 山水 壮志 秋 天空
+scene: day autumn sea wind sun hills
+东临碣石，以观沧海。
+水何澹澹，山岛竦峙。
+树木丛生，百草丰茂。
+秋风萧瑟，洪波涌起。
+日月之行，若出其中；
+星汉灿烂，若出其里。
+幸甚至哉，歌以咏志。
+--
+East I come to Jieshi Rock,
+To gaze upon the sea.
+How the waters heave and roll!
+The island peaks rise steep and free.
+Trees grow thick upon them,
+And the hundred grasses, rich and green.
+The autumn wind sighs and moans;
+Great waves surge up, a towering screen.
+The sun and moon, in their courses,
+Seem to rise from out of its deep;
+The Milky Way in all its splendour
+Seems to rise from it, out of its keep.
+What joy, what supreme good fortune —
+I sing this song to tell my heart's ambition, deep.
+--
+Written in 207 by Cao Cao, aged fifty-three, returning from a victorious campaign in the north-east, at Jieshi on the Bohai coast. The sea that seems to hold the sun, moon and stars mirrors his own vast ambition to unify China. It is the oldest complete landscape poem in Chinese.
+
+== 龟虽寿 | Though the Tortoise Lives Long
+by: 曹操
+form: 四言
+tags: 人生 壮志 哲理 时光
+scene: day horse mountains clouds person
+神龟虽寿，犹有竟时。
+腾蛇乘雾，终为土灰。
+老骥伏枥，志在千里。
+烈士暮年，壮心不已。
+盈缩之期，不但在天；
+养怡之福，可得永年。
+幸甚至哉，歌以咏志。
+--
+Though the sacred tortoise lives long,
+Its days must have an end.
+Though the flying serpent rides the mist,
+To dust and ash it will descend.
+The old steed in the stable
+Still dreams of a thousand li;
+A hero in his late years
+Has a heart still bold and free.
+The length of a life
+Is not decided by heaven alone;
+With joy and care for oneself,
+One may live long years of one's own.
+What joy, what supreme good fortune —
+I sing this song to make my heart's will known.
+--
+Written by Cao Cao on the same campaign, at fifty-three — old for his time. 老骥伏枥，志在千里；烈士暮年，壮心不已 — "the old warhorse in the stable still longs to gallop a thousand li; a hero in his last years still has a fiery heart" — is the most quoted line in Chinese on ageing with ambition.
+
+== 短歌行 | A Short Song
+by: 曹操
+form: 四言
+tags: 饮酒 人生 壮志 时光 月
+scene: night moon stars crows cup jar two
+对酒当歌，人生几何！
+譬如朝露，去日苦多。
+慨当以慷，忧思难忘。
+何以解忧？唯有杜康。
+青青子衿，悠悠我心。
+但为君故，沉吟至今。
+呦呦鹿鸣，食野之苹。
+我有嘉宾，鼓瑟吹笙。
+明明如月，何时可掇？
+忧从中来，不可断绝。
+越陌度阡，枉用相存。
+契阔谈讌，心念旧恩。
+月明星稀，乌鹊南飞。
+绕树三匝，何枝可依？
+山不厌高，海不厌深。
+周公吐哺，天下归心。
+--
+Here's wine — let's sing!
+How long does a man's life last?
+It's like the morning dew:
+So many days already past.
+I'm stirred, I'm fierce, I'm moved;
+My cares will not depart.
+What can dispel my sorrow?
+Only Du Kang's wine can soothe the heart.
+"Blue, blue, your collar;
+Long, long, my longing's flow" —
+It's only for your sake
+I've pondered, long and low.
+"Yo-yo," the deer are calling,
+Grazing the wild duckweed —
+I have fine guests here with me:
+Play zithers, blow the reed!
+Bright, bright, like the moon —
+When can it be in my grasp?
+My sorrow wells from deep within,
+And no hand can unclasp.
+You've crossed the paths through fields
+To come and visit me;
+After so long, we feast and talk,
+Recalling old amity.
+The moon is bright, the stars are few;
+The crows and magpies southward fly;
+They circle the tree three times —
+Where's a branch where they can lie?
+The mountain never minds how high,
+The sea how deep it grows;
+The Duke of Zhou spat out his meal —
+And all the world's heart to him goes.
+--
+Cao Cao's banquet song, written around 208. It begins with the brevity of life and with wine (Du Kang was the legendary first brewer), then quotes two *Book of Songs* poems to express his longing for men of talent to join him. The crows and magpies circling a tree, finding no branch, are able men without a lord; the Duke of Zhou, who would spit out his food three times in a meal to receive a visitor, is Cao Cao's model — and so the whole world will give him its heart. In *Romance of the Three Kingdoms* he sings it on the eve of Red Cliff.
+
+== 七步诗 | Seven-Pace Poem
+by: 曹植
+form: 五古
+tags: 哲理 人生 咏物
+scene: day cottage smoke two
+煮豆燃豆萁，豆在釜中泣。
+本是同根生，相煎何太急？
+--
+They boil the beans, and burn the stalks for fire;
+Inside the pot, the beans weep as they stew:
+"We grew from the very same root —
+Why are you in such a hurry to cook me through?"
+--
+Legend says Cao Pi, now emperor and jealous of his brilliant younger brother Cao Zhi, ordered him to compose a poem within seven paces or be put to death. Cao Zhi produced this — beanstalks burning to cook the beans, brother destroying brother — and Cao Pi, ashamed, spared him. 相煎何太急 is still said of family or allies who turn on each other. (This is the popular four-line version.)
+
+== 饮酒（其五） | Drinking Wine (V)
+by: 陶渊明
+form: 五古
+tags: 隐逸 田园 秋 花 禅 饮酒
+scene: dusk autumn chrysanthemum mountains cottage birds person
+结庐在人境，而无车马喧。
+问君何能尔？心远地自偏。
+采菊东篱下，悠然见南山。
+山气日夕佳，飞鸟相与还。
+此中有真意，欲辨已忘言。
+--
+I built my hut amid the world of men,
+Yet hear no noise of carriage or of horse.
+You ask me how this can be so? —
+When the heart is far, the place grows far, of course.
+I pick chrysanthemums by the eastern hedge,
+And see the Southern Mountain, calm and free.
+The mountain air is lovely at the close of day;
+The birds fly home together, to their tree.
+In this there is a deep, true meaning —
+I'd tell it, but I've forgotten the words, you see.
+--
+The most famous poem of China's great recluse, written around 417 after he had given up office for farming. 采菊东篱下，悠然见南山 — "picking chrysanthemums by the eastern hedge, I see, at ease, the Southern Mountain" — is the supreme image of contentment, and 心远地自偏, "with a distant heart, any place is remote", makes seclusion a state of mind. The ending echoes *Zhuangzi*: "words exist for meaning; once you have the meaning, you can forget the words."
+
+== 归园田居（其一） | Returning to the Fields (I)
+by: 陶渊明
+form: 五古
+tags: 田园 隐逸 人生 闲适
+scene: day cottage willow peach smoke fields hills
+少无适俗韵，性本爱丘山。
+误落尘网中，一去三十年。
+羁鸟恋旧林，池鱼思故渊。
+开荒南野际，守拙归园田。
+方宅十余亩，草屋八九间，
+榆柳荫后簷，桃李罗堂前。
+暧暧远人村，依依墟里烟；
+狗吠深巷中，鸡鸣桑树巅。
+户庭无尘杂，虚室有余闲。
+久在樊笼里，复得返自然。
+--
+When young, I'd no taste for the vulgar crowd;
+By nature I loved the hills and the open air.
+By error I fell into the world's dusty net,
+And thirty years went by while I was there.
+The caged bird longs for the forest where it flew;
+The pond fish yearns for the deep pool it knew.
+I've cleared some land at the edge of the southern wild,
+And, keeping my simple ways, come home to my fields anew.
+Ten acres and more of land around the house,
+A thatched cottage, eight or nine rooms in all;
+Elms and willows shade the eaves behind;
+Peach and plum trees line the front hall.
+Far off, the villages are dim and hazy;
+Wisps of smoke rise from the hamlets slow;
+A dog barks deep in a lane;
+A cock crows from a mulberry bough.
+No dust, no clutter in my house or yard;
+In my empty rooms there's leisure to spare.
+So long I lived inside a cage —
+Now I've returned to nature, and to its care.
+--
+The first of five poems "Returning to Live in the Fields", written in 406 after Tao Yuanming resigned his last post rather than "bow for five pecks of rice". The "thirty years" are probably thirteen years of official life. The plain country scene — smoke over the hamlets, a dog barking down a lane, a cock crowing in a mulberry tree — became the eternal image of rural peace.
+
+== 归园田居（其三） | Returning to the Fields (III)
+by: 陶渊明
+form: 五古
+tags: 田园 隐逸 月 夏
+scene: night summer moon fields mountains person
+种豆南山下，草盛豆苗稀，
+晨兴理荒秽，带月荷锄归。
+道狭草木长，夕露沾我衣，
+衣沾不足惜，但使愿无违。
+--
+I plant my beans below the Southern Hill;
+The weeds grow thick, the bean sprouts thin and few.
+At dawn I rise to clear away the weeds;
+By moonlight I come home, hoe on shoulder, too.
+The path is narrow, the grass and bushes tall;
+The evening dew has soaked my clothes all through.
+Wet clothes are nothing I'd regret —
+As long as what I hope for can come true.
+--
+The poet-farmer is not much of a farmer — the weeds outgrow his beans — but he works from dawn till moonrise, and a damp coat is a small price for living by his own wishes. 带月荷锄归, "coming home with the moon, a hoe on my shoulder", is one of the best-loved images of the simple life.
+
+== 杂诗（其一） | Miscellaneous Poem (I)
+by: 陶渊明
+form: 五古
+tags: 人生 时光 哲理 饮酒 友情
+scene: dusk wind cottage jar two
+人生无根蒂，飘如陌上尘。
+分散逐风转，此已非常身。
+落地为兄弟，何必骨肉亲！
+得欢当作乐，斗酒聚比邻。
+盛年不重来，一日难再晨。
+及时当勉励，岁月不待人。
+--
+Our life has neither root nor stem;
+We drift like dust upon the way;
+Scattered, whirled by every wind,
+We're not the selves we were yesterday.
+Once born, all men are brothers —
+Why care only for one's own kin?
+When joy comes, let us make merry,
+And call the neighbours for a jug of wine within.
+Our prime will never come again;
+A day has only one dawn, then it's done.
+Seize the time, and strive while you can —
+The years will wait for no one.
+--
+Life is dust on the road, so all people are brothers, and joy should be shared now. The last four lines — 盛年不重来，一日难再晨。及时当勉励，岁月不待人 — are quoted to students to urge diligence, though Tao probably meant something closer to "enjoy life while you can".
+
+== 敕勒歌 | Song of the Chile
+by: 北朝民歌
+form: 杂言
+tags: 天空 山水 风 山
+scene: day wind grass fields mountains clouds horse
+敕勒川，阴山下。
+天似穹庐，笼盖四野。
+天苍苍，野茫茫，风吹草低见牛羊。
+--
+The Chile plain
+Below the Yin Mountains lies;
+The sky is like a felt tent's dome,
+Covering all the land beneath the skies.
+The sky is blue, so blue;
+The plain is vast, so vast;
+The wind blows, the grass bends low —
+And cattle and sheep are seen at last.
+--
+A song of the Chile, a nomadic people of the northern steppe, sung for a Northern Qi general in 546 and translated from their language into Chinese. The whole sky is a yurt over the grasslands; when the wind bends the tall grass, the hidden herds appear. The greatest picture of the steppe in Chinese.
+
+== 木兰诗 | The Ballad of Mulan
+by: 北朝民歌
+form: 乐府
+tags: 女性 战争 爱国 壮志 思乡
+scene: day rider horse mountains fort flag snow
+唧唧复唧唧，木兰当户织。
+不闻机杼声，惟闻女叹息。
+问女何所思，问女何所忆。
+女亦无所思，女亦无所忆。
+昨夜见军帖，可汗大点兵。
+军书十二卷，卷卷有爷名。
+阿爷无大儿，木兰无长兄。
+愿为市鞍马，从此替爷征。
+东市买骏马，西市买鞍鞯。
+南市买辔头，北市买长鞭。
+旦辞爷娘去，暮宿黄河边。
+不闻爷娘唤女声，但闻黄河流水鸣溅溅。
+旦辞黄河去，暮至黑山头。
+不闻爷娘唤女声，但闻燕山胡骑鸣啾啾。
+万里赴戎机，关山度若飞。
+朔气传金柝，寒光照铁衣。
+将军百战死，壮士十年归。
+归来见天子，天子坐明堂。
+策勋十二转，赏赐百千强。
+可汗问所欲，木兰不用尚书郎。
+愿驰千里足，送儿还故乡。
+爷娘闻女来，出郭相扶将。
+阿姊闻妹来，当户理红妆。
+小弟闻姊来，磨刀霍霍向猪羊。
+开我东阁门，坐我西阁床。
+脱我战时袍，著我旧时裳。
+当窗理云鬓，对镜帖花黄。
+出门看火伴，火伴皆惊忙：
+同行十二年，不知木兰是女郎。
+雄兔脚扑朔，雌兔眼迷离。
+双兔傍地走，安能辨我是雄雌？
+--
+"Click-clack, and click-clack" — Mulan weaves at the door;
+But we hear no sound of the shuttle — only her sighs, and more.
+"What are you thinking of, girl? What's on your mind?"
+"Nothing I'm thinking of — nothing at all to find.
+Last night I saw the army's call — the Khan is raising men;
+Twelve rolls of the army list, and Father's name in every one again.
+Father has no grown son; Mulan has no elder brother;
+I'll buy a saddle and horse, and go to war in place of Father."
+At the east market, a fine horse; at the west, a saddle-cloth bright;
+At the south market, a bridle; at the north, a long whip for the fight.
+At dawn she leaves her parents; at dusk she camps by the Yellow River's side;
+She hears no more her parents calling, only the Yellow River's rushing tide.
+At dawn she leaves the Yellow River; at dusk she reaches Black Mountain's height;
+She hears no more her parents calling, only Tartar horses neighing on the Yan hills in the night.
+Ten thousand li she rides to war; she crosses passes and hills as if in flight.
+The northern air carries the watchman's gong; the cold light glints on her armour bright.
+Generals die in a hundred battles; after ten years, the brave come home.
+Returning, she sees the Son of Heaven, in the Hall of Light, upon his throne.
+He records her merit twelve times over, rewards her with a hundred thousand and more.
+The Khan asks what she would wish for. "Mulan has no use for a minister's door;
+Give me a steed that runs a thousand li, to carry me home once more."
+When her parents hear she's coming, they go out of the town to meet her, arm in arm;
+When her elder sister hears, she dresses up by the door, in all her charm;
+When her little brother hears, he sharpens his knife — swish, swish — for the pigs and sheep.
+"I open the door of my eastern room; I sit on my bed in the western room;
+I take off my wartime gown, and put on my clothes of old;
+At the window I comb my cloudy hair; at the mirror, stick on a flower of gold."
+She goes out to see her comrades — and her comrades are all amazed:
+"Twelve years we fought side by side — and never knew Mulan was a maid!"
+The male hare's feet go hop, hop; the female hare's eyes squint;
+But when two hares run side by side, who can tell which is which, by any hint?
+--
+The *Ballad of Mulan*, an anonymous folk song of the Northern Dynasties (perhaps 5th–6th century). A girl takes her old father's place in the army, fights for twelve years disguised as a man, refuses high office, and goes home to put on her old clothes — to the astonishment of her comrades. The famous ending: when two hares run side by side, who can tell male from female? The story has been retold ever since, including in Disney's *Mulan*.
+
+== 赠范晔 | For Fan Ye
+by: 陆凯
+form: 五绝
+tags: 友情 春 花 离别
+scene: spring plum rider person
+折花逢驿使，寄与陇头人。
+江南无所有，聊赠一枝春。
+--
+I broke a spray of blossom and met the courier,
+And sent it off to you at Longtou, far away.
+South of the River I have nothing much to give —
+So here's a branch of spring for you today.
+--
+Lu Kai, a Northern Wei general serving in the south, sent a sprig of plum blossom by the government post to his friend Fan Ye in the far north-west. 聊赠一枝春, "I simply send you a branch of spring", became the phrase for a modest gift from the heart.
