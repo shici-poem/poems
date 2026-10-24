@@ -66,7 +66,7 @@ def main():
 
         new = POEM.sub(fill, text)
         if new != text:
-            path.write_text(new, encoding="utf-8")
+            path.write_text(new, encoding="utf-8", newline="\n")
 
 
 if __name__ == "__main__":
