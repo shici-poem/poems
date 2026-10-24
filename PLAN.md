@@ -1,0 +1,46 @@
+# 诗词 · Poems — build plan & progress
+
+Static site hosted on GitHub Pages (free for public repos). No framework, no build step
+needed to *serve* it: `index.html` + `css/` + `js/` + `data/poems.json`.
+
+## Architecture
+- `src/poems/*.txt` — hand-written poem source files (compact text format, see below)
+- `src/authors.txt` — author table (Chinese name | English name | dynasty | dates | bio)
+- `tools/build.py` — parses + validates sources → `data/poems.json` (+ `data/hant.json` traditional text)
+- `js/scene.js` — procedural ink-wash (水墨) SVG painter. Each poem only stores a tiny
+  scene spec (`night: moon river boat`), the picture is drawn in the browser → ~0 bandwidth per poem
+- `js/app.js` — hash router, search, rendering
+- `css/style.css` — responsive layout (phone / tablet / desktop), light + dark
+
+## Poem source format
+```
+== 静夜思 | Quiet Night Thoughts
+by: 李白
+form: 五言绝句
+tags: 思乡 月 夜
+scene: night moon window frost person
+床前明月光，疑是地上霜。
+举头望明月，低头思故乡。
+--
+English translation lines…
+--
+Short note on meaning / background / allusions.
+```
+Blank line inside text = stanza break (上阕/下阕).
+
+## Steps
+- [x] 1. Create repo + push
+- [ ] 2. Build script + validation
+- [ ] 3. Site skeleton: layout, fonts, routing, search, poem page
+- [ ] 4. Scene painter (scene.js)
+- [ ] 5. Poems (target ≈ 500), in batches:
+  - [ ] 李白  - [ ] 杜甫  - [ ] 王维  - [ ] 白居易  - [ ] 李商隐  - [ ] 杜牧  - [ ] 孟浩然
+  - [ ] 边塞 (王昌龄 王之涣 岑参 高适 王翰 …)  - [ ] 初唐  - [ ] 盛唐 others
+  - [ ] 中唐 (刘禹锡 柳宗元 韩愈 元稹 孟郊 贾岛 李贺 …)  - [ ] 晚唐
+  - [ ] 先秦汉魏六朝  - [ ] 五代 (李煜 …)
+  - [ ] 苏轼  - [ ] 李清照  - [ ] 辛弃疾  - [ ] 陆游  - [ ] 北宋 others  - [ ] 南宋 others
+  - [ ] 元明清
+- [ ] 6. Verify Chinese texts against chinese-poetry dataset
+- [ ] 7. Traditional-Chinese toggle (OpenCC at build time)
+- [ ] 8. Polish, test on phone/tablet/desktop widths
+- [ ] 9. Enable GitHub Pages, final README
