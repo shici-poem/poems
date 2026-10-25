@@ -788,8 +788,8 @@
           <li>L. Cranmer-Byng, <a href="https://www.gutenberg.org/ebooks/390" target="_blank" rel="noopener"><em>A Lute of Jade</em></a> (1909)</li>
           <li>W. J. B. Fletcher, <a href="https://archive.org/details/gemsofchinesever00fletiala" target="_blank" rel="noopener"><em>Gems of Chinese Verse</em></a> (1919)</li>
         </ul>
-        <p>They are given as printed, except where a rhyme was broken or a line plainly mistook the Chinese; those few are marked as
-        lightly adapted, and the printed text is always one click away.</p>
+        <p>They are given exactly as printed, old spellings and all; where one reads the Chinese differently, the translation
+        and note above it show what the original says.</p>
         <h2 lang="zh-CN">拼 · Pinyin and reading aloud</h2>
         <p>The 拼音 button shows the pronunciation above each character. Readings follow today's school textbooks, checked by hand
         for the many characters a classical poem reads differently from modern speech — 一骑红尘 <em>jì</em>, 鬓毛衰 <em>cuī</em>,
@@ -927,8 +927,7 @@
       return `<details class="ctr"><summary><span class="ct">“${rich(c.t)}”</span><span class="cb">${esc(c.by)}${year ? ', ' + year : ''}</span></summary>
         <div class="cbody"><div class="text">${enLines(c.e)}</div>
         <p class="csrc">Translated by ${esc(c.by)}, from <a href="${esc(c.u)}" target="_blank" rel="noopener"><em>${esc(c.bk.replace(/\s*\(\d{4}\)$/, ''))}</em>${year ? ` (${year})` : ''}</a>
-          · public domain.${c.ad ? ` Lightly adapted: ${esc(c.ad)}.` : ''}</p>
-        ${c.o ? `<details class="corig"><summary>Show the original ${year || ''} text</summary><div class="text">${enLines(c.o)}</div></details>` : ''}</div></details>`;
+          · public domain.</p></div></details>`;
     }).join('');
   }
   function rerender() {

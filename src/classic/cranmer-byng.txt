@@ -27,17 +27,6 @@ by: L. Cranmer-Byng
 book: A Lute of Jade (1909)
 link: https://www.gutenberg.org/ebooks/390
 title: The Little Rain
-adapted: line 7: "and butterflies take wing" (not in the Chinese) changed to "and drenched the blossoms cling" to restore the rain-heavy flowers of the last line
-Oh! she is good, the little rain! and well she knows our need
-Who cometh in the time of spring to aid the sun-drawn seed;
-She wanders with a friendly wind through silent nights unseen,
-The furrows feel her happy tears, and lo! the land is green.
-
-Last night cloud-shadows gloomed the path that winds to my abode,
-And the torches of the river-boats like angry meteors glowed.
-To-day fresh colours break the soil, and drenched the blossoms cling
-Down broidered lawns all bright with pearls in the garden of the King.
---
 Oh! she is good, the little rain! and well she knows our need
 Who cometh in the time of spring to aid the sun-drawn seed;
 She wanders with a friendly wind through silent nights unseen,
@@ -93,25 +82,6 @@ by: L. Cranmer-Byng
 book: A Lute of Jade (1909)
 link: https://www.gutenberg.org/ebooks/390
 title: Chants of Autumn
-adapted: lines 9–10 reworded to restore the twice-bloomed chrysanthemums and the tears of other days; "noon" changed to "day" in the last line (the Chinese has the evening pounding)
-Shorn by the frost with crystal blade,
-The dry leaves, scattered, fall at last;
-Among the valleys of Wu Chan
-Cold winds of death go wailing past.
-Tumultuous waves of the great river rise
-And seem to storm the skies,
-While snow-bright peak and prairie mist combine,
-And greyness softens the harsh mountain line.
-
-Twice now chrysanthemums display
-The tears of seasons that have flown.
-I am the barque that chains delay:
-My homeward thoughts must sail alone.
-From house to house warm winter robes are spread,
-And through the pine-woods red
-Floats up the sound of the washerman's bat who plies
-His hurried task ere the brief day wanes and dies.
---
 Shorn by the frost with crystal blade,
 The dry leaves, scattered, fall at last;
 Among the valleys of Wu Chan
@@ -569,17 +539,6 @@ by: L. Cranmer-Byng
 book: A Lute of Jade (1909)
 link: https://www.gutenberg.org/ebooks/390
 title: The Grass
-adapted: line 6 "The blue sky" changed to "Sun-bright, it" (the Chinese has sunlit green reaching the ruined city); last line reworded to restore the farewell
-How beautiful and fresh the grass returns!
-When golden days decline, the meadow burns;
-Yet autumn suns no hidden root have slain,
-The spring winds blow, and there is grass again.
-
-Green rioting on olden ways it falls:
-Sun-bright, it storms the ruined city walls;
-Yet since Wang Sun departed long ago,
-Each parting finds the lush grass full of woe.
---
 How beautiful and fresh the grass returns!
 When golden days decline, the meadow burns;
 Yet autumn suns no hidden root have slain,
@@ -595,27 +554,6 @@ by: L. Cranmer-Byng
 book: A Lute of Jade (1909)
 link: https://www.gutenberg.org/ebooks/390
 title: Springtide
-adapted: lines 1–2 reworded: the original read the Chia (贾) Pavilion as "merchants faring from the west"; lines 14–15 reworded to restore "best I love the lake’s east shore", which the original turned into its opposite
-By the lone convent on the hill
-Past Chia’s pavilion to the west,
-Almost upon the waters still
-The quiet clouds lean down and rest.
-
-In green pavilions of warm trees
-The golden builders toil and sing;
-While swallows dip along the leas,
-And dabble in the ooze of Spring.
-
-A thousand flowers, a thousand dreams,
-Bright pageants in confusion pass.
-See yonder, where the white horse gleams
-His fetlocks deep in pliant grass.
-
-Beside the eastern lake there calls
-The path my loving footstep knows,
-And in the long embankment walls
-The willow shade invites repose.
---
 The lonely convent on the hill
 Draws merchants faring from the west;
 Almost upon the waters still

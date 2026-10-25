@@ -63,12 +63,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: The Lover of Scenery
-adapted: line 4: "It" changed to "I"; in the Chinese the lone cloud drifts off and it is the poet who sits gazing with Jingting Mountain
-All the Birds had flown away.
-One Cloud its aimless circle ran,
-Unwearied gazing on each other,
-I and Ching-ting Shan.
---
 All the Birds had flown away.
 One Cloud its aimless circle ran,
 Unwearied gazing on each other,
@@ -99,12 +93,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: "Soft Stillness and the Night Become the Touches of Sweet Harmony"
-adapted: line 3: "the Flower" changed to "the Willow's"; the tune heard is "Breaking the Willow", the parting song
-From what clear flute unseen these flying trills
-With which the Wind of Spring the City fills?
-Amid the strains the Willow's plucked anew—
-In what sweet Garden—how my bosom thrills!
---
 From what clear flute unseen these flying trills
 With which the Wind of Spring the City fills?
 Amid the strains the Flower is plucked anew—
@@ -115,14 +103,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: Absence
-adapted: line 1: "slender" changed to "homely", Fletcher's own reading in the 1918 first edition; the Chinese has a broad moon over Chang'an, not a waning crescent
-Our homely Moon in quiet wanes away.
-Around me dully thuds the washing bar:
-Nor drops the Wind long Autumn from its wings.
-While all my heart is at the frontier far.
-Ah! when will all our foes be beaten back,
-And my dear husband finish distant war?
---
 Our slender Moon in quiet wanes away.
 Around me dully thuds the washing bar:
 Nor drops the Wind long Autumn from its wings.
@@ -135,35 +115,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: To Wei Pa—of That Ilk
-adapted: line 17: "A turnip" changed to "Spring chives"; the Chinese has spring chives cut in the night rain
-Like stars that rarely see each other
-In life we do not often meet.
-What eve is this that brings us now together
-Where these bright candles greet?
-Our youth, our strength, alas! how soon depart!
-Our beards, our hair are streaked with flecks of grey.
-Of friends we visit, half have passed away:
-The sudden news catches the thrilling heart.
-
-How tell that twenty years would first be sped
-Ere I again should enter in your Hall?
-For when I left you, you were still unwed.
-Lo! now your boys and girls are growing tall.
-Their father's ancient friend with pleasure see,
-And whence I hither came inquire of me.
-
-Unfinished question and reply remain.
-Your children come to set the broth and wine.
-Spring chives fresh cut after last night's rain,
-And steaming rice so fine.
-
-Then says the host: "When shall we meet once more?"
-With goblets ten he pledges me again.
-Ten goblets leave me sober as before,
-So deep my grateful memories him retain.
-To-morrow—by the cragged hills disparted,
-Unconscious of each other widely parted!
---
 Like stars that rarely see each other
 In life we do not often meet.
 What eve is this that brings us now together
@@ -404,14 +355,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: The Hunt
-adapted: line 5: "Hsin-li" corrected to "Hsin-feng" (Xinfeng)
-The bows of horn are twanging, and bitter blows the North,
-As from the town of Wei-ch'eng the hunters issue forth.
-The hawk's eye gazes keenly across the prairie dry.
-The snow is gone, and lightly the horsemen gallop by.
-To Hsin-feng town we sweep along; then back to Hsi-liao.
-Lo! where we shot the eagle rolls the clouded sunset now!
---
 The bows of horn are twanging, and bitter blows the North,
 As from the town of Wei-ch'eng the hunters issue forth.
 The hawk's eye gazes keenly across the prairie dry.
@@ -476,17 +419,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: The Grass
-adapted: line 3: "corpse-fires" changed to "wild-fires"; the Chinese has prairie fires
-How densely thick the grass upon the plain!
-Decay and splendour one year to it brings.
-The wild-fires burn it down—but all in vain—
-With each new breath of Spring it lives again.
-
-Its fragrance creeps across the Ancient Ways,
-Its sun-lit verdure o'er the ruin strays.
-Its growth speeds Nature's lover on his ways.
-With wild farewells its long luxuriance rings.
---
 How densely thick the grass upon the plain!
 Decay and splendour one year to it brings.
 The corpse-fires burn it down—but all in vain—
@@ -625,12 +557,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: A Winter Scene
-adapted: line 1: "dawning" changed to "fading"; the Chinese is set at dusk
-The daylight far is fading across the purple hill.
-And white the houses of the poor with winter's breathing chill.
-The house dog's sudden barking, which hears the wicket go,
-Greets us at night returning through driving gale and snow.
---
 The daylight far is dawning across the purple hill.
 And white the houses of the poor with winter's breathing chill.
 The house dog's sudden barking, which hears the wicket go,
@@ -651,12 +577,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: The Ancient Palace
-adapted: line 4: "mystic monarchs" changed to "the Mystic Monarch"; the Chinese names one emperor, Xuanzong ("Mystic Ancestor")
-The ancient Palace lies in desolation spread.
-The very garden flowers in solitude grow red.
-Only some withered dames with whitened hair remain,
-Who sit there idly talking of the Mystic Monarch dead.
---
 The ancient Palace lies in desolation spread.
 The very garden flowers in solitude grow red.
 Only some withered dames with whitened hair remain,
@@ -763,12 +683,6 @@ by: W. J. B. Fletcher
 book: Gems of Chinese Verse (1919)
 link: https://archive.org/details/gemsofchinesever00fletiala
 title: Snow on Chung-nan Hills
-adapted: line 1: "Dawn-shaded" changed to "The shaded" and line 4: "morn" changed to "eve"; the Chinese is set at dusk, with the evening cold deepening in the city
-The shaded peaks of Chung-nan Hills their lovely forms display.
-Their mass of snow amidst the clouds seems floating far away.
-The woods stand out against the sky in colours clear and bright,
-Yet stretching o'er the city's eve the chilly hands of night.
---
 Dawn-shaded peaks of Chung-nan Hills their lovely forms display.
 Their mass of snow amidst the clouds seems floating far away.
 The woods stand out against the sky in colours clear and bright,

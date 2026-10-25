@@ -153,10 +153,7 @@ def load_classic(by_key):
     book: Chinese Poetry in English Verse (1898)
     link: https://archive.org/details/…           (the scan or e-text it was taken from)
     title: Night Thoughts
-    adapted: one line saying what was changed   (only if the text was touched)
-    <translation lines>
-    --
-    <the translator's original lines>           (only if adapted)
+    <translation lines, exactly as printed>
     """
     out = {}
     for path in sorted((SRC / "classic").glob("*.txt")) if (SRC / "classic").exists() else []:
@@ -168,7 +165,7 @@ def load_classic(by_key):
             if key not in by_key:
                 die(f"{where}: no such poem (use '<poet> <title>' exactly as in src/poems)")
             meta, i = {}, 1
-            while i < len(lines) and re.match(r"^(by|book|link|title|adapted):", lines[i]):
+            while i < len(lines) and re.match(r"^(by|book|link|title):", lines[i]):
                 k, v = lines[i].split(":", 1)
                 meta[k] = v.strip()
                 i += 1
@@ -177,20 +174,10 @@ def load_classic(by_key):
                     die(f"{where}: missing '{k}:'")
             if not meta["link"].startswith("https://"):
                 die(f"{where}: link must be an https:// URL")
-            parts = re.split(r"^--\s*$", "\n".join(lines[i:]), flags=re.M)
-            body = lambda t: re.sub(r"\n{3,}", "\n\n", "\n".join(l.rstrip() for l in t.strip("\n").split("\n"))).split("\n")
-            e = body(parts[0])
+            e = re.sub(r"\n{3,}", "\n\n", "\n".join(l.rstrip() for l in lines[i:]).strip("\n")).split("\n")
             if not "".join(e).strip():
                 die(f"{where}: empty translation")
-            entry = {"by": meta["by"], "bk": meta["book"], "u": meta["link"], "t": meta["title"], "e": e}
-            if "adapted" in meta:
-                if len(parts) != 2:
-                    die(f"{where}: 'adapted:' needs the original text after a '--' line")
-                entry["ad"] = meta["adapted"]
-                entry["o"] = body(parts[1])
-            elif len(parts) != 1:
-                die(f"{where}: '--' section without 'adapted:'")
-            out.setdefault(by_key[key], []).append(entry)
+            out.setdefault(by_key[key], []).append({"by": meta["by"], "bk": meta["book"], "u": meta["link"], "t": meta["title"], "e": e})
     year = lambda e: int((re.search(r"\((\d{4})\)", e["bk"]) or [0, 0])[1])
     for v in out.values():
         v.sort(key=year)  # oldest first

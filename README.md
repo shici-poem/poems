@@ -85,6 +85,6 @@ its full address is `SITE` in `js/app.js` and `tools/site.mjs`.
   [*Gems of Chinese Literature: Verse*](https://archive.org/details/gems-of-chinese-literature);
   L. Cranmer-Byng, [*A Lute of Jade*](https://www.gutenberg.org/ebooks/390) (1909);
   W. J. B. Fletcher, [*Gems of Chinese Verse*](https://archive.org/details/gemsofchinesever00fletiala) (1919).
-  A few are lightly adapted; each is marked and shows the printed text too.
+  Each is given exactly as printed.
 - Pinyin: [pinyin-pro](https://github.com/zh-lx/pinyin-pro) (MIT), corrected by hand. Traditional text: [OpenCC](https://github.com/BYVoid/OpenCC).
 - Fonts (SIL OFL): [LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen), [Ma Shan Zheng](https://fonts.google.com/specimen/Ma+Shan+Zheng), Noto Serif SC, Zhi Mang Xing, EB Garamond.

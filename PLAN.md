@@ -14,7 +14,7 @@ How the site is built: [README.md](README.md). This file lists each feature with
 | ✅ | Pinyin | pinyin-pro + ~290 hand corrections, full tones, title pinyin. |
 | ✅ | Read-aloud | Says what the pinyin shows: same-sounding characters where a voice would misread (一骑 → 一寂); device's best voice. |
 | ✅ | Translations | An original verse translation and note for every poem. |
-| ✅ | Earlier translations | 116 for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), credited and linked; 23 lightly adapted, printed text alongside. |
+| ✅ | Earlier translations | 116 for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), credited and linked, exactly as printed. |
 | ✅ | Paintings | Ink-wash painter: 3 compositions (平远 / 深远 / 高远), 3 colour manners (ink, ochre, blue-green), figures, inscribed title and poet, ink and paper texture. |
 | ✅ | Poets | Chinese and English Wikipedia links for 121 of 126 poets (`src/wiki.txt`). |
 | ✅ | Poem of the day | Seeded shuffle of the top 200: same all day, no repeats within 200 days. |
@@ -22,16 +22,12 @@ How the site is built: [README.md](README.md). This file lists each feature with
 | ✅ | Addresses & SEO | Real addresses (`p/jing-ye-si/`, `poet/li-bai/` …); 1130 prerendered pages incl. `hant/`, each with title, description, canonical, 简/繁 hreflang, JSON-LD; `sitemap.xml`; share picture. |
 | ✅ | Robustness | Old `#/` links redirect; bad stored values drop settings, then history, before an error shows; content-hashed files. |
 | ✅ | Deploy | GitHub Actions builds `src/` and publishes the site on every push to main. |
+| ✅ | Search engines | `sitemap.xml` submitted to Google Search Console (verified via `google8a3c681ac87878d8.html`; keep that file). |
 | 🚧 | Chinese notes | A 赏析 in Chinese above the English note (optional fourth `--` part of a poem). |
-| ⬜ | Search engines | Submit `sitemap.xml` to Google Search Console (verified via `google8a3c681ac87878d8.html`) and Bing Webmaster Tools. |
-| 💭 | Custom domain | Root `robots.txt`, shorter brand. |
-| 💭 | Share pictures | One per poem. |
-| 💭 | Hanging scroll | Tall scroll format for the poem-page painting. |
-| 💭 | More Fletcher | *More Gems of Chinese Poetry* (1919): no accessible scan found yet. |
 
 ## Decisions
 
-- **Earlier translations:** public domain in Canada and the US (published before 1930, translator died before 1972). Rules out Bynner, Waley, Waddell, Pound, Xu Yuanchong.
+- **Earlier translations:** public domain in Canada and the US (published before 1930, translator died before 1972). Rules out Bynner, Waley, Waddell, Pound, Xu Yuanchong. Shown exactly as printed, never corrected: our own translation and note carry the meaning.
 - **Pinyin:** today's school textbooks and the 审音表 (斜 xié, not the rhyme reading xiá).
 - **Read-aloud voice:** one voice, the device's best; most devices have no male Chinese voice.
 - **Wikipedia:** only articles certainly about this poet (via Wikipedia's language links, first sentence checked); no namesakes or disambiguation pages.
