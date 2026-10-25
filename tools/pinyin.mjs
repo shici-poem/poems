@@ -57,14 +57,15 @@ function readLine(text, poemFixes) {
   const py = pinyin(text, { type: 'array', toneSandhi: false, nonZh: 'removed' });
   const out = [];
   let k = 0;
-  chars.forEach((c, i) => { if (CJK.test(c)) out[i] = fullTone(c, py[k++] || ''); });
+  const base = [];  // pinyin-pro's own reading in the line, before any fix
+  chars.forEach((c, i) => { if (CJK.test(c)) { base[i] = py[k] || ''; out[i] = fullTone(c, py[k++] || ''); } });
   for (const f of poemFixes) {
     const w = Array.from(f.word);
     for (let i = 0; i + w.length <= chars.length; i++) {
       if (w.every((c, j) => chars[i + j] === c)) { w.forEach((_, j) => { out[i + j] = f.syl[j]; }); f.used++; }
     }
   }
-  return { chars, out };
+  return { chars, out, base };
 }
 
 // ---- homophones for speech: one common, single-reading character per toned syllable ----
@@ -80,7 +81,16 @@ for (const c of gb1.filter(c => CJK.test(c))) {
   const s = all[0];
   if (!homo[s] || (freq[c] || 0) > (freq[homo[s]] || 0)) homo[s] = c;
 }
-const usual = c => pinyin(c, { toneSandhi: false });
+// The voice's idea of a character's usual reading is not always pinyin-pro's (alone, 了 is liǎo to
+// pinyin-pro but le to the voice), so a reading is left to the voice only when it is the character's
+// first listed reading, its reading alone and pinyin-pro's reading in the line, all at once.
+const usual = (c, inLine) => {
+  const all = polyphonic(c, { type: 'array' })[0] || [];
+  return [all[0], pinyin(c, { toneSandhi: false }), inLine].filter(Boolean);
+};
+// Syllables with no single-reading common character: a character the voice reads that way nearly always.
+// Not for 卷 juǎn or 参差 cēn cī, which voices already read right.
+const STAND_IN = { liǎo: '蓼', nǎ: '哪', tiǎo: '窕', qiǎng: '抢', dāng: '裆', lè: '勒', kōng: '箜', há: '蛤' };
 
 const out = {}, say = {}, missing = new Set(), rev = {};
 for (const p of db.poems) {
@@ -88,11 +98,12 @@ for (const p of db.poems) {
   const lines = [p.t].concat(p.z);
   const py = [], speech = [];
   lines.forEach((text, li) => {
-    const { chars, out: syl } = readLine(text, poemFixes);
+    const { chars, out: syl, base } = readLine(text, poemFixes);
     py.push(chars.map((c, i) => syl[i]).filter(Boolean).join(' '));
     speech.push(chars.map((c, i) => {
-      if (!syl[i] || syl[i] === usual(c)) return c;
+      if (!syl[i] || usual(c, base[i]).every(s => s === syl[i])) return c;
       if (homo[syl[i]]) return homo[syl[i]];
+      if (STAND_IN[syl[i]]) return STAND_IN[syl[i]];
       missing.add(c + syl[i]);
       return c;
     }).join(''));
