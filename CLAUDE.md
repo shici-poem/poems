@@ -2,7 +2,8 @@
 
 Read [README.md](README.md) (layout, formats, build) and [PLAN.md](PLAN.md) (what is done, decisions) first.
 
-- Keep README.md and PLAN.md current, accurate and concise: describe the final result, never interim status or progress.
+- Keep README.md and PLAN.md current, accurate and concise. README.md describes the final result; PLAN.md gives each
+  feature a status (done / in progress / planned / idea) and each decision one line, never a progress log.
 - Work on a feature branch; merge it into main only once the change is reviewed and approved.
 - Built files (`data/`, the prerendered pages, `sitemap.xml`) are not committed. Pushing to main builds and deploys the
   site (`.github/workflows/deploy.yml`); build locally only to preview and verify, then delete the output.
