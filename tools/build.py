@@ -343,9 +343,15 @@ def hant(poems, authors):
         print("NOTE: opencc not installed — skipping data/hant.json")
         return
     cc = opencc.OpenCC("s2tw")
-    out = {"p": {}, "a": {}}
+    out = {"p": {}, "a": {}, "g": {}, "d": {}, "f": {}}
     for p in poems:
         out["p"][p["id"]] = [cc.convert(p["t"])] + [cc.convert(l) for l in p["z"]]
+    for t in TAGS:
+        out["g"][t] = cc.convert(t)
+    for d, _ in DYNASTIES:
+        out["d"][d] = cc.convert(d)
+    for f in FORMS:
+        out["f"][f] = cc.convert(f)
     for a in authors:
         out["a"][a] = cc.convert(a)
     (OUT / "hant.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

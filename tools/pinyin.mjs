@@ -119,5 +119,23 @@ if (review) {
 } else {
   writeFileSync(join(ROOT, 'data/pinyin.json'), JSON.stringify(out));
   writeFileSync(join(ROOT, 'data/speech.json'), JSON.stringify(say));
-  console.log(`pinyin.json: ${db.poems.length} poems; speech.json: ${Object.keys(say).length} poems with read-aloud fixes`);
+
+  // ---- page addresses: poems by their title's pinyin (p/jing-ye-si/), poets by English name (poet/li-bai/).
+  // The better-known keeps the plain address when two share one. Written into poems.json as `u`, with the
+  // title's pinyin for display as `y`; ids stay the key for reading history and paintings.
+  const slug = s => bare(s).toLowerCase().replace(/ü/g, 'u').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const taken = new Set();
+  const claim = (...cands) => { const s = cands.find(c => c && !taken.has(c)); taken.add(s); return s; };
+  for (const [a, au] of Object.entries(db.authors)) {
+    const base = slug(au.en);
+    au.u = claim(base, base + '-' + ((au.y.match(/\d+/) || [])[0] || ''), base + '-' + slug(a));
+  }
+  taken.clear();
+  for (const p of db.poems) {
+    const base = slug(out[p.id][0]) || p.id;
+    p.u = claim(base, base + '-' + db.authors[p.a].u, base + '-' + p.id);
+    p.y = out[p.id][0].split(' ').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
+  }
+  writeFileSync(join(ROOT, 'data/poems.json'), JSON.stringify(db));
+  console.log(`pinyin.json: ${db.poems.length} poems; speech.json: ${Object.keys(say).length} poems with read-aloud fixes; slugs written to poems.json`);
 }

@@ -3,6 +3,7 @@
   "description": "Build-time helpers for the poems site (not needed to serve it)",
   "type": "module",
   "dependencies": {
-    "pinyin-pro": "3.29.5"
+    "pinyin-pro": "3.29.5",
+    "puppeteer-core": "25.13.0"
   }
 }

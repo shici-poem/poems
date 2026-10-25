@@ -323,6 +323,9 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .zh.vertical .text .gap { height: auto; width: .8em; }
 
 .en h2 { font-family: var(--font-en); font-weight: 500; font-style: italic; font-size: clamp(25px, 3.4vw, 32px); margin: 0; line-height: 1.25; text-align: center; }
+.en .kick { text-align: center; margin: 0 0 6px; font-family: var(--font-ui); font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); }
+.en .kick span { font-family: var(--font-zh); font-size: 13px; letter-spacing: .1em; margin-right: 4px; }
+.en .tpy { text-align: center; margin: 4px 0 0; color: var(--ink-2); font-size: 15px; letter-spacing: .03em; }
 .en .byline { text-align: center; margin: 8px 0 22px; color: var(--ink-3); font-size: 14px; }
 .en .text { font-family: var(--font-en); font-size: clamp(18px, 2vw, 20px); line-height: 1.7; max-width: 32em; margin: 0 auto; }
 .en .text p { margin: 0; padding-left: 1.2em; text-indent: -1.2em; }
@@ -399,6 +402,8 @@ main { flex: 1; width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 v
 .poethead .big { font-family: var(--font-title); font-size: clamp(54px, 12vw, 88px); line-height: 1; letter-spacing: .1em; }
 .poethead .en { font-family: var(--font-en); font-size: 26px; font-style: italic; }
 .poethead .meta { color: var(--ink-3); font-size: 14px; margin-top: 2px; }
+.poethead .meta a { color: inherit; text-decoration: none; }
+.poethead .meta a:hover { color: var(--red); }
 .poethead .bio { font-family: var(--font-en); font-size: 18.5px; line-height: 1.6; max-width: 46em; margin: 10px 0 0; color: var(--ink-2); }
 .poethead .wiki { margin: 8px 0 0; font-size: 14.5px; color: var(--ink-3); }
 .poethead .wiki a { color: var(--red); }

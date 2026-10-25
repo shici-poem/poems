@@ -16,6 +16,11 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Poet pages link to Chinese and English Wikipedia (`src/wiki.txt`, 121 of 126 poets).
 - Poem of the day: the same all day, a seeded shuffle of the top 200 (no repeats within 200 days).
 - One language per line on phones where Chinese and English sit together (footer motto, pager, poet banner).
+- Search: every page has a real address (`p/jing-ye-si/`, `poet/li-bai/`, `theme/moon/`, `era/tang/`) and is prerendered
+  (`tools/site.mjs`) with its own title, description, canonical, 简/繁 hreflang pair and JSON-LD; 1130 pages incl.
+  the `hant/` traditional copies, `sitemap.xml`, a share picture. Poem pages show the title's pinyin and an "English translation" label.
+- Old visitors are safe: `#/` links redirect, reading history (by poem id) is kept, odd stored values or addresses
+  can't break a page (it drops saved settings, then history, before showing an error), files are version-stamped.
 - Reading history in localStorage: 已读 marks, "Read" (newest first) and "Unread only" filters, per-poet counts, Random prefers unread.
 
 ## Decisions
@@ -25,8 +30,13 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Wikipedia links only where the article is certainly this poet: each was resolved through Wikipedia's own
   language links or redirects and its first sentence checked; namesakes and disambiguation pages are left out.
 - No server: pinyin, speech fixes, traditional text and earlier translations load only when needed.
+- Prerendering runs the real app in headless Chrome rather than a second template, so the static page and the
+  live page can't drift apart. Traditional pages are separate addresses (not a hidden toggle) so they can be found.
+- Page addresses use the title's pinyin; ids stay the key for reading history and paintings, so addresses can change safely.
 
 ## Ideas
+- Google Search Console / Bing Webmaster Tools: verify the site (needs the owner), submit `sitemap.xml`.
+- A custom domain would allow a root `robots.txt` and a shorter brand; per-poem share pictures.
 - *More Gems of Chinese Poetry* (Fletcher, 1919): no accessible scan found yet.
 - A tall hanging-scroll format for the poem-page painting.
 

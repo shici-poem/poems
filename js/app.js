@@ -1,7 +1,15 @@
-/* 诗词 — single-page app: hash router, search, views. No dependencies. */
+/* 诗词 — single-page app: path router, search, views. No dependencies.
+   Every page also exists as prerendered HTML (tools/site.mjs) for search engines and a fast first paint;
+   this script then takes over and renders the same view. */
 (function () {
   'use strict';
 
+  const SITE = 'https://shici-poem.github.io/poems/';  // the canonical address (tools/site.mjs has the same)
+  const BASE = new URL(document.baseURI).pathname;     // '/poems/', from <base>
+  // the build stamps a content version on this script (app.js?v=…); data files get the same, so a browser
+  // never pairs new code with old cached data
+  const VER = (document.currentScript && new URL(document.currentScript.src).searchParams.get('v')) || '';
+  const dataUrl = name => 'data/' + name + (VER ? '?v=' + VER : '');
   const app = document.getElementById('app');
   const PAGE = 24;
   const TAGS_SHOWN = 14;  // theme chips visible before "+N more"
@@ -10,17 +18,20 @@
 
   let DB = null;          // data/poems.json
   let HANT = null;        // data/hant.json (traditional text), loaded on demand
+  let hantFailed = false; // hant.json could not be loaded: traditional pages fall back to simplified text
   let T2S = null;         // traditional → simplified char map (from HANT)
   let PY = null;          // data/pinyin.json, loaded when pinyin is first shown
   let lastList = null;    // ids of the most recent result list, for prev/next
-  let settings = loadSettings();
-  let READ = loadRead();  // poems this browser has opened: { id: time first read } — kept only in localStorage
+  let settings = loadObj('poems.settings');
+  let READ = loadObj('poems.read');  // poems this browser has opened: { id: time first read } — kept only in localStorage
   const scrollMemo = {};
 
   /* ---------------- utils ---------------- */
-  function loadSettings() { try { return JSON.parse(localStorage.getItem('poems.settings') || '{}'); } catch (e) { return {}; } }
+  // whatever an older version (or anything else) left in storage, only a plain object is used
+  function loadObj(key) {
+    try { const v = JSON.parse(localStorage.getItem(key) || '{}'); return v && typeof v === 'object' && !Array.isArray(v) ? v : {}; } catch (e) { return {}; }
+  }
   function saveSettings() { try { localStorage.setItem('poems.settings', JSON.stringify(settings)); } catch (e) { } }
-  function loadRead() { try { return JSON.parse(localStorage.getItem('poems.read') || '{}') || {}; } catch (e) { return {}; } }
   function markRead(id) {
     if (READ[id]) return;
     READ[id] = Date.now();
@@ -46,21 +57,44 @@
   const T = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id][0] : p.t;
   const Z = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id].slice(1) : p.z;
   const A = a => (settings.hant && HANT && HANT.a[a]) || a;
+  const G = t => (settings.hant && HANT && HANT.g && HANT.g[t]) || t;  // theme
+  const D = d => (settings.hant && HANT && HANT.d && HANT.d[d]) || d;  // dynasty
+  const F = f => (settings.hant && HANT && HANT.f && HANT.f[f]) || f;  // form
+  const H = (s, t) => settings.hant ? t : s;                            // a fixed phrase, 简 or 繁
   // title with any （其一）-style suffix set smaller
   const TH = p => esc(T(p)).replace(/（[^）]*）$/, m => `<small>${m}</small>`);
+  const ERA = { '先秦': 'Pre-Qin', '魏晋': 'Wei and Jin dynasties', '南北朝': 'Southern and Northern Dynasties', '五代': 'Five Dynasties', '近代': 'late Qing' };
+  const eraEn = d => ERA[d] || DB.dynEn[d] + ' dynasty';
+  const eraZh = d => D(d) + (d.length === 1 ? '代' : '');
+  const plain = s => String(s).replace(/\*/g, '');
+
+  // page addresses, relative to BASE: p/jing-ye-si/, poet/li-bai/, theme/moon/, era/tang/ (hant/… for traditional)
+  const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const pUrl = p => 'p/' + (p.u || p.id) + '/';
+  const aUrl = a => 'poet/' + (DB.authors[a].u || enc(a)) + '/';
+  const tUrl = t => 'theme/' + slug(DB.tagInfo[t].en) + '/';
+  const dUrl = d => 'era/' + slug(DB.dynEn[d]) + '/';
+  const rel = path => (settings.hant ? 'hant/' : '') + path;
+  const href = path => rel(path) || './';
 
   /* ---------------- data ---------------- */
   function prepare(data) {
     DB = data;
-    DB.byId = {};
-    DB.tagInfo = {};
-    DB.dynEn = Object.fromEntries(DB.dynasties);
-    DB.tagCount = {};
-    DB.poetCount = {};
-    DB.formCount = {};
-    DB.tags.forEach(([zh, en, syn]) => { DB.tagInfo[zh] = { en, syn }; DB.tagCount[zh] = 0; });
+    // lookup tables without a prototype, so an address like p/constructor/ finds nothing
+    const map = () => Object.create(null);
+    DB.byId = map();
+    DB.tagInfo = map();
+    DB.dynEn = Object.assign(map(), Object.fromEntries(DB.dynasties));
+    DB.tagCount = map();
+    DB.poetCount = map();
+    DB.formCount = map();
+    DB.bySlug = map(); DB.poetBySlug = map(); DB.tagBySlug = map(); DB.dynBySlug = map();
+    DB.tags.forEach(([zh, en, syn]) => { DB.tagInfo[zh] = { en, syn }; DB.tagCount[zh] = 0; DB.tagBySlug[slug(en)] = zh; });
+    DB.dynasties.forEach(([zh, en]) => { DB.dynBySlug[slug(en)] = zh; });
+    Object.keys(DB.authors).forEach(a => { if (DB.authors[a].u) DB.poetBySlug[DB.authors[a].u] = a; });
     DB.poems.forEach((p, i) => {
       DB.byId[p.id] = p;
+      if (p.u) DB.bySlug[p.u] = p;
       p.i = i;
       const au = DB.authors[p.a];
       p.g.forEach(t => DB.tagCount[t]++);
@@ -74,7 +108,7 @@
       p._w = {
         a: new Set(aw.concat([aw.join('')])),
         g: new Set(words(p.g.map(t => DB.tagInfo[t].en + ' ' + DB.tagInfo[t].syn).join(' '))),
-        te: new Set(words(p.te)),
+        te: new Set(words(p.te + ' ' + (p.y || ''))),
         e: new Set(words(p.e.join(' '))),
         n: new Set(words(p.n)),
         m: new Set(words(DB.dynEn[au.d] + ' ' + DB.forms[p.f])),
@@ -154,40 +188,72 @@
   }
 
   /* ---------------- router ---------------- */
-  function parseHash() {
-    const h = location.hash.replace(/^#/, '') || '/';
-    const qi = h.indexOf('?');
-    const path = qi >= 0 ? h.slice(0, qi) : h;
-    const params = new URLSearchParams(qi >= 0 ? h.slice(qi + 1) : '');
-    const parts = path.split('/').filter(Boolean).map(s => { try { return decodeURIComponent(s); } catch (e) { return s; } });
-    return { parts, params };
+  function parseLoc() {
+    const parts = location.pathname.slice(BASE.length).split('/').filter(Boolean).map(s => { try { return decodeURIComponent(s); } catch (e) { return s; } });
+    const hant = parts[0] === 'hant';
+    if (hant) parts.shift();
+    return { parts, params: new URLSearchParams(location.search), hant };
+  }
+  const here = () => location.pathname + location.search;
+  function go(path, replace) {  // path is below BASE, already through rel()
+    history[replace ? 'replaceState' : 'pushState'](null, '', BASE + path);
+    route();
+  }
+  function canonicalize(path) {  // an old or alternative address for this page: show the proper one
+    if (location.pathname !== BASE + rel(path)) history.replaceState(null, '', BASE + rel(path) + location.search);
+    currentKey = here();
+  }
+  // links written before the site had real addresses: #/p/9e9228, #/poet/李白, #/?tag=月 …
+  function fromHash() {
+    const h = location.hash;
+    if (!h.startsWith('#/')) return;
+    const qi = h.indexOf('?'), path = (qi >= 0 ? h.slice(2, qi) : h.slice(2)).replace(/\/?$/, '/');
+    history.replaceState(null, '', BASE + (path === '/' ? '' : path) + (qi >= 0 ? h.slice(qi) : ''));
   }
 
-  let currentKey = null;
+  let currentKey = null, curView = '';
   function route() {
     if (currentKey) scrollMemo[currentKey] = Object.assign(scrollMemo[currentKey] || {}, { y: window.scrollY });
-    const { parts, params } = parseHash();
-    currentKey = location.hash || '#/';
+    const { parts, params, hant } = parseLoc();
+    if (hant !== !!settings.hant) { settings.hant = hant; saveSettings(); }
+    if (settings.hant && !HANT && !hantFailed) { ensureHant().then(route); return; }
+    paintScript();
+    currentKey = here();
     stopSpeech();
-    const v = parts[0] || '';
+    const v = curView = parts[0] || '';
     document.querySelectorAll('.nav a').forEach(a => a.classList.toggle('on',
-      (a.dataset.nav === 'home' && (v === '' || v === 'p')) || (a.dataset.nav === 'poets' && (v === 'poets' || v === 'poet')) || (a.dataset.nav === 'themes' && v === 'themes')));
-    switch (v) {
-      case '': viewHome(params); break;
-      case 'p': viewPoem(parts[1]); break;
-      case 'poets': viewPoets(); break;
-      case 'poet': viewPoet(parts[1]); break;
-      case 'themes': viewThemes(); break;
-      case 'about': viewAbout(); break;
-      case 'random': { // a poem not read yet, while there are any
-        const unread = DB.order.filter(id => !READ[id]), pool = unread.length ? unread : DB.order;
-        location.replace('#/p/' + pool[Math.floor(Math.random() * pool.length)]);
-        return;
+      (a.dataset.nav === 'home' && (v === '' || v === 'p' || v === 'era')) || (a.dataset.nav === 'poets' && (v === 'poets' || v === 'poet')) || (a.dataset.nav === 'themes' && (v === 'themes' || v === 'theme'))));
+    document.querySelectorAll('[data-href]').forEach(a => a.setAttribute('href', href(a.dataset.href)));
+    try {
+      switch (v) {
+        case '': viewHome(params); break;
+        case 'theme': DB.tagBySlug[parts[1]] ? viewHome(params, { tag: DB.tagBySlug[parts[1]] }) : viewNotFound(); break;
+        case 'era': DB.dynBySlug[parts[1]] ? viewHome(params, { dyn: DB.dynBySlug[parts[1]] }) : viewNotFound(); break;
+        case 'p': viewPoem(parts[1]); break;
+        case 'poets': viewPoets(); break;
+        case 'poet': viewPoet(parts[1]); break;
+        case 'themes': viewThemes(); break;
+        case 'about': viewAbout(); break;
+        case 'random': { // a poem not read yet, while there are any
+          const unread = DB.order.filter(id => !READ[id]), pool = unread.length ? unread : DB.order;
+          go(rel(pUrl(DB.byId[pool[Math.floor(Math.random() * pool.length)]])), true);
+          return;
+        }
+        default: viewNotFound();
       }
-      default: viewNotFound();
-    }
+    } catch (err) { recover(err); return; }
     const memo = scrollMemo[currentKey];
     window.scrollTo(0, memo && memo.y ? memo.y : 0);
+  }
+  // A page that fails to draw must never leave a blank screen, whatever an older version left in this
+  // browser: first forget the saved settings, then the reading history, then say so plainly.
+  let recovered = 0;
+  function recover(err) {
+    console.error(err);
+    recovered++;
+    if (recovered === 1) { settings = { hant: settings.hant }; try { localStorage.removeItem('poems.settings'); } catch (e) { } route(); return; }
+    if (recovered === 2) { READ = {}; try { localStorage.removeItem('poems.read'); } catch (e) { } route(); return; }
+    app.innerHTML = '<div class="empty" style="padding:80px 0"><div class="big" lang="zh-CN">出错了</div><p>Something went wrong showing this page. <a href="./">Back to all poems</a></p></div>';
   }
 
   /* ---------------- lazy thumbnails ---------------- */
@@ -209,12 +275,12 @@
   function card(p, q) {
     const au = DB.authors[p.a];
     const line = (q && matchedLine(p, q)) || Z(p)[0];
-    return `<a class="card${READ[p.id] ? ' read' : ''}" href="#/p/${p.id}">
+    return `<a class="card${READ[p.id] ? ' read' : ''}" href="${href(pUrl(p))}">
       ${READ[p.id] ? '<span class="readmark" title="You have read this poem"><span lang="zh-CN">已读</span> Read</span>' : ''}
       <div class="thumb" data-id="${p.id}"></div>
       <div class="card-body">
         <h3 class="card-title" lang="zh-CN">${TH(p)}</h3>
-        <div class="card-meta"><span class="a" lang="zh-CN">〔${esc(au.d)}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
+        <div class="card-meta"><span class="a" lang="zh-CN">〔${esc(D(au.d))}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
         <p class="card-line" lang="zh-CN">${segs(line)}</p>
         <p class="card-en">${esc(p.te)}</p>
       </div></a>`;
@@ -226,7 +292,7 @@
   }
   function tagChip(t, on, count, extra) {
     const info = DB.tagInfo[t];
-    return `<a class="chip${on ? ' on' : ''}${extra ? ' extra' : ''}" href="#/?tag=${enc(t)}" data-tag="${esc(t)}"><span class="z" lang="zh-CN">${esc(t)}</span>${esc(info.en)}${count != null ? `<span class="c">${count}</span>` : ''}</a>`;
+    return `<a class="chip${on ? ' on' : ''}${extra ? ' extra' : ''}" href="${href(tUrl(t))}" data-tag="${esc(t)}"><span class="z" lang="zh-CN">${esc(G(t))}</span>${esc(info.en)}${count != null ? `<span class="c">${count}</span>` : ''}</a>`;
   }
   const ANTHOLOGIES = ['诗经', '汉乐府', '古诗十九首', '北朝民歌'];
   function topPoets() { return Object.keys(DB.authors).filter(a => DB.poetCount[a] > 1 && !ANTHOLOGIES.includes(a)).slice(0, 12); }
@@ -247,7 +313,10 @@
 
   /* ---------------- home / search ---------------- */
   let state = {};
-  function homeHash() {
+  // one theme or one era alone has its own page (theme/moon/, era/tang/); anything else is the home page's query
+  const landing = () => !state.q && !state.poet && !state.form && !state.unread && !state.read && !!state.tag !== !!state.dyn;
+  function homeRel() {
+    if (landing()) return rel(state.tag ? tUrl(state.tag) : dUrl(state.dyn));
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q);
     if (state.tag) p.set('tag', state.tag);
@@ -257,32 +326,56 @@
     if (state.unread) p.set('u', '1');
     if (state.read) p.set('r', '1');
     const s = p.toString();
-    return '#/' + (s ? '?' + s : '');
+    return rel('') + (s ? '?' + s : '');
   }
-  function syncHash() {
-    const h = homeHash();
-    if (h !== (location.hash || '#/')) {
+  function syncUrl() {
+    const h = BASE + homeRel();
+    if (h !== here()) {
       history.replaceState(null, '', h);
       currentKey = h;
     }
+    headHome();
+  }
+  function headHome() {
+    const n = DB.poems.length;
+    const some = list => list.slice(0, 3).map(p => `${T(p)} (${p.te})`).join(', ');
+    if (landing() && state.tag) {
+      const t = state.tag, en = DB.tagInfo[t].en, list = DB.poems.filter(p => p.g.includes(t));
+      return setHead(`${H('关于', '關於')}${G(t)}${H('的古诗词', '的古詩詞')} · ${en} in classical Chinese poetry`,
+        `${list.length} classical Chinese poems on ${en.toLowerCase()} (${G(t)}), each in Chinese with an English verse translation, pinyin and a note. Including ${some(list)}.`, tUrl(t));
+    }
+    if (landing() && state.dyn) {
+      const d = state.dyn, list = DB.poems.filter(p => DB.authors[p.a].d === d);
+      return setHead(`${eraZh(d)}${H('诗词', '詩詞')} · ${eraEn(d)} poems in Chinese and English`,
+        `${list.length} poems of the ${eraEn(d)} (${eraZh(d)}), each in Chinese with an English verse translation, pinyin and a note. Including ${some(list)}.`, dUrl(state.dyn));
+    }
+    setHead(`${H('诗词', '詩詞')} · Classical Chinese Poems with English Translations | ${H('古诗词中英对照', '古詩詞中英對照')}`,
+      `The ${n} best-loved classical Chinese poems — Li Bai, Du Fu, Wang Wei, Su Shi, Li Qingzhao and more — in Chinese with rhymed English translations, pinyin, notes and ink paintings. ${H('唐诗宋词，中英对照，附拼音与注解。', '唐詩宋詞，中英對照，附拼音與注解。')}`,
+      '', here() !== BASE + rel(''));
   }
 
-  function viewHome(params) {
+  function viewHome(params, preset) {
+    preset = preset || {};
     state = {
-      q: params.get('q') || '', tag: params.get('tag') || '', poet: params.get('poet') || '',
-      dyn: params.get('d') || '', form: params.get('f') || '', unread: params.get('u') === '1', shown: PAGE,
+      q: params.get('q') || '', tag: preset.tag || params.get('tag') || '', poet: params.get('poet') || '',
+      dyn: preset.dyn || params.get('d') || '', form: params.get('f') || '', unread: params.get('u') === '1', shown: PAGE,
     };
     state.read = !state.unread && params.get('r') === '1';
-    const memo = scrollMemo[location.hash || '#/'];
+    // a hand-typed or outdated address may name a theme, poet or form that isn't there
+    if (!DB.tagInfo[state.tag]) state.tag = '';
+    if (!DB.dynEn[state.dyn]) state.dyn = '';
+    if (!DB.poetCount[state.poet]) state.poet = '';
+    if (!DB.formCount[state.form]) state.form = '';
+    syncUrl();
+    const memo = scrollMemo[here()];
     if (memo && memo.shown) state.shown = memo.shown;
-    document.title = '诗词 · Classical Chinese Poems';
     const tagsSorted = Object.keys(DB.tagCount).filter(t => DB.tagCount[t]).sort((a, b) => DB.tagCount[b] - DB.tagCount[a]);
     const dyns = DB.dynasties.filter(([d]) => DB.poems.some(p => DB.authors[p.a].d === d));
     const forms = Object.keys(DB.forms).filter(f => DB.formCount[f]);
     const poetOpt = a => `<option value="${esc(a)}"${state.poet === a ? ' selected' : ''}>${esc(A(a))} ${esc(DB.authors[a].en)} (${DB.poetCount[a]})</option>`;
     const poetsByDyn = `<optgroup label="名家 Best-loved">${topPoets().map(poetOpt).join('')}</optgroup>` + dyns.map(([d, de]) => {
       const ps = Object.keys(DB.authors).filter(a => DB.authors[a].d === d && DB.poetCount[a]);
-      return `<optgroup label="${esc(d)} ${esc(de)}">${ps.map(poetOpt).join('')}</optgroup>`;
+      return `<optgroup label="${esc(D(d))} ${esc(de)}">${ps.map(poetOpt).join('')}</optgroup>`;
     }).join('');
     const hints = ['李白', 'moon', 'wine', '思乡', 'farewell', '春风', 'Su Shi', 'frontier'];
     app.innerHTML = `
@@ -301,7 +394,7 @@
         <div class="fbody">
           <div class="chiprow${settings.dynShut ? ' shut' : ''}" id="dynrow">${foldLabel('dynShut', '朝代', 'Era')}
             <button type="button" class="chip${state.dyn ? '' : ' on'}" data-dyn=""><span class="z">全部</span>All</button>
-            ${dyns.map(([d, de]) => `<button type="button" class="chip${state.dyn === d ? ' on' : ''}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(d)}</span>${esc(de)}</button>`).join('')}
+            ${dyns.map(([d, de]) => `<a class="chip${state.dyn === d ? ' on' : ''}" href="${href(dUrl(d))}" data-dyn="${esc(d)}"><span class="z" lang="zh-CN">${esc(D(d))}</span>${esc(de)}</a>`).join('')}
           </div>
           <div class="chiprow${settings.allTags ? ' all' : ''}${settings.tagShut ? ' shut' : ''}" id="tagrow">${foldLabel('tagShut', '题材', 'Theme')}
             <button type="button" class="chip${state.tag ? '' : ' on'}" data-tag=""><span class="z">全部</span>All</button>
@@ -319,28 +412,29 @@
 
     const input = document.getElementById('q');
     const clear = document.getElementById('qclear');
-    const onInput = debounce(() => { state.q = input.value; state.shown = PAGE; syncHash(); renderResults(); }, 160);
+    const onInput = debounce(() => { state.q = input.value; state.shown = PAGE; syncUrl(); renderResults(); }, 160);
     input.addEventListener('input', () => { clear.hidden = !input.value; onInput(); });
     input.addEventListener('keydown', e => { if (e.key === 'Enter') { input.blur(); document.getElementById('results').scrollIntoView({ behavior: 'smooth' }); } });
-    clear.addEventListener('click', () => { input.value = ''; clear.hidden = true; state.q = ''; syncHash(); renderResults(); input.focus(); });
+    clear.addEventListener('click', () => { input.value = ''; clear.hidden = true; state.q = ''; syncUrl(); renderResults(); input.focus(); });
     app.querySelectorAll('.hint button').forEach(b => b.addEventListener('click', () => {
-      input.value = b.dataset.q; clear.hidden = false; state.q = b.dataset.q; state.shown = PAGE; syncHash(); renderResults();
+      input.value = b.dataset.q; clear.hidden = false; state.q = b.dataset.q; state.shown = PAGE; syncUrl(); renderResults();
     }));
     app.querySelector('#dynrow').addEventListener('click', e => {
       const b = e.target.closest('[data-dyn]'); if (!b) return;
+      e.preventDefault();
       state.dyn = b.dataset.dyn; state.shown = PAGE;
       app.querySelectorAll('#dynrow .chip').forEach(c => c.classList.toggle('on', c === b));
-      syncHash(); renderResults();
+      syncUrl(); renderResults();
     });
     app.querySelector('#tagrow').addEventListener('click', e => {
       const b = e.target.closest('[data-tag]'); if (!b) return;
       e.preventDefault();
       state.tag = state.tag === b.dataset.tag ? '' : b.dataset.tag; state.shown = PAGE;  // a second tap on a theme clears it, like 全部
       app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.toggle('on', c.dataset.tag === state.tag));
-      syncHash(); renderResults();
+      syncUrl(); renderResults();
     });
-    app.querySelector('#psel').addEventListener('change', e => { state.poet = e.target.value; state.shown = PAGE; syncHash(); renderResults(); });
-    app.querySelector('#fsel').addEventListener('change', e => { state.form = e.target.value; state.shown = PAGE; syncHash(); renderResults(); });
+    app.querySelector('#psel').addEventListener('change', e => { state.poet = e.target.value; state.shown = PAGE; syncUrl(); renderResults(); });
+    app.querySelector('#fsel').addEventListener('change', e => { state.form = e.target.value; state.shown = PAGE; syncUrl(); renderResults(); });
     app.querySelector('#tagmore').addEventListener('click', e => {
       e.stopPropagation();
       settings.allTags = !settings.allTags; saveSettings();
@@ -382,12 +476,12 @@
     if (!anyFilter) {
       const p = dayPoem(), au = DB.authors[p.a];
       const z = Z(p);
-      feat.innerHTML = `<a class="featured" href="#/p/${p.id}">
+      feat.innerHTML = `<a class="featured" href="${href(pUrl(p))}">
         <div class="thumb" data-id="${p.id}"></div>
         <div class="fbody">
           <div class="kicker"><b lang="zh-CN">今日一诗</b>Poem of the day</div>
           <h3 lang="zh-CN">${TH(p)}</h3>
-          <div class="by"><span lang="zh-CN">〔${esc(au.d)}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
+          <div class="by"><span lang="zh-CN">〔${esc(D(au.d))}〕${esc(A(p.a))}</span> · ${esc(au.en)}</div>
           <div class="lines" lang="zh-CN">${z.filter(Boolean).slice(0, 2).map(segs).join('<br>')}</div>
           <div class="en">${p.e.filter(Boolean).slice(0, 2).map(esc).join('<br>')}</div>
         </div></a>`;
@@ -396,10 +490,10 @@
 
     const active = [];
     if (state.q.trim()) active.push(`<button type="button" class="chip" data-clear="q">“${esc(state.q.trim())}” ✕</button>`);
-    if (state.tag) active.push(`<button type="button" class="chip" data-clear="tag"><span class="z">${esc(state.tag)}</span>${esc(DB.tagInfo[state.tag] ? DB.tagInfo[state.tag].en : '')} ✕</button>`);
-    if (state.dyn) active.push(`<button type="button" class="chip" data-clear="dyn"><span class="z">${esc(state.dyn)}</span>${esc(DB.dynEn[state.dyn] || '')} ✕</button>`);
+    if (state.tag) active.push(`<button type="button" class="chip" data-clear="tag"><span class="z">${esc(G(state.tag))}</span>${esc(DB.tagInfo[state.tag] ? DB.tagInfo[state.tag].en : '')} ✕</button>`);
+    if (state.dyn) active.push(`<button type="button" class="chip" data-clear="dyn"><span class="z">${esc(D(state.dyn))}</span>${esc(DB.dynEn[state.dyn] || '')} ✕</button>`);
     if (state.poet) active.push(`<button type="button" class="chip" data-clear="poet"><span class="z">${esc(A(state.poet))}</span>✕</button>`);
-    if (state.form) active.push(`<button type="button" class="chip" data-clear="form"><span class="z">${esc(state.form)}</span>✕</button>`);
+    if (state.form) active.push(`<button type="button" class="chip" data-clear="form"><span class="z">${esc(F(state.form))}</span>✕</button>`);
     if (state.unread) active.push(`<button type="button" class="chip" data-clear="unread"><span class="z">未读</span>Unread ✕</button>`);
     if (state.read) active.push(`<button type="button" class="chip" data-clear="read"><span class="z">已读</span>Read ✕</button>`);
 
@@ -410,8 +504,8 @@
       const hit = Object.keys(DB.authors).find(a => DB.poetCount[a] && (a === toSimplified(state.q.trim()) || norm(DB.authors[a].en).replace(/\s+/g, '') === qn));
       if (hit) {
         const au = DB.authors[hit];
-        banner = `<a class="poet-banner" href="#/poet/${enc(hit)}"><span class="pz" lang="zh-CN">${esc(A(hit))}</span>
-          <span><b>${esc(au.en)}</b><br><span class="pe">${esc(au.d)} · ${esc(DB.dynEn[au.d])} · <span class="nw">${esc(au.y)}</span></span></span><span class="go"><span class="gt">Poet page </span>→</span></a>`;
+        banner = `<a class="poet-banner" href="${href(aUrl(hit))}"><span class="pz" lang="zh-CN">${esc(A(hit))}</span>
+          <span><b>${esc(au.en)}</b><br><span class="pe">${esc(D(au.d))} ·${esc(DB.dynEn[au.d])} · <span class="nw">${esc(au.y)}</span></span></span><span class="go"><span class="gt">Poet page </span>→</span></a>`;
       }
     }
 
@@ -419,7 +513,8 @@
     const shown = list.slice(0, state.shown);
     res.innerHTML = `
       <div class="reshead">
-        <h2>${anyFilter ? '搜索结果<small>Results</small>' : '全部诗词<small>All poems</small>'}</h2>
+        <h2>${landing() ? (state.tag ? `${esc(G(state.tag))}<small>${esc(DB.tagInfo[state.tag].en)}</small>` : `${esc(eraZh(state.dyn))}<small>${esc(eraEn(state.dyn))}</small>`)
+          : anyFilter ? '搜索结果<small>Results</small>' : '全部诗词<small>All poems</small>'}</h2>
         <span class="count">${list.length} ${list.length === 1 ? 'poem' : 'poems'}${nRead ? ` · <span class="readn">read ${nRead} of ${DB.poems.length}</span>
           <button type="button" class="chip unread${state.unread ? ' on' : ''}" id="unread" aria-pressed="${state.unread}"><span class="z">未读</span>Unread only</button>
           <button type="button" class="chip unread${state.read ? ' on' : ''}" id="readonly" aria-pressed="${state.read}"><span class="z">已读</span>Read</button>` : ''}</span>
@@ -430,7 +525,7 @@
         `<div class="empty"><div class="big" lang="zh-CN">无处觅</div><p>No poems found. Try another word — English or Chinese — or clear the filters.</p></div>`}
       ${list.length > shown.length ? `<button type="button" class="showmore" id="more">更多 · Show more (${list.length - shown.length})</button>` : ''}`;
     observeThumbs(res);
-    const memoKey = homeHash();
+    const memoKey = BASE + homeRel();
     scrollMemo[memoKey] = Object.assign(scrollMemo[memoKey] || {}, { shown: state.shown });
     res.querySelectorAll('[data-clear]').forEach(b => b.addEventListener('click', () => {
       const k = b.dataset.clear;
@@ -440,12 +535,12 @@
       if (k === 'tag' || k === 'all') app.querySelectorAll('#tagrow .chip').forEach(c => c.classList.toggle('on', c.dataset.tag === ''));
       if (k === 'poet' || k === 'all') document.getElementById('psel').value = '';
       if (k === 'form' || k === 'all') document.getElementById('fsel').value = '';
-      state.shown = PAGE; syncHash(); renderResults();
+      state.shown = PAGE; syncUrl(); renderResults();
     }));
     const ub = document.getElementById('unread');
-    if (ub) ub.addEventListener('click', () => { state.unread = !state.unread; state.read = false; state.shown = PAGE; syncHash(); renderResults(); });
+    if (ub) ub.addEventListener('click', () => { state.unread = !state.unread; state.read = false; state.shown = PAGE; syncUrl(); renderResults(); });
     const rb = document.getElementById('readonly');
-    if (rb) rb.addEventListener('click', () => { state.read = !state.read; state.unread = false; state.shown = PAGE; syncHash(); renderResults(); });
+    if (rb) rb.addEventListener('click', () => { state.read = !state.read; state.unread = false; state.shown = PAGE; syncUrl(); renderResults(); });
     const more = document.getElementById('more');
     if (more) {
       more.addEventListener('click', () => { state.shown += PAGE * 2; renderResults(); });
@@ -475,20 +570,23 @@
   }
   function enLines(lines) { return lines.map(l => l ? `<p>${rich(l)}</p>` : '<p class="gap"></p>').join(''); }
 
-  function viewPoem(id) {
-    const p = DB.byId[id];
+  function viewPoem(key) {
+    const p = DB.bySlug[key] || DB.byId[key];  // an id is an older address
     if (!p) return viewNotFound();
-    const au = DB.authors[p.a];
+    const id = p.id, au = DB.authors[p.a];
+    canonicalize(pUrl(p));
     const list = lastList && lastList.includes(id) ? lastList : DB.order;
     const i = list.indexOf(id);
     const prev = DB.byId[list[i - 1]], next = DB.byId[list[i + 1]];
     const vertical = !!settings.vertical;
     const chars = p._z.length;
-    document.title = `${p.t} · ${p.a} — ${p.te}`;
+    const z2 = Z(p).filter(Boolean).slice(0, 2).join(''), e2 = p.e.filter(Boolean).slice(0, 2).map(plain).join(' ');
+    setHead(`${T(p)} · ${A(p.a)} ${H('原文、英文翻译', '原文、英文翻譯')} | ${p.te} by ${au.en}`,
+      `《${T(p)}》${D(au.d)}·${A(p.a)}：${z2} English translation “${p.te}”${p.y ? ` (${p.y})` : ''} by ${au.en}: ${e2} With pinyin and notes.`, pUrl(p));
     markRead(p.id);
     app.innerHTML = `
       <article class="poem">
-        <div class="crumbs"><a href="#/">诗词</a><span>›</span><a href="#/poet/${enc(p.a)}" lang="zh-CN">${esc(A(p.a))}</a><span>›</span><span lang="zh-CN">${esc(T(p))}</span></div>
+        <div class="crumbs"><a href="${href('')}">诗词</a><span>›</span><a href="${href(aUrl(p.a))}" lang="zh-CN">${esc(A(p.a))}</a><span>›</span><span lang="zh-CN">${esc(T(p))}</span></div>
         <figure class="painting" id="painting"></figure>
         <div class="ptools">
           <button type="button" class="pbtn" id="b-py" aria-pressed="${!!settings.pinyin}"><span class="pyi" aria-hidden="true">pīn</span><span class="z">拼音</span> Pinyin</button>
@@ -496,16 +594,18 @@
           ${'speechSynthesis' in window ? `<button type="button" class="pbtn" id="b-zh">${ICON.speak}<span class="z">朗读</span></button>
           <button type="button" class="pbtn" id="b-en">${ICON.speak}English</button>` : ''}
           <button type="button" class="pbtn" id="b-share">${ICON.share}Share</button>
-          <a class="pbtn" href="#/random">${ICON.dice}<span class="z">随机</span> Random</a>
+          <a class="pbtn" href="${href('random/')}">${ICON.dice}<span class="z">随机</span> Random</a>
         </div>
         <div class="duo">
           <section class="zh${vertical ? ' vertical' : ''}${chars > 120 ? ' long' : ''}" lang="zh-CN"><div class="vwrap">
             <h1>${TH(p)}</h1>
-            <div class="byline"><a href="#/poet/${enc(p.a)}">〔${esc(au.d)}〕${esc(A(p.a))}</a></div>
+            <div class="byline"><a href="${href(aUrl(p.a))}">〔${esc(D(au.d))}〕${esc(A(p.a))}</a></div>
             <div class="text" id="zhtext">${zhLines(Z(p))}</div>
           </div></section>
           <section class="en" lang="en">
+            <div class="kick"><span lang="zh-CN">英译</span> English translation</div>
             <h2>${esc(p.te)}</h2>
+            ${p.y ? `<div class="tpy" lang="zh-Latn-pinyin">${esc(p.y)}</div>` : ''}
             <div class="byline">${esc(au.en)} · ${esc(DB.dynEn[au.d])} · ${esc(DB.forms[p.f])}</div>
             <div class="text">${enLines(p.e)}</div>
           </section>
@@ -513,10 +613,10 @@
         <section class="note"><h3>About this poem</h3><p>${rich(p.n)}</p></section>
         ${p.c ? '<section class="classic" id="classic" aria-label="Earlier translations"></section>' : ''}
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
-        <div class="pmeta"><span lang="zh-CN">${esc(p.f)}</span> · ${esc(DB.forms[p.f])} · <a href="#/poet/${enc(p.a)}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
+        <div class="pmeta"><span lang="zh-CN">${esc(F(p.f))}</span> · ${esc(DB.forms[p.f])} · <a href="${href(dUrl(au.d))}">${esc(eraEn(au.d))} poems</a> · <a href="${href(aUrl(p.a))}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
         <nav class="pager" aria-label="More poems">
-          ${prev ? `<a class="prev" href="#/p/${prev.id}"><span class="dir"><span lang="zh-CN">← 上一首</span> <span>Previous</span></span><span class="pt" lang="zh-CN">${TH(prev)}</span></a>` : ''}
-          ${next ? `<a class="next" href="#/p/${next.id}"><span class="dir"><span lang="zh-CN">下一首</span> <span>Next →</span></span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
+          ${prev ? `<a class="prev" href="${href(pUrl(prev))}"><span class="dir"><span lang="zh-CN">← 上一首</span> <span>Previous</span></span><span class="pt" lang="zh-CN">${TH(prev)}</span></a>` : ''}
+          ${next ? `<a class="next" href="${href(pUrl(next))}"><span class="dir"><span lang="zh-CN">下一首</span> <span>Next →</span></span><span class="pt" lang="zh-CN">${TH(next)}</span></a>` : ''}
         </nav>
       </article>`;
     document.getElementById('painting').innerHTML = Scene.paint(p.s, p.id, { detail: true, title: T(p), poet: p.a, era: au.d, label: 'Ink painting for ' + p.te });
@@ -563,7 +663,7 @@
       else if (navigator.clipboard) navigator.clipboard.writeText(url).then(() => toast('Link copied · 链接已复制'), () => toast(url));
       else toast(url);
     });
-    pagerNav = { prev: prev && prev.id, next: next && next.id };
+    pagerNav = { prev: prev && rel(pUrl(prev)), next: next && rel(pUrl(next)) };
   }
   let pagerNav = null;
 
@@ -599,18 +699,20 @@
 
   /* ---------------- poets ---------------- */
   function viewPoets() {
-    document.title = '诗人 Poets · 诗词';
+    const n = Object.keys(DB.poetCount).length;
+    setHead(`${H('诗人', '詩人')} · ${n} Chinese poets, from the Book of Songs to the Qing | ${H('诗词', '詩詞')}`,
+      `${n} classical Chinese poets and their best-loved poems in Chinese and English: ${topPoets().slice(0, 8).map(a => `${A(a)} ${DB.authors[a].en}`).join(', ')} and more.`, 'poets/');
     // DB.authors is in order of fame; within each era the best-known come first
     const tile = a => {
       const au = DB.authors[a], read = readCount(DB.poems.filter(p => p.a === a));
-      return `<a class="poet" href="#/poet/${enc(a)}"><span class="pz" lang="zh-CN">${esc(A(a))}</span>
-          <span class="pe"><b>${esc(au.en)}</b> · ${DB.poetCount[a]} ${DB.poetCount[a] === 1 ? 'poem' : 'poems'}${read ? ` <span class="readn">· ${read} read</span>` : ''}</span><span class="py">${esc(au.d)} · ${esc(au.y)}</span></a>`;
+      return `<a class="poet" href="${href(aUrl(a))}"><span class="pz" lang="zh-CN">${esc(A(a))}</span>
+          <span class="pe"><b>${esc(au.en)}</b> · ${DB.poetCount[a]} ${DB.poetCount[a] === 1 ? 'poem' : 'poems'}${read ? ` <span class="readn">· ${read} read</span>` : ''}</span><span class="py">${esc(D(au.d))} · ${esc(au.y)}</span></a>`;
     };
     const section = (h, sub, ps) => `<section class="dyn"><h2><span lang="zh-CN">${h}</span><small>${sub}</small></h2><div class="poets">${ps.map(tile).join('')}</div></section>`;
     const famous = section('名家', 'Best-loved poets', topPoets());
     const groups = DB.dynasties.map(([d, de]) => {
       const ps = Object.keys(DB.authors).filter(a => DB.authors[a].d === d && DB.poetCount[a]);
-      return ps.length ? section(esc(d), esc(de), ps) : '';
+      return ps.length ? section(esc(D(d)), esc(de), ps) : '';
     }).join('');
     app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">诗人</h1><p>${Object.keys(DB.poetCount).length} poets, from the Book of Songs to the last dynasty</p></div>${famous}${groups}`;
   }
@@ -624,17 +726,21 @@
     if (w[1]) links.push(`<a href="${url('en.wikipedia.org/wiki', w[1])}" target="_blank" rel="noopener">English</a>`);
     return `<p class="wiki"><span><span lang="zh-CN">维基百科</span> Wikipedia:</span> ${links.join(' · ')}</p>`;
   }
-  function viewPoet(a) {
+  function viewPoet(key) {
+    // an address may still carry the Chinese name (older links); poets without poems have no page
+    const a = DB.poetBySlug[key] || (Object.prototype.hasOwnProperty.call(DB.authors, key) && DB.poetCount[key] ? key : null);
+    if (!a) return viewNotFound();
     const au = DB.authors[a];
-    if (!au) return viewNotFound();
-    document.title = `${a} ${au.en} · 诗词`;
+    canonicalize(aUrl(a));
     const ps = DB.poems.filter(p => p.a === a);
+    setHead(`${A(a)}${H('的诗词', '的詩詞')} · ${au.en} — ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'} in Chinese and English`,
+      `${A(a)} ${au.en} (${D(au.d)}, ${au.y}): ${ps.slice(0, 4).map(p => `${T(p)} ${p.te}`).join(' · ')}. ${plain(au.b).slice(0, 160)}`, aUrl(a));
     lastList = ps.map(p => p.id);
     app.innerHTML = `
-      <div class="crumbs" style="margin-top:18px"><a href="#/poets">诗人 Poets</a><span>›</span><span lang="zh-CN">${esc(A(a))}</span></div>
+      <div class="crumbs" style="margin-top:18px"><a href="${href('poets/')}">诗人 Poets</a><span>›</span><span lang="zh-CN">${esc(A(a))}</span></div>
       <header class="poethead">
         <div class="big" lang="zh-CN">${esc(A(a))}</div>
-        <div><div class="en">${esc(au.en)}</div><div class="meta"><span lang="zh-CN">${esc(au.d)}</span> · ${esc(DB.dynEn[au.d])} · ${esc(au.y)} · ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'}${readCount(ps) ? ` · <span class="readn">${readCount(ps)} read</span>` : ''}</div>
+        <div><div class="en">${esc(au.en)}</div><div class="meta"><a href="${href(dUrl(au.d))}"><span lang="zh-CN">${esc(D(au.d))}</span> · ${esc(DB.dynEn[au.d])}</a> · ${esc(au.y)} · ${ps.length} ${ps.length === 1 ? 'poem' : 'poems'}${readCount(ps) ? ` · <span class="readn">${readCount(ps)} read</span>` : ''}</div>
         <p class="bio">${rich(au.b)}</p>${wikiLinks(au.w)}</div>
       </header>
       <div class="reshead"><h2>作品<small>Poems</small></h2></div>
@@ -644,15 +750,16 @@
 
   /* ---------------- themes ---------------- */
   function viewThemes() {
-    document.title = '题材 Themes · 诗词';
+    setHead(`${H('题材', '題材')} · Classical Chinese poems by theme | ${H('诗词', '詩詞')}`,
+      `Classical Chinese poems by theme — ${DB.tags.slice(0, 12).map(([t, en]) => `${G(t)} ${en.toLowerCase()}`).join(', ')} and more — each in Chinese and English.`, 'themes/');
     const used = new Set();
     const tags = Object.keys(DB.tagCount).filter(t => DB.tagCount[t]).sort((a, b) => DB.tagCount[b] - DB.tagCount[a]);
     const tiles = tags.map(t => {
       const cands = DB.poems.filter(p => p.g.includes(t));
       const rep = cands.find(p => !used.has(p.id) && p.g[0] === t) || cands.find(p => !used.has(p.id)) || cands[0];
       used.add(rep.id);
-      return `<a class="theme" href="#/?tag=${enc(t)}"><div class="thumb" data-id="${rep.id}"></div>
-        <div class="tl"><span class="tz" lang="zh-CN">${esc(t)}</span><span class="te">${esc(DB.tagInfo[t].en)}</span><span class="tc">${DB.tagCount[t]}</span></div></a>`;
+      return `<a class="theme" href="${href(tUrl(t))}"><div class="thumb" data-id="${rep.id}"></div>
+        <div class="tl"><span class="tz" lang="zh-CN">${esc(G(t))}</span><span class="te">${esc(DB.tagInfo[t].en)}</span><span class="tc">${DB.tagCount[t]}</span></div></a>`;
     }).join('');
     app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">题材</h1><p>Browse by what the poems are about</p></div><div class="themes">${tiles}</div>`;
     observeThumbs(app);
@@ -660,7 +767,8 @@
 
   /* ---------------- about / 404 ---------------- */
   function viewAbout() {
-    document.title = 'About · 诗词';
+    setHead(`About · ${H('诗词', '詩詞')} Classical Chinese Poems`,
+      `About this free collection of ${DB.poems.length} classical Chinese poems: how the English verse translations, pinyin, read-aloud and ink paintings are made, and the public-domain earlier translations it draws on.`, 'about/');
     app.innerHTML = `<div class="pagehead"><h1 lang="zh-CN">关于</h1><p>About this collection</p></div>
       <div class="prose">
         <p>This is a free, open collection of ${DB.poems.length} of the best-loved poems in the Chinese language, from the <em>Book of Songs</em>
@@ -714,8 +822,26 @@
     }
   }
   function viewNotFound() {
-    document.title = '诗词';
-    app.innerHTML = `<div class="empty" style="padding:80px 0"><div class="big" lang="zh-CN">云深不知处</div><p>“Deep in the clouds — who knows where.” This page could not be found.</p><p><a href="#/">Back to all poems</a></p></div>`;
+    setHead('云深不知处 · 诗词', 'This page could not be found.', '', true);
+    app.innerHTML = `<div class="empty" style="padding:80px 0"><div class="big" lang="zh-CN">云深不知处</div><p>“Deep in the clouds — who knows where.” This page could not be found.</p><p><a href="${href('')}">Back to all poems</a></p></div>`;
+  }
+
+  /* ---------------- <head>: title, description, canonical and 简/繁 alternates ---------------- */
+  function setHead(title, desc, path, noindex) {
+    document.title = title;
+    document.documentElement.lang = settings.hant ? 'zh-Hant' : 'zh-CN';
+    const url = SITE + rel(path);
+    const set = (id, attr, v) => { const el = document.getElementById(id); if (el) el.setAttribute(attr, v); };
+    set('m-desc', 'content', desc);
+    set('m-robots', 'content', noindex ? 'noindex, follow' : 'index, follow');
+    set('l-canon', 'href', url);
+    set('l-hans', 'href', SITE + path);
+    set('l-hant', 'href', SITE + 'hant/' + path);
+    set('l-xdef', 'href', SITE + path);
+    set('m-ogt', 'content', title);
+    set('m-ogd', 'content', desc);
+    set('m-ogu', 'content', url);
+    set('m-ogl', 'content', settings.hant ? 'zh_TW' : 'zh_CN');
   }
 
   /* ---------------- top-bar tools ---------------- */
@@ -763,17 +889,22 @@
       document.documentElement.setAttribute('data-theme', settings.theme);
     });
 
-    const bs = document.getElementById('btn-script');
-    const paintScript = () => { bs.textContent = settings.hant ? '简' : '繁'; bs.setAttribute('aria-pressed', !!settings.hant); };
-    paintScript();
-    bs.addEventListener('click', () => {
+    // 简/繁 are separate pages (hant/… is traditional): the toggle moves to this page's other version
+    document.getElementById('btn-script').addEventListener('click', () => {
+      const rest = location.pathname.slice(BASE.length).replace(/^hant(\/|$)/, '');
       settings.hant = !settings.hant; saveSettings(); paintScript();
+      history.replaceState(null, '', BASE + rel(rest) + location.search);
       ensureHant().then(rerender);
     });
   }
+  function paintScript() {
+    const bs = document.getElementById('btn-script');
+    bs.textContent = settings.hant ? '简' : '繁';
+    bs.setAttribute('aria-pressed', !!settings.hant);
+  }
   function ensureHant() {
     if (!settings.hant || HANT) return Promise.resolve();
-    return fetch('data/hant.json').then(r => r.json()).then(h => {
+    return fetch(dataUrl('hant.json')).then(r => r.json()).then(h => {
       HANT = h;
       T2S = {};
       DB.poems.forEach(p => {
@@ -781,11 +912,11 @@
         const s = [p.t].concat(p.z).join(''), tt = t.join('');
         if (s.length === tt.length) for (let i = 0; i < s.length; i++) if (s[i] !== tt[i]) T2S[tt[i]] = s[i];
       });
-    }).catch(() => { settings.hant = false; toast('Traditional text unavailable'); });
+    }).catch(() => { hantFailed = true; toast('Traditional text unavailable'); });
   }
   const lazy = {};
   function lazyJson(name) {
-    return lazy[name] || (lazy[name] = fetch('data/' + name).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    return lazy[name] || (lazy[name] = fetch(dataUrl(name)).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
       .catch(() => { delete lazy[name]; return null; }));
   }
   function ensurePinyin() { return lazyJson('pinyin.json').then(d => { PY = d; }); }
@@ -810,34 +941,56 @@
   /* ---------------- keyboard & swipe ---------------- */
   document.addEventListener('keydown', e => {
     if (e.target.matches('input, select, textarea') || e.metaKey || e.ctrlKey || e.altKey) return;
-    if (e.key === '/') { const q = document.getElementById('q'); if (q) { e.preventDefault(); q.focus(); } else { location.hash = '#/'; setTimeout(() => { const q2 = document.getElementById('q'); if (q2) q2.focus(); }, 50); e.preventDefault(); } }
-    if (pagerNav && location.hash.startsWith('#/p/')) {
-      if (e.key === 'ArrowLeft' && pagerNav.prev) location.hash = '#/p/' + pagerNav.prev;
-      if (e.key === 'ArrowRight' && pagerNav.next) location.hash = '#/p/' + pagerNav.next;
+    if (e.key === '/') { const q = document.getElementById('q'); if (q) { e.preventDefault(); q.focus(); } else { e.preventDefault(); go(rel('')); const q2 = document.getElementById('q'); if (q2) q2.focus(); } }
+    if (pagerNav && curView === 'p') {
+      if (e.key === 'ArrowLeft' && pagerNav.prev) go(pagerNav.prev);
+      if (e.key === 'ArrowRight' && pagerNav.next) go(pagerNav.next);
     }
   });
   let touch = null;
   document.addEventListener('touchstart', e => {
-    if (!location.hash.startsWith('#/p/') || e.touches.length !== 1 || e.target.closest('.vertical')) { touch = null; return; }
+    if (curView !== 'p' || e.touches.length !== 1 || e.target.closest('.vertical')) { touch = null; return; }
     touch = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() };
   }, { passive: true });
   document.addEventListener('touchend', e => {
     if (!touch || !pagerNav) return;
     const dx = e.changedTouches[0].clientX - touch.x, dy = e.changedTouches[0].clientY - touch.y;
     if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2 && Date.now() - touch.t < 600) {
-      const id = dx > 0 ? pagerNav.prev : pagerNav.next;
-      if (id) location.hash = '#/p/' + id;
+      const to = dx > 0 ? pagerNav.prev : pagerNav.next;
+      if (to) go(to);
     }
     touch = null;
   }, { passive: true });
 
+  /* ---------------- links ---------------- */
+  // a link to another page of the site is drawn here, without reloading; anything else behaves as usual
+  document.addEventListener('click', e => {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const a = e.target.closest('a[href]');
+    if (!a || a.target || a.hasAttribute('download')) return;
+    const raw = a.getAttribute('href');
+    if (raw.charAt(0) === '#') {  // an anchor on this page (the skip link): <base> would send it home
+      e.preventDefault();
+      const t = document.getElementById(raw.slice(1));
+      if (t) t.focus();
+      return;
+    }
+    if (a.origin !== location.origin || !a.pathname.startsWith(BASE) || /\.\w+$/.test(a.pathname)) return;
+    e.preventDefault();
+    if (a.pathname + a.search !== here()) go(a.pathname.slice(BASE.length) + a.search);
+  });
+  window.addEventListener('popstate', route);
+
   /* ---------------- boot ---------------- */
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   setupTools();
-  fetch('data/poems.json')
+  fromHash();
+  // someone who chose 繁 before keeps getting the traditional pages
+  if (settings.hant && !parseLoc().hant) history.replaceState(null, '', BASE + 'hant/' + location.pathname.slice(BASE.length) + location.search);
+  fetch(dataUrl('poems.json'))
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => { prepare(data); return ensureHant(); })
-    .then(() => { window.addEventListener('hashchange', route); route(); })
+    .then(() => route())
     .catch(err => {
       console.error(err);
       app.innerHTML = '<div class="empty" style="padding:80px 0"><div class="big">载入失败</div><p>Could not load the poems. Please refresh the page.</p></div>';
