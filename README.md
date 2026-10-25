@@ -72,7 +72,7 @@ node tools/site.mjs --serve                 # preview at http://localhost:8000/p
 ```
 
 Building locally is only for previewing: pushing to main runs the same steps on GitHub and publishes the site
-(only the site: not `src/`, `tools/` or these notes). The site lives under `/poems/` (`<base>` in `src/page.html`);
+(only the site: not `src/`, `tools/` or these notes; a push that changes only `.md` files doesn't redeploy). The site lives under `/poems/` (`<base>` in `src/page.html`);
 its full address is `SITE` in `js/app.js` and `tools/site.mjs`.
 
 ## Credits

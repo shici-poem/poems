@@ -1,10 +1,11 @@
-# Builds the site from src/ and publishes it to GitHub Pages on every push to main.
+# Builds the site from src/ and publishes it to GitHub Pages on every push to main (notes alone don't).
 # The built files (data/, the prerendered pages, sitemap.xml) are not committed; see README.md.
 name: Deploy site
 
 on:
   push:
     branches: [main]
+    paths-ignore: ['**.md']
   workflow_dispatch:
 
 permissions:
