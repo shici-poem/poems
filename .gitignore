@@ -1,3 +1,19 @@
 __pycache__/
 *.pyc
 node_modules/
+
+# built from src/ by tools/ (see README.md); GitHub Actions builds and publishes them
+/data/
+/index.html
+/404.html
+/sitemap.xml
+/p/
+/poet/
+/poets/
+/theme/
+/themes/
+/era/
+/about/
+/random/
+/hant/
+/_site/

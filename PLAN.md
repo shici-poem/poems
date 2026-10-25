@@ -9,8 +9,8 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Era and Theme filters wrap onto several lines; each folds on its own (keeping the current pick visible); themes show the top 14 with "+N more".
 - Ink-wash painter: three compositions (平远 / 深远 / 高远), three colour manners (ink, ochre, Tang blue-green),
   figures (lady, child, elder, ox with herd-boy, kite), title and poet inscribed (no seal), ink and paper texture on the large painting.
-- Pinyin (pinyin-pro + 290 hand corrections, textbook readings, full tones). Read-aloud swaps in same-sounding
-  characters where a reading is unusual (一骑 → 一寂); it uses the device's best voice (no male/female choice: most devices have no male Chinese voice).
+- Pinyin (pinyin-pro + 290 hand corrections, textbook readings, full tones). Read-aloud follows the shown pinyin: wherever
+  a voice might read a character its own way, it gets a same-sounding one instead (一骑 → 一寂, 愁字了得 → 愁字蓼得); it uses the device's best voice (no male/female choice: most devices have no male Chinese voice).
 - 116 earlier public-domain translations for 93 poems (Legge, Giles, Cranmer-Byng, Fletcher), each credited and linked;
   23 lightly adapted, each marked with the printed text alongside.
 - Poet pages link to Chinese and English Wikipedia (`src/wiki.txt`, 121 of 126 poets).
@@ -20,7 +20,8 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
   (`tools/site.mjs`) with its own title, description, canonical, 简/繁 hreflang pair and JSON-LD; 1130 pages incl.
   the `hant/` traditional copies, `sitemap.xml`, a share picture. Poem pages show the title's pinyin and an "English translation" label.
 - Old visitors are safe: `#/` links redirect, reading history (by poem id) is kept, odd stored values or addresses
-  can't break a page (it drops saved settings, then history, before showing an error), files are version-stamped.
+  can't break a page (it drops saved settings, then history, before showing an error), every file carries its own content hash.
+- Deployed by GitHub Actions: each push to main builds the site from `src/` and publishes the site alone.
 - Reading history in localStorage: 已读 marks, "Read" (newest first) and "Unread only" filters, per-poet counts, Random prefers unread.
 
 ## Decisions
@@ -33,9 +34,11 @@ Architecture, formats and build steps are in [README.md](README.md). This file t
 - Prerendering runs the real app in headless Chrome rather than a second template, so the static page and the
   live page can't drift apart. Traditional pages are separate addresses (not a hidden toggle) so they can be found.
 - Page addresses use the title's pinyin; ids stay the key for reading history and paintings, so addresses can change safely.
+- Built files are not committed: a change to one source file is a one-file commit, and the history holds only sources.
+  The build is reproducible (pinned pinyin-pro, OpenCC and Node), so what GitHub publishes matches a local build.
 
 ## Ideas
-- Google Search Console / Bing Webmaster Tools: verify the site (needs the owner), submit `sitemap.xml`.
+- Submit `sitemap.xml` in Google Search Console (verified through `google8a3c681ac87878d8.html`; keep that file) and Bing Webmaster Tools.
 - A custom domain would allow a root `robots.txt` and a shorter brand; per-poem share pictures.
 - *More Gems of Chinese Poetry* (Fletcher, 1919): no accessible scan found yet.
 - A tall hanging-scroll format for the poem-page painting.

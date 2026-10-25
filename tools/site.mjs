@@ -26,11 +26,11 @@ const ANTHOLOGIES = ['诗经', '汉乐府', '古诗十九首', '北朝民歌']; 
 const TYPES = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.jpg': 'image/jpeg', '.xml': 'application/xml', '.txt': 'text/plain' };
 const read = f => readFileSync(join(ROOT, f), 'utf8');
 
-// ---- a version stamp from everything the page loads, so browsers never mix old and new files ----
-const ver = createHash('sha1');
-for (const f of ['js/app.js', 'js/scene.js', 'css/style.css', ...readdirSync(join(ROOT, 'data')).map(f => 'data/' + f)]) ver.update(readFileSync(join(ROOT, f)));
-const V = ver.digest('hex').slice(0, 10);
-const shell = read('src/page.html').replace(/__V__/g, V);
+// ---- version stamps: every file the page loads carries its own content hash (css/style.css?v=…), and the
+// data files' hashes ride on the app.js tag (data-v), so after a deploy browsers refetch only what changed ----
+const hash = f => createHash('sha1').update(readFileSync(join(ROOT, f))).digest('hex').slice(0, 10);
+const dataV = readdirSync(join(ROOT, 'data')).filter(f => f.endsWith('.json')).map(f => `${f}:${hash('data/' + f)}`).join(' ');
+const shell = read('src/page.html').replace(/"([\w./-]+)\?v=__V__"/g, (_, f) => `"${f}?v=${hash(f)}"`).replace('__DATA_V__', dataV);
 
 // ---- a small static server for /poems/ ----
 // prerendering: every page address gets the bare shell, for the script to draw;
@@ -90,7 +90,7 @@ async function build() {
     if (process.argv.includes('--og') || !existsSync(join(ROOT, 'og.jpg'))) await shareImage(browser, db);
     let next = 0, done = 0;
     const worker = async () => {
-      const page = await browser.newPage();
+      const page = await (await browser.createBrowserContext()).newPage();  // own storage: a poem read in one tab can't mark another's page
       await page.setViewport({ width: 1280, height: 900 });
       await page.setRequestInterception(true);
       page.on('request', r => /^https?:\/\/localhost[:/]/.test(r.url()) ? r.continue() : r.abort());  // no web fonts needed
@@ -141,7 +141,7 @@ async function build() {
     return `<url><loc>${SITE}${j.mode}${j.path}</loc>${links.join('')}</url>`;
   });
   writeFileSync(join(ROOT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls.join('\n')}\n</urlset>\n`);
-  console.log(`${out.size} pages (${Math.round(bytes / 1024 / 1024 * 10) / 10} MB), sitemap.xml with ${urls.length} addresses, version ${V}`);
+  console.log(`${out.size} pages (${Math.round(bytes / 1024 / 1024 * 10) / 10} MB), sitemap.xml with ${urls.length} addresses`);
 
   // ---- structured data (JSON-LD), for search engines only ----
   function ld({ kind, path, subj, mode }) {

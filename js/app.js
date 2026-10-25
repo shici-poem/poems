@@ -6,10 +6,10 @@
 
   const SITE = 'https://shici-poem.github.io/poems/';  // the canonical address (tools/site.mjs has the same)
   const BASE = new URL(document.baseURI).pathname;     // '/poems/', from <base>
-  // the build stamps a content version on this script (app.js?v=…); data files get the same, so a browser
-  // never pairs new code with old cached data
-  const VER = (document.currentScript && new URL(document.currentScript.src).searchParams.get('v')) || '';
-  const dataUrl = name => 'data/' + name + (VER ? '?v=' + VER : '');
+  // the build stamps every file with its own content hash; this script's tag carries the data files'
+  // (data-v="poems.json:1a2b… pinyin.json:…"), so a page never pairs with old cached data
+  const DATA_V = Object.fromEntries(((document.currentScript && document.currentScript.dataset.v) || '').split(' ').filter(Boolean).map(s => s.split(':')));
+  const dataUrl = name => 'data/' + name + (DATA_V[name] ? '?v=' + DATA_V[name] : '');
   const app = document.getElementById('app');
   const PAGE = 24;
   const TAGS_SHOWN = 14;  // theme chips visible before "+N more"
