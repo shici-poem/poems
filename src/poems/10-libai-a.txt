@@ -12,6 +12,8 @@ I raise my head: the moon is shining bright;
 I bow my head: my thoughts are homeward bound.
 --
 The best-known poem in the Chinese language; nearly every child can recite it. Far from home, the traveller wakes to moonlight so pale he takes it for frost. The same moon shines over his distant hometown, and the simple movement of raising and lowering his head carries him there. (床 may be a bed, or — some scholars argue — the railing of a well in the courtyard.)
+--
+游子客居他乡，夜半醒来，见床前月色皎洁，竟疑是地上秋霜。一“举头”，一“低头”，望的是天上明月，思的是千里之外的故乡。二十个字写尽羁旅之思，几乎人人都能背诵。（“床”或说是卧床，或说是庭院里的井栏，学者至今各执一词。）
 
 == 望庐山瀑布 | Viewing the Waterfall at Mount Lu
 by: 李白
@@ -27,6 +29,8 @@ It flies three thousand feet straight down through air —
 The Milky Way, it seems, poured from the Ninth Heaven there.
 --
 Censer Peak (香炉峰) on Mount Lu in Jiangxi is named for its shape and the incense-like mists that rise from it. "Three thousand feet" is Li Bai's typical grand exaggeration. The Chinese call the Milky Way the "Silver River" (银河), and the Ninth Heaven is the highest of the heavens — so the waterfall becomes the river of stars tumbling to earth.
+--
+香炉峰在江西庐山，因形似香炉、云雾缭绕如香烟而得名。“三千尺”是李白惯用的夸张；“疑是银河落九天”，九天是天的最高处，瀑布竟成了从天上倾泻而下的星河，想象奇伟，气势磅礴。
 
 == 早发白帝城 | Leaving Baidi at Dawn
 by: 李白
@@ -42,6 +46,8 @@ From both the banks the gibbons cry, unceasing and aloud;
 My little boat has slipped ten thousand peaks away.
 --
 Written in 759. Li Bai, exiled to the far southwest for his part in a prince's rebellion, received a pardon at Baidi, high above the Yangtze. The headlong rush down the Three Gorges mirrors his joy: the boat is "light" (轻舟) in more ways than one, and the gibbons' cries — usually the saddest sound in Chinese poetry — are left behind.
+--
+乾元二年（759），李白因卷入永王之事被流放夜郎，行至白帝城时遇赦，惊喜交加，立即乘舟东下江陵。千里江程一日而还，船行之快正是心情之快；猿啼本是古诗中最哀伤的声音，此时也被轻舟抛在了身后。一个“轻”字，写船也写心。
 
 == 黄鹤楼送孟浩然之广陵 | Seeing Meng Haoran Off to Guangling at Yellow Crane Tower
 by: 李白
@@ -57,6 +63,8 @@ His lonely sail, a fading shade, is lost in the blue sky;
 Now only the Long River to the edge of heaven flows.
 --
 Meng Haoran, twelve years older, was a poet Li Bai idolised. The poem names no feeling at all — Li Bai simply stands watching until the sail vanishes, and that long gaze is the friendship. Yangzhou (Guangling) in spring was the most glamorous city of the empire; 烟花 "mist and flowers" became a set phrase for its springtime.
+--
+孟浩然比李白年长十二岁，是李白倾慕的诗人。烟花三月的扬州（广陵），正是当时最繁华的都会。全诗不着一个“情”字，诗人只是伫立江边，目送孤帆远去，直到消失在碧空尽头，只剩长江天际流——这久久的凝望，便是深厚的友情。
 
 == 赠汪伦 | For Wang Lun
 by: 李白
@@ -72,6 +80,8 @@ Though Peach Blossom Pool is a thousand feet deep, they say,
 It's not so deep as Wang Lun's love that sees me off with song.
 --
 Wang Lun was a local gentleman of Jingxian (Anhui) who had invited the famous poet to stay. As Li Bai was leaving, Wang came down to the shore with villagers, singing and stamping out the rhythm (踏歌, "stepping song"). Naming himself in the first line is a cheerful informality almost unique in Tang poetry.
+--
+汪伦是泾县（今属安徽）的一位乡绅，曾邀请李白来游。李白乘舟将行，汪伦带着村人来到岸边，边唱边以脚踏地打拍子，这就是“踏歌”。诗人在首句直呼自己的名字，这种率真在唐诗中极为少见；末两句以潭水之深比友情之深，自然真切。
 
 == 月下独酌（其一） | Drinking Alone by Moonlight
 by: 李白

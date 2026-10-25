@@ -56,6 +56,7 @@
   // display helpers (traditional-aware)
   const T = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id][0] : p.t;
   const Z = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id].slice(1) : p.z;
+  const NZ = p => (settings.hant && HANT && HANT.n && HANT.n[p.id]) || p.nz;  // Chinese note
   const A = a => (settings.hant && HANT && HANT.a[a]) || a;
   const G = t => (settings.hant && HANT && HANT.g && HANT.g[t]) || t;  // theme
   const D = d => (settings.hant && HANT && HANT.d && HANT.d[d]) || d;  // dynasty
@@ -610,7 +611,8 @@
             <div class="text">${enLines(p.e)}</div>
           </section>
         </div>
-        <section class="note"><h3>About this poem</h3><p>${rich(p.n)}</p></section>
+        <section class="note"><h3><span lang="zh-CN">赏析</span> <span>About this poem</span></h3>
+          ${p.nz ? `<p class="zh-note" lang="zh-CN">${esc(NZ(p))}</p>` : ''}<p lang="en">${rich(p.n)}</p></section>
         ${p.c ? '<section class="classic" id="classic" aria-label="Earlier translations"></section>' : ''}
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
         <div class="pmeta"><span lang="zh-CN">${esc(F(p.f))}</span> · ${esc(DB.forms[p.f])} · <a href="${href(dUrl(au.d))}">${esc(eraEn(au.d))} poems</a> · <a href="${href(aUrl(p.a))}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>
@@ -777,7 +779,7 @@
         <p>Every poem has an English verse translation that tries to do two things at once: keep the images, allusions and turns of thought
         of the original, and still read as a poem — with rhyme and a steady beat wherever that can be done without betraying the sense.
         Classical Chinese packs an extraordinary amount into very few characters, so each poem also has a short note on its background
-        and the meanings that a translation alone cannot carry.</p>
+        and the meanings that a translation alone cannot carry, in English and in Chinese (<span lang="zh-CN">赏析</span>).</p>
         <h2 lang="zh-CN">旧译 · Earlier translations</h2>
         <p>Where one exists, a poem also shows a classic English verse translation, credited to its translator and linked to the book it
         comes from. All are in the public domain (published before 1930, translators who died long before 1972):</p>

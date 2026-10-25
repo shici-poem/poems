@@ -12,6 +12,8 @@ I hope you'll gather many in your hand —
 They hold the deepest longing, dear.
 --
 The red bean (红豆), a bright scarlet seed of the south, is called the "love-longing seed" (相思子) after a legend of a woman who wept beneath a tree for her husband killed at the frontier until her tears turned into red beans. Wang Wei wrote the poem for his friend, the singer Li Guinian, who sang it at banquets; it became one of the most-sung lyrics of the Tang.
+--
+红豆产于南方，色泽鲜红，又名“相思子”。相传有女子的丈夫战死边地，她在树下痛哭，泪尽化为红豆。此诗是王维写给友人、乐工李龟年的，李龟年常在筵席上演唱，成为唐代传唱最广的歌词之一。
 
 == 鹿柴 | Deer Park
 by: 王维
@@ -27,6 +29,8 @@ The sunset's light comes back into the deep woods,
 And shines again upon the moss of green.
 --
 One of the twenty quatrains of the *Wangchuan Collection*, written at Wang Wei's country estate. Nothing happens — voices without people, a slant of evening light on moss — yet the poem has been called the purest expression of Chan (Zen) stillness in Chinese verse. Translators love it: Eliot Weinberger wrote a whole book, *Nineteen Ways of Looking at Wang Wei*, comparing versions of these twenty characters.
+--
+《辋川集》二十首之一，写于王维的辋川别业。空山不见人，只闻人语响；一抹夕阳返照入深林，又落在青苔上。看似什么也没发生，却被誉为诗中禅境的极致。这二十个字也是译者的最爱，美国作家温伯格（Eliot Weinberger）专门写过一本书，比较它的十几种英译。
 
 == 竹里馆 | The Bamboo Grove Lodge
 by: 王维
@@ -108,6 +112,8 @@ Far off, I know my brothers climb the heights,
 Each wearing dogwood — all but one, out of touch.
 --
 Written when Wang Wei was only seventeen, living in the capital. On the Double Ninth (the 9th day of the 9th month), families climbed hills and wore sprigs of cornel (茱萸) to ward off evil. Instead of saying "I miss them", he imagines them missing him. Line two is the proverb every Chinese person far from home quotes at festival time.
+--
+王维十七岁客居长安时所作。重阳节（农历九月初九）有登高、插茱萸以避邪的习俗。诗人不说自己如何思念兄弟，却想象兄弟们登高时发现少了自己一人——从对面落笔，更见情深。“每逢佳节倍思亲”，早已是游子过节时人人会说的话。
 
 == 使至塞上 | Envoy to the Frontier
 by: 王维

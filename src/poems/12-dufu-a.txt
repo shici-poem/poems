@@ -18,6 +18,8 @@ I scratch my white head; the hair grows thinner still —
 Soon it will be too thin a pin to hold.
 --
 Spring 757 in Chang'an, occupied by An Lushan's rebels. Du Fu was trapped in the ruined capital while his family was far away. The first line sets the empire's collapse against the indifferent permanence of nature. Lines 3–4 can be read both ways at once — the flowers and birds weep and start with him, or he weeps and starts at them. A scholar wore his hair in a topknot held with a pin; Du Fu's is falling out from grief.
+--
+至德二载（757）春，长安被安史叛军占据，杜甫困在残破的京城，家人远在他乡。首句“国破山河在”，以国家的崩毁对照山河的无情长存。三四句可作两解：花鸟也为时局溅泪惊心，或是诗人见花落泪、闻鸟惊心。古人束发插簪，诗人愁得白发越搔越短，几乎插不住簪子了。
 
 == 登高 | Climbing the Heights
 by: 杜甫
@@ -39,6 +41,8 @@ Hardship and bitter grief have frosted all my hair;
 Worn out, I've just given up my cup of cloudy wine.
 --
 Written in autumn 767 at Kuizhou on the Yangtze, on the Double Ninth Festival, when people climbed heights with their families and drank chrysanthemum wine. Du Fu, fifty-five, sick and far from home, climbs alone — and has had to give up wine for his health. Often called the greatest seven-character regulated poem ever written: every line is part of a parallel pair, and the middle couplet's falling leaves and endless river are an image of time itself.
+--
+大历二年（767）重阳节作于长江边的夔州。重阳本是全家登高、饮菊花酒的日子，五十五岁的杜甫却多病缠身，独自登台，连酒也因病戒了。全诗八句皆对，“无边落木萧萧下，不尽长江滚滚来”，写的是秋景，也是时间本身。明人胡应麟誉之为“古今七言律第一”。
 
 == 春夜喜雨 | Welcome Rain on a Spring Night
 by: 杜甫
@@ -60,6 +64,8 @@ At dawn, look where it's red and wet:
 Brocade City's flowers hang heavy, row on row.
 --
 Chengdu, 761, during the happiest years of Du Fu's life, at his thatched cottage. The rain is a considerate friend who "knows" when it is needed and arrives quietly in the night. Brocade City (锦官城) is Chengdu, once the seat of the official in charge of the silk-brocade industry — and in the morning it is indeed brocaded with flowers.
+--
+上元二年（761）作于成都草堂，正是杜甫一生中最安乐的几年。春雨像一位体贴的朋友，“知时节”，趁夜悄悄到来，润物无声。锦官城即成都，古时在此设有管理织锦的官员，因而得名；雨后清晨，满城花开，果真如锦绣一般。
 
 == 绝句（两个黄鹂鸣翠柳） | Quatrain (Two Golden Orioles)
 by: 杜甫
@@ -75,6 +81,8 @@ My window frames the West Range's thousand-autumn snow;
 At my gate, boats from Eastern Wu, ten thousand li, lie by.
 --
 Four lines, four perfectly parallel images — yellow and green, white and blue; near and far; sound and stillness — like four panels of a painted screen. Written at his Chengdu cottage in 764 when peace had briefly returned: the boats from Wu, on the lower Yangtze, mean the river route east is open again.
+--
+广德二年（764）作于成都草堂，战乱暂息，杜甫心情舒畅。四句两两对仗：黄与翠、白与青，有声有色，有近有远，宛如四扇屏风上的画。“门泊东吴万里船”，说明沿长江东下的水路又通了。
 
 == 望岳 | Gazing at Mount Tai
 by: 杜甫
@@ -96,6 +104,8 @@ One day I'll stand upon its highest crest,
 And see how small all other mountains lie.
 --
 Written by the twenty-four-year-old Du Fu after failing the imperial examination. Mount Tai (岱宗, "the ancestor of mountains") in Shandong, the holiest of China's Five Great Peaks, is so vast that its green spans the old states of Qi and Lu. The last couplet, all youthful ambition, echoes Mencius: "Confucius climbed Mount Tai and found the world small."
+--
+二十四岁的杜甫科举落第后所作。泰山古称“岱宗”，为五岳之首，青色绵延不尽，横跨齐、鲁两地。末句“会当凌绝顶，一览众山小”，满怀少年壮志，暗用《孟子》“孔子登泰山而小天下”之意。
 
 == 江南逢李龟年 | Meeting Li Guinian South of the River
 by: 杜甫

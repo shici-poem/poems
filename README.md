@@ -5,7 +5,8 @@
 The 378 best-loved poems in the Chinese language, from the *Book of Songs* to the Qing. Each poem has:
 
 - the original text (simplified or traditional, horizontal or vertical) with optional **pinyin**
-- an English **verse translation** that keeps the images and rhymes where it can, plus a short note
+- an English **verse translation** that keeps the images and rhymes where it can
+- a short note on its background and meaning, in English and in Chinese (赏析)
 - where one exists, a classic **earlier translation** (public domain, credited and linked)
 - an **ink-wash painting** drawn in the browser
 - read-aloud in Chinese or English
@@ -54,6 +55,8 @@ Before my bed there gleams a silver light —
 …
 --
 A note on the poem's background and meaning.
+--
+中文赏析: the note in Chinese, written for Chinese readers rather than translated (optional).
 ```
 
 `scene:` words (time, season, weather, motifs such as `peaks`, `willow`, `boat`, `lady`, `ox`, `kite`; see `SCENE_WORDS` in
@@ -78,7 +81,7 @@ its full address is `SITE` in `js/app.js` and `tools/site.mjs`.
 ## Credits
 
 - Chinese texts follow the versions taught in schools, checked against [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) (MIT).
-- English translations and notes are original to this project.
+- English translations and the notes (English and Chinese) are original to this project.
 - Earlier translations, all public domain (published before 1930; translators died before 1972, so also free in Canada):
   James Legge, [*The She King*](https://archive.org/details/shekingorbookofa0000unse) (1876);
   Herbert A. Giles, [*Chinese Poetry in English Verse*](https://archive.org/details/cu31924008867222) (1898) and

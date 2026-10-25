@@ -12,6 +12,8 @@ If only the Flying General of Dragon City were alive,
 No Hu horse would cross the Yin Hills to attack.
 --
 "Qin moon, Han passes": the same moon and the same forts have watched a thousand years of frontier war — the whole of history in one line. The Flying General was Li Guang of the Han, whom the Xiongnu feared above all others. Often called the finest quatrain of the Tang.
+--
+“秦时明月汉时关”：同一轮明月、同一座关塞，见证了千年的边塞战争，一句之中包含了整部历史。“龙城飞将”指汉代名将李广，匈奴最畏惧的人。此诗常被推为唐人七绝的压卷之作。
 
 == 从军行（其四） | Army Song (IV)
 by: 王昌龄
@@ -102,6 +104,8 @@ If you would see a thousand li beyond,
 Climb one more storey higher — and you'll see.
 --
 Stork Tower in Puzhou (Shanxi) overlooked the Yellow River. The vast first couplet — the sun vanishing behind mountains, the river rolling to a sea a thousand miles away — leads to the most quoted lines of encouragement in Chinese: to see further, climb higher (更上一层楼), now said of any effort to do better.
+--
+鹳雀楼在蒲州（今山西永济），下临黄河。前两句写白日依山而尽、黄河奔流入海，境界壮阔；后两句由景入理：要看得更远，就要再登高一层。“更上一层楼”如今常用来勉励人不断进取。
 
 == 凉州词（王之涣） | Liangzhou Song (Wang Zhihuan)
 by: 王之涣
@@ -117,6 +121,8 @@ Why must the Qiang flute play "Willows" and mourn aloud?
 The spring wind never crosses Jade Gate Pass at all.
 --
 Liangzhou (Gansu) on the north-western frontier. "Breaking Willows" was the farewell tune — but beyond the Jade Gate there is no spring and there are no willows, so the soldiers' homesickness has nowhere to go. Legend says Wang Zhihuan, Wang Changling and Gao Shi once bet on whose poems the singing girls of a tavern would sing; the loveliest girl sang this one.
+--
+凉州在今甘肃，是唐代西北的边塞。《折杨柳》是送别的曲子，可玉门关外春风不到，连杨柳也没有，戍卒的思乡之情无处寄托。相传王之涣、王昌龄、高适曾在酒楼打赌，看歌女唱谁的诗多，最美的那位歌女唱的正是这一首。
 
 == 凉州词（王翰） | Liangzhou Song (Wang Han)
 by: 王翰
@@ -132,3 +138,5 @@ If I lie drunk upon the sands, don't laugh at the sight:
 Since ancient times, of those who went to war, how few came through?
 --
 Grape wine and "night-shining cups" of white jade were exotic luxuries from Central Asia, and the pipa was the instrument of the steppe. The soldiers drink before battle; the last couplet is both bravado and despair.
+--
+葡萄美酒、白玉制成的“夜光杯”都是来自西域的珍品，琵琶也是胡地的乐器。将士们出征前开怀痛饮；“醉卧沙场君莫笑，古来征战几人回”，既是豪迈，也是悲凉。

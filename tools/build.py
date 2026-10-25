@@ -202,13 +202,14 @@ def parse_file(path):
             i += 1
         rest = "\n".join(lines[i:])
         parts = re.split(r"^--\s*$", rest, flags=re.M)
-        if len(parts) != 3:
-            die(f"{path.name}: {title}: expected zh -- en -- note (got {len(parts)} parts)")
-        zh, en, note = parts
+        if len(parts) not in (3, 4):
+            die(f"{path.name}: {title}: expected zh -- en -- note [-- 中文赏析] (got {len(parts)} parts)")
+        zh, en, note = parts[:3]
         yield {
             "title": title, "title_en": title_en, "meta": meta, "file": path.name,
             "zh": zh.strip("\n").split("\n"), "en": en.strip("\n").split("\n"),
             "note": " ".join(note.split()),
+            "note_zh": "".join(l.strip() for l in parts[3].split("\n")) if len(parts) == 4 else "",
         }
 
 
@@ -266,10 +267,13 @@ def main():
             en = re.sub(r"\n{3,}", "\n\n", "\n".join(en)).split("\n")
             pid = hashlib.md5(key.encode("utf-8")).hexdigest()[:6]
             used_authors.add(a)
-            poems.append({
+            poem = {
                 "id": pid, "t": p["title"], "te": p["title_en"], "a": a, "f": form,
                 "g": tags, "s": " ".join(scene), "z": zh, "e": en, "n": p["note"],
-            })
+            }
+            if p["note_zh"]:
+                poem["nz"] = p["note_zh"]
+            poems.append(poem)
 
     ids = [p["id"] for p in poems]
     if len(set(ids)) != len(ids):
@@ -330,9 +334,11 @@ def hant(poems, authors):
         print("NOTE: opencc not installed — skipping data/hant.json")
         return
     cc = opencc.OpenCC("s2tw")
-    out = {"p": {}, "a": {}, "g": {}, "d": {}, "f": {}}
+    out = {"p": {}, "n": {}, "a": {}, "g": {}, "d": {}, "f": {}}
     for p in poems:
         out["p"][p["id"]] = [cc.convert(p["t"])] + [cc.convert(l) for l in p["z"]]
+        if "nz" in p:
+            out["n"][p["id"]] = cc.convert(p["nz"])
     for t in TAGS:
         out["g"][t] = cc.convert(t)
     for d, _ in DYNASTIES:
