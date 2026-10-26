@@ -23,7 +23,7 @@ How the site is built: [README.md](README.md). This file lists each feature with
 | ✅ | Robustness | Old `#/` links redirect; bad stored values drop settings, then history, before an error shows; content-hashed files. |
 | ✅ | Deploy | GitHub Actions builds `src/` and publishes the site on every push to main. |
 | ✅ | Search engines | `sitemap.xml` submitted to Google Search Console (verified via `google8a3c681ac87878d8.html`; keep that file). |
-| 🚧 | Chinese notes | A 赏析 in Chinese above the English note (optional fourth `--` part of a poem). |
+| ✅ | Chinese notes | A 赏析 for every poem above the English note (fourth `--` part of a poem), simplified and traditional. |
 
 ## Decisions
 
@@ -31,7 +31,8 @@ How the site is built: [README.md](README.md). This file lists each feature with
 - **Pinyin:** today's school textbooks and the 审音表 (斜 xié, not the rhyme reading xiá).
 - **Read-aloud voice:** one voice, the device's best; most devices have no male Chinese voice.
 - **Wikipedia:** only articles certainly about this poet (via Wikipedia's language links, first sentence checked); no namesakes or disambiguation pages.
-- **No server:** pinyin, speech fixes, traditional text and earlier translations load only when needed.
+- **No server:** pinyin, speech fixes, traditional text, Chinese notes and earlier translations load only when needed.
+- **Chinese notes:** written for Chinese readers from researched, sourced facts, not translated from the English; disputed points say 一说.
 - **Prerendering:** runs the real app in headless Chrome, so static and live pages can't drift; traditional pages get their own addresses so they can be found.
 - **Ids, not addresses:** poem ids key reading history and paintings, so page addresses can change.
 - **Built files not committed:** history holds only sources; the build is reproducible (pinned pinyin-pro, OpenCC, Node).

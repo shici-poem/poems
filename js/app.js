@@ -21,6 +21,7 @@
   let hantFailed = false; // hant.json could not be loaded: traditional pages fall back to simplified text
   let T2S = null;         // traditional → simplified char map (from HANT)
   let PY = null;          // data/pinyin.json, loaded when pinyin is first shown
+  const NOTES = {};       // data/notes.json, notes-hant.json (Chinese notes), loaded before the first poem page
   let lastList = null;    // ids of the most recent result list, for prev/next
   let settings = loadObj('poems.settings');
   let READ = loadObj('poems.read');  // poems this browser has opened: { id: time first read } — kept only in localStorage
@@ -56,7 +57,8 @@
   // display helpers (traditional-aware)
   const T = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id][0] : p.t;
   const Z = p => (settings.hant && HANT && HANT.p[p.id]) ? HANT.p[p.id].slice(1) : p.z;
-  const NZ = p => (settings.hant && HANT && HANT.n && HANT.n[p.id]) || p.nz;  // Chinese note
+  const notesFile = () => settings.hant ? 'notes-hant.json' : 'notes.json';
+  const NZ = p => (NOTES[notesFile()] || {})[p.id];                     // Chinese note
   const A = a => (settings.hant && HANT && HANT.a[a]) || a;
   const G = t => (settings.hant && HANT && HANT.g && HANT.g[t]) || t;  // theme
   const D = d => (settings.hant && HANT && HANT.d && HANT.d[d]) || d;  // dynasty
@@ -218,6 +220,8 @@
     const { parts, params, hant } = parseLoc();
     if (hant !== !!settings.hant) { settings.hant = hant; saveSettings(); }
     if (settings.hant && !HANT && !hantFailed) { ensureHant().then(route); return; }
+    const nf = notesFile();
+    if (parts[0] === 'p' && !NOTES[nf]) { lazyJson(nf).then(d => { NOTES[nf] = d || {}; route(); }); return; }
     paintScript();
     currentKey = here();
     stopSpeech();
@@ -612,7 +616,7 @@
           </section>
         </div>
         <section class="note"><h3><span lang="zh-CN">赏析</span> <span>About this poem</span></h3>
-          ${p.nz ? `<p class="zh-note" lang="zh-CN">${esc(NZ(p))}</p>` : ''}<p lang="en">${rich(p.n)}</p></section>
+          ${NZ(p) ? `<p class="zh-note" lang="zh-CN">${esc(NZ(p))}</p>` : ''}<p lang="en">${rich(p.n)}</p></section>
         ${p.c ? '<section class="classic" id="classic" aria-label="Earlier translations"></section>' : ''}
         <div class="ptags">${p.g.map(t => tagChip(t, false)).join('')}</div>
         <div class="pmeta"><span lang="zh-CN">${esc(F(p.f))}</span> · ${esc(DB.forms[p.f])} · <a href="${href(dUrl(au.d))}">${esc(eraEn(au.d))} poems</a> · <a href="${href(aUrl(p.a))}">More by ${esc(au.en)} (${DB.poetCount[p.a]})</a></div>

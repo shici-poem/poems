@@ -26,7 +26,7 @@ src/wiki.txt                   poets' Wikipedia articles: name | zh title | en t
 src/ranking.txt                every poem, most famous first; sets the order of every list
 src/classic/*.txt              earlier translations (format at load_classic in tools/build.py)
 src/pinyin.txt                 hand-checked pinyin corrections for classical readings
-tools/build.py                 validates src/ → data/poems.json, hant.json, classic.json
+tools/build.py                 validates src/ → data/poems.json, hant.json, classic.json, notes.json, notes-hant.json
 tools/pinyin.mjs               pinyin-pro + src/pinyin.txt → data/pinyin.json, speech.json; page addresses into poems.json
 tools/site.mjs                 prerenders every page (simplified + hant/ traditional) with JSON-LD, sitemap.xml, og.jpg
 tools/fill_text.py             fills long Chinese texts from the chinese-poetry dataset
@@ -56,7 +56,7 @@ Before my bed there gleams a silver light —
 --
 A note on the poem's background and meaning.
 --
-中文赏析: the note in Chinese, written for Chinese readers rather than translated (optional).
+中文赏析: the note in Chinese, written for Chinese readers rather than translated.
 ```
 
 `scene:` words (time, season, weather, motifs such as `peaks`, `willow`, `boat`, `lady`, `ox`, `kite`; see `SCENE_WORDS` in

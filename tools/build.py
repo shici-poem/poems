@@ -219,7 +219,7 @@ def main():
     check = "--check" in sys.argv
     authors = load_authors()
     ranking = load_ranking()
-    poems, warnings, seen = [], [], {}
+    poems, warnings, seen, notes_zh = [], [], {}, {}
     used_authors = set()
     for path in sorted((SRC / "poems").glob("*.txt")):
         for p in parse_file(path):
@@ -267,13 +267,14 @@ def main():
             en = re.sub(r"\n{3,}", "\n\n", "\n".join(en)).split("\n")
             pid = hashlib.md5(key.encode("utf-8")).hexdigest()[:6]
             used_authors.add(a)
-            poem = {
+            if not p["note_zh"]:
+                warnings.append(f"{where}: no Chinese note")
+            else:
+                notes_zh[pid] = p["note_zh"]
+            poems.append({
                 "id": pid, "t": p["title"], "te": p["title_en"], "a": a, "f": form,
                 "g": tags, "s": " ".join(scene), "z": zh, "e": en, "n": p["note"],
-            }
-            if p["note_zh"]:
-                poem["nz"] = p["note_zh"]
-            poems.append(poem)
+            })
 
     ids = [p["id"] for p in poems]
     if len(set(ids)) != len(ids):
@@ -307,7 +308,9 @@ def main():
         OUT.mkdir(exist_ok=True)
         (OUT / "poems.json").write_text(js, encoding="utf-8")
         (OUT / "classic.json").write_text(json.dumps(classic, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        hant(poems, out_authors)
+        # Chinese notes load lazily on poem pages: they would add half again to poems.json
+        (OUT / "notes.json").write_text(json.dumps(notes_zh, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        hant(poems, out_authors, notes_zh)
 
     for w in warnings:
         print("WARN:", w)
@@ -326,19 +329,19 @@ def main():
     print(f"{len(poems)} poems, {len(out_authors)} authors, {sum(map(len, classic.values()))} earlier translations, poems.json = {len(js.encode('utf-8')) // 1024} KB")
 
 
-def hant(poems, authors):
-    """Traditional-Chinese text, loaded lazily by the site only when the 繁 toggle is used."""
+def hant(poems, authors, notes_zh):
+    """Traditional-Chinese text, loaded lazily by the site only when the 繁 toggle is used (notes: on poem pages)."""
     try:
         import opencc  # pip install opencc-python-reimplemented
     except ImportError:
         print("NOTE: opencc not installed — skipping data/hant.json")
         return
     cc = opencc.OpenCC("s2tw")
-    out = {"p": {}, "n": {}, "a": {}, "g": {}, "d": {}, "f": {}}
+    out = {"p": {}, "a": {}, "g": {}, "d": {}, "f": {}}
     for p in poems:
         out["p"][p["id"]] = [cc.convert(p["t"])] + [cc.convert(l) for l in p["z"]]
-        if "nz" in p:
-            out["n"][p["id"]] = cc.convert(p["nz"])
+    notes = {k: cc.convert(v) for k, v in notes_zh.items()}
+    (OUT / "notes-hant.json").write_text(json.dumps(notes, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     for t in TAGS:
         out["g"][t] = cc.convert(t)
     for d, _ in DYNASTIES:
