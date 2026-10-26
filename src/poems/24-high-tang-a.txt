@@ -17,7 +17,7 @@ The river's spring arrives before the old year's through.
 Where can my letter home be sent? —
 By the wild geese flying north to Luoyang, carried through.
 --
-Written near Zhenjiang on the lower Yangtze. The third couplet — the sun born out of the sea while night is not yet over, spring arriving on the river before the old year has ended — so impressed the chief minister Zhang Yue that he hung it in his hall as a model of poetry. It captures time itself moving forward.
+Written near Zhenjiang on the lower Yangtze. The third couplet — the sun born out of the sea while night is not yet over, spring arriving on the river before the old year has ended — so impressed the chief minister Zhang Yue that he wrote it out in his own hand in the chief ministers' council hall as a model of poetry. It captures time itself moving forward.
 --
 王湾是洛阳人，此诗写他乘舟东行、停泊在镇江北固山下的所见所感。潮水涨平，两岸显得格外开阔；风顺而和，一片船帆端端正正地高悬。“海日生残夜，江春入旧年”：残夜未尽，红日已从海上升起；旧年未过，江上已透出春意，时序的更替写得新鲜而富有理趣。开元年间宰相张说极为欣赏，亲笔把它题在政事堂，作为文人作诗的楷模。末联托北归的大雁捎家书回洛阳，乡思悠悠。（此诗一题《江南意》，文字多有不同。）
 
@@ -148,7 +148,7 @@ At Cold Food, the east wind bends the palace willows down.
 At dusk the Han court sends out candles, lit again;
 Their light smoke drifts into the Five Lords' mansions in the town.
 --
-At the Cold Food Festival, just before Qingming, no fires could be lit for three days; at the end, the palace sent new fire to favoured households. Only the "Five Lords" — the emperor's eunuch favourites — receive it first: a delicate satire hidden in a lovely spring picture. Emperor Dezong loved the poem so much that he appointed its author by quoting the first line.
+At the Cold Food Festival, just before Qingming, no fires could be lit for three days; at the end, the palace sent new fire to favoured households. Only the "Five Lords" — usually read as the emperor's eunuch favourites — receive it first: a delicate satire hidden in a lovely spring picture. Emperor Dezong loved the poem so much that, appointing its author to draft edicts, he wrote out the whole poem to show which Han Hong he meant.
 --
 寒食节在清明前一两天，旧俗禁火冷食，节后宫中再点燃新火，赏赐近臣。前两句写长安暮春，满城飞花，东风吹斜了御苑的柳枝；后两句写黄昏时宫中传赐蜡烛，轻烟袅袅，先飘进了“五侯”之家。“五侯”借用汉代典故，东汉桓帝曾同日封五名宦官为侯（一说指西汉成帝同日封侯的五位外戚），不少人认为诗中暗讽中唐宦官得宠，也有人只读作太平景象。据孟棨《本事诗》，唐德宗欣赏此诗，任命掌管制诰的官员时，特地写下全诗，批示要用的正是这个韩翃。
 
@@ -165,7 +165,7 @@ Peach petals on the stream; the perch grow fat in spring.
 A hat of green bamboo, a cape of green straw:
 In slanting wind and drizzle — why go home at all?
 --
-An early *ci* lyric by "the Old Fisherman of the Misty Waves". The fisherman, free and content in any weather, is the ideal of the recluse; the emperor himself sent for paintings of the scene. 鳜鱼 is the mandarin fish, at its best in peach-blossom season.
+An early *ci* lyric by "the Old Fisherman of the Misty Waves". The fisherman, free and content in any weather, is the ideal of the recluse; the poet painted the songs himself, and the emperor Xianzong later sought them in vain. 鳜鱼 is the mandarin fish, at its best in peach-blossom season.
 --
 张志和曾待诏翰林，后弃官隐居江湖，自号“烟波钓徒”。大历年间颜真卿任湖州刺史，张志和是他的座上客，与颜真卿、陆羽等人唱和，作《渔歌》五首，这是第一首，也是早期文人词的名篇。白鹭、桃花、流水、鳜鱼，色彩明丽；渔父戴着青箬笠，披着绿蓑衣，在斜风细雨里也不想回家，悠然自得，正是隐者的自我写照。张志和还亲手把《渔歌》画成图画。此词后来远传日本，嵯峨天皇曾仿作五首。（西塞山一般认为在今浙江湖州，一说在今湖北黄石。）
 
@@ -182,6 +182,6 @@ Treasure your youth instead, while it is here.
 When flowers are ripe for picking, pick them, then —
 Don't wait to snap bare branches when the flowers disappear.
 --
-Sung by Du Qiuniang, a singing girl of Jinling who became a consort in the Tang palace (the song is sometimes listed as anonymous). China's *carpe diem* — "gather ye rosebuds while ye may".
+Credited to Du Qiuniang, concubine of the rebel governor Li Qi, who often sang it; after his fall she entered the Tang palace (the author is uncertain, and the song is sometimes listed as anonymous). China's *carpe diem* — "gather ye rosebuds while ye may".
 --
 杜牧《杜秋娘诗》序记载，杜秋是润州一带的女子，十五岁做了镇海节度使李锜的妾，李锜常唱这首歌；李锜叛乱失败后，她被没入宫中，受到宪宗宠爱。后世多把此诗归于杜秋娘名下，《唐诗三百首》也是如此，但它的作者其实已难确知。金缕衣再华贵也不足惜，可惜的是少年时光：花开堪折就该折，别等到花落，只能折一根空枝。劝人珍惜青春，直白而恳切。

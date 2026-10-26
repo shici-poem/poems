@@ -45,7 +45,7 @@ A thousand li to Jiangling — and home within a day.
 From both the banks the gibbons cry, unceasing and aloud;
 My little boat has slipped ten thousand peaks away.
 --
-Written in 759. Li Bai, exiled to the far southwest for his part in a prince's rebellion, received a pardon at Baidi, high above the Yangtze. The headlong rush down the Three Gorges mirrors his joy: the boat is "light" (轻舟) in more ways than one, and the gibbons' cries — usually the saddest sound in Chinese poetry — are left behind.
+Written in 759. Li Bai, exiled to the far southwest for his part in a prince's rebellion, heard of a pardon on his way upriver and set off at once from Baidi, high above the Yangtze. The headlong rush down the Three Gorges mirrors his joy: the boat is "light" (轻舟) in more ways than one, and the gibbons' cries — usually the saddest sound in Chinese poetry — are left behind.
 --
 一题《下江陵》。乾元二年（759）春，李白因曾入永王李璘幕府，被判流放夜郎，溯江西行，途中忽闻朝廷大赦，惊喜交加，随即从白帝城乘舟东下江陵。千里江程一日而还，船行之快正是心情之快；猿啼本是三峡最哀伤的声音，此时也被轻舟抛在了身后。一个“轻”字，写船也写心。清人王士禛论唐人七绝压卷，就举了这首。
 
@@ -79,7 +79,7 @@ When suddenly from shore I hear a stamping, singing throng.
 Though Peach Blossom Pool is a thousand feet deep, they say,
 It's not so deep as Wang Lun's love that sees me off with song.
 --
-Wang Lun was a local gentleman of Jingxian (Anhui) who had invited the famous poet to stay. As Li Bai was leaving, Wang came down to the shore with villagers, singing and stamping out the rhythm (踏歌, "stepping song"). Naming himself in the first line is a cheerful informality almost unique in Tang poetry.
+Wang Lun was a local gentleman of Jingxian (Anhui) who had invited the famous poet to stay. As Li Bai was leaving, Wang came down to the shore with villagers, singing and stamping out the rhythm (踏歌, "stepping song"). Naming himself in the first line is a cheerful informality rare in Tang poetry.
 --
 李白游泾县（今属安徽）桃花潭，汪伦常以美酒款待。汪伦的身份说法不一，旧注多称他是当地村人，一说他曾任泾县县令，辞官后住在桃花潭边。李白乘舟将行，汪伦带着村人来到岸边，边唱边以脚踏地打着节拍，这就是“踏歌”。诗人在首句直呼自己的名字，率真自然；末两句不说情如潭水，却说潭水千尺也不及送别之情，以深比深，越发真切。
 
@@ -160,7 +160,7 @@ My fur worth a thousand gold —
 Call the boy, take them out, and trade them for fine wine,
 And with you I'll drown the sorrows of ten thousand years untold!
 --
-"Bring in the Wine" (an old Han ballad title) was written around 752 as Li Bai drank with his friends Cen Xun and Yuan Danqiu. It opens with two images of time's unstoppable flow — the Yellow River pouring from heaven to the sea, hair turning white in a single day — and answers them with defiant joy and boundless self-belief. The Prince of Chen is the poet Cao Zhi, famous for his lavish banquets at Pingle Lodge.
+"Bring in the Wine" (an old Han ballad title) was probably written around 752 as Li Bai drank with his friends Cen Xun and Yuan Danqiu. It opens with two images of time's unstoppable flow — the Yellow River pouring from heaven to the sea, hair turning white in a single day — and answers them with defiant joy and boundless self-belief. The Prince of Chen is the poet Cao Zhi, famous for his lavish banquets at Pingle Lodge.
 --
 “将进酒”是汉乐府《铙歌》的旧题，意思是“请喝酒吧”。一般认为作于天宝十一载（752）前后，李白离开长安已有多年，与友人岑勋同在嵩山元丹丘处饮酒（一说作于开元末年）。开篇两个“君不见”，以黄河奔流入海、青丝转眼成雪，写时光一去不回；接着却以“人生得意须尽欢”“天生我材必有用”作答，豪情冲天。“陈王”即曹植，他在《名都篇》中写过平乐观里斗酒十千的宴饮。最后连五花马、千金裘都要拿去换酒，只为与朋友同销“万古愁”，狂放之下是深沉的悲慨。（“将”是“请”的意思。）
 
@@ -315,7 +315,7 @@ From here my hand could pluck the stars of night.
 I dare not raise my voice above a sigh,
 For fear of waking those who dwell on high.
 --
-A temple tower on a mountaintop, so high that the stars are within reach and heaven's residents might overhear. Built entirely from playful exaggeration, it is one of the first poems Chinese children learn.
+A temple tower on a mountaintop, so high that the stars are within reach and heaven's residents might overhear. Built entirely from playful exaggeration, it is one of the first poems Chinese children learn. Traditionally attributed to Li Bai, it first appears in a Song anecdote and its authorship is uncertain.
 --
 山寺高楼耸入云霄，仿佛一伸手就能摘下星辰；连说话都不敢大声，生怕惊动了天上的仙人。诗中不写山如何高，只凭夸张与想象，高处的情景便历历在目，童趣盎然，是孩子们最早背诵的诗之一。此诗不见于李白文集，最早见于北宋王得臣《麈史》，说是蕲州黄梅一座山寺梁间的诗牌，落款“布衣李白”，真伪已难确考；宋人笔记中另有杨亿幼年登楼吟出相近诗句的传说。
 
@@ -372,7 +372,7 @@ The setting sun — an old friend's heart.
 We wave our hands, and from this place you go;
 Your horse, leaving the herd, neighs as we part.
 --
-A model regulated poem, its middle couplets perfectly parallel. The drifting cloud is the departing friend, the reluctant setting sun the friend left behind. The last line borrows from the *Book of Songs*: 班马 is a horse separated from its companions, crying out — the animals feel the parting too.
+A regulated poem with a twist: the opening couplet, not the second, is the parallel one. The drifting cloud is the departing friend, the reluctant setting sun the friend left behind. The last line borrows "neighing horses" from the *Book of Songs*; 班马, from the *Zuo Commentary*, is a horse separated from its companions, crying out — the animals feel the parting too.
 --
 一首五言律诗，格式却有些特别：首联“青山横北郭，白水绕东城”对仗工整，颔联“此地一为别，孤蓬万里征”反而一气直下，不拘对偶，这在律诗中并不多见。颈联以浮云比游子漂泊不定的行踪，以落日比故人依依不舍的情意。末句“萧萧班马鸣”，“萧萧马鸣”出自《诗经·小雅·车攻》，“班马”见于《左传》，指离群的马。人挥手作别，马也嘶鸣不已，不言离愁而离愁自见。
 
@@ -499,7 +499,7 @@ A palace lament in which nothing is said of feeling. A woman has waited on the s
 --
 《玉阶怨》是乐府旧题，专写宫中女子的幽怨，南朝谢朓也写过。李白此诗题中有“怨”，诗中却不着一个“怨”字：玉阶上生了白露，夜深了，露水浸透罗袜，可见她久立等候；回到屋里放下水晶帘，仍隔着帘子望那玲珑秋月，长夜无眠。全篇只写动作与景物，不写一句心事，含蓄到了极点。庞德在《华夏集》中译过这首诗，并特意加注说，此诗之所以可贵，正在于女子没有一句直接的怨言。
 
-== 宣州谢朓楼饯别校书叔云 | Farewell to Secretary Shuyun at Xie Tiao's Tower in Xuanzhou
+== 宣州谢朓楼饯别校书叔云 | Farewell to Uncle Yun, Collator of Books, at Xie Tiao's Tower in Xuanzhou
 by: 李白
 form: 七古
 tags: 饮酒 人生 失意 离别 秋
@@ -604,7 +604,7 @@ And ride it, when I must, to visit the famous mountains, my true home.
 How could I bow my brows and bend my back to serve the great,
 And never let my heart be glad, and never let my face be bright?
 --
-Written in 745 as Li Bai left eastern Shandong for the south, a year after leaving the court. The dream climbs Mount Tianmu in Zhejiang in the footsteps of Xie Lingyun (Lord Xie), the 5th-century landscape poet who invented special clogs for mountain climbing, and bursts into a vision of an immortals' paradise — which vanishes on waking. The moral explodes in the last line: no worldly glory is worth bending the back to the powerful. It became a creed for independent spirits.
+Written in 745 or 746 as Li Bai left his home in Shandong for the south, a year or two after leaving the court. The dream climbs Mount Tianmu in Zhejiang in the footsteps of Xie Lingyun (Lord Xie), the 5th-century landscape poet who invented special clogs for mountain climbing, and bursts into a vision of an immortals' paradise — which vanishes on waking. The moral explodes in the last line: no worldly glory is worth bending the back to the powerful. It became a creed for independent spirits.
 --
 李白被迫离开长安后，在东鲁（今山东兖州一带）住了一段时间，再南游吴越，临行写下此诗留别友人（题一作《别东鲁诸公》），一般认为作于天宝四、五载间。天姥山在今浙江新昌。诗人梦中飞渡镜湖，沿剡溪而上，穿着南朝谢灵运登山用的木屐（谢公屐）攀登青云梯；继而雷电崩摧、洞天石门轰然打开，神仙纷纷而下，境界瑰奇变幻。忽然惊醒，烟霞尽失，由此悟出世间行乐如东流水。结句“安能摧眉折腰事权贵，使我不得开心颜”，是全诗的精神所在，也是李白傲岸人格的写照。
 
@@ -627,7 +627,7 @@ Two waters split around White Egret Isle midway.
 It's all because the drifting clouds can hide the sun —
 Chang'an is lost to sight, and grief has come to stay.
 --
-Jinling (Nanjing) had been the capital of six dynasties, all long vanished. Li Bai's poem deliberately echoes Cui Hao's *Yellow Crane Tower*, which he had admired. The ending turns from history to politics: the "drifting clouds" hiding the sun are the slanderers who cut Li Bai off from the emperor in Chang'an.
+Jinling (Nanjing) had been the capital of six dynasties, all long vanished. Li Bai's poem deliberately echoes Cui Hao's *Yellow Crane Tower*, which, a later story says, he had admired. The ending turns from history to politics: the "drifting clouds" hiding the sun are the slanderers who cut Li Bai off from the emperor in Chang'an.
 --
 金陵是六朝故都，城西南的凤凰台相传因南朝时有凤凰飞集而得名。此诗作于李白被“赐金放还”、离开长安之后，一说在天宝六载（747）。开头连用三个“凤”字，凤去台空，只有江水自流；吴宫花草、晋代衣冠，都已埋入荒丘。颈联写眼前山水，三山隐现于青天之外，白鹭洲把江水分作两道。结尾由怀古转向伤时：浮云遮蔽了太阳，望不见长安，暗指奸佞蒙蔽君王，诗人报国无门。宋人笔记说，李白在黄鹤楼读了崔颢的诗，自叹“眼前有景道不得”，后来作此诗与之较量，这个故事未必可信，但两诗的格调确实相近，历来被拿来比较。
 
@@ -661,7 +661,7 @@ Poured in a bowl of jade, it gleams with amber light.
 If only my host can get his guest well drunk tonight,
 I'll never know which land is foreign, or where I went.
 --
-Lanling (in Shandong) was famous for its wine, scented with 郁金 (turmeric or curcuma). Most travel poems are homesick; this one, from Li Bai's carefree younger days, cheerfully proposes that good enough wine makes anywhere home.
+Lanling (in Shandong) was famous for its wine, scented with 郁金 (turmeric or curcuma). Most travel poems are homesick; this one, probably from Li Bai's years living in Shandong, cheerfully proposes that good enough wine makes anywhere home.
 --
 诗题一作《客中行》。兰陵在今山东南部，以美酒著称，一般认为此诗作于李白寓居东鲁的时期。用郁金浸过的美酒散发着香气，盛在玉碗里泛出琥珀般的光泽，色香俱佳。客居异乡，本当愁苦，李白却说：只要主人能让客人一醉方休，我就不知道哪里是他乡了。羁旅之愁被一杯好酒轻轻化开，正见出盛唐诗人的豪放与洒脱。（这里的“郁金香”指郁金草的香气，并非今天的郁金香花。）
 

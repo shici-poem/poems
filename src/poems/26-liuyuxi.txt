@@ -62,7 +62,7 @@ I say that autumn days surpass the mornings of the spring.
 In the clear sky, one crane soars up through the clouds' plume,
 And draws my poet's heart into the blue upon its wing.
 --
-Written in exile in 805. Against a thousand years of poems mourning autumn, Liu Yuxi declares autumn better than spring — the crane breaking through the clouds is his own unbroken spirit. A rare poem of defiant optimism.
+Written during his exile at Langzhou, which began in 805. Against a thousand years of poems mourning autumn, Liu Yuxi declares autumn better than spring — the crane breaking through the clouds is his own unbroken spirit. A rare poem of defiant optimism.
 --
 永贞元年（805）永贞革新失败，刘禹锡被贬为朗州司马，《秋词》二首作于贬居朗州期间。自宋玉《九辩》叹“悲哉，秋之为气也”以来，文人逢秋多悲寂寥，诗人却偏说秋日胜过春朝：晴空万里，一只白鹤排开云层直上青天，也把诗情引到了碧霄。这只鹤正是他身处逆境而不肯消沉的写照，豪迈开朗，一扫悲秋的老调。
 
@@ -125,7 +125,7 @@ The hill still lies, as ever, pillowed on the cold stream's flow.
 Now the four seas are one family, at last —
 The old forts sigh among the autumn reeds below.
 --
-In 280 the Jin general Wang Jun sailed great towered warships down the Yangtze from Sichuan to conquer the kingdom of Wu; Wu's iron chains across the river at Xisai Mountain were melted with torches, and its last ruler surrendered at Stone City (Nanjing). Kingdoms rise and fall; the mountain stays. The ending is a quiet warning: the empire is united now — but the ruined forts in the reeds show how fragile unity is.
+In 280 the Jin general Wang Jun sailed great towered warships down the Yangtze from Sichuan to conquer the kingdom of Wu; Wu's iron chains across the Yangtze gorges were melted with torches, and its last ruler surrendered at Stone City (Nanjing). Kingdoms rise and fall; the mountain stays. The ending is a quiet warning: the empire is united now — but the ruined forts in the reeds show how fragile unity is.
 --
 长庆四年（824），刘禹锡由夔州刺史调任和州刺史，顺江东下，一般认为此诗即作于途经西塞山时。西塞山在今湖北黄石，山体突入长江，自古是江防要塞。前四句追述晋灭吴：太康元年（280），晋将王濬率高大的楼船从益州顺流而下，吴人横江设置的千寻铁锁被火炬烧熔，沉入江底，吴主孙皓在石头城举起降旗，金陵的王气从此黯然消散。后四句由史入今：人世间多少兴亡往事令人伤怀，山形依旧枕着寒江；如今天下一统，旧时营垒只剩萧萧芦荻在秋风中摇曳。借六朝旧事警示当世，含蓄而深沉。
 
@@ -176,6 +176,6 @@ The lotus on the pond is pure, but cool and passionless.
 Only the tree peony has a true queen's face —
 When it blooms, the whole capital is stirred with happiness.
 --
-In the Tang the tree peony (牡丹) was queen of flowers, and Chang'an went peony-mad every spring, paying fortunes for rare plants. The peony's epithet 国色天香, "beauty of the nation, fragrance of heaven", owes much to this poem.
+In the Tang the tree peony (牡丹) was queen of flowers, and Chang'an went peony-mad every spring, paying fortunes for rare plants. The peony's epithet 国色天香, "beauty of the nation, fragrance of heaven", comes from a couplet by Liu's contemporary Li Zhengfeng; this poem calls it 真国色, "truly the beauty of the nation".
 --
 唐代长安盛行赏牡丹，每到花期，满城士庶争相观赏，名贵品种价值千金，白居易《买花》诗就写过“一丛深色花，十户中人赋”。诗人先抑后扬：庭前芍药艳丽却少了格调，池中荷花清净却缺些情致，唯有牡丹才是“真国色”，花开时轰动整个京城。“国色天香”一语，则出自同时代李正封的牡丹诗句，据《松窗杂录》，唐文宗问京城牡丹诗谁最好，有人便举出他这两句。（“妖”是艳丽，“格”是格调、品格。）

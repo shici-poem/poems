@@ -23,7 +23,7 @@ Then suddenly I turned my head,
 And there she was,
 Where the lantern light was dim, where few would find.
 --
-The Lantern Festival in Hangzhou: fireworks like flowering trees and falling stars, lanterns shaped like fish and dragons, women in their finery. Amid it all the poet seeks one person — and finds her apart from the crowd, where the lights are fading. Wang Guowei cited the last lines as the third and highest of the "three stages" of any great achievement: after long searching, sudden discovery. Many read "her" as the poet's own lonely integrity.
+The Lantern Festival, probably in Hangzhou: fireworks like flowering trees and falling stars, lanterns shaped like fish and dragons, women in their finery. Amid it all the poet seeks one person — and finds her apart from the crowd, where the lights are fading. Wang Guowei cited the last lines as the third and highest of the "three stages" of any great achievement: after long searching, sudden discovery. Many read "her" as the poet's own lonely integrity.
 --
 一般认为写的是南宋都城临安（今杭州）的元宵之夜，写作年份难以确定。上片极写灯市繁华：东风吹开千树灯花，烟火如星雨纷落，香车宝马，箫声悠扬，灯光流转，鱼龙灯彻夜飞舞；下片写插戴蛾儿、雪柳的游女笑语而过，而词人在人群中千百次寻找的那个人，蓦然回首，却独立在灯火稀落之处。满纸热闹，都为衬出这一份冷清，许多人认为“那人”寄托着词人自己不肯随俗的孤高。王国维《人间词话》借结尾几句，比喻成就大事业、大学问必经的第三种境界。
 
@@ -94,7 +94,7 @@ Who will come and ask of me:
 "Lian Po is old —
 Can he still eat his fill, this year?"
 --
-1205: Xin Qiji, sixty-five, is given a post at last at Jingkou (Zhenjiang) on the Yangtze, as the court rashly prepares to attack the Jin. He recalls Sun Quan, who held the south against the north, and Liu Yu ("Jinu"), who marched north to retake the old capitals — and warns, through the disastrous rush north of the Yuanjia era (450), against an ill-prepared war. Forty-three years before, he had fled south through war-torn Yangzhou. Now the locals worship at a shrine to Foli, the northern khan who invaded — they have forgotten. And no one asks whether old Xin, like the aged general Lian Po, who ate a huge meal to prove he could still fight, is fit to serve.
+1205: Xin Qiji, sixty-five, is prefect of Jingkou (Zhenjiang) on the Yangtze, as the court rashly prepares to attack the Jin. He recalls Sun Quan, who held the south against the north, and Liu Yu ("Jinu"), who marched north to retake the old capitals — and warns, through the disastrous rush north of the Yuanjia era (450), against an ill-prepared war. Forty-three years before, in 1162, he had come south through a Yangzhou still burning from the Jin invasion. Now the locals worship at a shrine to Foli (Tuoba Tao), the Northern Wei emperor who invaded — they have forgotten. And no one asks whether old Xin, like the aged general Lian Po, who ate a huge meal to prove he could still fight, is fit to serve.
 --
 嘉泰四年（1204），六十多岁的辛弃疾出任镇江知府，京口即镇江，此词作于次年。当时韩侂胄正筹划北伐，辛弃疾力主抗金，却担心朝廷轻率出兵。上片怀念在京口起家的孙权和北伐中原的刘裕（小名寄奴）；下片借南朝宋文帝元嘉年间草率北伐、仓皇败归的教训告诫当权者。“四十三年”从他绍兴三十二年（1162）南归算起，那时扬州一带战火遍地；如今北魏太武帝拓跋焘（小名佛狸）的祠庙前香火热闹，百姓已忘了往事。结尾以廉颇自比，壮心犹在，却无人过问。
 
@@ -263,7 +263,7 @@ Whom can I ask to call
 A girl in red scarf and green sleeves,
 To wipe away a hero's tears?
 --
-Nanjing, 1174. Xin Qiji, a northerner who came south to fight, climbs the Pavilion of the Joyful Heart. The distant hills, like a woman's hairpins and topknots, offer only sorrow; he slaps every railing in frustration. He will not go home like Zhang Han, who resigned to eat the perch of his native river, nor buy land like the petty men Liu Bei despised. As the general Huan Wen said, seeing willows he had planted grown huge: "If even trees age like this, how can men bear it?" — and there is no one to wipe his tears.
+Nanjing, probably 1174. Xin Qiji, a northerner who came south to fight, climbs the Pavilion of the Joyful Heart. The distant hills, like a woman's hairpins and topknots, offer only sorrow; he slaps every railing in frustration. He will not go home like Zhang Han, who resigned to eat the perch of his native river, nor buy land like the petty men Liu Bei despised. As the general Huan Wen said, seeing willows he had planted grown huge: "If even trees age like this, how can men bear it?" — and there is no one to wipe his tears.
 --
 辛弃疾二十出头从北方率部南归，一心恢复中原，却始终不受重用。此词一般认为作于淳熙元年（1174）任江东安抚司参议官时（一说作于乾道五年（1169））。登上赏心亭，远山如玉簪螺髻，在他眼里却只献愁供恨；“把吴钩看了，栏杆拍遍”，宝刀无用，郁愤难平。下阕连用三典：不学张翰为莼鲈之思弃官归去，也羞于像许汜那样求田问舍、被刘备看不起；又借桓温“木犹如此，人何以堪”叹流年虚掷。结尾说，找不到红巾翠袖的佳人，替英雄揩去眼泪。
 
@@ -308,6 +308,6 @@ I regret the ancients never saw my wild delight.
 Those who know me
 Are just two or three.
 --
-Written in retirement around 1200, in a pavilion named after Tao Yuanming's poem "Lingering Clouds", which mourns absent friends. 我见青山多妩媚，料青山见我应如是 — "I find the green mountains charming; I expect they find me so too" — is among the most quoted lines Xin Qiji wrote: a lonely man finding his only equal in the mountains. "The clouds fly, the wind rises" echoes Liu Bang's *Song of the Great Wind*.
+Written in retirement around 1200, in a hall named after Tao Yuanming's poem "Lingering Clouds", which mourns absent friends. 我见青山多妩媚，料青山见我应如是 — "I find the green mountains charming; I expect they find me so too" — is among the most quoted lines Xin Qiji wrote: a lonely man finding his only equal in the mountains. "The clouds fly, the wind rises" echoes Liu Bang's *Song of the Great Wind*.
 --
 辛弃疾晚年罢官，闲居铅山瓢泉（约在1198年前后），园中筑“停云堂”，堂名取自陶渊明思念亲友的《停云》诗。开篇借孔子“甚矣吾衰也”叹老，又叹平生朋友零落殆尽。“我见青山多妩媚，料青山、见我应如是”：人间无可喜之人，只好与青山相看，情与貌竟也相似，成了传诵最广的名句。下阕借陶渊明的浊酒，讥讽江左那些醉中求名的人；“不恨古人吾不见，恨古人、不见吾狂耳”化用南朝张融的话，狂傲中满是寂寞。结尾说，真懂我的，不过两三人而已。

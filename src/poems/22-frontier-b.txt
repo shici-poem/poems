@@ -32,7 +32,7 @@ Snow fills the road across the Tianshan as you leave today.
 The mountain bends, the road turns, and you're lost from view;
 Only hoofprints in the snow remain, where your horse went through.
 --
-Luntai, in today's Xinjiang, 754: Cen Shen sees off a colleague returning to Chang'an. Snow arriving overnight like pear blossom on a spring wind is the most famous snow image in Chinese poetry. The ending — the friend gone, only hoofprints left in the snow — is pure longing.
+Luntai, in today's Xinjiang, around 754: Cen Shen sees off a colleague returning to Chang'an. Snow arriving overnight like pear blossom on a spring wind is the most famous snow image in Chinese poetry. The ending — the friend gone, only hoofprints left in the snow — is pure longing.
 --
 天宝十三载（754）起，岑参第二次出塞，在安西北庭节度使封常清幕府任判官，此诗即在轮台（今新疆境内）送同僚武判官回长安时所作。胡地八月已飞雪，诗人却说是一夜春风吹开了千树万树梨花，以春写冬，奇丽温暖，成为咏雪的千古名句。中间极写奇寒：狐裘不暖，角弓难拉，红旗冻得风也吹不动。结尾山回路转，友人已不见，雪地上只留下一行马蹄印，余味悠长。
 
@@ -66,7 +66,7 @@ The north wind blows the wild geese on through swirling snow.
 Don't fear the road ahead will hold no friend who knows your name —
 Who in all the world is there who doesn't know your fame?
 --
-Dong the Elder was Dong Tinglan, the greatest qin player of the age. Gao Shi, then poor and unknown, sees him off in a snowstorm with no gift but this encouragement — one of the most heartening farewell poems ever written.
+Dong the Elder is usually identified as Dong Tinglan, the greatest qin player of the age. Gao Shi, then poor and unknown, sees him off in a snowstorm with no gift but this encouragement — one of the most heartening farewell poems ever written.
 --
 一般认为作于天宝六载（747）冬，高适与董大在睢阳（今河南商丘）相会后分别。董大多认为是名琴师董庭兰，在家中排行第一（敦煌写本题作《别董令望》，身份尚有异说）。当时高适仕途未达，生活困顿，第二首就说“今日相逢无酒钱”。前两句黄云蔽日、北风送雁、大雪纷飞，一片苍茫；后两句却振起精神，劝友人不必担心前路没有知己，天下谁人不认识你？送别诗一扫儿女沾巾之态，豪迈而温暖。
 
@@ -199,7 +199,7 @@ Outside the Surrender City walls, the moon is like the frost.
 From somewhere — who knows where? — a reed pipe's playing low;
 All night the soldiers gaze toward home, and feel what they have lost.
 --
-Shouxiang ("Accepting Surrender") was a fortress on the Yellow River in the far north. Sand and moonlight turn the world white; an unseen reed pipe plays; every soldier turns toward home. Set to music, the poem was sung all over the empire.
+Shouxiang ("Accepting Surrender") was a fortress on the Yellow River in the far north. Sand and moonlight turn the world white; an unseen reed pipe plays; every soldier turns toward home. Court musicians competed to buy Li Yi's poems and set them to music.
 --
 李益久在北方边地幕府任职，以边塞诗著名。回乐是唐代灵州属县，在今宁夏灵武一带；受降城是唐代为接受、防御北方部族而筑的边城（具体指哪一座，说法不一）。烽火台前的沙地白得像雪，城外的月光冷得像霜，一片清寒。忽然不知何处吹起芦管，悠悠一夜，所有出征的人都望向故乡。笛声只写一句，思乡只写一句，却写出了千万戍卒共同的心事。据《旧唐书》记载，李益每作一诗，宫廷乐工便争着重金求取，谱成歌曲供奉。
 

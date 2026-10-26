@@ -26,7 +26,7 @@ Seems to rise from it, out of its keep.
 What joy, what supreme good fortune —
 I sing this song to tell my heart's ambition, deep.
 --
-Written in 207 by Cao Cao, aged fifty-three, returning from a victorious campaign in the north-east, at Jieshi on the Bohai coast. The sea that seems to hold the sun, moon and stars mirrors his own vast ambition to unify China. It is the oldest complete landscape poem in Chinese.
+Written in 207 by Cao Cao, aged fifty-two, returning from a victorious campaign in the north-east, at Jieshi on the Bohai coast. The sea that seems to hold the sun, moon and stars mirrors his own vast ambition to unify China. It is often called the oldest complete landscape poem in Chinese.
 --
 建安十二年（207），曹操北征乌桓得胜，班师途中登上碣石山（一般认为在今河北昌黎）。此诗原是乐府《步出夏门行》的第一章。秋风萧瑟，洪波涌起，诗人却毫无悲秋之意；日月星汉仿佛都从大海中升起，写的是海，也是胸中吞吐宇宙的气魄。末两句“幸甚至哉，歌以咏志”是合乐时附加的套语，与正文无关。此诗常被称为我国现存最早的完整山水诗。
 
@@ -58,7 +58,7 @@ One may live long years of one's own.
 What joy, what supreme good fortune —
 I sing this song to make my heart's will known.
 --
-Written by Cao Cao on the same campaign, at fifty-three — old for his time. 老骥伏枥，志在千里；烈士暮年，壮心不已 — "the old warhorse in the stable still longs to gallop a thousand li; a hero in his last years still has a fiery heart" — is the most quoted line in Chinese on ageing with ambition.
+Written by Cao Cao on the same campaign, at fifty-two — old for his time. 老骥伏枥，志在千里；烈士暮年，壮心不已 — "the old warhorse in the stable still longs to gallop a thousand li; a hero in his last years still has a fiery heart" — is the most quoted line in Chinese on ageing with ambition.
 --
 与《观沧海》同属《步出夏门行》，作于北征乌桓归来途中，曹操已年过半百。开头直面生死：神龟、腾蛇（传说能乘雾飞行的神蛇）也终有一死；笔锋一转，便是“老骥伏枥，志在千里；烈士暮年，壮心不已”。接着又说寿命长短并非全由天定，善养身心便可延年，豁达而不消沉。据《世说新语》记载，东晋王敦每到酒后就吟诵这四句，用如意敲打唾壶打拍子，壶口都敲缺了。
 
@@ -117,7 +117,7 @@ The sea how deep it grows;
 The Duke of Zhou spat out his meal —
 And all the world's heart to him goes.
 --
-Cao Cao's banquet song, written around 208. It begins with the brevity of life and with wine (Du Kang was the legendary first brewer), then quotes two *Book of Songs* poems to express his longing for men of talent to join him. The crows and magpies circling a tree, finding no branch, are able men without a lord; the Duke of Zhou, who would spit out his food three times in a meal to receive a visitor, is Cao Cao's model — and so the whole world will give him its heart. In *Romance of the Three Kingdoms* he sings it on the eve of Red Cliff.
+Cao Cao's banquet song, of uncertain date. It begins with the brevity of life and with wine (Du Kang was the legendary first brewer), then quotes two *Book of Songs* poems to express his longing for men of talent to join him. The crows and magpies circling a tree, finding no branch, are able men without a lord; the Duke of Zhou, who would spit out his food three times in a meal to receive a visitor, is Cao Cao's model — and so the whole world will give him its heart. In *Romance of the Three Kingdoms* he sings it on the eve of Red Cliff.
 --
 曹操在宴席上所作的乐府诗，确切的写作年代并无定论。开篇对酒当歌，感叹人生短暂如朝露；随即借《诗经·子衿》的“青青子衿，悠悠我心”和《鹿鸣》宴请嘉宾的诗句，抒写求贤若渴之情。“月明星稀，乌鹊南飞。绕树三匝，何枝可依”，常被解作那些徘徊观望、尚无归依的贤士。结尾以周公“一饭三吐哺”礼待士人自比，“天下归心”，正是他统一天下的抱负。《三国演义》第四十八回写他在赤壁大战前夜宴长江、横槊赋诗，唱的就是这首。（杜康相传是最早酿酒的人，这里代指酒。）
 
@@ -160,7 +160,7 @@ The birds fly home together, to their tree.
 In this there is a deep, true meaning —
 I'd put it into words — but the words have slipped from me.
 --
-The most famous poem of China's great recluse, written around 417 after he had given up office for farming. 采菊东篱下，悠然见南山 — "picking chrysanthemums by the eastern hedge, I see, at ease, the Southern Mountain" — is the supreme image of contentment, and 心远地自偏, "with a distant heart, any place is remote", makes seclusion a state of mind. The ending echoes *Zhuangzi*: "words exist for meaning; once you have the meaning, you can forget the words."
+The most famous poem of China's great recluse, written in his later years (perhaps 416–417) after he had given up office for farming. 采菊东篱下，悠然见南山 — "picking chrysanthemums by the eastern hedge, I see, at ease, the Southern Mountain" — is the supreme image of contentment, and 心远地自偏, "with a distant heart, any place is remote", makes seclusion a state of mind. The ending echoes *Zhuangzi*: "words exist for meaning; once you have the meaning, you can forget the words."
 --
 《饮酒》二十首的第五首，作于陶渊明辞官归田多年以后。身在人间，却听不到车马喧嚣，只因“心远地自偏”：隐居在心不在地。采菊东篱，抬头偶然望见南山（指庐山），一个“见”字写出无心相遇的自然。苏轼称赞“因采菊而见山，境与意会”，并说若照俗本作“望南山”，全篇的神气就索然无味了。末两句化用《庄子》“得意而忘言”：其中真意，想要说出时，已忘了言语。
 
@@ -275,7 +275,7 @@ The plain is vast, so vast;
 The wind blows, the grass bends low —
 And cattle and sheep are seen at last.
 --
-A song of the Chile, a nomadic people of the northern steppe, sung for a Northern Qi general in 546 and translated from their language into Chinese. The whole sky is a yurt over the grasslands; when the wind bends the tall grass, the hidden herds appear. The greatest picture of the steppe in Chinese.
+A song of the Chile, a nomadic people of the northern steppe, sung in 546 for Gao Huan, the Eastern Wei commander, and translated into Chinese from the Xianbei language. The whole sky is a yurt over the grasslands; when the wind bends the tall grass, the hidden herds appear. The greatest picture of the steppe in Chinese.
 --
 敕勒是北方草原上的游牧民族，又称高车、铁勒。东魏武定四年（546），高欢率军围攻西魏的玉壁，五十多天攻不下，伤亡惨重，只得退兵。军心沮丧之际，高欢让敕勒族老将斛律金唱起这首歌，自己也跟着应和，感慨落泪。据《乐府广题》，此歌原用鲜卑语演唱，后来译成汉语，所以句子长短不齐。“天似穹庐”把苍天比作牧民的圆顶毡帐；末句“风吹草低见牛羊”，风过处草浪低伏，牛羊忽然显现，辽阔而又生动，历来被视为描写草原的千古绝唱。
 

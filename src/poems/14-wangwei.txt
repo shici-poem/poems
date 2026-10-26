@@ -11,7 +11,7 @@ When spring comes, how many sprigs appear?
 I hope you'll gather many in your hand —
 They hold the deepest longing, dear.
 --
-The red bean (红豆), a bright scarlet seed of the south, is called the "love-longing seed" (相思子) after a legend of a woman who wept beneath a tree for her husband killed at the frontier until her tears turned into red beans. Wang Wei wrote the poem for his friend, the singer Li Guinian, who sang it at banquets; it became one of the most-sung lyrics of the Tang.
+The red bean (红豆), a bright scarlet seed of the south, is called the "love-longing seed" (相思子) after a legend of a woman who wept beneath a tree for her husband killed at the frontier until she died. One version of the title dedicates it to the singer Li Guinian, who, a Tang anecdote says, sang it at a banquet in the south after the An Lushan rebellion.
 --
 红豆产于南方，色泽鲜红，又名“相思子”。宋人《古今诗话》记载，有人死于边地，妻子思念他，在树下痛哭而死，此树因此得名。借红豆寄托相思，王维这首诗是最早也最有名的一例。据唐人范摅《云溪友议》，安史之乱后，名乐工李龟年流落湘中，曾在筵席上唱这首诗，满座听了无不黯然。此诗一题《江上赠李龟年》，第二句也有作“秋来发故枝”的。
 
@@ -85,7 +85,7 @@ Lotus leaves stir — down go fishing boats.
 Let spring's fragrance fade as it will:
 Here a prince may stay, content to remain.
 --
-Wang Wei's best-loved regulated poem. The famous second couplet — moon among pines, water over stones — is a perfect ink painting. An old song called on "princes" (gentlemen) to leave the wild mountains, since "spring grasses grow, and you cannot stay"; Wang Wei turns it around: the hills, even in autumn, are where one belongs.
+Wang Wei's best-loved regulated poem. The famous second couplet — moon among pines, water over stones — is a perfect ink painting. An old song called on "princes" (gentlemen) to leave the wild mountains, since "in the mountains you cannot stay long"; Wang Wei turns it around: the hills, even in autumn, are where one belongs.
 --
 一般认为此诗作于王维半官半隐、闲居辋川别业的时期，写山中秋日的傍晚。一场新雨过后，空山清爽；明月从松间照下，清泉在石上流淌，苏轼说王维“诗中有画”，这一联正是最好的例子。竹林里传来笑语，是洗衣的姑娘们回来了；莲叶摇动，是渔船顺流而下，先闻其声，后见其人。末联反用《楚辞·招隐士》“王孙兮归来，山中兮不可以久留”之意：任凭春天的芳草凋谢，王孙自可留在山中。对山居生活的喜爱，尽在言外。（“随意”是任凭；“暝”是日暮。）
 
@@ -106,7 +106,7 @@ Anxi was the Tang protectorate in Central Asia; Yang Pass, near Dunhuang, was th
 --
 渭城即秦都咸阳故城，在长安西北，唐人西行常在这里饯别。安西指唐代的安西都护府，治所在龟兹（今新疆库车）；阳关在今甘肃敦煌西南，出了阳关便是茫茫大漠。前两句写清晨细雨洗净了路上的轻尘，客舍旁的柳色格外清新，古人有折柳送别的习俗，柳色里便藏着离情。后两句只是劝友人再干一杯，千言万语都在这杯酒中。此诗后来谱成乐曲，称《阳关三叠》，又名《渭城曲》《阳关曲》，成为历代传唱最广的送别歌。（“浥”是湿润。）
 
-== 九月九日忆山东兄弟 | Thinking of My Brothers in Shandong on the Double Ninth
+== 九月九日忆山东兄弟 | Thinking of My Brothers East of the Mountains on the Double Ninth
 by: 王维
 form: 七绝
 tags: 思乡 节日 秋 友情
@@ -119,7 +119,7 @@ At every festival I miss my family twice as much.
 Far off, I know my brothers climb the heights,
 Each wearing dogwood — all but one, out of touch.
 --
-Written when Wang Wei was only seventeen, living in the capital. On the Double Ninth (the 9th day of the 9th month), families climbed hills and wore sprigs of cornel (茱萸) to ward off evil. Instead of saying "I miss them", he imagines them missing him. Line two is the proverb every Chinese person far from home quotes at festival time.
+Written when Wang Wei was only seventeen, living in the capital. "East of the Mountains" (山东) means east of Mount Hua: his family lived in Puzhou, in today's Shanxi. On the Double Ninth (the 9th day of the 9th month), families climbed hills and wore sprigs of cornel (茱萸) to ward off evil. Instead of saying "I miss them", he imagines them missing him. Line two is the proverb every Chinese person far from home quotes at festival time.
 --
 题下原注“时年十七”，是王维少年离家、独居长安时所作。题中的“山东”指华山以东，王维家在蒲州（今山西永济），并非今天的山东省。重阳节有登高、插茱萸以避邪的习俗。诗人不说自己如何思念兄弟，却想象兄弟们登高时发现少了自己一人，从对面落笔，更见情深。“每逢佳节倍思亲”，早已是游子过节时人人会说的话。
 

@@ -40,7 +40,7 @@ Sick all my life, I climb the terrace alone — no friend of mine.
 Hardship and bitter grief have frosted all my hair;
 Worn out, I've just given up my cup of cloudy wine.
 --
-Written in autumn 767 at Kuizhou on the Yangtze, on the Double Ninth Festival, when people climbed heights with their families and drank chrysanthemum wine. Du Fu, fifty-five, sick and far from home, climbs alone — and has had to give up wine for his health. Often called the greatest seven-character regulated poem ever written: every line is part of a parallel pair, and the middle couplet's falling leaves and endless river are an image of time itself.
+Written in autumn 767 at Kuizhou on the Yangtze, probably on the Double Ninth Festival, when people climbed heights with their families and drank chrysanthemum wine. Du Fu, fifty-five, sick and far from home, climbs alone — and has had to give up wine for his health. Often called the greatest seven-character regulated poem ever written: every line is part of a parallel pair, and the middle couplet's falling leaves and endless river are an image of time itself.
 --
 大历二年（767）秋作于长江边的夔州，一般认为写于重阳登高之时。五十五岁的杜甫漂泊多年，老病缠身，独自登台，又因病刚刚戒了酒。前四句写风急天高、猿啸鸟回，“无边落木萧萧下，不尽长江滚滚来”，写的是秋景，也是时间本身；后四句写万里作客、百年多病的悲哀。全诗四联皆对，却毫无板滞之感。明人胡应麟誉之为“古今七言律第一”。
 
@@ -255,7 +255,7 @@ No home is left to ask if they're alive or dead.
 The letters that I send never reach their mark —
 And still the wars go on, and still no peace ahead.
 --
-Qinzhou, autumn 759. The night is "White Dew" (白露), one of the twenty-four solar terms, marking the turn into autumn. A single wild goose — geese fly in families, and stand for brothers — cries alone. "The moon is brighter over my hometown" became a proverb: everything is better at home.
+Qinzhou, autumn 759. The night is "White Dew" (白露), one of the twenty-four solar terms, when autumn nights turn cold and dew forms. A single wild goose — geese fly in families, and stand for brothers — cries alone. "The moon is brighter over my hometown" became a proverb: everything is better at home.
 --
 乾元二年（759）秋，杜甫弃官流寓秦州（今甘肃天水）。这年九月，史思明再度南下攻占洛阳，中原又陷战火，诗人的弟弟们分散各地，音信断绝。戍鼓声声，行人断绝，边地秋空只有一只孤雁哀鸣（古人常以“雁行”比兄弟）。“露从今夜白，月是故乡明”，时令正值白露，月亮未必真比他乡明亮，只因心系故乡，这一句便成了游子思乡的名言。末两联由思亲转到忧乱，家书难达，何况兵戈未休，一层深似一层。
 
@@ -324,7 +324,7 @@ Two reigns he served, the old minister, with all his heart and might.
 He led his army out, but died before the victory —
 And ever since, heroes have wept their sleeves wet at the sight.
 --
-Zhuge Liang (181–234), chancellor of the Shu-Han kingdom in the Three Kingdoms era, is China's model of wisdom and loyalty. Liu Bei visited his thatched hut three times to beg for his counsel; Zhuge Liang served him and then his son, and died in camp in 234 on his fifth northern campaign. Du Fu visited the shrine in Chengdu in 760. The last couplet is quoted whenever a great endeavour is cut short.
+Zhuge Liang (181–234), chancellor of the Shu-Han kingdom in the Three Kingdoms era, is China's model of wisdom and loyalty. Liu Bei visited his thatched hut three times to beg for his counsel; Zhuge Liang served him and then his son, and died in camp in 234 on his last northern campaign. Du Fu visited the shrine in Chengdu in 760. The last couplet is quoted whenever a great endeavour is cut short.
 --
 杜甫初到成都后寻访诸葛亮祠堂（今成都武侯祠）所作，一般认为在上元元年（760）春。前四句写祠堂：柏树森森，碧草自绿，黄鹂空啼，一个“自”字、一个“空”字，写出人去祠在的寂寞。后四句概括诸葛亮一生：刘备三顾茅庐，问以天下大计；他辅佐刘备开创基业，又扶助刘禅守成，鞠躬尽瘁，建兴十二年（234）病逝于五丈原军中。末联“出师未捷身先死，长使英雄泪满襟”最为沉痛。据《宋史》记载，南宋抗金名将宗泽临终时吟诵这两句，又连呼三声“过河”而逝。
 
@@ -347,7 +347,7 @@ East of the River, you watch evening clouds.
 When shall we share a jug of wine again,
 And talk of poetry, line by line, aloud?
 --
-Du Fu met Li Bai in 744 and travelled with him; after 745 they never met again. Du Fu wrote some fifteen poems about Li Bai. Yu Xin and Bao Zhao were great poets of the Southern Dynasties. "Spring trees north of the Wei, dusk clouds east of the River" — Du Fu in Chang'an, Li Bai in the south — became a set phrase for friends who miss each other.
+Du Fu met Li Bai in 744 and travelled with him; after 745 they never met again. Du Fu wrote more than ten poems about Li Bai. Yu Xin and Bao Zhao were great poets of the Northern and Southern Dynasties. "Spring trees north of the Wei, dusk clouds east of the River" — Du Fu in Chang'an, Li Bai in the south — became a set phrase for friends who miss each other.
 --
 天宝三载（744）杜甫与李白在洛阳相识，同游梁宋、齐鲁，次年在兖州分别，此后再未相见。这首诗约作于天宝五六载间，杜甫在长安。开篇直赞“白也诗无敌”，又说李白诗兼有庾信的清新、鲍照的俊逸。庾信晚年在北周官至开府仪同三司，世称庾开府；鲍照在南朝宋做过参军，世称鲍参军。“渭北春天树，江东日暮云”，一在渭北，一在江东，只写两地景物，思念自在其中，后人便用“春树暮云”指朋友间的怀念。结尾盼望能再与李白举杯，细细论诗。
 
@@ -364,7 +364,7 @@ Half on the river wind, half to the clouds they float away.
 Such music surely only heaven should possess —
 How many times can mortals ever hear it play?
 --
-General Hua Jingding had put down a rebellion in Chengdu, then let his troops loot the city — and, many commentators believe, used music reserved for the emperor at his feasts. Du Fu's lavish praise may be a veiled rebuke: "this belongs in heaven" — that is, at the imperial court, not here.
+General Hua Jingding, of the Chengdu garrison, had put down a rebellion at Mianzhou in 761, then let his troops loot the region — and, many commentators believe, used music reserved for the emperor at his feasts. Du Fu's lavish praise may be a veiled rebuke: "this belongs in heaven" — that is, at the imperial court, not here.
 --
 上元二年（761），梓州刺史段子璋叛乱，成都尹崔光远部将花敬定攻克绵州、斩杀段子璋，立下大功，随后却居功自傲，纵兵大掠东蜀。此诗表面极赞乐曲之美：锦官城里管弦终日不绝，乐声一半随江风飘散，一半飞入云端，简直只应天上才有。不少评论者认为其中暗含讽意，“天上”暗指朝廷，乐曲本是天子所用，花卿却在私宴上演奏，有僭越之嫌；也有人认为只是单纯称赞音乐。褒贬寓于言外，这正是此诗耐人寻味之处。
 
@@ -484,7 +484,7 @@ My lonely boat stays moored — my heart to my old garden tied.
 Everywhere, winter clothes speed knife and ruler on;
 High Baidi town, at dusk, hears the pounding mallets outside.
 --
-The first of "Autumn Meditations", eight linked poems written at Kuizhou in 766 and often considered the summit of Du Fu's art. Autumn in the Three Gorges: the chrysanthemums have bloomed twice since he arrived — two years stranded — and the boat that should take him home stays tied, like his heart. The sound of women beating cloth for winter clothes closes the poem in dusk and cold.
+The first of "Autumn Meditations", eight linked poems written at Kuizhou in 766 and often considered the summit of Du Fu's art. Autumn in the Three Gorges: the chrysanthemums have bloomed twice since he left Chengdu — two autumns adrift — and the boat that should take him home stays tied, like his heart. The sound of women beating cloth for winter clothes closes the poem in dusk and cold.
 --
 大历元年（766）秋，杜甫寓居夔州，写下《秋兴八首》，八首一气相连，被许多人推为杜甫七律的巅峰，这是总起的第一首。白露凋伤枫林，巫山巫峡一片萧森；江上波浪连天涌起，塞上风云压地而阴，天地间满是动荡不安之气。“丛菊两开他日泪，孤舟一系故园心”是全篇的枢纽：自离开成都，已经两度看见菊花开放，两度流泪；那条系在岸边的孤舟，也系住了他回乡的心。结尾家家赶制寒衣，白帝城头暮色里捣衣声急，客愁更深。
 
@@ -507,6 +507,6 @@ Her soul comes home in vain, jade pendants chiming, by moonlight.
 For a thousand years the pipa has sung in foreign ways,
 And in its melodies her bitter grief is told outright.
 --
-Wang Zhaojun, the "Bright Consort" (明妃), a Han palace lady, was married off to a Xiongnu khan in 33 BC. Legend says the court painter made her portrait ugly because she refused to bribe him, so the emperor never noticed her until the day she left. Her tomb on the steppe was said to stay green when all the grass around it withered. She became the symbol of talent unrecognised — and of Du Fu himself, far from court.
+Wang Zhaojun, the "Bright Consort" (明妃), a Han palace lady, was married off to a Xiongnu khan in 33 BC. Legend says she alone of the palace women refused to bribe the court painters, so the emperor never noticed her until the day she left. Her tomb on the steppe was said to stay green when all the grass around it withered. She became the symbol of talent unrecognised — and of Du Fu himself, far from court.
 --
 《咏怀古迹五首》作于大历元年（766）前后的夔州，借古迹抒写自己的身世，这一首咏王昭君。首句写群山万壑奔赴荆门，气势雄浑，只为引出昭君生长的那个村庄，至今犹在。汉元帝竟宁元年（前33），她远嫁匈奴呼韩邪单于，一别汉宫，从此与大漠相连，最后只留下一座青冢对着黄昏（相传塞外草白，唯独她的墓上草色常青）。据《西京杂记》，元帝凭画像召见宫女，宫女都贿赂画工，唯独昭君不肯，因此始终未被召见，直到临行，元帝才发现她貌冠后宫。千载琵琶声里的胡音，分明还在诉说她的怨恨。诗人远离朝廷、漂泊夔州，写昭君也是在写自己。

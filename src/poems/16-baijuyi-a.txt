@@ -17,7 +17,7 @@ Its sunlit green runs to the ruined town's abode.
 Once more I see a friend go on his way —
 The grass grows thick with all I cannot say.
 --
-Written at sixteen as an exercise on a set theme ("Composed on the Theme…", 赋得). When the young Bai Juyi brought his poems to the capital, the writer Gu Kuang joked about his name — "Juyi" means "living easily", and "rice is dear in Chang'an; living here is not easy" — until he read the second couplet and exclaimed, "With lines like these, living here will be easy!" "Wildfire cannot burn it out; the spring wind blows and it grows again" became a proverb for indomitable life.
+Written at sixteen as an exercise on a set theme ("Composed on the Theme…", 赋得). A late-Tang anecdote, doubted by scholars, says that when the young Bai Juyi brought his poems to the capital, the writer Gu Kuang joked about his name — "Juyi" means "living easily", and "rice is dear in Chang'an; living here is not easy" — until he read the second couplet and exclaimed, "With lines like these, living here will be easy!" "Wildfire cannot burn it out; the spring wind blows and it grows again" became a proverb for indomitable life.
 --
 一般认为是白居易十六岁时的习作。“赋得”是按指定题目作诗，常见于应试和习作。唐人笔记记载，他带着诗去拜见名士顾况，顾况拿他的名字打趣，说长安米价正贵，居住不易；读到“野火烧不尽，春风吹又生”，便改口说能写出这样的句子，居住就容易了。这个故事是否属实，学者多有怀疑，“长安居，大不易”却成了俗语。这两句也成了顽强生命力的象征。
 
@@ -59,7 +59,7 @@ The tender grass just covers the horses' hooves.
 Best I love the lake's east side — I can't walk it enough:
 The white-sand causeway in the green willows' shade it moves.
 --
-Hangzhou's West Lake (then called Qiantang Lake) in early spring, when Bai Juyi was its governor (822–824). Every detail is "just beginning" — early orioles, new swallows, grass just tall enough to hide a hoof. The Bai Causeway, the white-sand dyke he loved, still carries his name.
+Hangzhou's West Lake (then called Qiantang Lake) in early spring, when Bai Juyi was its governor (822–824). Every detail is "just beginning" — early orioles, new swallows, grass just tall enough to hide a hoof. The white-sand dyke he loved is today's Bai Causeway; later tradition credited him with building it, but it was there before he came.
 --
 长庆二年至四年（822—824）白居易任杭州刺史，此诗写早春的西湖（唐时称钱塘湖）。从孤山寺北、贾亭西起笔，湖水初涨，与岸齐平，云脚低垂；早莺争栖向阳的暖树，新燕衔泥筑巢；繁花渐要迷人眼，浅草刚能没马蹄，处处是初春恰到好处的分寸。诗人最爱湖东绿杨荫里的白沙堤，怎么走也走不够。这道堤就是今天的白堤，后人误以为是他所筑，称作“白公堤”，其实他在杭州主持修筑的是另一道湖堤。
 
@@ -255,6 +255,6 @@ At year's end, I've grain to spare, and milk.
 Thinking of this, I'm secretly ashamed,
 And all day long I can't forget the shame I bear.
 --
-806, when Bai Juyi was a county magistrate near Chang'an. The farmers want the day to be longer so they can harvest more, though it is killing them; the gleaning widow has lost her land to taxes. The poem's last lines — an official confessing he has done nothing to deserve his salary — are rare and remarkable in any literature.
+Around 806–807, when Bai Juyi was a county sheriff at Zhouzhi, near Chang'an. The farmers want the day to be longer so they can harvest more, though it is killing them; the gleaning widow has lost her land to taxes. The poem's last lines — an official confessing he has done nothing to deserve his salary — are rare and remarkable in any literature.
 --
 白居易早年任盩厔（今陕西周至）县尉时所作，属他提倡“为时为事”而写的讽谕诗。诗分三层：先写五月麦熟，全家老少奔忙，壮年男子在南冈上脚蒸地气、背烤烈日，累到力尽也不觉得热，只盼夏日长一些好多割几垄；再写一位抱着孩子拾麦穗的贫妇，家里的田产都为交租税卖光了，只能拾些遗穗充饥；最后诗人反躬自省：自己不耕不织，每年却领三百石俸禄，越想越惭愧。官员在诗中这样坦白自责，在古代并不多见。
