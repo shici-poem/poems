@@ -11,6 +11,7 @@ gets that line replaced by the text found in the reference JSON files.
 
 Usage: python -I tools/fill_text.py <dir-with-chinese-poetry-json-files>
 """
+import csv
 import json
 import re
 import sys
@@ -30,24 +31,38 @@ def key(s):
     return PUNCT.sub("", s)
 
 
-def walk(node, out):
+AUTHOR = {"诗经": "诗经", "曹操诗集": "曹操"}  # folders whose poems carry no author field
+
+
+def walk(node, out, author=None):
     if isinstance(node, dict):
         title = node.get("title") or node.get("chapter") or node.get("rhythmic")
-        paras = node.get("paragraphs") or node.get("para")
-        if paras and title and node.get("author"):
-            out.append((key(node["author"]), key(title), paras))
+        paras = node.get("paragraphs") or node.get("para") or node.get("content")
+        by = node.get("author") or author
+        if paras and title and by and all(isinstance(p, str) for p in paras):  # else nested 其一/其二
+            out.append((key(by), key(title), paras))
         for v in node.values():
-            walk(v, out)
+            walk(v, out, author)
     elif isinstance(node, list):
         for v in node:
-            walk(v, out)
+            walk(v, out, author)
+
+
+def load(folder):
+    """(author key, title key, paragraphs) for every poem in a dataset folder:
+    chinese-poetry's JSON files, or Werneror/Poetry's CSV files (题目, 朝代, 作者, 内容)."""
+    refs = []
+    for f in Path(folder).rglob("*.json"):
+        walk(json.loads(f.read_text(encoding="utf-8")), refs, AUTHOR.get(f.parent.name))
+    for f in Path(folder).rglob("*.csv"):
+        with f.open(encoding="utf-8", newline="") as fh:
+            refs += [(key(a), key(t), [text]) for t, _, a, text in list(csv.reader(fh))[1:]]
+    return refs
 
 
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
-    refs = []
-    for f in Path(sys.argv[1]).rglob("*.json"):
-        walk(json.loads(f.read_text(encoding="utf-8")), refs)
+    refs = load(sys.argv[1])
     print(f"{len(refs)} reference poems loaded")
 
     for path in sorted((ROOT / "src" / "poems").glob("*.txt")):

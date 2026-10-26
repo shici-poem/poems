@@ -30,7 +30,7 @@ tools/build.py                 validates src/ → data/poems.json, hant.json, cl
 tools/pinyin.mjs               pinyin-pro + src/pinyin.txt → data/pinyin.json, speech.json; page addresses into poems.json
 tools/site.mjs                 prerenders every page (simplified + hant/ traditional) with JSON-LD, sitemap.xml, og.jpg
 tools/fill_text.py             fills long Chinese texts from the chinese-poetry dataset
-tools/verify_text.py           checks every Chinese text against that dataset
+tools/verify_text.py           checks every Chinese text against chinese-poetry and Werneror/Poetry
 .github/workflows/deploy.yml   builds the site and publishes it to GitHub Pages on every push to main
 ```
 
@@ -80,7 +80,9 @@ its full address is `SITE` in `js/app.js` and `tools/site.mjs`.
 
 ## Credits
 
-- Chinese texts follow the versions taught in schools, checked against [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) (MIT).
+- Chinese texts follow the versions taught in schools, checked against two separately collected corpora,
+  [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) and [Werneror/Poetry](https://github.com/Werneror/Poetry) (both MIT),
+  and Wikisource for the few poems neither has.
 - English translations and the notes (English and Chinese) are original to this project.
 - Earlier translations, all public domain (published before 1930; translators died before 1972, so also free in Canada):
   James Legge, [*The She King*](https://archive.org/details/shekingorbookofa0000unse) (1876);

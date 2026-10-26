@@ -8,7 +8,7 @@ How the site is built: [README.md](README.md). This file lists each feature with
 
 | Status | Feature | What |
 |:-:|---|---|
-| ✅ | Poems | The best-known 378 (trimmed from 548), ranked by fame in `src/ranking.txt`; every text checked against chinese-poetry. |
+| ✅ | Poems | The best-known 378 (trimmed from 548), ranked by fame in `src/ranking.txt`; every text checked against two corpora (chinese-poetry, Werneror/Poetry) or Wikisource, each difference reviewed. |
 | ✅ | Browse & search | Era / theme / poet / form filters, most famous first everywhere (search: relevance band, then fame). Era and Theme wrap and fold separately; themes show the top 14 + "N more". |
 | ✅ | Reading | Simplified / traditional, horizontal / vertical, fonts, dark mode; one language per line on phones. |
 | ✅ | Pinyin | pinyin-pro + ~290 hand corrections, full tones, title pinyin. |
@@ -37,3 +37,4 @@ How the site is built: [README.md](README.md). This file lists each feature with
 - **Ids, not addresses:** poem ids key reading history and paintings, so page addresses can change.
 - **Built files not committed:** history holds only sources; the build is reproducible (pinned pinyin-pro, OpenCC, Node).
 - **Long Chinese texts:** filled from the dataset (`@ref` + `tools/fill_text.py`), never typed out.
+- **Text check:** two independent corpora, because each has its own typos (chinese-poetry has 木瓜 琼九); a reading found in neither is checked against the current textbook.
