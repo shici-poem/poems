@@ -18,6 +18,8 @@ But this is what my heart holds dearest —
 Though I die nine deaths, I'll not regret what's true.
 --
 From *Encountering Sorrow* (离骚), Qu Yuan's 373-line masterpiece, the longest lyric poem of ancient China, written after he was slandered and banished by the King of Chu. Fragrant plants — melilot, angelica — stand for his virtue. 虽九死其犹未悔, "though I die nine times, I will not regret it", is the creed of every principled dissenter in Chinese history.
+--
+屈原是战国时楚国的贵族，曾受楚怀王信任，后遭谗言而被疏远，晚年又被放逐江南。《离骚》是他的代表作，通常被称为我国古代最长的抒情诗，司马迁解释说：“离骚者，犹离忧也。”这几句里，诗人掩面长叹，哀叹人生多艰；自己爱好修洁，反受牵累，早上进谏，晚上就被罢黜；因佩戴蕙草、采集白芷而获罪，也不改初心。“亦余心之所善兮，虽九死其犹未悔”，成了历代志士坚守信念的誓言。（“民生”一说指人生，一说指百姓；“谇”是进谏，“替”是废弃。）
 
 == 垓下歌 | Song of Gaixia
 by: 项羽
@@ -33,6 +35,8 @@ My steed won't go — what can be done?
 Yu, my Yu — what will become of you now?
 --
 In 202 BC, surrounded at Gaixia by Liu Bang's armies and hearing the songs of his own homeland, Chu, sung in the enemy camp (四面楚歌, "Chu songs on all sides", now the idiom for being besieged), Xiang Yu drank with his beloved consort Yu and sang this song. She is said to have killed herself; he broke out, fought his last battle and died at the Wu River. The scene is the subject of the opera *Farewell My Concubine*.
+--
+公元前202年，项羽被刘邦大军围困在垓下（在今安徽境内），兵少粮尽，夜里听见汉军四面都唱起楚歌，大惊：汉军难道已经尽得楚地了吗？他起身在帐中饮酒，面对常随左右的美人虞和心爱的骏马骓，慷慨悲歌，虞姬随声应和，项羽泪下数行，左右无不哭泣，事见《史记·项羽本纪》。首句自负力能拔山、气可盖世，次句却是时运不济，连骓马也不肯前行；末了一声“虞兮虞兮奈若何”，英雄末路的无奈尽在其中。“四面楚歌”由此成为成语，京剧《霸王别姬》演的正是这一幕。
 
 == 大风歌 | Song of the Great Wind
 by: 刘邦
@@ -48,6 +52,8 @@ My power fills the world; I come back home with pride.
 Where shall I find brave men to guard the land on every side?
 --
 In 195 BC, returning as emperor to his home town of Pei after crushing a rebellion, Liu Bang feasted his old neighbours, struck a zither, and sang this song while 120 local children joined in; then he danced, and wept. Triumph and anxiety in three lines: he has won the empire — but who will hold it? He died a few months later.
+--
+汉高祖十二年（前195），刘邦亲征平定淮南王英布的叛乱，回师途中经过故乡沛县，在沛宫置酒，召来故人父老一同畅饮，又挑选沛中少年一百二十人，教他们唱歌。酒酣之际，刘邦击筑而歌，唱的就是这首《大风歌》；随后起身起舞，慷慨伤怀，泪下数行，事见《史记·高祖本纪》。首句以大风起、云飞扬写天下风云激荡，次句写威加海内、荣归故里的豪情，末句却转为隐忧：怎样才能得到猛士守卫四方？几个月后，刘邦就去世了。
 
 == 北方有佳人 | In the North There Is a Beauty
 by: 李延年
@@ -66,6 +72,8 @@ Who would not risk a city or a kingdom?
 A beauty like her is not twice known.
 --
 Sung by Li Yannian, a musician at the court of Emperor Wu of Han around 100 BC — about his own sister. The emperor asked whether such a woman existed; she was brought to him and became his beloved Lady Li. 倾城倾国, "toppling cities and states", became the stock phrase for supreme beauty.
+--
+事见《汉书·外戚传》。李延年是汉武帝宫中的乐师，精通音律，善作新声。一日他在武帝面前起舞，唱了这首歌，武帝听罢感叹：世上难道真有这样的人？平阳公主趁机说起李延年的妹妹，武帝召来一见，果然妙丽善舞，从此宠爱有加，这便是李夫人。佳人回眸一顾，城为之倾，再顾，国为之倾；明知会倾城倾国，仍叹这样的佳人难再得。“倾城倾国”从此成了形容绝色的成语。
 
 == 长歌行 | A Long Song
 by: 汉乐府
@@ -90,6 +98,8 @@ If you don't strive while young and strong,
 You'll grieve in vain when old, with no rest.
 --
 An anonymous Han ballad. 少壮不努力，老大徒伤悲 — "if you don't work hard when young, you'll grieve in vain when old" — is one of the most quoted proverbs in Chinese, painted on school walls everywhere.
+--
+汉代乐府民歌，宋人郭茂倩《乐府诗集》将它归入“相和歌辞·平调曲”。园中的葵是汉代常吃的葵菜（冬葵），并非后来从美洲传入的向日葵。诗从朝露、春光写到秋来叶黄，再写百川东流、一去不返，层层比喻时光易逝。最后两句水到渠成，“少壮不努力，老大徒伤悲”，两千年来一直是劝人珍惜青春、及时努力的格言。
 
 == 江南 | South of the River
 by: 汉乐府
@@ -110,6 +120,8 @@ Fish play south of the lotus leaves,
 Fish play north of the lotus leaves — all around!
 --
 An anonymous Han lotus-picking song. The last four lines, naming the four directions, may have been sung by a chorus answering a lead singer, the pickers' boats darting among the leaves like the fish. Pure joy, with no "meaning" at all.
+--
+汉代采莲歌，收入《乐府诗集》“相和歌辞”。相和歌一说是一人领唱、众人相和，有学者认为末四句便是众人的和声。“田田”写莲叶饱满、层层铺满水面；后面东、西、南、北四句几乎一字不换，鱼儿穿梭往来，采莲人的小船和笑语也仿佛就在其间。唐人吴兢说此诗意在“美芳晨丽景，嬉游得时”；也有人认为鱼戏莲叶暗喻男女相悦。无论哪种读法，它都是一首单纯明快的劳动之歌。
 
 == 上邪 | O Heaven Above!
 by: 汉乐府
@@ -130,6 +142,8 @@ When heaven and earth are joined in one —
 Only then will I dare to part from you!
 --
 An anonymous Han love oath in a woman's voice. The impossibilities she lists — mountains levelled, rivers dried, winter thunder, summer snow, heaven and earth merged — make it the most passionate vow of love in Chinese.
+--
+汉乐府《铙歌十八曲》中的一首，是一位女子对天立下的爱情誓言，“上邪”就是“天啊”。她先发愿与心上人相知相爱，永不衰绝；接着一口气列出五件绝不可能发生的事：高山夷为平地，江水枯竭，冬天打雷，夏天下雪，天地合而为一——到那时才敢与你分离。以不可能之事反衬爱情的坚贞，语气斩钉截铁，感情炽烈奔放。唐代敦煌曲子词《菩萨蛮·枕前发尽千般愿》也用一连串不可能之事起誓，构思与此异曲同工。
 
 == 十五从军征 | At Fifteen I Went to War
 by: 汉乐府
@@ -163,6 +177,8 @@ I went out of the gate and looked to the east,
 And my tears fell, and soaked my clothes right through.
 --
 An anonymous Han ballad. A man conscripted at fifteen comes home at eighty to find his whole family dead and his house a ruin overrun by animals and wild plants. He cooks a meal — and there is no one to share it with. One of the most devastating anti-war poems ever written, in the plainest words.
+--
+见于宋人郭茂倩所编《乐府诗集》的“梁鼓角横吹曲”，一般归入汉乐府民歌。十五岁从军，八十岁才得回乡，一生都耗在了征戍之中。路遇同乡，开口便问“家中有阿谁”，换来的回答却是松柏掩映下的累累坟冢。野兔从狗洞钻进，野鸡在梁上飞，庭中井边长满了野谷、野葵（“旅”指不经播种而自生）。老人舂谷采葵，做好了饭羹，却不知端给谁吃，只能出门东望，泪湿衣襟。全诗不发一句议论，平平叙来，兵役之苦、人生之悲已尽在其中。
 
 == 行行重行行 | On and On You Go
 by: 古诗十九首
@@ -196,6 +212,8 @@ Enough — I'll say no more of it.
 Take care, and try to eat a little more.
 --
 The first of the *Nineteen Old Poems* of the late Han. A wife writes to her absent husband — or a woman to a lover who has wandered off and may not return ("floating clouds hiding the sun" hints at another woman). Even horses and birds long for home. The famous ending turns from reproach to tenderness: forget what I said — just look after yourself and eat well.
+--
+《古诗十九首》最早见于萧统《文选》，一般认为出自东汉后期无名文人之手，刘勰誉之为“五言之冠冕”。这是第一首，写思妇怀念远行之人。开篇五字叠用四个“行”，越走越远之感扑面而来。“胡马依北风，越鸟巢南枝”，鸟兽尚且眷恋故土，远人怎会不念家？“浮云蔽白日”，或说暗指游子另有所恋，或说是他为谗言所惑。“衣带日已缓”写人渐消瘦，比直说憔悴更动人。末了满腹怨思一笔放下，只道一句“努力加餐饭”，情深而语淡。（这句一说是劝对方保重，一说是自我宽解。）
 
 == 迢迢牵牛星 | Far, Far Away, the Herdboy Star
 by: 古诗十九首
@@ -220,3 +238,5 @@ Across a single brimming stream,
 They gaze in silence, and cannot speak again.
 --
 The legend of the Herdboy (Altair) and the Weaver Girl (Vega), lovers separated by the Milky Way, told in ten lines full of doubled words (迢迢, 皎皎, 纤纤, 札札, 盈盈, 脉脉) that sound like weaving itself. The river between them is "clear and shallow" — and yet uncrossable. The source of every Seventh Night poem that followed.
+--
+《古诗十九首》的第十首，出自东汉无名文人之手。《诗经·大东》里，织女、牵牛还只是两颗徒劳无功的星辰，“不成报章”；到这首诗，二星已化作隔河相望的一对恋人。诗从织女落笔：素手纤纤，机杼札札，却终日织不成布，泪落如雨。银河又清又浅，相隔能有多远？偏偏“盈盈一水间，脉脉不得语”。十句中有六句用叠字，音节回环，情致缠绵。钟嵘《诗品》称《古诗》“惊心动魄，可谓几乎一字千金”。

@@ -12,6 +12,8 @@ I cannot know the real face of Mount Lu I seek,
 Because I stand inside the mountain — that's to blame.
 --
 Written on a wall of Xilin Temple on Mount Lu in 1084. It became a proverb about perspective: 不识庐山真面目，只缘身在此山中 — those inside a situation cannot see it clearly.
+--
+元丰七年（1084），苏轼结束黄州五年的贬谪，奉诏改迁汝州，赴任前绕道游览庐山，在山北的西林寺壁上题下此诗。前两句写庐山千姿百态：横看是连绵的山岭，侧看是挺拔的孤峰，远近高低，各不相同。后两句由景入理：看不清庐山的真面目，只因自己身在山中。这两句如今常用来说“当局者迷”，劝人跳出眼前的局限，换个角度看问题。
 
 == 饮湖上初晴后雨（其二） | Drinking on the Lake, First Sun Then Rain (II)
 by: 苏轼
@@ -27,6 +29,8 @@ If I compare the Western Lake to Xi Shi, it would appear
 Light make-up or heavy suits her equally well.
 --
 Hangzhou, 1073. Drinking on West Lake as a sunny day turns to rain, Su Shi compares the lake to Xi Shi (Xizi), the legendary beauty of the ancient state of Yue — gorgeous in any weather, as she was in any make-up. The comparison stuck: West Lake is still called "Xizi Lake".
+--
+熙宁六年（1073），苏轼任杭州通判，与友人在西湖上饮酒，这一天先晴后雨。原作两首，这是第二首。前两句一写晴、一写雨：晴时波光粼粼，雨中山色迷蒙，各有各的好。后两句把西湖比作春秋时越国的美人西施，无论淡妆还是浓妆都恰到好处，正如西湖晴雨皆宜。这个比喻深入人心，西湖从此又有了“西子湖”的别名。（“潋滟”形容水波荡漾、闪闪发光；“空蒙”是迷茫缥缈的样子。）
 
 == 惠崇春江晚景（其一） | Huichong's "Evening on the Spring River" (I)
 by: 苏轼
@@ -42,6 +46,8 @@ Wormwood covers all the ground; reed shoots are short and slight —
 Just when the pufferfish swim upriver, as we know.
 --
 Written on a painting by the monk Huichong. Su Shi adds what a painting cannot show — the warmth of the water, felt first by the ducks, and the pufferfish (a spring delicacy, cooked with wormwood and reed shoots) about to swim upstream. 春江水暖鸭先知 is now said of anyone who senses change first.
+--
+元丰八年（1085），苏轼为僧人惠崇的画作《春江晚景》题诗，原作两首，这是第一首。惠崇是北宋诗僧，也擅长画江南水乡的小景。竹外桃花、江中游鸭、满地蒌蒿和短短的芦芽都在画上，“水暖”却是画不出来的，诗人借鸭子写出了春江的温度。宋人常以蒌蒿、芦芽同煮河豚，所以末句由画中的野菜想到河豚正要溯江而上：照钱锺书的说法，鸭在画中，河豚却在诗人心里。“春江水暖鸭先知”后来常比喻身处其中的人最先察觉变化。
 
 == 赠刘景文 | For Liu Jingwen
 by: 苏轼
@@ -57,6 +63,8 @@ The finest season of the year — remember it again:
 When oranges turn gold and tangerines are green, my friend.
 --
 Hangzhou, 1090, for Liu Jingwen, a fifty-eight-year-old officer of integrity whom Su Shi admired. Late autumn, when lotus and chrysanthemums fade, is not an ending but the best season of all — the time of ripe fruit: a compliment and an encouragement for a man in later life. The chrysanthemum that "defies the frost" is Liu himself.
+--
+元祐五年（1090）苏轼任杭州知州时所作。刘景文名季孙，将门之后，时任两浙兵马都监，能诗好学，比苏轼年长几岁，这时已五十八岁，苏轼视他为国士，曾上书举荐。秋末冬初，荷叶枯尽，再没有擎雨的伞盖，菊花虽残，枝干仍然傲霜挺立；诗人却说，一年中最好的光景，正是橙子金黄、橘子青绿的时候。这是借景勉励友人：人到晚年，恰如收获的季节，不必悲秋叹老。“犹有傲霜枝”，也正是刘景文品格的写照。
 
 == 六月二十七日望湖楼醉书（其一） | Written Drunk at Lake-View Tower on the 27th Day of the Sixth Month (I)
 by: 苏轼
@@ -72,6 +80,8 @@ A wind rolls in across the ground — the squall is gone, all's still;
 Below the Lake-View Tower, the water's like the sky afloat.
 --
 Hangzhou, summer 1072. A sudden squall sweeps West Lake, from black clouds to shining calm, in four swift lines that move as fast as the storm.
+--
+熙宁五年（1072）夏，苏轼任杭州通判，六月二十七日游西湖，在望湖楼上饮酒，乘醉写下五首绝句，这是第一首。乌云像打翻的墨汁一样翻涌而来，还没遮住远山，白亮的雨点便如跳动的珍珠乱溅进船里；忽然一阵卷地狂风，把云雨吹得无影无踪，楼下湖面又平静如镜，水天一色。四句写尽一场骤雨的来去，节奏之快正如夏日的阵雨本身，“翻墨”“跳珠”的比喻也新奇传神。
 
 == 和子由渑池怀旧 | Answering Ziyou's "Remembering Mianchi"
 by: 苏轼
@@ -93,6 +103,8 @@ Do you remember still the hard road of those days —
 The long way, our weariness, the lame donkey's braying note?
 --
 A reply to his brother Su Zhe in 1061. Years before, the brothers had stayed at a temple in Mianchi and written poems on its wall; now the monk is dead and the wall has crumbled. 雪泥鸿爪, "a goose's claw-prints in snowy mud", became the idiom for the faint traces of the past — and for life itself: we leave a mark by chance, then fly on.
+--
+嘉祐六年（1061）冬，苏轼赴凤翔做官，弟弟苏辙送他到郑州，作诗怀念渑池，苏轼便写了这首和诗。当年兄弟二人赴京应考，途经渑池，曾借宿寺院，在僧房壁上题诗；如今老僧已死，只剩一座新塔，墙壁坍坏，旧题也无从寻觅。开头四句说人生到处，就像飞鸿偶然在雪泥上留下爪印，鸿飞之后，哪还顾得上东西，后来凝成成语“雪泥鸿爪”。末联追忆当年旅途的崎岖：路长人困，跛驴嘶鸣，也勉励弟弟坦然面对人生的奔波。
 
 == 海棠 | Crabapple Blossoms
 by: 苏轼
@@ -108,6 +120,8 @@ I fear the flowers will fall asleep, so late the hour —
 So I light tall candles to see their rouge once more.
 --
 Huangzhou, 1080: a single crabapple tree, a rare southern beauty growing in exile like the poet himself. As the moon moves away, Su Shi lights candles so the flowers won't "fall asleep" — in fact, so he can keep looking at them.
+--
+此诗一般系于元丰七年（1084），即苏轼贬居黄州的最后一年。东风轻拂，海棠泛着华美的光泽，花香在朦胧夜雾中弥漫，月亮已转过回廊，照不到花了。诗人怕夜深花也要睡去，特意点起高烛照着这满树红妆。“花睡”令人想起唐玄宗笑称杨贵妃醉态是“海棠睡未足”的故事（见《冷斋夜话》）；赏花之痴写得天真可爱，贬谪中的寂寞也隐约藏在这不眠之夜里。（“崇光”指花的光彩。）
 
 == 春宵 | Spring Night
 by: 苏轼
@@ -123,6 +137,8 @@ From towers and terraces, faint songs and pipes float soft;
 The courtyard with its swing lies deep in night's dark glade.
 --
 春宵一刻值千金, "a moment of a spring night is worth a thousand gold", is one of the most quoted lines in Chinese — a reminder not to waste precious time. The last two lines contrast revellers still singing in their towers with the quiet courtyards already asleep.
+--
+这首七绝写春夜良宵。春夜短暂而美好，花有清香，月下有朦胧的花影，片刻也值千金。后两句写夜深时的情景：楼台上的歌声管乐还在细细传来，曾有人荡过秋千的庭院已沉入寂静的夜色。一动一静，既写出春夜的宁静幽美，也有人从中读出对富贵人家通宵行乐的微讽。首句“春宵一刻值千金”后来成了俗语，常用来劝人珍惜美好时光。（“阴”指月光投下的花影。）
 
 == 惠州一绝（食荔枝） | A Quatrain from Huizhou (Eating Lychees)
 by: 苏轼
@@ -138,3 +154,5 @@ With three hundred lychees to eat each day, right here,
 I'd gladly live in the south forever — and never return.
 --
 Exiled at sixty to Huizhou in Guangdong — then a malarial frontier — Su Shi wrote not a lament but a love song to lychees. His cheerful refusal to be miserable is why he is the best-loved figure in Chinese literature.
+--
+绍圣元年（1094），年近六旬的苏轼被贬到岭南惠州，那里当时被视为瘴疠蛮荒之地。他却写罗浮山下四季如春，卢橘、杨梅次第成熟，只要每天能吃上三百颗荔枝，就情愿永远做岭南人。此诗原是《食荔枝二首》的第二首。表面夸赞岭南风物，底子里是随遇而安、苦中作乐的豁达；后两句流传极广，至今仍是岭南荔枝最好的“广告词”。（卢橘一般认为就是枇杷。）

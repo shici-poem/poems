@@ -38,6 +38,8 @@ All our old rivers and hills, from the start —
 Then we'll go to the palace gates, our duty done.
 --
 Traditionally attributed to Yue Fei (1103–1142), the general who fought to recover the north from the Jurchen Jin and was executed on false charges. "The shame of Jingkang" is the capture of two Song emperors by the Jin in 1127. Some scholars doubt Yue Fei wrote it — it surfaced only in the 16th century — but no lyric in Chinese is more often sung or more stirring; its savage images of revenge reflect a national trauma.
+--
+传统上认为是南宋抗金名将岳飞所作。“靖康耻”指靖康二年（1127）金兵攻破汴京、掳走徽钦二帝。“三十功名尘与土，八千里路云和月”，写半生征战的功名与风尘；“莫等闲、白了少年头，空悲切”，至今仍是勉励年轻人珍惜光阴的名句。下片誓言驾车踏破贺兰山、收复旧山河，激昂悲壮，历来被视为爱国词的代表。不过此词到明代中叶才见于记载，余嘉锡、夏承焘等学者怀疑是后人托名，邓广铭等则认为确是岳飞手笔，至今尚无定论。（“贺兰山”一说指西北的贺兰山，一说指河北磁州的同名山。）
 
 == 小重山（昨夜寒蛩不住鸣） | Lesser Layered Hills (Last Night the Crickets)
 by: 岳飞
@@ -65,6 +67,8 @@ But those who understand are few:
 If the strings should snap, who'd hear?
 --
 A quieter lyric attributed to Yue Fei, probably written when the court was pressing for peace with the Jin and he was kept from fighting. The dream of the front, the sleepless pacing, and a zither with no one to hear (the story of Boya and Ziqi once more): loyalty with no one to understand it.
+--
+一般认为作于绍兴八年（1138）前后。当时宋高宗与秦桧一意求和，岳飞力主北伐却处处受阻。秋夜蟋蟀叫个不停，惊断了千里之外的梦，他起身绕阶独行，人声寂寂，帘外月色朦胧。“白首为功名”，所求的功名是收复失地；故乡的松竹已老，归程却仍被阻隔。末句用伯牙、子期的典故：想把心事付与琴声，可知音太少，弦断了又有谁听？与《满江红》的激昂不同，这首词写的是英雄的孤独。（与和议相关的说法出自后人记载，真伪尚有争论。）
 
 == 四时田园杂兴（昼出耘田夜绩麻） | Seasonal Country Poems (By Day They Weed the Fields)
 by: 范成大
@@ -80,6 +84,8 @@ The little grandkids can't yet plough or weave —
 But in the mulberries' shade they learn to plant melons there.
 --
 One of sixty "Miscellaneous Poems on the Four Seasons of Country Life", written in retirement around 1186. Everyone in the family works — even the smallest children, copying the grown-ups by planting melons in the shade. A warm, accurate picture of farm life.
+--
+淳熙十三年（1186），范成大退居故乡苏州石湖。他在序中说，在乡间遇事便写一首绝句，一年得六十首，分春日、晚春、夏日、秋日、冬日五组，这是“夏日”中的一首。白天下田锄草，夜里把麻搓成线，村里的男男女女各自担起一份家计；连还不懂耕田织布的小孙子，也在桑树荫下学着种瓜。末句写孩子的模仿，天真可爱，也透出农家勤劳淳朴的风气。这组诗写尽一年四季的农事与乡俗，是古代田园诗的名作。（“绩麻”是把麻搓成线。）
 
 == 四时田园杂兴（梅子金黄杏子肥） | Seasonal Country Poems (The Plums Are Golden)
 by: 范成大
@@ -95,6 +101,8 @@ The days are long; no one passes by the hedge —
 Only dragonflies and butterflies flit through.
 --
 Early summer, the busiest farming season: everyone is out in the fields, so the village is empty — except for dragonflies and butterflies. Colour and stillness in four lines.
+--
+淳熙十三年（1186），退居苏州石湖的范成大随时记下田家见闻，一年得绝句六十首，按时令分为五组，这是“夏日”组中的一首。梅子黄了，杏子肥了，麦花雪白，油菜花已所剩无几，正是初夏农忙时节。白天漫长，篱笆边却不见一个行人，只有蜻蜓、蝴蝶飞来飞去。不写人忙，只写村静，人人下地劳作的情形便不言而喻了。
 
 == 小池 | The Little Pond
 by: 杨万里
@@ -110,6 +118,8 @@ A tiny lotus bud has only just poked up its tip —
 And there's a dragonfly already standing on it, come to stay.
 --
 Yang Wanli's genius for the tiny and fleeting. Everything in the little pond is treated with affection — the spring "treasures" its trickle, the shade "loves" the sunshine — and the climax is a dragonfly on a lotus bud. One of the first poems Chinese children learn.
+--
+杨万里的诗自成一家，人称“诚斋体”，不堆典故，最善于用浅白的语言捕捉自然界转瞬即逝的情趣。这首小诗写初夏的池塘：泉水悄无声息地流出，像是舍不得这一线细流；树荫倒映在水面，像是喜爱晴日的柔光。后两句是一个特写：嫩荷刚露出尖尖的角，早有一只蜻蜓立在上头。一个“才”，一个“早”，把这一瞬写得生趣盎然。此诗选入小学语文课本，是孩子们最早背诵的古诗之一。
 
 == 晓出净慈寺送林子方 | Seeing Off Lin Zifang from Jingci Temple at Dawn
 by: 杨万里
@@ -125,6 +135,8 @@ The lotus leaves reach the sky, an endless sea of green;
 The lotus flowers in the sun, a red beyond compare.
 --
 Seeing a friend off at dawn from Jingci Temple on West Lake in midsummer. 接天莲叶无穷碧，映日荷花别样红 — "lotus leaves stretching to the sky in endless green; lotus flowers in the sun, a red like no other" — is the most famous description of West Lake in summer.
+--
+原作两首，这是第二首。林子方名枅，是杨万里的朋友，这时要离开临安，去福州任职。杨万里时任秘书少监，清晨从西湖南岸的净慈寺出来为他送行，诗中却不写离愁，只写六月的西湖。首句“毕竟”二字脱口而出，像是情不自禁的赞叹；后两句一写莲叶连天、碧绿无际，一写荷花映日、红得与众不同，色彩浓烈，境界开阔。“接天莲叶无穷碧，映日荷花别样红”从此成了描写西湖夏景最有名的诗句。（一说诗中暗含劝友人留在朝中之意。）
 
 == 宿新市徐公店 | Staying at Mr Xu's Inn in Xinshi
 by: 杨万里
@@ -140,6 +152,8 @@ The children run full tilt to catch a yellow butterfly —
 It flies into the yellow rape flowers — and that's the end of it!
 --
 Spring at a village inn. The joke is all in the colour: a yellow butterfly vanishes into a field of yellow rapeseed flowers, and the children cannot find it. Pure delight.
+--
+原为两首，这是第二首，写诗人投宿乡间客店时所见的暮春景色。篱笆稀疏，小路伸向远处，枝头新叶还没长成浓荫；孩子们飞跑着追一只黄蝴蝶，蝴蝶一头飞进金黄的油菜花丛，再也找不到了。黄蝶入黄花，妙在颜色相同，童真童趣跃然纸上。杨万里善于捕捉这种转瞬即逝的生活小景，语言浅白活泼，人称“诚斋体”。
 
 == 闲居初夏午睡起（其一） | Rising from a Nap in Early Summer (I)
 by: 杨万里
@@ -155,6 +169,8 @@ The days are long; I wake from my nap with nothing on my mind,
 And idly watch the children catching willow-down, with no cause.
 --
 A drowsy early-summer afternoon: the sour taste of green plums, green light through the window, children chasing catkins. Nothing happens — and that is the pleasure.
+--
+杨万里闲居家乡时所作，很能见出“诚斋体”活泼自然的特色。午睡醒来，嘴里还留着青梅的酸味，连牙齿都酸软了；窗外芭蕉把自己的绿意“分”给了窗纱。一个“软”字，一个“分”字，写得新鲜灵动。夏日昼长，醒来懒洋洋地提不起情绪，便闲看孩子们追捉飞舞的柳絮。诗里什么事也没有发生，却把初夏的慵懒和一点童心写得活灵活现。（“柳花”即柳絮。）
 
 == 春日（朱熹） | A Spring Day
 by: 朱熹
@@ -170,6 +186,8 @@ I see the east wind's face, as easily as can be —
 Ten thousand purples, a thousand reds: it's spring all through.
 --
 On the surface a spring outing. But the Si River was where Confucius taught, and in Zhu Xi's day it lay in Jin territory — he never went there. The "spring" is the vitality of Confucius's teaching, whose countless forms all express one principle. 万紫千红 is now an everyday phrase for profusion and splendour.
+--
+表面看是一首春游诗：风和日丽的日子，到泗水边寻访春光，满眼景物焕然一新，东风吹开了万紫千红。可泗水在山东，孔子当年在洙水、泗水之间讲学，而南宋时这里早已属于金国，朱熹一生从未到过。所以“寻芳泗水”其实是追寻圣人之道，“东风”喻其教化，“万紫千红”则是道在万物中的种种体现。理学家把哲理藏进景物，写得不着痕迹。“万紫千红”后来成了形容百花齐放的常用语。
 
 == 观书有感（其一） | Thoughts on Reading (I)
 by: 朱熹
@@ -185,6 +203,8 @@ How can it stay so clear? I ask it — and here's why:
 From its source, the living water keeps on flowing in below.
 --
 The mind is a pond, kept clear only by fresh water flowing in — constant study and reflection. 源头活水, "living water from the source", is now a common phrase for fresh ideas and inspiration.
+--
+题为“观书有感”，诗中却一字不提读书。半亩见方的池塘像一面打开的镜子，天光云影在水中来回浮动；问它为什么能这样清澈，因为源头不断有活水流来。池塘比人心，活水比源源不断的新知：只有不停地读书、思考，心灵才能常保清明。以景喻理，自然贴切，“源头活水”后来成了常用的比喻。南宋以来好几处书院、园林都自称有朱熹诗中的“半亩方塘”。（“渠”是“它”，“那得”即“怎么会”。）
 
 == 扬州慢 | Slow Song of Yangzhou
 by: 姜夔
@@ -224,3 +244,5 @@ I think of the red peonies by the bridge —
 For whom do they still bloom, year after year?
 --
 Jiang Kui passed through Yangzhou in the winter of 1176, fifteen years after a Jin invasion devastated it. He sets the city of Du Mu's poems — "ten li of spring breeze", "cardamom" girls, the Twenty-four Bridges in moonlight — against the cold, empty ruin. "The ruined pools and old trees still hate to speak of war" is famous: even the trees are traumatised.
+--
+淳熙三年（1176）冬至，二十出头的姜夔路过扬州，写下这首自度曲。十五年前金主完颜亮南侵，扬州惨遭兵火，当年“春风十里”的繁华街道，如今只见青青荠麦。词中处处化用杜牧写扬州的诗句，以昔日风流反衬眼前荒凉：纵使杜牧重来，也难写出此刻的深情。“废池乔木，犹厌言兵”，连荒池老树都厌恶说起战争，陈廷焯称这四字包含无限伤乱之语。结尾桥边芍药年年照开，却不知为谁而开。词序说，前辈萧德藻读后以为有《黍离》之悲。

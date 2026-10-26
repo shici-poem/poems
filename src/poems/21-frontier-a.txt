@@ -13,7 +13,7 @@ No Hu horse would cross the Yin Hills to attack.
 --
 "Qin moon, Han passes": the same moon and the same forts have watched a thousand years of frontier war — the whole of history in one line. The Flying General was Li Guang of the Han, whom the Xiongnu feared above all others. Often called the finest quatrain of the Tang.
 --
-“秦时明月汉时关”：同一轮明月、同一座关塞，见证了千年的边塞战争，一句之中包含了整部历史。“龙城飞将”指汉代名将李广，匈奴最畏惧的人。此诗常被推为唐人七绝的压卷之作。
+首句用互文：秦汉以来，明月依旧，关塞依旧，边塞上的战争也从未停歇，一句之中包含了千年历史。“万里长征人未还”，多少征人有去无回。后两句盼望良将：“飞将”指汉代名将李广，匈奴称他“飞将军”，不敢来犯。“龙城”一说是李广任职的卢龙城，一说是卫青奇袭过的匈奴龙城。明人李攀龙推此诗为唐人七绝的压卷之作。
 
 == 从军行（其四） | Army Song (IV)
 by: 王昌龄
@@ -29,6 +29,8 @@ A hundred battles in the yellow sand have worn our armour through —
 Until we've crushed Loulan, we'll never go home; we'll stay.
 --
 Qinghai Lake, the snow-capped Qilian range and the Jade Gate Pass trace the whole north-western frontier of the Tang. The soldiers' oath in the last line — 不破楼兰终不还 — is still quoted as a vow of total resolve.
+--
+开头两句展开一幅辽阔的西北边防图：青海湖上空长云密布，遮暗了绵延的祁连雪山；戍守孤城的将士，遥望着远方的玉门关。“黄沙百战穿金甲”，七个字写尽戍边之久、战事之苦，铠甲都已磨穿，斗志却丝毫不减。楼兰是汉代西域小国，西汉傅介子曾设计斩杀楼兰王，这里借指侵扰边境的敌人。“不破楼兰终不还”，至今仍是表达必胜决心的名句。
 
 == 从军行（其五） | Army Song (V)
 by: 王昌龄
@@ -44,6 +46,8 @@ The vanguard fought by night north of the Tao — and won:
 The Tuyuhun chief's been taken alive — the news can't wait!
 --
 A burst of victory: the reinforcements are still marching into the dust storm when word arrives that the vanguard has already won. The Tuyuhun were a nomadic kingdom around Qinghai.
+--
+王昌龄《从军行》共七首，这是其中气势最紧凑的一首。大漠风沙蔽日，红旗半卷，大军顶风出营；刚要奔赴前线，捷报已经传来：前军夜战洮河之北，已活捉敌酋。诗人不写厮杀场面，只把出征与报捷两个瞬间接在一起，唐军的神速与声威尽在言外。洮河在今甘肃南部；吐谷浑本是唐初活动于青海一带的部族政权，这里借指敌军首领。王昌龄并未从军，年轻时漫游过河西、陇右，组诗多凭见闻与想象写成。
 
 == 芙蓉楼送辛渐 | Seeing Xin Jian Off at Lotus Tower
 by: 王昌龄
@@ -59,6 +63,8 @@ If kin and friends in Luoyang ask about me, tell them true:
 "A heart of ice in a pot of jade" — that's all I own.
 --
 Wang Changling, slandered and demoted, sees a friend off to Luoyang from the Lotus Tower at Zhenjiang. 一片冰心在玉壶 — a heart pure as ice in a jade vessel, unchanged by slander — became an idiom for integrity.
+--
+王昌龄任江宁丞时，在润州（今江苏镇江）城头的芙蓉楼送友人辛渐北归洛阳（一说楼在湖南黔阳）。寒雨连江，楚山孤立，离情已在景中。当时诗人仕途失意，又屡遭非议，于是托朋友带话给洛阳亲友：我的心依然像玉壶中的冰一样清澈明净。南朝鲍照有“清如玉壶冰”之句，开元初年宰相姚崇也作过《冰壶赋》，以冰壶比喻为官清廉。“一片冰心在玉壶”后来成了表白操守的名句。
 
 == 闺怨 | A Young Wife's Lament
 by: 王昌龄
@@ -74,6 +80,8 @@ She suddenly sees the green of the willows along the road —
 And rues the day she sent her man to seek a lordship's power.
 --
 A masterpiece of the sudden turn. The willows by the road — the trees of parting — make her realise in an instant what she gave up when she encouraged her husband to win a title (封侯) at the frontier.
+--
+王昌龄以七言绝句著称，后人誉为“七绝圣手”，这首闺怨诗妙在突然的一转。少妇本“不知愁”（《全唐诗》作“不曾愁”），春日里精心梳妆，登上翠楼赏景；忽然望见路边杨柳青青，心头一震：当初是自己劝丈夫去边塞博取功名，如今却独守空闺，辜负了大好春光，悔之已晚。古人有折柳送别的习俗，杨柳既是春色，也勾起了离别的记忆。首句说“不知愁”，末句却以一个“悔”字道出无限愁思，前后反差，正是全诗的精妙所在。
 
 == 采莲曲（其二） | Lotus-Picking Song (II)
 by: 王昌龄
@@ -89,6 +97,8 @@ Lost amid the pond, she cannot now be seen —
 Until a song rings out, and you know where she hides.
 --
 The girl is so like the lotus — green skirt, pink cheeks — that she vanishes among the flowers; only her song gives her away.
+--
+王昌龄《采莲曲》二首的第二首。采莲少女的罗裙与荷叶仿佛用同一块绿绸裁成，她的脸庞与两旁盛开的荷花交相映衬，人花难辨。少女们划进荷塘深处，一下子就看不见了；直到听见歌声，才知道有人来了。诗人不直写少女之美，而是让人融进花叶之中，“乱入”“看不见”“始觉”，写得活泼有趣，充满江南水乡的生活气息。（“芙蓉”即荷花。）
 
 == 登鹳雀楼 | Climbing Stork Tower
 by: 王之涣
@@ -105,7 +115,7 @@ Climb one more storey higher — and you'll see.
 --
 Stork Tower in Puzhou (Shanxi) overlooked the Yellow River. The vast first couplet — the sun vanishing behind mountains, the river rolling to a sea a thousand miles away — leads to the most quoted lines of encouragement in Chinese: to see further, climb higher (更上一层楼), now said of any effort to do better.
 --
-鹳雀楼在蒲州（今山西永济），下临黄河。前两句写白日依山而尽、黄河奔流入海，境界壮阔；后两句由景入理：要看得更远，就要再登高一层。“更上一层楼”如今常用来勉励人不断进取。
+鹳雀楼在蒲州（今山西永济），下临黄河。前两句一写山，一写河，白日西沉，黄河东去，境界壮阔；后两句由景入理：要看得更远，就得再登高一层。“更上一层楼”如今常用来勉励人不断进取。此诗作者向有争议：唐人选本《国秀集》题作朱斌《登楼》，宋代以后才通常归在王之涣名下。
 
 == 凉州词（王之涣） | Liangzhou Song (Wang Zhihuan)
 by: 王之涣
@@ -122,7 +132,7 @@ The spring wind never crosses Jade Gate Pass at all.
 --
 Liangzhou (Gansu) on the north-western frontier. "Breaking Willows" was the farewell tune — but beyond the Jade Gate there is no spring and there are no willows, so the soldiers' homesickness has nowhere to go. Legend says Wang Zhihuan, Wang Changling and Gao Shi once bet on whose poems the singing girls of a tavern would sing; the loveliest girl sang this one.
 --
-凉州在今甘肃，是唐代西北的边塞。《折杨柳》是送别的曲子，可玉门关外春风不到，连杨柳也没有，戍卒的思乡之情无处寄托。相传王之涣、王昌龄、高适曾在酒楼打赌，看歌女唱谁的诗多，最美的那位歌女唱的正是这一首。
+《凉州词》是唐代流行的曲调名，凉州即今甘肃武威一带。前两句写黄河远上白云，孤城立于万仞群山之间，苍凉壮阔。羌笛吹的《折杨柳》本是送别之曲，诗人却劝它不必哀怨：玉门关外春风不到，连杨柳也没有。唐人薛用弱《集异记》载“旗亭画壁”故事：王之涣、王昌龄、高适在酒楼打赌，看歌女唱谁的诗多，最美的那位歌女唱的正是这一首。（首句一作“黄沙直上白云间”。）
 
 == 凉州词（王翰） | Liangzhou Song (Wang Han)
 by: 王翰
@@ -139,4 +149,4 @@ Since ancient times, of those who went to war, how few came through?
 --
 Grape wine and "night-shining cups" of white jade were exotic luxuries from Central Asia, and the pipa was the instrument of the steppe. The soldiers drink before battle; the last couplet is both bravado and despair.
 --
-葡萄美酒、白玉制成的“夜光杯”都是来自西域的珍品，琵琶也是胡地的乐器。将士们出征前开怀痛饮；“醉卧沙场君莫笑，古来征战几人回”，既是豪迈，也是悲凉。
+葡萄酒、夜光杯都是来自西域的珍品，相传周穆王时西胡曾献“夜光常满杯”，以白玉之精制成，夜间能发光；琵琶也是从西域传来的乐器。一场盛宴正要开怀，马上琵琶声声催促。“催”字一说是奏乐劝饮，一说是催人出征。末两句以笑语出之：醉倒沙场也请别笑，自古出征的人有几个能回来？豪迈之中藏着悲凉。

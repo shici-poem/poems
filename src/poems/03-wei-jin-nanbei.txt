@@ -27,6 +27,8 @@ What joy, what supreme good fortune —
 I sing this song to tell my heart's ambition, deep.
 --
 Written in 207 by Cao Cao, aged fifty-three, returning from a victorious campaign in the north-east, at Jieshi on the Bohai coast. The sea that seems to hold the sun, moon and stars mirrors his own vast ambition to unify China. It is the oldest complete landscape poem in Chinese.
+--
+建安十二年（207），曹操北征乌桓得胜，班师途中登上碣石山（一般认为在今河北昌黎）。此诗原是乐府《步出夏门行》的第一章。秋风萧瑟，洪波涌起，诗人却毫无悲秋之意；日月星汉仿佛都从大海中升起，写的是海，也是胸中吞吐宇宙的气魄。末两句“幸甚至哉，歌以咏志”是合乐时附加的套语，与正文无关。此诗常被称为我国现存最早的完整山水诗。
 
 == 龟虽寿 | Though the Tortoise Lives Long
 by: 曹操
@@ -57,6 +59,8 @@ What joy, what supreme good fortune —
 I sing this song to make my heart's will known.
 --
 Written by Cao Cao on the same campaign, at fifty-three — old for his time. 老骥伏枥，志在千里；烈士暮年，壮心不已 — "the old warhorse in the stable still longs to gallop a thousand li; a hero in his last years still has a fiery heart" — is the most quoted line in Chinese on ageing with ambition.
+--
+与《观沧海》同属《步出夏门行》，作于北征乌桓归来途中，曹操已年过半百。开头直面生死：神龟、腾蛇（传说能乘雾飞行的神蛇）也终有一死；笔锋一转，便是“老骥伏枥，志在千里；烈士暮年，壮心不已”。接着又说寿命长短并非全由天定，善养身心便可延年，豁达而不消沉。据《世说新语》记载，东晋王敦每到酒后就吟诵这四句，用如意敲打唾壶打拍子，壶口都敲缺了。
 
 == 短歌行 | A Short Song
 by: 曹操
@@ -114,6 +118,8 @@ The Duke of Zhou spat out his meal —
 And all the world's heart to him goes.
 --
 Cao Cao's banquet song, written around 208. It begins with the brevity of life and with wine (Du Kang was the legendary first brewer), then quotes two *Book of Songs* poems to express his longing for men of talent to join him. The crows and magpies circling a tree, finding no branch, are able men without a lord; the Duke of Zhou, who would spit out his food three times in a meal to receive a visitor, is Cao Cao's model — and so the whole world will give him its heart. In *Romance of the Three Kingdoms* he sings it on the eve of Red Cliff.
+--
+曹操在宴席上所作的乐府诗，确切的写作年代并无定论。开篇对酒当歌，感叹人生短暂如朝露；随即借《诗经·子衿》的“青青子衿，悠悠我心”和《鹿鸣》宴请嘉宾的诗句，抒写求贤若渴之情。“月明星稀，乌鹊南飞。绕树三匝，何枝可依”，常被解作那些徘徊观望、尚无归依的贤士。结尾以周公“一饭三吐哺”礼待士人自比，“天下归心”，正是他统一天下的抱负。《三国演义》第四十八回写他在赤壁大战前夜宴长江、横槊赋诗，唱的就是这首。（杜康相传是最早酿酒的人，这里代指酒。）
 
 == 七步诗 | Seven-Pace Poem
 by: 曹植
@@ -129,6 +135,8 @@ Inside the pot, the beans weep as they stew:
 Why are you in such a hurry to cook me through?"
 --
 Legend says Cao Pi, now emperor and jealous of his brilliant younger brother Cao Zhi, ordered him to compose a poem within seven paces or be put to death. Cao Zhi produced this — beanstalks burning to cook the beans, brother destroying brother — and Cao Pi, ashamed, spared him. 相煎何太急 is still said of family or allies who turn on each other. (This is the popular four-line version.)
+--
+故事最早见于《世说新语·文学》：魏文帝曹丕忌恨才华出众的弟弟曹植，命他七步之内作成一首诗，作不出就要处以重刑。曹植应声成诗，以燃烧豆萁来煮豆子，比喻兄弟相逼，曹丕听了面有愧色。《世说新语》所载原是六句，今天流传的四句本出自《三国演义》。此事不见于正史，曹植的文集里也没有这首诗，是否真出自他手，历来有人怀疑。“本是同根生，相煎何太急”后来常用来劝诫亲人或同伴不要自相残害，“七步之才”也成了才思敏捷的代称。（“萁”是豆茎。）
 
 == 饮酒（其五） | Drinking Wine (V)
 by: 陶渊明
@@ -153,6 +161,8 @@ In this there is a deep, true meaning —
 I'd put it into words — but the words have slipped from me.
 --
 The most famous poem of China's great recluse, written around 417 after he had given up office for farming. 采菊东篱下，悠然见南山 — "picking chrysanthemums by the eastern hedge, I see, at ease, the Southern Mountain" — is the supreme image of contentment, and 心远地自偏, "with a distant heart, any place is remote", makes seclusion a state of mind. The ending echoes *Zhuangzi*: "words exist for meaning; once you have the meaning, you can forget the words."
+--
+《饮酒》二十首的第五首，作于陶渊明辞官归田多年以后。身在人间，却听不到车马喧嚣，只因“心远地自偏”：隐居在心不在地。采菊东篱，抬头偶然望见南山（指庐山），一个“见”字写出无心相遇的自然。苏轼称赞“因采菊而见山，境与意会”，并说若照俗本作“望南山”，全篇的神气就索然无味了。末两句化用《庄子》“得意而忘言”：其中真意，想要说出时，已忘了言语。
 
 == 归园田居（其一） | Returning to the Fields (I)
 by: 陶渊明
@@ -192,6 +202,8 @@ So long I lived inside a cage —
 Now I've returned to nature, and to its care.
 --
 The first of five poems "Returning to Live in the Fields", written in 406 after Tao Yuanming resigned his last post rather than "bow for five pecks of rice". The "thirty years" are probably thirteen years of official life. The plain country scene — smoke over the hamlets, a dog barking down a lane, a cock crowing in a mulberry tree — became the eternal image of rural peace.
+--
+义熙元年（405），陶渊明辞去彭泽县令，从此归隐田园，一般认为《归园田居》五首作于次年，这是第一首。他说自己生来爱丘山，却误落“尘网”，如今像羁鸟回到旧林、池鱼回到故渊。“三十年”与他出仕的年数不合，一说当作“十三年”。方宅草屋，榆柳桃李，远村炊烟，深巷狗吠，桑树鸡鸣，都是最平常的乡间景物，经他写来却恬淡亲切，成了后世田园诗的典范。末句“复得返自然”，正是他后半生的归宿。（“守拙”是安守自己的愚拙，不学世俗的机巧。）
 
 == 归园田居（其三） | Returning to the Fields (III)
 by: 陶渊明
@@ -213,6 +225,8 @@ Wet clothes are nothing I'd regret —
 As long as what I hope for can come true.
 --
 The poet-farmer is not much of a farmer — the weeds outgrow his beans — but he works from dawn till moonrise, and a damp coat is a small price for living by his own wishes. 带月荷锄归, "coming home with the moon, a hoe on my shoulder", is one of the best-loved images of the simple life.
+--
+《归园田居》五首的第三首。诗人在南山下种豆，野草疯长，豆苗稀疏，看来不是个高明的农夫；可他天一亮就下地锄草，直到月亮升起才扛着锄头回家。“带月荷锄归”，一个“带”字，仿佛月亮与他结伴同行，劳作的辛苦里透出闲适的诗意。小路狭窄，草木丛生，夜露打湿了衣裳，他却说衣湿不足惜，只要不违背自己的心愿就好。平平淡淡的农家生活，写出了他守志归田的决心。（“南山”一般认为指庐山；“荷”是扛的意思。）
 
 == 杂诗（其一） | Miscellaneous Poem (I)
 by: 陶渊明
@@ -240,6 +254,8 @@ Seize the time, and strive while you can —
 The years will wait for no one.
 --
 Life is dust on the road, so all people are brothers, and joy should be shared now. The last four lines — 盛年不重来，一日难再晨。及时当勉励，岁月不待人 — are quoted to students to urge diligence, though Tao probably meant something closer to "enjoy life while you can".
+--
+陶渊明《杂诗》共十二首，这是第一首。人生没有根蒂，就像路上的尘土随风飘散，此身早已不是恒常不变的了。既然如此，人生在世便都是兄弟，何必非得骨肉至亲；遇到欢乐就该尽情享受，备一斗酒，招邻里同饮。末四句说盛年不会重来，一天里不会有第二个早晨，应当及时自勉，岁月可不等人。如今这几句常被用来劝人珍惜光阴、勤奋向学；放回全诗看，诗人勉励的更像是及时把握眼前的欢聚。两种读法看似相反，其实都出于对光阴易逝的深切感受。
 
 == 敕勒歌 | Song of the Chile
 by: 北朝民歌
@@ -260,6 +276,8 @@ The wind blows, the grass bends low —
 And cattle and sheep are seen at last.
 --
 A song of the Chile, a nomadic people of the northern steppe, sung for a Northern Qi general in 546 and translated from their language into Chinese. The whole sky is a yurt over the grasslands; when the wind bends the tall grass, the hidden herds appear. The greatest picture of the steppe in Chinese.
+--
+敕勒是北方草原上的游牧民族，又称高车、铁勒。东魏武定四年（546），高欢率军围攻西魏的玉壁，五十多天攻不下，伤亡惨重，只得退兵。军心沮丧之际，高欢让敕勒族老将斛律金唱起这首歌，自己也跟着应和，感慨落泪。据《乐府广题》，此歌原用鲜卑语演唱，后来译成汉语，所以句子长短不齐。“天似穹庐”把苍天比作牧民的圆顶毡帐；末句“风吹草低见牛羊”，风过处草浪低伏，牛羊忽然显现，辽阔而又生动，历来被视为描写草原的千古绝唱。
 
 == 木兰诗 | The Ballad of Mulan
 by: 北朝民歌
@@ -331,3 +349,5 @@ The male hare's feet go hop, hop; the female hare's eyes squint;
 But when two hares run side by side, who can tell which is which, by any hint?
 --
 The *Ballad of Mulan*, an anonymous folk song of the Northern Dynasties (perhaps 5th–6th century). A girl takes her old father's place in the army, fights for twelve years disguised as a man, refuses high office, and goes home to put on her old clothes — to the astonishment of her comrades. The famous ending: when two hares run side by side, who can tell male from female? The story has been retold ever since, including in Disney's *Mulan*.
+--
+北朝民歌，最早著录于南朝陈释智匠的《古今乐录》，后收入宋人郭茂倩的《乐府诗集》，与《孔雀东南飞》并称“乐府双璧”。木兰代父从军，十余年征战只用“万里赴戎机”几句带过，详写的却是出征前的准备和归来后的团聚：东西南北四市买齐鞍马，爷娘、阿姊、小弟各有动作，铺排复沓，富于民歌情味。功成之后她不要尚书郎，只愿回到故乡。结尾以双兔作比，轻松俏皮，成语“扑朔迷离”即出于此。诗中“可汗”与“天子”并称，也带着北方民族的色彩。

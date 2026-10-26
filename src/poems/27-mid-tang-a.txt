@@ -13,7 +13,7 @@ Fishing the snow on the cold river's face.
 --
 Written in exile at Yongzhou (Hunan) after 805. The first characters of the four lines spell 千万孤独, "utterly alone". In a world emptied of life and buried in snow, one old fisherman sits unmoved — Liu Zongyuan's image of his own lonely integrity, and one of the most painted poems in Chinese art.
 --
-永贞革新失败后（805年），柳宗元被贬永州（今属湖南），此诗即作于贬所。四句首字连起来是“千万孤独”。千山无鸟，万径无人，天地间只有一位披蓑戴笠的老翁独钓寒江——这正是诗人孤高耿介的自我写照，也是历代画家最爱描绘的诗意之一。
+永贞元年（805）革新失败，柳宗元被贬为永州（今属湖南）司马，在那里度过了十年，此诗即作于贬所。千山无鸟，万径无人，天地间只剩一位披蓑戴笠的老翁，在大雪覆盖的寒江上独自垂钓。前两句写尽空寂，后两句收于一点，这孤傲不移的身影，正是诗人自己的写照。有人留意到，四句首字连起来恰是“千万孤独”。“寒江独钓”也成了历代画家喜爱的题材。
 
 == 渔翁 | The Old Fisherman
 by: 柳宗元
@@ -32,6 +32,8 @@ Looking back to the sky's edge, he drifts down midstream;
 Above the cliffs, the carefree clouds chase each other through.
 --
 "Ai-nai" (欸乃) is the creak of an oar or a boatman's call; at that sound the landscape seems to spring into colour as the mist clears — one of the most magical lines in Chinese. The aimless, "heartless" clouds (无心) are the fisherman's — and the exiled poet's — freedom from desire.
+--
+柳宗元贬居永州时所作。渔翁夜宿西岩，清晨汲湘江水、烧楚地竹子做饭；烟消日出，人却不见了，只听“欸乃”一声摇橹，青山绿水豁然显现。声音与颜色在一瞬间相接，是全诗最奇妙的一笔。末二句写渔翁回望天边，顺流而下，岩上白云无心相逐，化用陶渊明“云无心以出岫”，寄托诗人超脱世事的向往。苏轼称赞此诗有“奇趣”，却认为末两句可以删去；清人邢昉则说此诗高妙正在结尾，“删与不删”成了诗话中一桩著名公案。（“欸乃”是摇橹声，一说是船歌。）
 
 == 早春呈水部张十八员外（其一） | Early Spring: To Zhang the Eighteenth of the Ministry of Waters
 by: 韩愈
@@ -47,6 +49,8 @@ Of all the year, spring's best is now, I deem —
 Better than misty willows veiling the capital later on.
 --
 Han Yu, aged fifty-six, to his friend Zhang Ji. Line two is a famous observation: new grass so faint that you see it as a green haze from afar, but not when you look at your feet. Early spring, barely begun, is more precious than full spring.
+--
+长庆三年（823）早春作于长安，韩愈时年五十六岁，任吏部侍郎。张籍在族中排行十八，时任水部员外郎，是韩愈多年的好友；据说韩愈约他同去游春，他以公务繁忙、年纪已老推辞，韩愈便写诗相赠。京城街道上小雨细腻，滋润万物；“草色遥看近却无”，初生的草芽远望一片淡绿，走近却几乎看不见，体物入微，是写早春的名句。诗人说，这若有若无的早春，远胜过春深时烟柳满城的景色。（“酥”指酥油、乳酪一类，形容春雨细腻滋润。）
 
 == 左迁至蓝关示侄孙湘 | Demoted, at Lan Pass: To My Grand-Nephew Xiang
 by: 韩愈
@@ -68,6 +72,8 @@ I know you've followed me so far with purpose:
 To gather up my bones beside the fever-river's edge.
 --
 In 819 Emperor Xianzong had a finger-bone of the Buddha paraded into the palace. Han Yu, a stern Confucian, sent a memorial condemning it, was nearly executed, and was banished to Chaozhou on the far southern coast. At the snowbound Lan Pass his grand-nephew Han Xiang caught up with him. Expecting to die in the malarial south, he asks the young man to collect his bones. (He survived, and was recalled within a year.)
+--
+元和十四年（819）正月，唐宪宗迎凤翔法门寺佛骨入宫供奉，刑部侍郎韩愈上《论佛骨表》力谏，触怒皇帝，险遭处死，经裴度等人求情，贬为潮州刺史。他匆匆上路，行至蓝关，侄孙韩湘冒雪赶来与他会合。首联以“朝奏”“夕贬”、“九重天”“路八千”对举，写尽祸来之速、贬地之远；颔联直言为国除弊，岂肯因年老而顾惜残生，刚直之气凛然。“云横秦岭家何在？雪拥蓝关马不前”，前路茫茫，回望无家，是千古名句。末联托付侄孙到瘴江边收殓自己的尸骨，悲壮沉痛。（民间传说韩湘就是八仙中的韩湘子。）
 
 == 晚春 | Late Spring
 by: 韩愈
@@ -83,6 +89,8 @@ The willow-down and elm-seeds lack the talent of that throng —
 They only know to fill the sky like snowflakes in their flight.
 --
 Flowers compete in beauty before spring leaves, while plain willow catkins and elm seeds, with no colour to show, simply fill the sky like snow. Mockery — or quiet admiration for those who give what they can? Readers have argued both ways.
+--
+原题《晚春二首》，这是第一首。草木好像知道春天就要归去，于是万紫千红，竞相争艳；杨花和榆荚没有艳丽的姿色，也不甘寂寞，只会漫天飞舞，像雪花一样。把草木写得有知有情，构思新奇，是韩愈诗的本色。至于诗意，历来说法不一：有人认为是讥讽无才之人强出风头，有人认为是劝人珍惜春光、有所作为，也有人读出对杨花榆荚不计工拙、尽力而为的赞许。（“榆荚”即榆钱，榆树的种子。）
 
 == 游子吟 | The Wanderer's Song
 by: 孟郊
@@ -102,7 +110,7 @@ Could ever repay the spring sun's light so fair?
 --
 The most beloved poem in Chinese about a mother's love. Meng Jiao wrote it at fifty, when he finally received a minor post and could bring his mother to live with him. The child is "an inch of grass"; the mother's love is the sunshine of spring, which no grass can ever repay.
 --
-歌颂母爱最动人的一首诗。孟郊五十岁才得到一个小官，终于能把母亲接来同住，于是写下此诗。临行密密缝，意恐迟迟归；子女的心意如一寸小草，怎能报答春日阳光般的母爱。
+诗题下有自注“迎母溧上作”。孟郊一生困顿，四十六岁才中进士，五十岁方得溧阳县尉这个小官，终于把母亲接来奉养，写下此诗。诗人回想当年离家时，母亲一针一线密密缝衣，唯恐儿子迟迟不归；末两句以寸草比儿女之心，以春日阳光比母爱，问一句怎能报答，千百年来最能道出游子的心声。（“三春”指春季的三个月。）
 
 == 登科后 | After Passing the Examination
 by: 孟郊
@@ -118,6 +126,8 @@ Proud in the spring wind, my horse's hooves have whirred —
 In one day I've seen every flower in Chang'an town.
 --
 Meng Jiao passed the *jinshi* examination in 796, aged forty-six, after two failures. New graduates paraded through the capital and toured its gardens. Two idioms come from this poem: 春风得意, "proud in the spring wind" (flushed with success), and 走马观花, "viewing flowers from horseback" (seeing things in a hurry).
+--
+孟郊屡试不第，贞元十二年（796）才考中进士，已经四十六岁（一说四十五岁）。唐代新科进士放榜后有曲江宴饮、游赏名园等风光活动。从前的困顿不值一提，今朝心意放纵，无拘无束；春风里骑马疾驰，一天就看遍了长安的名花。全诗毫不掩饰狂喜之情，与他平日诗中的苦寒气象判若两人。“春风得意”与“走马看花”两个成语都由此而来。（“龌龊”这里指困顿窘迫，“放荡”指心情无拘束。）
 
 == 寻隐者不遇 | Seeking the Hermit, Not Finding Him
 by: 贾岛
@@ -133,6 +143,8 @@ I asked the boy beneath the pine;
 The clouds are deep; I can't say where."
 --
 Visiting a hermit and not finding him is a whole genre in Chinese poetry. Three questions are implied, three answers given; the hermit himself, lost somewhere in the clouds, becomes part of the mountain.
+--
+贾岛早年出家为僧，作诗以苦吟著称。诗人进山拜访一位隐者，在松树下问了童子一句，童子的回答便构成全诗：师父采药去了，就在这座山里，只是云雾太深，不知在哪里。问话都藏在答话之中，二十字一波三折，由希望到失望，又生出一点悬想。隐者始终没有露面，却在白云深处显得越发高洁难寻。此诗又题作《孙革访羊尊师诗》，有学者认为作者其实是孙革。
 
 == 题李凝幽居 | Written at Li Ning's Secluded Dwelling
 by: 贾岛
@@ -154,3 +166,5 @@ I leave for now, but will come back again —
 I won't break faith with this quiet place, as vowed.
 --
 The source of the story of 推敲 (*tuīqiāo*, "push–knock"): riding his donkey, Jia Dao could not decide whether the monk should "push" (推) or "knock at" (敲) the gate, and, lost in thought, rode into the procession of the governor Han Yu — who, instead of punishing him, said "knock" was better. Ever since, 推敲 means to weigh one's words with care.
+--
+贾岛早年为僧，法号无本，作诗以“苦吟”著称。诗人访友不遇，只见草径荒园，写下此诗，相约日后再来。“鸟宿池边树，僧敲月下门”是千古名句：鸟已归巢，万籁俱寂，一声敲门反衬出月夜的幽静。据《唐诗纪事》等书记载，贾岛骑驴时反复斟酌用“推”还是“敲”，不觉冲撞了韩愈的仪仗，韩愈不但没有怪罪，还停马沉思良久，说“敲”字好，还与他并辔论诗，结为布衣之交。这个传说使“推敲”成了反复斟酌字句的代称。（“云根”指山石，古人以为云从石中生出。）

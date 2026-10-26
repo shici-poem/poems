@@ -44,6 +44,8 @@ The lovely, modest maiden —
 With bells and drums he'll bring her delight.
 --
 The first poem of the *Book of Songs*, and so of all Chinese poetry — about three thousand years old. Ospreys, believed to mate for life, call to each other; a young man falls for a girl gathering water plants and dreams of winning her with music. Confucius said it showed "joy without excess, sorrow without harm". 窈窕淑女，君子好逑 is still the classic phrase for a perfect match.
+--
+《诗经》开篇第一首，出自《国风·周南》。河中小洲上，雎鸠关关和鸣，引出一位君子对美好女子的思慕。水边长短不齐的荇菜被左右采摘，诗人借此起兴，写自己日夜追求、求之不得，以致辗转反侧、彻夜难眠；最后想象着弹琴鼓瑟、敲钟击鼓去亲近她、取悦她。孔子评价说：“《关雎》乐而不淫，哀而不伤。”汉代《毛诗序》则把它解作歌颂“后妃之德”。“窈窕淑女，君子好逑”“辗转反侧”至今仍是常用的话。（“好逑”是好配偶；“芼”是择取。）
 
 == 蒹葭 | The Reeds
 by: 诗经
@@ -93,6 +95,8 @@ Downstream I go to find her —
 She's on a sandbar, out of sight.
 --
 The most haunting love song of the *Book of Songs*: an autumn river, reeds white with frost, and a beloved — 伊人, "that person" — always glimpsed across the water or in the middle of the stream, never reached. It has been read as courtship, as the search for a worthy man, and as the pursuit of every unattainable ideal.
+--
+出自《诗经·秦风》。深秋清晨，芦苇苍苍，露水凝成白霜，诗人思念的“伊人”却在河水的那一边。逆流而上去找她，道路险阻而又漫长；顺流而下去找她，她又仿佛站在水中的小洲上。三章只换了少数几个字，反复咏叹，那个人始终可望而不可即。《毛诗序》认为此诗是讽刺秦襄公不能用周礼，后人或解为求贤，更多读作情诗，也可看作对一切美好理想的追寻。王国维说它“最得风人深致”。（“溯洄”是逆流而上，“溯游”是顺流而下；“晞”是干。）
 
 == 桃夭 | The Young Peach Tree
 by: 诗经
@@ -124,6 +128,8 @@ This girl is going to be wed —
 She'll bless her new kin within.
 --
 A wedding song. The bride is a young peach tree — first its blazing blossoms (her beauty), then its fruit (children), then its thick leaves (a flourishing family). 桃之夭夭，灼灼其华 is still written on wedding cards, and 灼灼, "burning bright", is the classic word for peach blossom.
+--
+《诗经·周南》中一首祝贺新娘出嫁的歌。三章都以桃树起兴：先写满树灼灼的桃花，比新娘的美艳；再写累累的果实，寓多子之福；后写繁茂的绿叶，祝家道兴旺。古时女子出嫁称“归”；“宜其室家”，是祝她和顺地成就一个家。清人姚际恒说桃花色最艳，故以喻女子，此诗“开千古词赋咏美人之祖”，此后以桃花比美人便成了诗文的传统。如今常说的“逃之夭夭”，就是借“桃之夭夭”的谐音而来的戏语。
 
 == 采薇（节选） | Gathering Ferns (excerpt)
 by: 诗经
@@ -145,6 +151,8 @@ My heart is full of sorrow —
 No one knows my grief, or why.
 --
 The last stanza of a soldier's song, describing his return from years of fighting the Xianyun nomads in the north. 昔我往矣，杨柳依依；今我来思，雨雪霏霏 — willows when he left, snow when he returns — is often called the most beautiful couplet in the *Book of Songs*: four images hold a whole lost youth.
+--
+《诗经·小雅·采薇》的末章。全诗写一位戍边的士卒，多年抗击北方的猃狁，终于踏上归途。“昔我往矣，杨柳依依；今我来思，雨雪霏霏”：出征时杨柳依依，归来时大雪纷飞，一去一来之间，多少岁月与艰辛都不必说了。《世说新语》记载，谢安问子弟《诗经》哪句最好，谢玄便举出这四句。王夫之评它“以乐景写哀，以哀景写乐，一倍增其哀乐”。归路漫长，又饥又渴，满心伤悲却无人知晓。（“思”是句末语气词，没有实义。）
 
 == 硕鼠 | Big Rat
 by: 诗经
@@ -194,6 +202,8 @@ A happy plain, a happy plain,
 Where none will cry in vain.
 --
 A peasants' protest from the state of Wei, around the 7th century BC: the "big rat" is the lord who devours their harvest. The dream of a "happy land" (乐土) where labour is rewarded is one of the oldest utopias in literature.
+--
+《诗经·魏风》中的一首。魏是周代的小国，在今山西芮城一带，公元前661年为晋所灭。《毛诗序》说这首诗讽刺“其君重敛”。农人直呼剥削者为“硕鼠”：多年供养你，你却毫不体恤，我发誓要离开你，去寻找那片“乐土”。三章由“乐土”而“乐国”而“乐郊”，层层递进，寄托了先民对没有盘剥之地的向往，“乐土”一词也由此流传至今。（“贯”是侍奉；“逝”通“誓”；“爰得我直”是说在那里才能得到应有的报偿。）
 
 == 静女 | The Gentle Girl
 by: 诗经
@@ -225,6 +235,8 @@ It's not that you're so lovely, little grass —
 It's that you come from my lady fair.
 --
 A lovers' tryst: the girl playfully hides; the young man frets; then he treasures her humble gifts — a red reed pipe, a sprout of grass from the pasture — because she gave them. 匪女之为美，美人之贻 — "it's not you that's beautiful, but the beauty who gave you" — is the whole logic of love in a line.
+--
+出自《邶风》，写一次城角的约会。姑娘早早到了，却故意躲起来（“爱”通“薆”，隐蔽之意），急得小伙子搔首徘徊，“爱而不见，搔首踟蹰”八个字，憨态可掬。她送他一支“彤管”，又从郊野带回一株嫩茅草（荑）。草本寻常，他却觉得“洵美且异”：不是这草有多美，只因它是美人所赠。礼物的分量全在送礼的人，恋爱中人的心思被一句道尽。（“彤管”究竟是何物，历来说法不一，或说是红色的笔管，或说是红色的管状乐器。）
 
 == 子衿 | Your Collar
 by: 诗经
@@ -256,6 +268,8 @@ One day I do not see you
 Feels like three months, every hour!
 --
 A girl waits on the city wall for her lover, a student — the "blue collar" was a scholar's dress. 一日不见，如三月兮, "one day without seeing you is like three months", gave Chinese the idiom 一日三秋. Cao Cao borrowed the first couplet in his *Short Song*, turning it into a longing for men of talent.
+--
+《诗经·郑风》中的一首。女子在城楼上等候心上人，久等不来，独自来回踱步。“青衿”是青色的衣领，《毛传》说是学子的服饰，后世便以“青衿”“子衿”代称读书人。她嗔怪道：纵然我不去找你，你就不能捎个音信、不能来看我吗？“一日不见，如三月兮”，把相思写得急切而真切；《王风·采葛》有“一日不见，如三秋兮”，成语“一日三秋”即出于此。曹操《短歌行》借用开头两句，化为对贤才的渴慕。（“嗣音”是传来音讯。）
 
 == 木瓜 | The Quince
 by: 诗经
@@ -287,6 +301,8 @@ Not as payment —
 But so our love will last, day and night!
 --
 A courtship game: a girl throws fruit to the young man she likes; he answers with jade — not to "repay" her, but to pledge lasting love. 投桃报李, "a plum in return for a peach", became the idiom for exchanging kindness.
+--
+《卫风》中的一首。你赠我木瓜、木桃、木李，我回赠琼琚、琼瑶、琼玖这样的美玉，薄来厚往，却又郑重声明“匪报也”：不是为了答谢，只求永远相好。三章只换几个字，回环往复，情意越唱越深。《毛诗序》说是卫人感念齐桓公救卫之恩而作，朱熹则以为是男女相赠答之辞，今人多从后说，也有人读作朋友之谊。成语“投木报琼”即出于此；常说的“投桃报李”，语出《大雅·抑》“投我以桃，报之以李”。
 
 == 击鼓 | Beating the Drums
 by: 诗经
@@ -336,6 +352,8 @@ Alas, so long I've been away —
 I cannot keep my word to you.
 --
 A soldier's lament from the state of Wei: marching far to the south, he fears he will never return. 执子之手，与子偕老 — "I'll hold your hand and grow old with you" — originally a soldier's vow that he fears he cannot keep, is now the most popular wedding vow in China.
+--
+出自《邶风》，邶地后来并入卫国。《毛诗序》以为此诗怨刺卫君州吁用兵无度：别人留在国内筑城修漕，“我”却独自随孙子仲南行，久久不得归家；连战马也走失了，要到林下去寻，行军的狼狈可想而知。“死生契阔，与子成说。执子之手，与子偕老”，郑玄解作战士与同伍相约同生共死，后人多读作征人追忆当年与妻子的盟誓；张爱玲在《倾城之恋》中引用之后，更成了最动人的爱情誓言。可末章连用两声“于嗟”，叹的正是相隔太远、誓言难践。
 
 == 无衣 | No Clothes?
 by: 诗经
@@ -376,6 +394,8 @@ We'll ready our armour and weapons for the trail —
 We'll march together, and not fail!
 --
 A war song of the state of Qin — the future conquerors of all China — full of comradeship: soldiers share their clothes and march against a common enemy. 同袍, "sharing a cloak", is still the word for comrades-in-arms.
+--
+《秦风》中的一首。秦地西邻戎狄，民风尚武。谁说没有衣裳？我与你同披一件战袍。君王兴师，便修好戈矛，与你同仇敌忾。三章由“同仇”到“偕作”，再到“偕行”，一层紧似一层，读来慷慨激昂。据《左传·定公四年》记载，公元前506年吴师攻破楚都，楚臣申包胥到秦廷痛哭七日，秦哀公为之赋《无衣》，随即发兵救楚。后世称战友为“同袍”“袍泽”，便源于此诗。（“泽”通“襗”，指贴身的内衣。）
 
 == 黍离 | The Millet Rows
 by: 诗经
@@ -428,3 +448,5 @@ O distant, boundless blue sky —
 Who has done this? Speak!
 --
 Tradition says a Zhou official, passing the ruins of the old Western Zhou capital after it fell in 771 BC, found its palaces turned to millet fields and wrote this lament. 黍离之悲, "the grief of the millet rows", became the standard phrase for mourning a fallen dynasty or a lost homeland.
+--
+《王风》中的一首，“王”指东周王畿。《毛诗序》说，周室东迁之后，一位大夫行役经过西周旧都，只见宗庙宫室都成了黍稷之田，徘徊不忍离去，于是作了此诗。三章依次写稷由苗而穗而实，时光流转，心情也从“摇摇”到“如醉”再到“如噎”，一层深似一层。“知我者，谓我心忧；不知我者，谓我何求”，道尽了不被理解的孤独；仰问苍天“此何人哉”，悲愤无处安放。后世以“黍离之悲”指亡国之痛、故国之思。

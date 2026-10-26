@@ -19,7 +19,7 @@ The grass grows thick with all I cannot say.
 --
 Written at sixteen as an exercise on a set theme ("Composed on the Theme…", 赋得). When the young Bai Juyi brought his poems to the capital, the writer Gu Kuang joked about his name — "Juyi" means "living easily", and "rice is dear in Chang'an; living here is not easy" — until he read the second couplet and exclaimed, "With lines like these, living here will be easy!" "Wildfire cannot burn it out; the spring wind blows and it grows again" became a proverb for indomitable life.
 --
-白居易十六岁时的习作，“赋得”是按指定题目作诗的意思。相传他初到长安，拜见名士顾况，顾况拿他的名字打趣：“长安米贵，居大不易。”读到“野火烧不尽，春风吹又生”，不禁改口称赞：能写出这样的句子，在长安居住又有何难！这两句后来成了顽强生命力的象征。
+一般认为是白居易十六岁时的习作。“赋得”是按指定题目作诗，常见于应试和习作。唐人笔记记载，他带着诗去拜见名士顾况，顾况拿他的名字打趣，说长安米价正贵，居住不易；读到“野火烧不尽，春风吹又生”，便改口说能写出这样的句子，居住就容易了。这个故事是否属实，学者多有怀疑，“长安居，大不易”却成了俗语。这两句也成了顽强生命力的象征。
 
 == 忆江南（其一） | Remembering the South (I)
 by: 白居易
@@ -37,6 +37,8 @@ In spring, the river's water green as indigo's spell.
 How could I not remember the South?
 --
 Written in old age in Luoyang, remembering his years as governor of Hangzhou and Suzhou. One of the earliest *ci* lyrics by a major poet, set to the tune "Remembering the South". The colours — fire-red and indigo-green — are pure and intense, like memory itself.
+--
+白居易五十多岁时先后任杭州、苏州刺史；约开成三年（838）前后，年近古稀的他在洛阳写下《忆江南》三首，这是第一首。“谙”是熟悉的意思，江南风景早已烂熟于心。日出时江边的花红得胜过火焰，春天的江水绿得像蓝草（可制靛青的植物）一般，红绿相映，明艳夺目。末句以问作结，不说思念而思念自见。寥寥二十七字，是唐代文人小词中流传最广的作品之一。
 
 == 钱塘湖春行 | A Spring Walk by Qiantang Lake
 by: 白居易
@@ -58,6 +60,8 @@ Best I love the lake's east side — I can't walk it enough:
 The white-sand causeway in the green willows' shade it moves.
 --
 Hangzhou's West Lake (then called Qiantang Lake) in early spring, when Bai Juyi was its governor (822–824). Every detail is "just beginning" — early orioles, new swallows, grass just tall enough to hide a hoof. The Bai Causeway, the white-sand dyke he loved, still carries his name.
+--
+长庆二年至四年（822—824）白居易任杭州刺史，此诗写早春的西湖（唐时称钱塘湖）。从孤山寺北、贾亭西起笔，湖水初涨，与岸齐平，云脚低垂；早莺争栖向阳的暖树，新燕衔泥筑巢；繁花渐要迷人眼，浅草刚能没马蹄，处处是初春恰到好处的分寸。诗人最爱湖东绿杨荫里的白沙堤，怎么走也走不够。这道堤就是今天的白堤，后人误以为是他所筑，称作“白公堤”，其实他在杭州主持修筑的是另一道湖堤。
 
 == 暮江吟 | Song of the River at Dusk
 by: 白居易
@@ -73,6 +77,8 @@ How lovely is this night, the third of the ninth moon:
 Dew like real pearls; the moon a bow overhead.
 --
 Two pictures in one quatrain: sunset with the river half in shadow (瑟瑟, the blue-green of a precious stone) and half aflame; then night, with dewdrops like pearls and a slender crescent moon like a drawn bow.
+--
+一首七绝写了两幅画面。先是傍晚，夕阳贴近地面，余晖平平地“铺”在江上，背光的半江碧绿，向光的半江通红；再是入夜，九月初三的一弯新月如弓，草上的露珠颗颗似珍珠。从黄昏写到月出，时间悄悄流过，诗人一直流连江边，喜爱之情不言而喻。（“瑟瑟”原指一种碧色宝石，这里形容江水青碧；“可怜”是可爱的意思。）
 
 == 大林寺桃花 | Peach Blossoms at Dalin Temple
 by: 白居易
@@ -88,6 +94,8 @@ I always grieved that spring went off and left no trace —
 Not knowing it had come up here, and settled in.
 --
 Mount Lu, 817. High on the mountain the season lags behind the plain, so the poet finds spring still in full bloom. The small scientific observation becomes a happy surprise: spring has not vanished — it simply climbed the mountain.
+--
+元和十二年（817）四月，被贬为江州司马的白居易与十几位友人同游庐山，登香炉峰，夜宿大林寺。他在《游大林寺序》里说，这里山高地僻，时令格外晚，已是初夏，却像早春二月，山桃才刚开放。诗中把春天写成会走路的人：平地上四月花事已尽，诗人正怨春去无处可寻，不料它悄悄转到这山寺里来了。一个寻常的物候现象，写出了失而复得的惊喜，天真而有理趣。
 
 == 问刘十九 | A Question for Liu the Nineteenth
 by: 白居易
@@ -103,6 +111,8 @@ Evening falls, and the sky threatens snow —
 Will you come and drink a cup or no?
 --
 A tiny invitation that every Chinese reader treasures: the "green ants" are the bubbles floating on fresh unfiltered rice wine; the red stove glows; snow is coming. Who could refuse?
+--
+白居易贬居江州时写给友人的一封小小请柬；唐人习惯以排行相称，刘十九即刘家排行十九的朋友。新酿的米酒尚未过滤，酒面浮着细小的绿色泡沫，像一群蚂蚁，故称“绿蚁”；红泥小炉火光正暖，傍晚天色阴沉，眼看要下雪。末句只是家常一问，“能饮一杯无”，却叫人无法推辞。绿与红、冷与暖相映，二十个字里满是人情。（“醅”指未过滤的酒。）
 
 == 卖炭翁 | The Old Charcoal Seller
 by: 白居易
@@ -142,6 +152,8 @@ Half a bolt of red gauze and ten feet of silk
 They tie to the ox's head as payment — and are gone.
 --
 One of Bai Juyi's *New Yuefu*, written to expose abuses. Palace eunuchs would "buy" goods in the markets of Chang'an at whatever price they liked. The old man's wish — cold weather, though he is freezing — is one of the most poignant lines in Chinese. A worthless scrap of silk pays for his whole winter's labour.
+--
+《新乐府》中的一首，组诗作于元和四年（809），此篇题下自注“苦宫市也”。当时宫中派宦官到长安市上采买，名为购物，实同掠夺。卖炭老翁满面烟灰，十指漆黑，身上衣裳单薄，却盼着天再冷些好卖炭，“心忧炭贱愿天寒”一句，写尽穷人的两难与辛酸。好不容易等来一夜大雪，一车千余斤的炭，却被黄衣宦官和他手下的“白衫儿”用半匹红纱、一丈绫强行换走。诗人不发一句议论，在此戛然而止，愤慨尽在其中。（“直”同“值”。）
 
 == 池上 | On the Pond
 by: 白居易
@@ -157,6 +169,8 @@ She hasn't learned to hide her tracks —
 Through the duckweed, a clear path has been flicked.
 --
 A comic snapshot: the child thinks the theft is secret, but the open lane through the floating duckweed gives her away.
+--
+《池上》二首之一，一般认为是白居易晚年闲居洛阳时所作。一个小孩撑着小船，偷偷采了白莲回来，却不懂得掩藏踪迹，水面的浮萍被船划开，留下一道清清楚楚的水路。“偷采”的得意与“不解藏”的天真相映成趣，诗人含笑旁观的神情也跃然纸上。全诗像一幅速写，明白如话，正是白诗的本色。
 
 == 夜雪 | Night Snow
 by: 白居易
@@ -172,6 +186,8 @@ Deep in the night, I know the snow is heavy:
 Now and then, I hear bamboo snap in the night.
 --
 Snow is never seen directly: it is felt as cold, seen as a glow on the window-paper, and heard as bamboo stems cracking under its weight.
+--
+一般认为作于白居易贬居江州期间。咏雪诗多写雪色雪形，这首却通篇不正面写雪：先是被窝枕头冷得出奇，令人惊讶；再见窗纸一片透亮，原来是雪光映照；夜深人静，不时传来竹枝被积雪压断的声音，才知道雪下得很大。触觉、视觉、听觉层层递进，一个“重”字落在声音上，写出了夜之静、雪之厚，也隐隐透出诗人辗转难眠的孤寂。
 
 == 花非花 | A Flower That Is Not a Flower
 by: 白居易
@@ -190,6 +206,8 @@ She comes like a spring dream — how long can it last?
 She goes like morning cloud, gone without trace, gone past.
 --
 A riddling love song with no subject named — a lover's secret visits, perhaps, or a dream, or life itself. The "morning cloud" recalls the goddess of Mount Wu, who visited a king in his dream and was "morning cloud and evening rain".
+--
+句式长短错落，像一支小曲，后来“花非花”还成了词牌名。似花而非花，似雾而非雾，夜半到来，天明离去；来时如春梦一般短暂，去时像朝云一样无处寻觅。“朝云”暗用宋玉《高唐赋》中巫山神女“旦为朝云”的典故。全诗不点明所咏何物，有人以为写一段短暂的幽会，有人以为写梦，也有人读作对人生美好事物转瞬即逝的感叹。明人杨慎评此作“虽高唐、洛神，奇丽不及也”。
 
 == 观刈麦 | Watching the Wheat Harvest
 by: 白居易
@@ -238,3 +256,5 @@ Thinking of this, I'm secretly ashamed,
 And all day long I can't forget the shame I bear.
 --
 806, when Bai Juyi was a county magistrate near Chang'an. The farmers want the day to be longer so they can harvest more, though it is killing them; the gleaning widow has lost her land to taxes. The poem's last lines — an official confessing he has done nothing to deserve his salary — are rare and remarkable in any literature.
+--
+白居易早年任盩厔（今陕西周至）县尉时所作，属他提倡“为时为事”而写的讽谕诗。诗分三层：先写五月麦熟，全家老少奔忙，壮年男子在南冈上脚蒸地气、背烤烈日，累到力尽也不觉得热，只盼夏日长一些好多割几垄；再写一位抱着孩子拾麦穗的贫妇，家里的田产都为交租税卖光了，只能拾些遗穗充饥；最后诗人反躬自省：自己不耕不织，每年却领三百石俸禄，越想越惭愧。官员在诗中这样坦白自责，在古代并不多见。

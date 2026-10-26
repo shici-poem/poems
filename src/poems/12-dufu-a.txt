@@ -19,7 +19,7 @@ Soon it will be too thin a pin to hold.
 --
 Spring 757 in Chang'an, occupied by An Lushan's rebels. Du Fu was trapped in the ruined capital while his family was far away. The first line sets the empire's collapse against the indifferent permanence of nature. Lines 3–4 can be read both ways at once — the flowers and birds weep and start with him, or he weeps and starts at them. A scholar wore his hair in a topknot held with a pin; Du Fu's is falling out from grief.
 --
-至德二载（757）春，长安被安史叛军占据，杜甫困在残破的京城，家人远在他乡。首句“国破山河在”，以国家的崩毁对照山河的无情长存。三四句可作两解：花鸟也为时局溅泪惊心，或是诗人见花落泪、闻鸟惊心。古人束发插簪，诗人愁得白发越搔越短，几乎插不住簪子了。
+至德二载（757）三月作。前一年秋天，杜甫北上投奔肃宗，途中被安史叛军俘获，押回沦陷的长安，妻儿远在鄜州。首联写国破城荒，司马光评说，“山河在”可见别无余物，“草木深”可见城中无人。三四句可作两解：花鸟也为时局溅泪惊心，或是诗人见花落泪、闻鸟惊心。战火连月，一封家书抵得上万金；古人束发插簪，诗人愁得白发越搔越短，几乎插不住簪子了。
 
 == 登高 | Climbing the Heights
 by: 杜甫
@@ -42,7 +42,7 @@ Worn out, I've just given up my cup of cloudy wine.
 --
 Written in autumn 767 at Kuizhou on the Yangtze, on the Double Ninth Festival, when people climbed heights with their families and drank chrysanthemum wine. Du Fu, fifty-five, sick and far from home, climbs alone — and has had to give up wine for his health. Often called the greatest seven-character regulated poem ever written: every line is part of a parallel pair, and the middle couplet's falling leaves and endless river are an image of time itself.
 --
-大历二年（767）重阳节作于长江边的夔州。重阳本是全家登高、饮菊花酒的日子，五十五岁的杜甫却多病缠身，独自登台，连酒也因病戒了。全诗八句皆对，“无边落木萧萧下，不尽长江滚滚来”，写的是秋景，也是时间本身。明人胡应麟誉之为“古今七言律第一”。
+大历二年（767）秋作于长江边的夔州，一般认为写于重阳登高之时。五十五岁的杜甫漂泊多年，老病缠身，独自登台，又因病刚刚戒了酒。前四句写风急天高、猿啸鸟回，“无边落木萧萧下，不尽长江滚滚来”，写的是秋景，也是时间本身；后四句写万里作客、百年多病的悲哀。全诗四联皆对，却毫无板滞之感。明人胡应麟誉之为“古今七言律第一”。
 
 == 春夜喜雨 | Welcome Rain on a Spring Night
 by: 杜甫
@@ -65,7 +65,7 @@ Brocade City's flowers hang heavy, row on row.
 --
 Chengdu, 761, during the happiest years of Du Fu's life, at his thatched cottage. The rain is a considerate friend who "knows" when it is needed and arrives quietly in the night. Brocade City (锦官城) is Chengdu, once the seat of the official in charge of the silk-brocade industry — and in the morning it is indeed brocaded with flowers.
 --
-上元二年（761）作于成都草堂，正是杜甫一生中最安乐的几年。春雨像一位体贴的朋友，“知时节”，趁夜悄悄到来，润物无声。锦官城即成都，古时在此设有管理织锦的官员，因而得名；雨后清晨，满城花开，果真如锦绣一般。
+上元二年（761）春作于成都草堂，这是杜甫漂泊半生后难得安定的几年。春雨像一位体贴的朋友，“知时节”，趁夜随风悄悄到来，润物无声。颈联写雨夜：野径与云一片漆黑，只有江上船中一点灯火独明。尾联想象天亮后的成都，处处花朵饱含雨水，沉甸甸地开满全城。锦官城即成都，古时在此设官管理织锦，因而得名。全诗不见一个“喜”字，喜意却处处可见。（“发生”指催发万物生长。）
 
 == 绝句（两个黄鹂鸣翠柳） | Quatrain (Two Golden Orioles)
 by: 杜甫
@@ -82,7 +82,7 @@ At my gate, boats from Eastern Wu, ten thousand li, lie by.
 --
 Four lines, four perfectly parallel images — yellow and green, white and blue; near and far; sound and stillness — like four panels of a painted screen. Written at his Chengdu cottage in 764 when peace had briefly returned: the boats from Wu, on the lower Yangtze, mean the river route east is open again.
 --
-广德二年（764）作于成都草堂，战乱暂息，杜甫心情舒畅。四句两两对仗：黄与翠、白与青，有声有色，有近有远，宛如四扇屏风上的画。“门泊东吴万里船”，说明沿长江东下的水路又通了。
+《绝句四首》之三。广德二年（764）春，安史之乱已平，好友严武再度镇守蜀中，杜甫重回成都草堂，心境开朗。四句两两对仗：黄鹂与翠柳、白鹭与青天，有声有色；窗中是西岭千年不化的积雪，门外泊着来自东吴的万里之船，一近一远，宛如四幅连屏的小画。东吴的船能开到门前，也意味着沿江东下的水路又通了。
 
 == 望岳 | Gazing at Mount Tai
 by: 杜甫
@@ -105,7 +105,7 @@ And see how small all other mountains lie.
 --
 Written by the twenty-four-year-old Du Fu after failing the imperial examination. Mount Tai (岱宗, "the ancestor of mountains") in Shandong, the holiest of China's Five Great Peaks, is so vast that its green spans the old states of Qi and Lu. The last couplet, all youthful ambition, echoes Mencius: "Confucius climbed Mount Tai and found the world small."
 --
-二十四岁的杜甫科举落第后所作。泰山古称“岱宗”，为五岳之首，青色绵延不尽，横跨齐、鲁两地。末句“会当凌绝顶，一览众山小”，满怀少年壮志，暗用《孟子》“孔子登泰山而小天下”之意。
+杜甫一生写过三首《望岳》，分咏泰山、华山、衡山，这首写泰山，是现存杜诗中最早的作品之一。开元二十四年（736）前后，二十四岁的杜甫进士落第，漫游齐赵，途中望见泰山。泰山古称“岱宗”，为五岳之首，青色绵延不尽，横跨齐、鲁两地；山南山北，判若晨昏。末联“会当凌绝顶，一览众山小”，满怀少年壮志，暗用《孟子》“孔子登东山而小鲁，登太山而小天下”之意。（“曾”同“层”。）
 
 == 江南逢李龟年 | Meeting Li Guinian South of the River
 by: 杜甫
@@ -121,6 +121,8 @@ Now in the south, the scenery's fine again —
 And I meet you as the blossoms fall from spring.
 --
 Li Guinian was the most celebrated singer at Emperor Xuanzong's court in the golden years before the An Lushan rebellion. In 770, the last year of Du Fu's life, the two old men met again as refugees in the south. Nothing sad is said; "the season of falling flowers" says everything about the lost golden age — and about the two of them.
+--
+李龟年是开元年间名满京城的梨园乐工，安史之乱后流落江南。大历五年（770）暮春，杜甫在潭州（今湖南长沙）与他重逢，这年冬天杜甫便病逝了。岐王即唐玄宗之弟李范，崔九即殿中监崔涤，他们的府第是当年王公名流聚会之所；李范卒于开元十四年（726），可见杜甫初闻李龟年歌声时还是个少年。四十多年过去，盛世已成旧梦，两人都已老病漂泊。诗中没有一句叹息，只说“落花时节又逢君”，时世的盛衰、人生的聚散都在这落花之中。
 
 == 闻官军收河南河北 | Hearing That the Imperial Army Has Recovered Henan and Hebei
 by: 杜甫
@@ -142,6 +144,8 @@ Straight from the Gorge of Ba, we'll thread the Gorge of Wu, and run
 Down to Xiangyang, and on to Luoyang, never more to roam.
 --
 Spring 763: after eight years, the An Lushan rebellion was crushed when government troops retook the rebels' base in the north-east (Jibei). Du Fu, a refugee in Sichuan beyond the Sword Gate Pass, hears the news. Called "the most joyful poem of his life", it ends by racing through four place-names, as if the journey home were already happening.
+--
+广德元年（763）春，叛军首领史朝义兵败自尽，部将田承嗣、李怀仙相继投降，延续多年的安史之乱终告平定。杜甫当时流寓梓州（今四川三台），地处剑门以南，故称“剑外”；“蓟北”是叛军的老巢。消息传来，先是涕泪满裳，再看妻儿愁容尽散，随手卷起诗书，喜得几乎发狂。末联连用巴峡、巫峡、襄阳、洛阳四个地名，以“即从”“穿”“便下”“向”贯穿，归心似箭，一气呵成。诗人自注“余田园在东京”，东京即洛阳，那里有他的家园。前人誉之为杜甫平生最畅快的一首诗。
 
 == 茅屋为秋风所破歌 | Song of My Thatched Hut Torn by the Autumn Wind
 by: 杜甫
@@ -184,6 +188,8 @@ Ah! If ever I could see such a house rise up before my eyes,
 Then let my hut alone be broken, and I freeze to death — I'd be content!
 --
 Chengdu, autumn 761. The hut that a year earlier had brought Du Fu such peace is wrecked in a storm. The poem moves from comic misery — the village boys making off with his thatch, his exhausted shouting — to a vast compassion: he would gladly freeze if every poor scholar in the world could have a roof. It is among the most loved expressions of selflessness in Chinese literature.
+--
+上元二年（761）八月作于成都。杜甫前一年春天在浣花溪畔筑起草堂，才过上安稳日子，一场秋风便掀走了屋顶三重茅草。诗人先写茅草飞散、南村顽童抱茅而去，自己唇焦口燥、倚杖叹息；再写夜雨屋漏、布衾冷硬似铁，长夜难眠。困窘写到极处，笔锋却陡然一振：“安得广厦千万间，大庇天下寒士俱欢颜”，只要天下寒士都有安身之所，自己的茅屋独破、受冻而死也心甘情愿。由一己之苦推及天下之苦，这正是杜甫被尊为“诗圣”的胸怀。
 
 == 石壕吏 | The Officer at Shihao Village
 by: 杜甫
@@ -227,6 +233,8 @@ At dawn I set out on my way,
 And only the old man saw me go.
 --
 Spring 759, after the government army's defeat at Ye, when press-gangs were seizing anyone they could find. Du Fu, lodging in a village in Henan, records without a word of comment: at night the old woman gives herself up to save her family; at dawn only the old man is left to say goodbye. One of the "Three Officers" (三吏), his great war ballads.
+--
+乾元二年（759）春，郭子仪等九节度使的大军在邺城（今河南安阳）溃败，朝廷急于补充兵力，四处抓丁。杜甫从洛阳返回华州任所，途中投宿石壕村（在今河南三门峡），目睹了这一夜的惨事：老翁翻墙逃走，老妇出门哭诉，三个儿子都去守邺城，两个刚刚战死，家中只剩儿媳和吃奶的孙子；最后老妇自请随吏连夜去河阳军中做饭。诗人自始至终不发一句议论，只以“独与老翁别”作结，悲愤尽在不言之中。此诗与《新安吏》《潼关吏》合称“三吏”，又与“三别”并称。
 
 == 月夜忆舍弟 | Thinking of My Brothers on a Moonlit Night
 by: 杜甫
@@ -248,6 +256,8 @@ The letters that I send never reach their mark —
 And still the wars go on, and still no peace ahead.
 --
 Qinzhou, autumn 759. The night is "White Dew" (白露), one of the twenty-four solar terms, marking the turn into autumn. A single wild goose — geese fly in families, and stand for brothers — cries alone. "The moon is brighter over my hometown" became a proverb: everything is better at home.
+--
+乾元二年（759）秋，杜甫弃官流寓秦州（今甘肃天水）。这年九月，史思明再度南下攻占洛阳，中原又陷战火，诗人的弟弟们分散各地，音信断绝。戍鼓声声，行人断绝，边地秋空只有一只孤雁哀鸣（古人常以“雁行”比兄弟）。“露从今夜白，月是故乡明”，时令正值白露，月亮未必真比他乡明亮，只因心系故乡，这一句便成了游子思乡的名言。末两联由思亲转到忧乱，家书难达，何况兵戈未休，一层深似一层。
 
 == 旅夜书怀 | Thoughts While Travelling at Night
 by: 杜甫
@@ -269,6 +279,8 @@ Drifting, drifting — what is it I'm like?
 A lone gull between the earth and sky.
 --
 Written in 765 as Du Fu, having lost his patron in Chengdu, sailed down the Yangtze. The vast, luminous middle couplet — stars sagging to the plain, the moon surging in the current — sets up the final image: one small gull in the immensity of the universe.
+--
+一般认为作于永泰元年（765）。这年严武去世，杜甫失去依靠，携家离开成都，乘舟沿长江东下。岸边细草、夜里孤舟，起笔清冷；“星垂平野阔，月涌大江流”，星空低垂，原野愈显辽阔，月影随波涌动，大江奔流不息，气象雄浑。五六句话中有话：名声难道是靠文章得来的？官职倒该因老病而罢了，自嘲之中满含不平。结尾自比天地间一只飘零的沙鸥，渺小而孤独。
 
 == 登岳阳楼 | Climbing Yueyang Tower
 by: 杜甫
@@ -290,6 +302,8 @@ North of the passes, war-horses still ride —
 I lean on the rail and let my tears run free.
 --
 768, two years before Du Fu's death. Dongting Lake in Hunan is so vast that the ancient lands of Wu and Chu seem split by it, and the whole universe floats upon it. Against this immensity, Du Fu has nothing — no letters, only a boat, and war still raging in the north.
+--
+大历三年（768），杜甫离开夔州，经江陵、公安漂泊到岳州，登上早已闻名向往的岳阳楼。“昔闻”“今上”，平平道来；三四句陡然开阔：洞庭湖仿佛把吴、楚两地从东南方向分裂开来，天地日月也日夜浮动在湖水之上，气象极为雄阔。下半转入身世：亲朋音信全无，年老多病，只剩一叶孤舟；而北方关山战事未息（这年吐蕃又大举入侵），诗人倚着栏杆，涕泪交流。由一己的飘零写到家国的忧患，胸怀愈见博大。
 
 == 蜀相 | The Chancellor of Shu
 by: 杜甫
@@ -311,6 +325,8 @@ He led his army out, but died before the victory —
 And ever since, heroes have wept their sleeves wet at the sight.
 --
 Zhuge Liang (181–234), chancellor of the Shu-Han kingdom in the Three Kingdoms era, is China's model of wisdom and loyalty. Liu Bei visited his thatched hut three times to beg for his counsel; Zhuge Liang served him and then his son, and died in camp in 234 on his fifth northern campaign. Du Fu visited the shrine in Chengdu in 760. The last couplet is quoted whenever a great endeavour is cut short.
+--
+杜甫初到成都后寻访诸葛亮祠堂（今成都武侯祠）所作，一般认为在上元元年（760）春。前四句写祠堂：柏树森森，碧草自绿，黄鹂空啼，一个“自”字、一个“空”字，写出人去祠在的寂寞。后四句概括诸葛亮一生：刘备三顾茅庐，问以天下大计；他辅佐刘备开创基业，又扶助刘禅守成，鞠躬尽瘁，建兴十二年（234）病逝于五丈原军中。末联“出师未捷身先死，长使英雄泪满襟”最为沉痛。据《宋史》记载，南宋抗金名将宗泽临终时吟诵这两句，又连呼三声“过河”而逝。
 
 == 春日忆李白 | Remembering Li Bai on a Spring Day
 by: 杜甫
@@ -332,6 +348,8 @@ When shall we share a jug of wine again,
 And talk of poetry, line by line, aloud?
 --
 Du Fu met Li Bai in 744 and travelled with him; after 745 they never met again. Du Fu wrote some fifteen poems about Li Bai. Yu Xin and Bao Zhao were great poets of the Southern Dynasties. "Spring trees north of the Wei, dusk clouds east of the River" — Du Fu in Chang'an, Li Bai in the south — became a set phrase for friends who miss each other.
+--
+天宝三载（744）杜甫与李白在洛阳相识，同游梁宋、齐鲁，次年在兖州分别，此后再未相见。这首诗约作于天宝五六载间，杜甫在长安。开篇直赞“白也诗无敌”，又说李白诗兼有庾信的清新、鲍照的俊逸。庾信晚年在北周官至开府仪同三司，世称庾开府；鲍照在南朝宋做过参军，世称鲍参军。“渭北春天树，江东日暮云”，一在渭北，一在江东，只写两地景物，思念自在其中，后人便用“春树暮云”指朋友间的怀念。结尾盼望能再与李白举杯，细细论诗。
 
 == 赠花卿 | For General Hua
 by: 杜甫
@@ -347,6 +365,8 @@ Such music surely only heaven should possess —
 How many times can mortals ever hear it play?
 --
 General Hua Jingding had put down a rebellion in Chengdu, then let his troops loot the city — and, many commentators believe, used music reserved for the emperor at his feasts. Du Fu's lavish praise may be a veiled rebuke: "this belongs in heaven" — that is, at the imperial court, not here.
+--
+上元二年（761），梓州刺史段子璋叛乱，成都尹崔光远部将花敬定攻克绵州、斩杀段子璋，立下大功，随后却居功自傲，纵兵大掠东蜀。此诗表面极赞乐曲之美：锦官城里管弦终日不绝，乐声一半随江风飘散，一半飞入云端，简直只应天上才有。不少评论者认为其中暗含讽意，“天上”暗指朝廷，乐曲本是天子所用，花卿却在私宴上演奏，有僭越之嫌；也有人认为只是单纯称赞音乐。褒贬寓于言外，这正是此诗耐人寻味之处。
 
 == 江畔独步寻花（其六） | Walking Alone by the River in Search of Flowers (VI)
 by: 杜甫
@@ -362,6 +382,8 @@ The playful butterflies keep dancing, lingering for hours;
 The carefree orioles sing their sweet songs, just so.
 --
 One of seven quatrains Du Fu wrote in Chengdu on a solitary walk in search of spring flowers. Fourth Sister Huang was a neighbour. The doubled sounds 留连, 时时, 自在, 恰恰 make the lines dance and sing like the creatures they describe.
+--
+《江畔独步寻花七绝句》的第六首，杜甫定居成都草堂后的一个春天所作（一般认为在上元二年，761）。诗人独自沿江寻花，来到邻居黄四娘家：繁花开满小路，千朵万朵把枝条都压低了。蝴蝶流连花间不肯离去，黄莺自由自在地啼鸣。以平常人家入诗，又直呼其名，亲切如话。“留连”“自在”是双声词，“时时”“恰恰”是叠字，读来声调宛转，仿佛也有蝶舞莺啼。（“恰恰”一说是鸟鸣声，一说是“正好”的意思。）
 
 == 绝句（迟日江山丽） | Quatrain (Long Spring Days)
 by: 杜甫
@@ -377,6 +399,8 @@ The mud has thawed — the swallows fly to build;
 On warm sand, mandarin ducks doze as the hours pass.
 --
 Chengdu, 764. A first poem for many Chinese schoolchildren: four lines, four images of spring — light, scent, motion (swallows gathering soft mud for their nests) and stillness (a pair of mandarin ducks, symbols of devoted couples, asleep on the warm sand).
+--
+杜甫居住成都草堂时所作，一般认为在广德二年（764）春，诗人历经漂泊重回草堂，心境比较安适。“迟日”即春日，语出《诗经·豳风·七月》“春日迟迟”，形容春天白昼渐长、阳光和煦。前两句写大景：阳光下江山明丽，春风送来花草清香；后两句写小景：泥土解冻变软，燕子忙着衔泥筑巢，沙滩晒暖了，鸳鸯成双酣睡。一动一静，色、香、声、态俱全，二十个字如同一幅明快的春景图。
 
 == 月夜 | Moonlit Night
 by: 杜甫
@@ -398,6 +422,8 @@ When shall we lean by the thin curtain, side by side,
 Our tear-stains dried together in the moonlight?
 --
 Autumn 756. Du Fu had left his wife and children at Fuzhou to join the new emperor, but was captured by rebels and held in Chang'an. Instead of describing his own longing, he imagines his wife gazing at the moon alone — one of the very few Tang poems about a man's love for his wife, and one of the most tender.
+--
+天宝十五载（756），安史叛军攻入关中，杜甫把家人安置在鄜州羌村，只身北上投奔刚在灵武即位的唐肃宗，途中被叛军俘获，困在长安。这一夜望月，他不写自己如何想家，却想象妻子在鄜州独自看月；年幼的儿女还不懂得思念远在长安的父亲，只有她一人牵挂。雾气打湿了她的鬓发，月光照得手臂生寒，可见她久久伫立。结尾盼望有一天两人同倚帷帘，让月光照干彼此的泪痕。从对方落笔，更见深情，是杜甫写给妻子最动人的一首诗。（“虚幌”指透光的薄帷。）
 
 == 客至 | A Guest Arrives
 by: 杜甫
@@ -419,6 +445,8 @@ If you'd be willing, let us drink with my old neighbour —
 I'll call him over the fence to drain the last cups here.
 --
 Chengdu, 761: a visit from a county magistrate named Cui. Du Fu's apologies for his humble fare are full of warmth, and the closing picture — calling the old neighbour over the hedge to finish the wine — is the essence of simple country friendship.
+--
+题下自注“喜崔明府相过”，唐人称县令为“明府”。上元二年（761）杜甫住在成都草堂，春水环绕，只有鸥鸟日日飞来，平日少有客至。“花径不曾缘客扫，蓬门今始为君开”，花间小路从未为客人打扫，柴门今天第一次为你打开，喜悦之情溢于言表。离集市远，菜没有几样；家里穷，只有隔年的陈酒，主人的歉意说得坦率而亲切。末尾忽发奇想：你若肯和邻家老翁对饮，我就隔着篱笆喊他过来，把剩下的酒喝完。乡居的朴实与待客的真诚，都在这家常话里。
 
 == 八阵图 | The Eight-Array Plan
 by: 杜甫
@@ -434,6 +462,8 @@ The river flows; its stones will never shift —
 Regret for the war on Wu is all that still remains.
 --
 The Eight-Array Plan was Zhuge Liang's battle formation; stone mounds said to mark it stood on a sandbar of the Yangtze at Kuizhou, unmoved by floods for centuries — like his loyalty. The last line has two readings: regret that Liu Bei's disastrous attack on Wu broke their alliance, or regret at never conquering Wu at all.
+--
+大历元年（766）杜甫初到夔州时所作。《三国志》记载诸葛亮推演兵法，作八阵图；夔州江边的沙滩上留有石块垒成的阵迹，相传便是他所布。前两句对仗工整，概括诸葛亮一生：辅佐刘备三分天下，功业盖世，八阵图更让他名垂后世。“江流石不转”，江水冲刷了五百年，石阵依然不动，仿佛他至死不渝的忠心。末句历来解说不一：一说遗憾刘备执意伐吴，破坏了吴蜀联盟，以致大败；一说遗憾终究未能吞并东吴。短短二十字，咏史而感慨深长。
 
 == 秋兴八首（其一） | Autumn Meditations (I)
 by: 杜甫
@@ -455,6 +485,8 @@ Everywhere, winter clothes speed knife and ruler on;
 High Baidi town, at dusk, hears the pounding mallets outside.
 --
 The first of "Autumn Meditations", eight linked poems written at Kuizhou in 766 and often considered the summit of Du Fu's art. Autumn in the Three Gorges: the chrysanthemums have bloomed twice since he arrived — two years stranded — and the boat that should take him home stays tied, like his heart. The sound of women beating cloth for winter clothes closes the poem in dusk and cold.
+--
+大历元年（766）秋，杜甫寓居夔州，写下《秋兴八首》，八首一气相连，被许多人推为杜甫七律的巅峰，这是总起的第一首。白露凋伤枫林，巫山巫峡一片萧森；江上波浪连天涌起，塞上风云压地而阴，天地间满是动荡不安之气。“丛菊两开他日泪，孤舟一系故园心”是全篇的枢纽：自离开成都，已经两度看见菊花开放，两度流泪；那条系在岸边的孤舟，也系住了他回乡的心。结尾家家赶制寒衣，白帝城头暮色里捣衣声急，客愁更深。
 
 == 咏怀古迹（其三） | Thoughts on Ancient Sites (III)
 by: 杜甫
@@ -476,3 +508,5 @@ For a thousand years the pipa has sung in foreign ways,
 And in its melodies her bitter grief is told outright.
 --
 Wang Zhaojun, the "Bright Consort" (明妃), a Han palace lady, was married off to a Xiongnu khan in 33 BC. Legend says the court painter made her portrait ugly because she refused to bribe him, so the emperor never noticed her until the day she left. Her tomb on the steppe was said to stay green when all the grass around it withered. She became the symbol of talent unrecognised — and of Du Fu himself, far from court.
+--
+《咏怀古迹五首》作于大历元年（766）前后的夔州，借古迹抒写自己的身世，这一首咏王昭君。首句写群山万壑奔赴荆门，气势雄浑，只为引出昭君生长的那个村庄，至今犹在。汉元帝竟宁元年（前33），她远嫁匈奴呼韩邪单于，一别汉宫，从此与大漠相连，最后只留下一座青冢对着黄昏（相传塞外草白，唯独她的墓上草色常青）。据《西京杂记》，元帝凭画像召见宫女，宫女都贿赂画工，唯独昭君不肯，因此始终未被召见，直到临行，元帝才发现她貌冠后宫。千载琵琶声里的胡音，分明还在诉说她的怨恨。诗人远离朝廷、漂泊夔州，写昭君也是在写自己。

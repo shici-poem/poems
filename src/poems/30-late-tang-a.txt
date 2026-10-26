@@ -18,6 +18,8 @@ I think of last night's dream of Duling, where
 Wild ducks and geese filled the winding pond, all.
 --
 The second couplet, 鸡声茅店月，人迹板桥霜, is made entirely of nouns — six images, no verbs — yet tells a whole story: an early start, the moon still up, a cock crowing, someone already gone ahead over the frosty bridge. Poets imitated it for centuries, and it anticipates the Imagism of Ezra Pound. Duling, near Chang'an, was the poet's home.
+--
+商山在今陕西商洛，是长安往东南去的必经之路，一般认为此诗作于温庭筠大中末年离开长安途中。颔联“鸡声茅店月，人迹板桥霜”全由名词组成，不用一个动词：鸡鸣、茅店、残月，霜上已有行人的足迹，早行的寒冷与辛苦尽在其中。宋人梅尧臣举此联为例，说道路辛苦、羁愁旅思“见于言外”。颈联写槲叶落满山路、白色的枳花映亮驿墙；末联由眼前转入梦中，梦见杜陵（指长安）一带回塘里满是凫雁。
 
 == 望江南（梳洗罢） | Gazing South of the River (Done with Her Toilette)
 by: 温庭筠
@@ -35,6 +37,8 @@ The slanting sun lingers, loving; the waters flow forever.
 Her heart breaks at White Duckweed Isle.
 --
 A whole day of waiting in five lines: she dresses up in the morning and watches the river until sunset. The slanting light seems tender (脉脉), the water indifferent (悠悠). White Duckweed Isle may be where they parted.
+--
+短短五句，写尽一位女子一整天的等待。清早梳洗完毕，独自倚在江楼上眺望；千帆一一驶过，没有一只是那人的船。从晨到暮，只剩斜阳含情脉脉，江水悠悠自流，希望一点点落空，最后望着江中的白蘋洲肝肠寸断，那里或许正是当年分别之处。温庭筠的词多以浓丽见称，这一首却明白如话，清淡含蓄，余味不尽。
 
 == 菩萨蛮（小山重叠金明灭） | Buddhist Barbarian (Little Hills, Layer on Layer)
 by: 温庭筠
@@ -58,6 +62,8 @@ And on her new silk jacket, freshly sewn, you see
 Golden partridges embroidered, two by two.
 --
 The model of the Huajian ("Among the Flowers") style: a lady's morning toilette in gold, snow-white and silk — and, in the last line, embroidered partridges in pairs, quietly pointing to her solitude. The "little hills" may be the hills painted on her folding screen, glinting gold in the morning light, or her eyebrows, or golden combs in her hair. *Pusa Man* ("Buddhist Barbarian") is the name of the tune.
+--
+《花间集》开卷第一首，是温庭筠“花间”词风的代表。全词只写一位女子晨起梳妆：鬓发如云，将要掠过雪白的香腮；懒懒起身画眉，慢慢梳洗；前后两面镜子照着簪花，花与人面交相辉映；最后换上新绣的罗襦，上面是一双双金鹧鸪。通篇不着一字言情，只在末句以鹧鸪成双，暗暗反衬人的孤单。首句“小山”所指历来有争议，或说是屏风上的山，或说是眉，或说是额黄，至今未有定论。
 
 == 新添声杨柳枝词（其二） | Willow Branch Song, New Version (II)
 by: 温庭筠
@@ -73,6 +79,8 @@ The dainty dice of bone are inlaid with love-beans, red and clear —
 This longing's sunk into the bone: do you know it, soon or late?
 --
 A love song built entirely of puns. A lamp at the bottom of a well is a "deep candle" (深烛), which sounds like 深嘱, "earnestly urge". "Long Journey" (长行) was a dice game; weiqi (围棋, Go) sounds like 违期, "break the appointed day". Dice were made of bone, and their red pips are "red beans" — the seeds of love-longing — so the longing is literally inlaid "into the bone" (入骨). 玲珑骰子安红豆，入骨相思知不知 is one of the most quoted love lines in Chinese.
+--
+一首通篇用谐音双关的情歌，口吻是女子叮咛情郎。井底点灯，是“深烛”，谐“深嘱”，嘱咐得深切；“长行”是唐代一种掷骰子的博戏，又谐长途远行；“围棋”谐“违期”，叮嘱他远行莫误了归期。骰子用骨制成，上面点着红色的点子，诗人说那是镶进去的红豆，相思便刻进了骨头里。“玲珑骰子安红豆，入骨相思知不知”，至今仍是最常被引用的情诗名句之一。
 
 == 台城 | The Palace Wall
 by: 韦庄
@@ -88,6 +96,8 @@ Most heartless are the willows by the Palace Wall —
 Still veiling ten li of embankment in their mist, the same.
 --
 Taicheng, the palace city of Nanjing, was the seat of six short-lived southern dynasties. In the late Tang, as his own dynasty collapsed, Wei Zhuang finds only rain, grass and birds. The willows are "heartless" because they go on being beautiful, untouched by the fall of kingdoms.
+--
+台城是六朝宫城所在，遗址在今南京，曾经的繁华如今只剩凭吊。韦庄流寓江南时来到这里，正值唐朝自身也风雨飘摇。江上细雨霏霏，江边春草齐齐，六朝兴亡恍如一梦，只有鸟儿空自啼叫。后两句怪罪柳树“无情”：台城柳不管人间兴废，依旧如烟似雾，笼罩着十里长堤。以景之不变衬人世之变，柳越是无情，凭吊者越是伤情，其中也藏着对晚唐时局的忧惧。
 
 == 菩萨蛮（人人尽说江南好） | Buddhist Barbarian (Everyone Says the South Is Fine)
 by: 韦庄
@@ -111,6 +121,8 @@ Don't go home till you are old — for if you go too soon,
 Home will only break your heart with woe.
 --
 Written in the south after the sack of Chang'an. The South's beauty — water bluer than the sky, rain on a painted boat, a moon-pale girl by the wine stove — is real; but the last couplet reveals why he stays: home is in ruins, and to go back would break his heart.
+--
+黄巢攻占长安后，韦庄与亲人离散，流寓江南多年，这组《菩萨蛮》写的便是江南岁月（一说为晚年在蜀中追忆之作）。人人都说江南好，游子只该在江南终老：春水比天还碧，躺在画船里听雨入眠；酒垆边的女子明艳如月，手腕洁白如凝霜雪。末两句才吐露隐衷：没老之前不要回乡，回去了必定肝肠寸断。故乡已在战火中残破，有家难回，越写江南之美，越见思乡之苦。
 
 == 蜂 | Bees
 by: 罗隐
@@ -126,6 +138,8 @@ They gather from a hundred flowers, and make their honey — though
 For whom the toil? For whom the sweetness, in the comb?
 --
 The bees work all their lives, and others eat the honey — Luo Yin's sharp parable of the common people who labour for the rich. 为谁辛苦为谁甜 is still said of anyone who works hard for others' benefit.
+--
+罗隐是晚唐诗人，本名罗横，屡试不第，愤而改名“隐”，诗文多含讥刺。前两句写蜜蜂无处不到，无论平地还是山巅，无限风光都被它占尽，似乎得意风光；后两句陡然一问：采遍百花酿成蜜，究竟为谁辛苦、为谁甜？一扬一抑，赞美中含着同情与不平。人们常把它读作为终年劳作却被人坐享其成者鸣不平，“为谁辛苦为谁甜”也成了常用语。
 
 == 自遣（罗隐） | Consoling Myself
 by: 罗隐
@@ -141,3 +155,5 @@ If I have wine today, I'll drink today, carefree;
 Tomorrow's worries can wait until tomorrow's day.
 --
 Luo Yin failed the imperial examination ten times. His answer — 今朝有酒今朝醉, "if there's wine today, get drunk today" — became the motto of carefree living, quoted sometimes with approval and sometimes not.
+--
+罗隐二十岁起应进士试，据说考了十次都没考中（一说六次），满腹才学却仕途无门。这首诗说：得意时就放声高歌，失意了也就罢休，愁也好恨也好，都随它去；今天有酒今天便醉，明天的愁明天再愁。看似旷达洒脱，其实是长期失意后的自我排遣，豁达里带着苦涩。“今朝有酒今朝醉”后来成了俗语，有时说人豁达，更多时候用来批评人只顾眼前、得过且过。

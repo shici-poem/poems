@@ -13,7 +13,7 @@ They hold the deepest longing, dear.
 --
 The red bean (红豆), a bright scarlet seed of the south, is called the "love-longing seed" (相思子) after a legend of a woman who wept beneath a tree for her husband killed at the frontier until her tears turned into red beans. Wang Wei wrote the poem for his friend, the singer Li Guinian, who sang it at banquets; it became one of the most-sung lyrics of the Tang.
 --
-红豆产于南方，色泽鲜红，又名“相思子”。相传有女子的丈夫战死边地，她在树下痛哭，泪尽化为红豆。此诗是王维写给友人、乐工李龟年的，李龟年常在筵席上演唱，成为唐代传唱最广的歌词之一。
+红豆产于南方，色泽鲜红，又名“相思子”。宋人《古今诗话》记载，有人死于边地，妻子思念他，在树下痛哭而死，此树因此得名。借红豆寄托相思，王维这首诗是最早也最有名的一例。据唐人范摅《云溪友议》，安史之乱后，名乐工李龟年流落湘中，曾在筵席上唱这首诗，满座听了无不黯然。此诗一题《江上赠李龟年》，第二句也有作“秋来发故枝”的。
 
 == 鹿柴 | Deer Park
 by: 王维
@@ -30,7 +30,7 @@ And shines again upon the moss of green.
 --
 One of the twenty quatrains of the *Wangchuan Collection*, written at Wang Wei's country estate. Nothing happens — voices without people, a slant of evening light on moss — yet the poem has been called the purest expression of Chan (Zen) stillness in Chinese verse. Translators love it: Eliot Weinberger wrote a whole book, *Nineteen Ways of Looking at Wang Wei*, comparing versions of these twenty characters.
 --
-《辋川集》二十首之一，写于王维的辋川别业。空山不见人，只闻人语响；一抹夕阳返照入深林，又落在青苔上。看似什么也没发生，却被誉为诗中禅境的极致。这二十个字也是译者的最爱，美国作家温伯格（Eliot Weinberger）专门写过一本书，比较它的十几种英译。
+《辋川集》二十首之一，写王维辋川别业中的一处景致，好友裴迪也有同题之作。空山不见人，只闻人语响；一抹夕阳返照入深林，又落在青苔上。以声衬静，以光衬暗，看似什么也没发生，却被誉为诗中禅境的极致。这二十个字也是译者的最爱，美国作家温伯格（Eliot Weinberger）专门写过一本小书，逐一评点它的十几种英、法、西班牙文译本。（“柴”同“寨”，指有篱栅的地方。）
 
 == 竹里馆 | The Bamboo Grove Lodge
 by: 王维
@@ -46,6 +46,8 @@ Deep in the woods, where no one knows I'm here,
 The bright moon comes to shine upon my song.
 --
 Another Wangchuan poem. "Long whistling" (长啸) was a Daoist breathing art and a free spirit's way of expressing feeling. No one hears the music — except the moon, which comes as a friend.
+--
+《辋川集》二十首之一，竹里馆是王维辋川别业中的一处景点。诗人独坐在幽深的竹林里，弹琴，又放声长啸。长啸是撮口发出悠长清越的声音，魏晋名士常借它抒发胸臆，阮籍便以善啸著称。林深无人知晓，只有明月前来相照，仿佛是唯一的知音。全诗用字平淡，境界却清幽空明，人与月、琴与竹融为一体，是王维山水小诗中最有禅意的作品之一。（“篁”是竹林。）
 
 == 鸟鸣涧 | Birdsong in the Ravine
 by: 王维
@@ -61,6 +63,8 @@ The rising moon startles the mountain birds —
 From time to time, they in the spring ravine cry.
 --
 So quiet that one can hear tiny flowers dropping; so still that moonrise startles the birds. Sound is used to deepen silence — a classic technique of Chinese verse. (桂花 here is probably a spring-flowering cassia or osmanthus.)
+--
+王维组诗《皇甫岳云溪杂题五首》的第一首，写友人皇甫岳云溪别墅一带的春夜山景。人心闲静，才听得见桂花悄然飘落；夜色沉寂，春山愈显空旷。月亮升起，清光竟惊动了栖息的山鸟，不时在山涧中啼叫几声。花落、月出、鸟鸣都是动，却越发衬出山中的静，这正是以动写静、以声衬寂的笔法。全诗二十字，空灵澄澈，带着禅意。（诗中桂花开在春天，应是春季开花的一种山桂。）
 
 == 山居秋暝 | Autumn Evening in the Mountains
 by: 王维
@@ -82,6 +86,8 @@ Let spring's fragrance fade as it will:
 Here a prince may stay, content to remain.
 --
 Wang Wei's best-loved regulated poem. The famous second couplet — moon among pines, water over stones — is a perfect ink painting. An old song called on "princes" (gentlemen) to leave the wild mountains, since "spring grasses grow, and you cannot stay"; Wang Wei turns it around: the hills, even in autumn, are where one belongs.
+--
+一般认为此诗作于王维半官半隐、闲居辋川别业的时期，写山中秋日的傍晚。一场新雨过后，空山清爽；明月从松间照下，清泉在石上流淌，苏轼说王维“诗中有画”，这一联正是最好的例子。竹林里传来笑语，是洗衣的姑娘们回来了；莲叶摇动，是渔船顺流而下，先闻其声，后见其人。末联反用《楚辞·招隐士》“王孙兮归来，山中兮不可以久留”之意：任凭春天的芳草凋谢，王孙自可留在山中。对山居生活的喜爱，尽在言外。（“随意”是任凭；“暝”是日暮。）
 
 == 送元二使安西 | Seeing Off Yuan the Second on His Mission to Anxi
 by: 王维
@@ -97,6 +103,8 @@ Come, drink one more cup of wine before you go —
 West of Yang Pass, there's no old friend who knows.
 --
 Anxi was the Tang protectorate in Central Asia; Yang Pass, near Dunhuang, was the last gate of China. This quatrain was set to music as the *Three Refrains at Yang Pass* (阳关三叠), the most famous farewell song in Chinese history, sung at partings for a thousand years. The willows, as always, are a parting gift.
+--
+渭城即秦都咸阳故城，在长安西北，唐人西行常在这里饯别。安西指唐代的安西都护府，治所在龟兹（今新疆库车）；阳关在今甘肃敦煌西南，出了阳关便是茫茫大漠。前两句写清晨细雨洗净了路上的轻尘，客舍旁的柳色格外清新，古人有折柳送别的习俗，柳色里便藏着离情。后两句只是劝友人再干一杯，千言万语都在这杯酒中。此诗后来谱成乐曲，称《阳关三叠》，又名《渭城曲》《阳关曲》，成为历代传唱最广的送别歌。（“浥”是湿润。）
 
 == 九月九日忆山东兄弟 | Thinking of My Brothers in Shandong on the Double Ninth
 by: 王维
@@ -113,7 +121,7 @@ Each wearing dogwood — all but one, out of touch.
 --
 Written when Wang Wei was only seventeen, living in the capital. On the Double Ninth (the 9th day of the 9th month), families climbed hills and wore sprigs of cornel (茱萸) to ward off evil. Instead of saying "I miss them", he imagines them missing him. Line two is the proverb every Chinese person far from home quotes at festival time.
 --
-王维十七岁客居长安时所作。重阳节（农历九月初九）有登高、插茱萸以避邪的习俗。诗人不说自己如何思念兄弟，却想象兄弟们登高时发现少了自己一人——从对面落笔，更见情深。“每逢佳节倍思亲”，早已是游子过节时人人会说的话。
+题下原注“时年十七”，是王维少年离家、独居长安时所作。题中的“山东”指华山以东，王维家在蒲州（今山西永济），并非今天的山东省。重阳节有登高、插茱萸以避邪的习俗。诗人不说自己如何思念兄弟，却想象兄弟们登高时发现少了自己一人，从对面落笔，更见情深。“每逢佳节倍思亲”，早已是游子过节时人人会说的话。
 
 == 使至塞上 | Envoy to the Frontier
 by: 王维
@@ -135,6 +143,8 @@ At Xiao Pass I meet a mounted scout:
 "The Protector-General is at Mount Yanran."
 --
 737: Wang Wei was sent as an envoy to congratulate a general on a victory in the north-west. The third couplet — a single plume of beacon smoke dead straight in the windless desert, the sun perfectly round over the Yellow River — was praised in *Dream of the Red Chamber* as the ideal of a line that is "unreasonable, yet more true than reason". Mount Yanran was where a Han general carved a record of his victory over the Xiongnu.
+--
+开元二十五年（737），河西节度副大使崔希逸大破吐蕃，唐玄宗命王维以监察御史的身份出塞慰问将士（一说这是变相把他排挤出朝廷），此诗作于赴边途中。诗人轻车简从，自比随风飘出边塞的蓬草、北飞入胡地的大雁。“大漠孤烟直，长河落日圆”，一“直”一“圆”，写尽大漠的雄浑与苍茫，王国维誉为“千古壮观”；《红楼梦》里香菱学诗，也说这两个字乍看似乎无理，细想却有理有情。到了萧关，遇上侦察的骑兵，才知主帅还在前线。（燕然山在今蒙古国境内，东汉窦宪大破匈奴后曾在此刻石记功。）
 
 == 杂诗（其二） | Miscellaneous Poem (II)
 by: 王维
@@ -150,6 +160,8 @@ The day you left, before my latticed window,
 Had the winter plum begun its blossoming?
 --
 Of all the things he could ask about home — family, friends, the harvest — the poet asks only about one plum tree outside his window. The smallest detail carries the whole of homesickness.
+--
+王维《杂诗》三首的第二首。游子在异乡遇见故乡来人，满腹乡思，却只问一句：我家雕花窗前那株寒梅，开花了没有？初唐王绩《在京思故园见乡人问》向乡人问遍了亲友、池台、柳行、竹梅、院果、林花；王维只拈出一枝寒梅，以小见大，以淡写浓，思乡之情反而更加深长。这株梅花里，大概藏着他与家人共度的往日光阴。（“绮窗”是雕饰精美的窗子；“著花”即开花；“未”用在句末，相当于“没有”。）
 
 == 山中送别 | Farewell in the Mountains
 by: 王维
@@ -165,6 +177,8 @@ When spring grass turns green again next year,
 Will you come back, my prince, or will I wait?
 --
 The farewell is already over in the first line; the poem lives in the moment after — the gate closed in the dusk, and a question thrown forward to next spring. "Spring grass and the wandering prince" echoes the *Songs of Chu*: "The prince wanders and does not return; spring grass grows thick."
+--
+送别诗大多写分手时的依依难舍，这首却从送罢写起：在山中送走友人，回到住处，天色已晚，便掩上柴门。离别时的千言万语都略去不写，只在末句轻轻一问：明年春草再绿时，你还回不回来？这一问化用《楚辞·招隐士》“王孙游兮不归，春草生兮萋萋”，送别当天就盼着重逢，情意格外深长。（“王孙”本指贵族子弟，这里是对友人的尊称。）
 
 == 送别（下马饮君酒） | Farewell (Dismount and Drink)
 by: 王维
@@ -183,6 +197,8 @@ Then go — I'll ask no more:
 White clouds are endless, as before.
 --
 A friend gives up his career to become a recluse. Wang Wei does not argue or console; the white clouds — symbol of the free, unworldly life — are "without end", unlike fame and office. The restraint is the comfort.
+--
+友人仕途失意，要去终南山下隐居，王维下马设酒，为他饯行。全诗用问答写成：问他去往何处，他说不得意，要回南山脚下高卧。诗人不劝慰，也不挽留，只说“但去莫复问”，你尽管去吧，我不再多问，那里的白云是没有穷尽的。功名富贵转眼成空，山中白云却悠悠无尽，这一句既是宽慰，也是向往，言尽而意不尽。（“饮”在这里读yìn，意思是请人喝。）
 
 == 终南别业 | My Retreat at Zhongnan
 by: 王维
@@ -204,6 +220,8 @@ By chance I meet an old man of the woods;
 We talk and laugh, and lose track of the time that flies.
 --
 "Walk to where the water ends, sit and watch the clouds rise" (行到水穷处，坐看云起时) is one of the most quoted couplets in Chinese — a Zen image of following life wherever it goes: where one path ends, another begins in the sky.
+--
+王维中年以后笃信佛理，晚年在终南山下置办别业，过着半官半隐的生活。兴致来了，他常常独自出游，其中的佳趣只有自己知道。“行到水穷处，坐看云起时”：沿溪而行，走到水的尽头，无路可走，便索性坐下来看云生起，随遇而安，悠然自得。水穷之处，恰是云起之时，后人常从中读出绝处逢生的意味和禅家的自在。偶遇林中老人，谈笑忘了归期，更见其无心自适。（“好道”指爱好佛理；“陲”是边缘。）
 
 == 汉江临泛 | Boating on the Han River
 by: 王维
@@ -225,6 +243,8 @@ Xiangyang has such fine wind and sun —
 Let me stay drunk here, like the Old Mountain Man, with glee.
 --
 Wang Wei was a painter as much as a poet, and line four — mountains "between existence and non-existence" — is a description of ink-wash painting itself, where distant hills dissolve into blank silk. The Old Mountain Man was Shan Jian, a Jin-dynasty governor of Xiangyang famous for getting drunk at its scenic pools.
+--
+一般认为作于开元二十八年（740）前后，王维奉命到襄州一带主持选官，泛舟汉江时所作。首联纵览楚地山川，三湘、荆门、九派尽收笔下。“江流天地外，山色有无中”：江水仿佛流出了天地之外，远山在烟波里若隐若现，这正是水墨画的境界，王维本是画家，难怪落笔如画；后来欧阳修作《朝中措》，径直借用了“山色有无中”五字。城郭像浮在水面，波澜摇动远空。末句说愿留在襄阳的好风光里，与山翁同醉。（山翁指西晋镇守襄阳的山简，好酒，常在习家池畔大醉而归。）
 
 == 观猎 | Watching the Hunt
 by: 王维
@@ -246,6 +266,8 @@ He turns to look where he shot down the eagle:
 A thousand li of evening clouds lie flat and bright.
 --
 Admired for its opening — the sound of the bows comes before we even see the general — and its sweeping close. Willow Camp (细柳营) was the camp of the famously disciplined Han general Zhou Yafu; "shooting the eagle" (射雕) was the mark of a supreme archer.
+--
+起笔未见其人，先闻其声：劲风中角弓鸣响，然后才点出“将军猎渭城”，突兀而有气势。草枯了，鹰眼更加锐利；雪化了，马蹄格外轻快。“忽过新丰市，还归细柳营”，写尽来去之速；细柳营是汉代名将周亚夫驻军之地，以军纪严明著称，借来称美这位将军。结尾回望射雕之处，只见千里暮云平铺，由急转缓，余味不尽。清人沈德潜称此诗“章法、句法、字法俱臻绝顶”。（“射雕”暗用北齐斛律光的典故，他曾一箭射落大雕，人称“落雕都督”。）
 
 == 辛夷坞 | Magnolia Bank
 by: 王维
@@ -261,6 +283,8 @@ By the stream-side huts, silent, no one —
 They open, and then fall, in flurries, still.
 --
 From the *Wangchuan Collection*. The magnolia (辛夷) blooms high on bare branches like lotus flowers. No one sees them; they open and fall, entirely for themselves. A Buddhist image of things arising and passing away, without purpose or witness.
+--
+《辋川集》二十首之一，辛夷坞是王维辋川别业中长满辛夷的山坞。辛夷又名紫玉兰，花开在光秃秃的枝梢，形状如莲，所以称“木末芙蓉花”，语出屈原《九歌·湘君》“搴芙蓉兮木末”。涧边人家寂无一人，红花自开自落，无人观赏，也不需要人观赏。诗人只是静静写来，不着一字议论，万物自生自灭的空寂之意却在其中，历来被视为王维以禅入诗的代表作。
 
 == 山中 | In the Mountains
 by: 王维
@@ -276,6 +300,8 @@ Along the mountain path there was no rain —
 Yet the empty green dampens my clothes through.
 --
 The last two lines are a famous paradox: no rain fell, but the mountain greenery is so dense and moist that it seems to soak the walker. Su Shi said of Wang Wei, "in his poems there are paintings" — with this poem as an example.
+--
+苏轼在《书摩诘蓝田烟雨图》中说王维“诗中有画”“画中有诗”，举的正是这首诗（文字略有不同），同时又记下“或曰非也”，可见宋时已有人怀疑它不是王维所作。荆溪水浅，白石露出；天寒霜重，红叶渐稀。后两句尤为奇妙：山路上本来没有下雨，满山浓翠却湿润得仿佛要滴下来，沾湿了行人的衣裳。“空翠湿人衣”把眼中所见化作身上所感，写尽深山的幽润。（“元”通“原”，本来的意思。）
 
 == 画 | A Painting
 by: 王维
@@ -291,3 +317,5 @@ Spring has gone, yet the flowers remain;
 People come, yet the birds don't flutter round.
 --
 A riddle-poem that every Chinese child learns: what landscape has silent water, flowers that never fade, and birds that never fly away? A painting. The attribution to Wang Wei is traditional but uncertain.
+--
+一首人人从小会背的谜语诗。远看青山有色，近听流水却无声；春天过去了，花还开着；人走近了，鸟也不惊飞——世上哪有这样的风景？原来是一幅画。四句两两对仗，每句都先写常景，再点出画中“反常”之处，谜底就藏在诗题里。旧说是王维所作，但并无确证，作者其实难以确定。

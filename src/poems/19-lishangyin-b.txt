@@ -12,6 +12,8 @@ The autumn clouds won't lift, and frost is late this year —
 The withered lotus leaves are left to hear the rain that falls.
 --
 Staying at a friend's pavilion, Li Shangyin thinks of two cousins far away. The last line — keep the withered lotus to listen to the rain — is among the most loved lines in Chinese: even dead lotus leaves have their beauty, as an instrument for the sound of rain. In *Dream of the Red Chamber*, Lin Daiyu says it is the one line of Li Shangyin's she likes.
+--
+崔雍、崔衮是崔戎的儿子。崔戎曾赏识、提携青年李商隐，他去世后，诗人与二崔天各一方。夜宿骆氏亭，竹坞水槛清幽无尘，思念却隔着重重城池。秋阴不散，霜也迟迟未降，池中留下的枯荷正好承接雨点，一夜听雨，孤寂与相思都在雨声里。《红楼梦》第四十回，林黛玉说她最不喜欢李义山的诗，只喜欢这一句，不过她念作“留得残荷听雨声”。
 
 == 马嵬（其二） | Mawei (II)
 by: 李商隐
@@ -33,3 +35,5 @@ How could he, four decades the Son of Heaven, fare
 Worse than the Lu clan, who kept Mochou home each night?
 --
 Li Shangyin's sharp reply to the romance of *The Song of Everlasting Sorrow*. The tale that Consort Yang lives on in an immortals' island beyond the sea is empty talk. On the Seventh Night, when the Herdboy and the Weaver Girl meet just once a year, the imperial lovers pitied the stars — yet after nearly fifty years on the throne, Xuanzong could not protect his beloved as well as a commoner of the folk song, whose wife Mochou lived happily at home.
+--
+安史之乱中，玄宗西逃至马嵬驿，六军不发，杨贵妃被赐死。首句借“海外更有九州”的说法，说方士寻到海上仙山的传闻不过空谈，来世难期，此生已休。逃亡路上只听得禁军巡夜的梆声，再没有宫中鸡人报晓。颈联以“此日”对“当时”：今日六军驻马逼死贵妃，当年七夕二人还笑牛郎织女一年才得一会。末联冷冷一问：做了四纪（一纪十二年）天子，反倒护不住一个女人，还不如民间卢家能守住莫愁。与《长恨歌》的缠绵相比，此诗议论尖锐，讥讽多于同情。

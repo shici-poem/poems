@@ -12,6 +12,8 @@ The day the royal army wins back the north for our king,
 At the family offering, don't forget to tell your father then.
 --
 Lu You's last poem, written on his deathbed in 1210 at eighty-five. His whole life's wish — to see the north recovered from the Jurchen Jin — remains unfulfilled, so he asks his sons to report it to his spirit at the ancestral sacrifice. (Seventy years later, the Song itself fell to the Mongols.)
+--
+嘉定二年十二月（1210年初），八十五岁的陆游临终前写下这首诗留给儿子们，这是他的绝笔。陆游一生力主抗金、收复中原，晚年却眼见北伐失败、宋金再度议和，心愿终究落空。诗人说，人死了万事皆空，唯一放不下的是没能看到九州统一；他嘱咐儿子：等王师平定中原的那一天，家祭时千万别忘了告诉父亲。语言平淡如家常话，悲愤与期盼却直贯到底。（“元”同“原”，本来；“乃翁”即你们的父亲，是诗人自称。）
 
 == 游山西村 | Visiting a Village West of the Hills
 by: 陆游
@@ -33,6 +35,8 @@ From now on, if I may come strolling by moonlight,
 I'll knock upon your door with my staff, at any hour of night.
 --
 1167, in Lu You's home district near Shaoxing, after he was dismissed for urging war against the Jin. 山重水复疑无路，柳暗花明又一村 — "where hills and streams seem to end the road, past dark willows and bright flowers another village appears" — became the Chinese proverb for unexpected hope when all seems lost.
+--
+乾道二年（1166），陆游因支持张浚北伐遭排挤，被罢官回到故乡山阴（今浙江绍兴），闲居镜湖边的三山。次年初春，他到附近的村子游玩，写下此诗。农家捧出自酿的腊酒、杀鸡宰猪热情留客；春社将近，箫鼓相随，衣冠简朴，处处保留着淳厚的古风。“山重水复疑无路，柳暗花明又一村”本写山行所见：山水重重，似已无路，一转弯却见花柳掩映的村落。后人把它引申为绝境中忽现转机的道理，成了家喻户晓的名句。（“腊酒”是腊月酿的酒；“足鸡豚”是鸡肉、猪肉管够的意思。）
 
 == 钗头凤（红酥手） | The Phoenix Hairpin (Soft Pink Hands)
 by: 陆游
@@ -64,6 +68,8 @@ But no letter can be sent at all.
 No! No! No!
 --
 Lu You's first wife, his cousin Tang Wan, was forced to divorce him by his mother. Years later, around 1155, they met by chance in the Shen family garden in Shaoxing; she, remarried, sent him wine and food. He wrote this lyric on the garden wall. The "east wind" is his mother; the refrains 错 ("wrong!") and 莫 ("no more!") are cries of despair. Tang Wan answered with a lyric of her own — and died soon after.
+--
+据宋人笔记，陆游初娶唐氏，夫妻恩爱，却不得婆婆欢心，被迫离异，唐氏改嫁赵士程。后来两人在绍兴沈园偶遇，唐氏遣人送来酒菜，陆游怅然良久，在园壁上题下此词。上片由红酥手、黄縢酒忆起往日欢情，“东风恶”暗指拆散他们的力量；下片写人已憔悴，盟誓犹在，书信难托。“错，错，错”“莫，莫，莫”，是压抑不住的悲叹。相遇之年有绍兴二十一年（1151）、二十五年（1155）两说；唐氏的答词“世情薄，人情恶”是否出自她手，也有争议。
 
 == 钗头凤（世情薄） | The Phoenix Hairpin (The World's Ways Are Cold)
 by: 唐琬
@@ -95,6 +101,8 @@ I swallow tears and feign a smile, against my will.
 Hide! Hide! Hide!
 --
 Tang Wan's answer to Lu You, written — tradition says — beneath his lyric on the garden wall. Her pain is doubled: she must hide it from her new husband and from everyone around her. She died not long after. (Some scholars believe the lyric was later reconstructed from fragments.)
+--
+相传唐琬在沈园读到陆游题壁的《钗头凤》，和了这一首，不久便抑郁而终。上阕写别后心事无处诉说，想写下来又写不成，只能倚着栏杆自言自语；下阕写如今已各自成家，病魂如秋千索般摇荡不定，夜深角声凄寒，她怕人问起，只得咽下眼泪强作欢颜。两阕都以三个叠字收尾，“难，难，难”与“瞒，瞒，瞒”一声紧似一声，比陆游原作更直白，也更凄苦。（南宋陈鹄只记下“世情薄，人情恶”两句，全词最早见于明代卓人月《古今词统》，俞平伯等学者疑为后人据残句补成。）
 
 == 卜算子·咏梅 | Song of Divination: The Plum Blossom
 by: 陆游
@@ -118,6 +126,8 @@ Though fallen into mud and ground to dust,
 Its fragrance stays — forever just the same.
 --
 The plum blossom, flowering alone in winter by a broken bridge, battered by wind and rain, wanting nothing from spring — and keeping its fragrance even when trampled into dust — is Lu You's portrait of his own integrity, a patriot sidelined by the peace party. Mao Zedong wrote a famous reply to it.
+--
+借梅自喻的名篇。梅花开在驿站外、断桥边，寂寞无主，黄昏里独自发愁，偏又遭受风雨摧残——这正是陆游力主抗金、屡遭排挤的处境。下片写梅花无意与百花争春，任凭群芳嫉妒；即使凋零落地，被碾成尘土，清香依然如故。末句是全词的灵魂，写出了至死不改的气节。1961年，毛泽东读此词后“反其意而用之”，另作一首《卜算子·咏梅》，一改孤寂之调，写梅花在丛中含笑报春。（“更著”是“又遭受”的意思。）
 
 == 十一月四日风雨大作（其二） | A Great Storm on the Fourth Day of the Eleventh Month (II)
 by: 陆游
@@ -133,6 +143,8 @@ Late at night I lie and hear the wind lash the rain —
 And armoured horses on frozen rivers gallop through my dreams till I wake.
 --
 Written in 1192, when Lu You was sixty-seven and living in retirement. The winter storm outside becomes, in his dream, cavalry charging across frozen rivers on the northern frontier — the war he was never allowed to fight. Luntai was a Tang frontier fort in Central Asia.
+--
+绍熙三年（1192），六十八岁的陆游罢官闲居山阴（今浙江绍兴）乡间。冬夜风雨大作，老人僵卧在孤村之中，却不为自己哀伤，心里想的仍是替国家去守卫边疆。夜深了，他躺着听窗外风吹雨打，梦里便化作了披甲的战马、冰封的河流——现实中无法实现的报国之志，只能在梦中实现。“铁马冰河入梦来”一句，壮阔之中透着无限悲凉。（轮台在今新疆，汉代曾在此屯兵，这里泛指边疆。）
 
 == 秋夜将晓出篱门迎凉有感（其二） | Going Out at the Hedge Gate Before Dawn on an Autumn Night (II)
 by: 陆游
@@ -148,6 +160,8 @@ Under foreign dust, the people left behind have wept their eyes dry,
 Looking south for the royal army — another year goes by.
 --
 Before dawn on an autumn night in 1192, Lu You pictures the Yellow River and Mount Hua — symbols of the north, held by the Jin for sixty-five years — and the Chinese still living there, who have wept themselves dry waiting year after year for an army from the south that never comes.
+--
+绍熙三年（1192）秋，陆游闲居山阴。天将破晓，暑气难耐，他走出篱门乘凉，心中想的却是远在北方的大好河山：三万里长的黄河奔流入海，五千仞高的华山直上云天。这样的山河，沦陷金人之手已六十多年。后两句笔锋一转，写北方遗民在胡人统治下眼泪都已流干，年复一年向南盼望朝廷的军队，却一年又一年落空。一个“又”字，满是失望，也是对南宋朝廷的无声谴责。（“岳”一般指西岳华山，一说兼指泰山。）
 
 == 书愤（早岁那知世事艰） | Venting My Indignation
 by: 陆游
@@ -169,6 +183,8 @@ The Memorial for the Campaign made Zhuge Liang's name eternal —
 In a thousand years, who's matched him? Not one, to this day.
 --
 1186: Lu You at sixty-one, out of office. In youth he had served at the front — at Guazhou on the Yangtze, where the Song navy repelled the Jin in 1161, and at Dasan Pass in the north-west. A southern general once called himself "the Great Wall", and Lu You had thought the same of himself. Now he can only admire Zhuge Liang, whose memorial before marching north vowed to give his all until death.
+--
+淳熙十三年（1186）春，陆游罢官闲居山阴已近六年，年过六旬。首联回忆年轻时不知世事艰难，北望中原，豪气如山。颔联全由名词组成：楼船、夜雪、瓜洲渡，铁马、秋风、大散关，一东一西都是宋金对峙的前线，陆游曾在镇江、南郑亲临其地（瓜洲一句，一说追记1161年宋军在此抵御金兵）。“塞上长城”用南朝宋名将檀道济自比“万里长城”的典故，当年如此自许，如今只见镜中鬓斑。末联推崇诸葛亮《出师表》，也是自伤壮志难酬。
 
 == 临安春雨初霁 | Spring Rain Clearing in Lin'an
 by: 陆游
@@ -190,6 +206,8 @@ White robe, don't sigh about the dust and wind of the capital —
 By Qingming, I'll still be in time to get back home.
 --
 Hangzhou (Lin'an), 1186, waiting for an audience to receive a minor post. 小楼一夜听春雨，深巷明朝卖杏花 — "all night in my little tower I hear the spring rain; tomorrow, in the deep lane, they'll sell apricot blossoms" — is one of the loveliest couplets in Chinese, though its mood is idle frustration: an old patriot reduced to calligraphy and tea games. A Jin-dynasty line said the capital's dust turns white clothes black.
+--
+淳熙十三年（1186）春，年过六旬的陆游奉诏来到临安，住在客舍里等候孝宗召见，之后将赴任严州知州。“小楼一夜听春雨，深巷明朝卖杏花”清新如画，历来传诵，细读却可知诗人一夜未眠。颈联写他在矮纸上随手作草书，在晴窗下玩分茶，闲雅背后是报国无门的无聊。尾联反用西晋陆机“京洛多风尘，素衣化为缁”的诗意：不必感叹京城风尘染黑白衣，赶在清明前还能回到家乡。据《宋史》本传，孝宗召见时只叫他在严州山水间吟咏自适，诗人的失意可想而知。
 
 == 冬夜读书示子聿 | Reading on a Winter Night: To My Son Yu
 by: 陆游
@@ -205,6 +223,8 @@ What's learned from books will always seem a shallow hold —
 To truly know a thing, in doing it you must engage.
 --
 Advice to his youngest son on a winter night of reading. 纸上得来终觉浅，绝知此事要躬行 — "knowledge from paper is always shallow; to truly know, you must do it yourself" — is one of the most quoted maxims on learning in Chinese.
+--
+庆元五年（1199）冬，七十多岁的陆游在山阴家中夜读，写诗给小儿子子聿。前两句说古人做学问不遗余力，往往从少年用功，到老才有所成就；后两句是全诗的精华：从书本上得来的知识终究浅薄，要真正弄懂一件事，必须亲身去实践。父亲的叮嘱平实恳切，“纸上得来终觉浅，绝知此事要躬行”成了谈读书与实践时最常被引用的诗句之一。（“绝知”是透彻地理解，“躬行”是亲身实行。）
 
 == 诉衷情（当年万里觅封侯） | Telling My Heart (Once I Rode Ten Thousand Li)
 by: 陆游
@@ -230,6 +250,8 @@ My heart would be in the Tianshan,
 And my body grow old by the water, far away?
 --
 An old man's lament. In 1172 Lu You served on the north-western front near Liangzhou (Hanzhong), planning a campaign that never came. Now his old army coat gathers dust; his heart is still at the Tianshan frontier, but his body grows old by the waters of his retirement (沧洲, the recluse's riverside).
+--
+陆游晚年闲居山阴镜湖之滨时所作，追忆乾道八年（1172）在南郑（今陕西汉中，古属梁州）王炎幕府的八个多月。那是他离抗金前线最近的日子，不久幕府解散，北伐成空。“尘暗旧貂裘”暗用苏秦游说秦王不成、黑貂裘穿破的典故，当年的戎装如今蒙满灰尘。“胡未灭，鬓先秋，泪空流”三个短句，一句比一句沉痛。结尾“心在天山，身老沧洲”，天山代指边塞，沧洲是隐者所居的水滨，心与身的反差，道尽一生的不甘。
 
 == 沈园（其一） | Shen Garden (I)
 by: 陆游
@@ -245,6 +267,8 @@ Beneath the bridge of heartbreak, the spring ripples are green —
 Where once a startled swan's reflection came in view.
 --
 Written in 1199, forty-four years after the meeting with Tang Wan in Shen Garden, when Lu You was seventy-five. The "startled swan" (惊鸿) is an image of a beautiful woman, from Cao Zhi's *Goddess of the Luo*: her reflection once passed over this very water.
+--
+庆元五年（1199），七十五岁的陆游重游沈园。四十多年前，他在这里与被迫离异的前妻唐琬偶然相逢，题下《钗头凤》，唐琬不久便抑郁而终。据周密《齐东野语》，陆游晚年住在城外镜湖三山，每次进城都要登寺远眺，不胜伤情。夕阳里画角声哀，园中池台早已不是旧时模样；只有桥下春水依旧碧绿，那里曾映照过她轻盈的身影。“惊鸿”出自曹植《洛神赋》“翩若惊鸿”，这里代指唐琬。“伤心桥”三字，让一座寻常小桥成了千古伤心之地。
 
 == 剑门道中遇微雨 | Meeting Light Rain on the Road to Sword Gate
 by: 陆游
@@ -260,3 +284,5 @@ Am I then meant to be a poet — is that line mine? —
 In the fine rain, on a donkey, through Sword Gate I depart.
 --
 1172: Lu You was moved from the front line to a desk job in Chengdu — the end of his military hopes. Poets rode donkeys (Li Bai, Du Fu, Jia Dao all did); soldiers rode horses. Riding a donkey into Sichuan through the Sword Gate in the rain, he asks bitterly: is a poet all I am meant to be?
+--
+乾道八年（1172）十月，王炎被召回朝，南郑幕府解散，陆游离开前线，改赴成都任闲职，途经剑门关时写下此诗。衣上征尘混着酒痕，一路远游，处处黯然。唐代以来，骑驴几乎是诗人的标志：李白、杜甫、贾岛都有骑驴的故事，晚唐郑綮更说自己的诗思在“灞桥风雪中驴子上”。诗人问自己：难道我这一生只该做个诗人吗？细雨中骑驴入剑门，画面清淡如画，背后却是不能跃马杀敌的失落。（历来多读作自嘲，也有人读出几分自得。）

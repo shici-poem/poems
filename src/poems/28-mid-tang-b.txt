@@ -12,6 +12,8 @@ I pass through clumps of flowers, and never turn my head —
 Half for the Way I follow; half because of you.
 --
 One of five poems mourning Yuan Zhen's wife Wei Cong, who died in 809 at twenty-seven. Mount Wu's clouds are the goddess who visited a king in dreams "as morning cloud and evening rain". 曾经沧海难为水 — "once you have seen the ocean, no other water will do" — is quoted for any incomparable experience, especially a first love. (Yuan Zhen remarried within two years; readers have long noted the irony.)
+--
+一般认为是元稹悼念亡妻韦丛之作。韦丛是太子少保韦夏卿的幼女，嫁给元稹时他还未显达，元和四年（809）病逝，年仅二十七岁。首句化用《孟子》“观于海者难为水”：见过沧海，别处的水便不值一看；领略过巫山的云（宋玉《高唐赋》中神女“旦为朝云”），别处的云也算不得云。从此即使走过花丛也懒得回顾，一半因为修道，一半因为你。前两句后来常用来形容经历过最好的，便再难动心。不过两年后元稹便在江陵纳妾，几年后又续娶裴淑，后人读此诗，常不免感慨。
 
 == 行宫 | The Travelling Palace
 by: 元稹
@@ -27,6 +29,8 @@ White-haired palace maids are all that stayed —
 They sit and talk of Xuanzong's days, idly.
 --
 Twenty characters holding half a century. The women were chosen as girls to serve Emperor Xuanzong, who never came back after the rebellion; now white-haired, they reminisce about him among the red flowers. Critics have called it the most concise poem of the Tang.
+--
+行宫是皇帝出巡时居住的宫殿。玄宗时选入宫中的少女，安史之乱后便被冷落在这里，再也等不到君王，一关就是几十年，白居易《上阳白发人》写的也是这样的命运。如今古行宫冷冷清清，宫花依旧红艳，却无人观赏；满头白发的宫女闲坐无事，只能谈说玄宗当年。一个“红”字与“白头”相映，盛衰之感、宫女一生的寂寞，都在不言之中。全诗仅二十字，以小见大，含蓄不尽，半个世纪的兴衰尽在其中。
 
 == 遣悲怀（其二） | Venting My Grief (II)
 by: 元稹
@@ -48,6 +52,8 @@ I know this sorrow is a thing that everyone must share —
 But for a couple who were poor, each memory brings despair.
 --
 The second of three elegies for Yuan Zhen's wife, who had shared his years of poverty before he rose in office. The details — her clothes given away, her sewing unopened, money burned for her after a dream — made these some of the most moving elegies in Chinese. 贫贱夫妻百事哀 does not mean poverty spoils marriage; it means that for a couple who suffered together, every memory now hurts.
+--
+元稹悼念亡妻韦丛的三首七律之二。韦丛出身高门，嫁给元稹后陪他过了多年清贫日子，没等到丈夫“俸钱过十万”（第一首语）便去世了。当年夫妻说笑时谈起身后之事，如今竟一一成真：她的衣裳已施舍给人，快送完了；她用过的针线却原样留着，不忍打开；因为念及旧情，连她身边的婢仆也格外怜惜；梦见了她，便为她送去钱财。都是琐碎家事，却句句含泪。末句并非说穷夫妻样样不顺，而是说共过患难的夫妻一旦死别，往事件件都令人哀伤。
 
 == 菊花 | Chrysanthemums
 by: 元稹
@@ -63,6 +69,8 @@ It isn't that, of all the flowers, I prefer the chrysanthemum —
 But when this one has faded, there are no more flowers to show.
 --
 Chrysanthemums have been linked with Tao Yuanming ever since he wrote of "picking chrysanthemums by the eastern hedge". Yuan Zhen gives a simple, touching reason for loving them: they are the last flowers of the year.
+--
+陶渊明爱菊，“采菊东篱下”之后，菊花便与隐逸高洁连在一起。屋舍四周开满秋菊，恍如到了陶家；诗人绕着篱笆一遍遍观赏，不觉日已西斜。后两句自问自答，道出爱菊的缘由：并非在百花中偏爱菊花，只因它开过之后，一年里再没有花可看了。理由说得朴素，却写出了菊花凌霜晚开的品格，也透出诗人对它的格外珍惜。
 
 == 雁门太守行 | Song of the Governor of Yanmen
 by: 李贺
@@ -84,6 +92,8 @@ To repay my lord, who raised me to his Golden Terrace high,
 I'll grasp my jade-dragon sword, and for him I'll die.
 --
 Li He, about eighteen, brought this poem to Han Yu, who — so the story goes — was so struck by the first line that he refastened his belt and invited the young man in. A battle painted in colours: black clouds, golden armour, rouge-red earth turning purple with blood, red flags, white frost. The Golden Terrace was where King Zhao of Yan welcomed men of talent; the "jade dragon" is a sword.
+--
+唐人张固《幽闲鼓吹》记载，李贺带着诗卷去拜见韩愈，韩愈时任国子博士，送客归来十分疲倦，解开衣带随手翻读，第一篇便是这首，读罢开头，竟重新系上衣带，请他进来相见。全诗以色彩写战争：压城的黑云，映日的金甲，塞上胭脂色的泥土在夜色中凝为暗紫（一说是血迹），半卷的红旗，浓重的寒霜，悲壮而奇丽。易水令人想起荆轲；黄金台相传是燕昭王招揽贤士之处，结句说愿提剑为君死战，以报知遇之恩。（“燕脂”即胭脂，“玉龙”指宝剑。）
 
 == 马诗（其五） | Horse Poem (V)
 by: 李贺
@@ -99,6 +109,8 @@ When will I wear a golden bridle, and go
 Galloping through clear autumn? — Now I can only look.
 --
 One of twenty-three "Horse Poems", in which a fine horse waiting for a worthy master is the talented young Li He waiting for recognition — which never came. The golden bridle is an honoured place in the emperor's service.
+--
+李贺有《马诗》二十三首，借咏马抒发怀才不遇之感。他是唐宗室远支，才华早露，却因父亲名叫“晋肃”，“晋”与“进”同音，被人以避讳为由阻挠，不能应进士考试，虽有韩愈作《讳辩》为他辩护，终身郁郁不得志，二十七岁便去世。此首前两句写边塞夜景：大漠上的沙白得像雪，燕山顶上一弯冷月如钩；后两句发问：什么时候才能给这匹马套上金饰的笼头，让它在清秋的原野上纵情驰骋？渴望被赏识、建功立业的心情跃然纸上。
 
 == 李凭箜篌引 | Li Ping Plays the Konghou
 by: 李贺
@@ -129,6 +141,8 @@ Wu Gang, sleepless, leans against the cassia tree;
 The slanting dew falls down and wets the cold moon-hare, I see.
 --
 Li Ping was the most famous player of the konghou, a vertical harp, at court. Li He describes the music not by its sound but by its effects across the universe: clouds stop, goddesses weep, the Purple Emperor of heaven is moved, the stone that the goddess Nüwa used to patch the sky cracks and lets the rain through, and in the moon Wu Gang and the jade hare are drenched with dew. With Bai Juyi's *Pipa Player*, one of the great Tang poems on music.
+--
+约作于元和六年至八年（811—813）李贺在长安任奉礼郎时。李凭是当时宫廷中以弹箜篌闻名的乐人。诗人写音乐，不直接描摹声音，而是写它惊动天地：空山行云凝住不流，湘娥、素女闻声悲愁；乐声时如昆山玉碎、凤凰鸣叫，时如芙蓉泣露、香兰含笑；长安十二城门的寒光为之消融，天帝紫皇也被打动；女娲补天的五色石被震破，引出漫天秋雨；连月宫里的吴刚也彻夜不眠，倚着桂树听琴。想象奇诡，“石破天惊”后来成了成语。清人方扶南把它与白居易《琵琶行》、韩愈《听颖师弹琴》并举，称为“摹写声音至文”。（“中国”即国中，指京城。）
 
 == 金铜仙人辞汉歌 | The Bronze Immortal Takes Leave of Han
 by: 李贺
@@ -156,6 +170,8 @@ Holding his plate, he goes out alone in the bleak moon's glow;
 Weicheng is far behind; the river's murmur fades to low.
 --
 In 233 the Wei emperor had the great bronze statue of an immortal — holding a plate to catch heavenly dew for Emperor Wu of Han's elixirs — carted from Chang'an to Luoyang; legend said the statue wept as it left. Li He, a distant descendant of the Tang royal house, mourns the passing of dynasties through the bronze man's tears. 天若有情天亦老, "if heaven had feelings, heaven too would grow old", is one of the most famous lines in Chinese.
+--
+诗前小序说，魏明帝青龙元年（233）下诏，把汉武帝所铸、手捧承露盘的铜仙人从长安拆运往洛阳，铜人临上车时潸然泪下。李贺是唐宗室远支，自称“唐诸王孙”，此诗约作于元和八年（813）他辞去奉礼郎、离开长安之时。“茂陵刘郎”指葬于茂陵的汉武帝，一世雄主，如今只是秋风中的过客；铜人带着汉时的月亮出了宫门，衰败的兰草在咸阳道上相送。“天若有情天亦老”奇警千古，宋人石曼卿对以“月如无恨月长圆”，司马光说时人以为是旗鼓相当的对句。家国兴亡之悲与诗人自身的失意，都寄托在铜人的眼泪里。
 
 == 悯农（其一） | Pity the Farmers (I)
 by: 李绅
@@ -171,6 +187,8 @@ No field lies idle anywhere —
 Yet still the farmers starve, as before.
 --
 Every Chinese child learns these two poems. The first asks a terrible question: with so much harvested, why do the people who grow it starve? (The answer, left unsaid, is rents and taxes.)
+--
+原题《古风》，共两首，这是第一首。李绅是中唐诗人，曾与元稹、白居易一同倡导新乐府，后来官至宰相。据《唐诗纪事》记载，他早年拿这组诗去拜见吕温，吕温读后断言此人日后必为卿相。前三句层层铺陈：春种一粒，秋收万颗，普天之下没有一块闲置的田地，丰收如此，末句却陡然一转：种田的人仍然饿死。诗人不说原因，只把事实摆在眼前，尖锐的追问却让人无法回避。（五代孙光宪《北梦琐言》把类似诗句归于聂夷中，通常仍认为是李绅所作。）
 
 == 悯农（其二） | Pity the Farmers (II)
 by: 李绅
@@ -187,7 +205,7 @@ Each single grain — was won with toil and woe?
 --
 The poem Chinese parents quote to children who leave rice in their bowls: every grain is someone's sweat.
 --
-烈日当午，农人仍在田间锄禾，汗水一滴滴落进泥土。“谁知盘中餐，粒粒皆辛苦”，是家长劝孩子珍惜粮食时最常念的两句。
+原题《古风二首》，是李绅青年时的作品。据唐人范摅《云溪友议》，李绅曾拿这组诗去拜见吕温，吕温读后断言他日后必为卿相，李绅后来果然官至宰相。烈日当午，农人仍在田间锄禾，汗水一滴滴落进泥土。“谁知盘中餐，粒粒皆辛苦”，是家长劝孩子珍惜粮食时最常念的两句。
 
 == 十五夜望月 | Gazing at the Moon on the Fifteenth Night
 by: 王建
@@ -203,3 +221,5 @@ Tonight the moon is bright, and all look up to see —
 I wonder in whose house the autumn longing looms?
 --
 The Mid-Autumn Festival, when families gather under the full moon. The ground white with moonlight, crows silent in the trees, dew falling on the cassia (the tree that grows in the moon) — and a gentle question: everyone is looking at the moon, but whose heart is missing someone most?
+--
+原题一作《十五夜望月寄杜郎中》，是中秋之夜寄给友人的诗。月光洒满庭院，地面一片银白，乌鸦已在树上栖定；夜深露冷，无声地打湿了桂花。前两句只写月色，不着一个“月”字，却处处是月。后两句由景生情：今夜人人都在望月，那无边的秋思不知落到了谁家？明明是自己思念最深，偏偏用一句不知答案的问话说出来，含蓄而悠长。一个“落”字，把看不见的愁思写得像月光一样可以飘落。

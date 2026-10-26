@@ -33,6 +33,8 @@ The mountain bends, the road turns, and you're lost from view;
 Only hoofprints in the snow remain, where your horse went through.
 --
 Luntai, in today's Xinjiang, 754: Cen Shen sees off a colleague returning to Chang'an. Snow arriving overnight like pear blossom on a spring wind is the most famous snow image in Chinese poetry. The ending — the friend gone, only hoofprints left in the snow — is pure longing.
+--
+天宝十三载（754）起，岑参第二次出塞，在安西北庭节度使封常清幕府任判官，此诗即在轮台（今新疆境内）送同僚武判官回长安时所作。胡地八月已飞雪，诗人却说是一夜春风吹开了千树万树梨花，以春写冬，奇丽温暖，成为咏雪的千古名句。中间极写奇寒：狐裘不暖，角弓难拉，红旗冻得风也吹不动。结尾山回路转，友人已不见，雪地上只留下一行马蹄印，余味悠长。
 
 == 逢入京使 | Meeting an Envoy Bound for the Capital
 by: 岑参
@@ -48,6 +50,8 @@ We meet on horseback — no brush, no paper, none;
 Please tell my family I'm safe and well, as you pass by.
 --
 On his way to the Central Asian frontier in 749, Cen Shen meets an envoy heading back to Chang'an. No time to write — only a spoken message: "I'm safe." The simplest words carry the deepest feeling.
+--
+天宝八载（749），岑参入安西节度使高仙芝幕府，第一次远赴西域，此诗就写在西行途中。回望东边的故园，长路漫漫，泪水沾湿了双袖；路上偶遇回京的使者，马上相逢，来不及写信，只能托他捎一句口信：我平安。千言万语化作“报平安”三个字，朴素至极，却最能打动人心。（“龙钟”在这里是沾湿、淋漓的样子。）
 
 == 别董大（其一） | Farewell to Dong the Elder (I)
 by: 高适
@@ -63,6 +67,8 @@ Don't fear the road ahead will hold no friend who knows your name —
 Who in all the world is there who doesn't know your fame?
 --
 Dong the Elder was Dong Tinglan, the greatest qin player of the age. Gao Shi, then poor and unknown, sees him off in a snowstorm with no gift but this encouragement — one of the most heartening farewell poems ever written.
+--
+一般认为作于天宝六载（747）冬，高适与董大在睢阳（今河南商丘）相会后分别。董大多认为是名琴师董庭兰，在家中排行第一（敦煌写本题作《别董令望》，身份尚有异说）。当时高适仕途未达，生活困顿，第二首就说“今日相逢无酒钱”。前两句黄云蔽日、北风送雁、大雪纷飞，一片苍茫；后两句却振起精神，劝友人不必担心前路没有知己，天下谁人不认识你？送别诗一扫儿女沾巾之态，豪迈而温暖。
 
 == 燕歌行 | Song of Yan
 by: 高适
@@ -114,6 +120,8 @@ Have you not seen the bitterness of fighting on the sands?
 To this day the soldiers long for General Li to lead their bands.
 --
 Written in 738 after news of a disastrous campaign in the north-east, where a general's arrogance and false victory reports cost many lives. "At the front, half the soldiers dead; in the general's tent, beauties still singing and dancing" is the most damning couplet in frontier poetry. "Jade chopsticks" are a woman's two streams of tears. General Li is Li Guang of the Han, who shared every hardship with his men.
+--
+诗前有序：开元二十六年（738），有人随御史大夫张公（幽州节度使张守珪）出塞归来，写了一首《燕歌行》给高适看，高适有感于征戍之事，作此和之。据史书记载，这一年张守珪的部将出击失利，他却隐瞒败状、谎报战功。诗中将帅受恩轻敌、士卒力尽被围，“战士军前半死生，美人帐下犹歌舞”一联对比鲜明，是边塞诗中最尖锐的讽刺。“玉箸”喻思妇的两行泪水。结尾怀念体恤士卒的“李将军”，一般认为指汉代名将李广，一说指战国赵将李牧。此诗被推为高适边塞诗的代表作。
 
 == 古从军行 | An Old Army Song
 by: 李颀
@@ -141,6 +149,8 @@ Year after year, the bones of war are buried in the waste —
 And all we get is grapes, brought into the Han to taste.
 --
 An "old" frontier song, set in the Han but aimed at Xuanzong's wars. The princess's pipa recalls the Han princess married off to a Central Asian king, who played her grief on the pipa. When Emperor Wu of Han's army failed against Ferghana, he shut the Jade Gate and forbade the soldiers to return; the only gain from all the dead was the grapevine, brought back to China. The last line is one of the bitterest in Tang poetry.
+--
+题为“古”，写的是汉事，讽的却是唐玄宗时连年开边。白天登山望烽火，黄昏饮马交河边，风沙里只有刁斗声，又仿佛听见当年远嫁乌孙的汉家公主弹起幽怨的琵琶。连胡雁、胡儿都在悲啼，戍卒的苦更不待言。“玉门犹被遮”用汉武帝的故事：李广利远征大宛失利，请求退兵，武帝派人封住玉门关，敢入关者斩，士兵只能拼死向前。结句说年年白骨埋在荒野，换来的不过是葡萄传入中原，冷冷一句，讽意极深。（“蒲桃”即葡萄。）
 
 == 塞下曲（其二） | Frontier Song (II)
 by: 卢纶
@@ -156,6 +166,8 @@ At dawn they seek his white-fletched arrow — why,
 It's buried in a rock, sunk out of sight!
 --
 Based on a story of the Han general Li Guang, who shot at what he took for a tiger in the dark grass — and in the morning found his arrow buried in a rock. The "grass startled by wind" hints at the tiger without naming it.
+--
+原题《和张仆射塞下曲》，共六首，是卢纶与一位张姓仆射的唱和之作。此首化用《史记》中李广的故事：李广出猎，见草中有石，以为是虎，一箭射去，箭头竟没入石中。诗人写林间昏暗，草木忽被风吹动，仿佛有猛兽潜伏，将军当即开弓；天亮去寻那支白羽箭，它竟深深嵌进了石棱里。通篇不着一个“虎”字，也不直说将军如何勇武，只凭一个结果，便写尽了他的神力。
 
 == 塞下曲（其三） | Frontier Song (III)
 by: 卢纶
@@ -171,6 +183,8 @@ We'd chase him down with our light horse —
 Heavy snow covers bows and blades in white.
 --
 The night is so dark that the khan's escape is known only from the startled geese. The last line — the cavalry poised, snow piling on their weapons — freezes the moment before the chase.
+--
+《和张仆射塞下曲》六首中的第三首。没有月光的黑夜，雁群高高惊飞，原来是单于趁着夜色悄悄逃走了。将军正要率领轻骑追击，大雪纷纷而下，转眼落满了弓和刀。诗到这里戛然而止，追击的结果一字不写，只留下雪夜里整装待发的一幕，边塞的严寒与将士的豪气都在其中。（单于是匈奴君主的称号，这里泛指敌军首领。）
 
 == 夜上受降城闻笛 | Hearing a Flute at Night on the Wall of Shouxiang
 by: 李益
@@ -186,6 +200,8 @@ From somewhere — who knows where? — a reed pipe's playing low;
 All night the soldiers gaze toward home, and feel what they have lost.
 --
 Shouxiang ("Accepting Surrender") was a fortress on the Yellow River in the far north. Sand and moonlight turn the world white; an unseen reed pipe plays; every soldier turns toward home. Set to music, the poem was sung all over the empire.
+--
+李益久在北方边地幕府任职，以边塞诗著名。回乐是唐代灵州属县，在今宁夏灵武一带；受降城是唐代为接受、防御北方部族而筑的边城（具体指哪一座，说法不一）。烽火台前的沙地白得像雪，城外的月光冷得像霜，一片清寒。忽然不知何处吹起芦管，悠悠一夜，所有出征的人都望向故乡。笛声只写一句，思乡只写一句，却写出了千万戍卒共同的心事。据《旧唐书》记载，李益每作一诗，宫廷乐工便争着重金求取，谱成歌曲供奉。
 
 == 陇西行（其二） | Song of Longxi (II)
 by: 陈陶
@@ -201,3 +217,5 @@ Alas — the bones along the Wuding River, white and bare,
 Are still the living men in the spring dreams of each wife.
 --
 The most heartbreaking war poem in Chinese: the wives at home, not yet knowing, still dream of their husbands — who are already bones by the Wuding River ("River of No Fixed Course") on the northern frontier. "Sable and brocade" was the uniform of elite Han troops.
+--
+陈陶是晚唐诗人，晚年隐居洪州西山。前两句写将士誓扫匈奴、奋不顾身，五千身穿锦衣貂裘的精兵却葬身胡地风尘（“貂锦”借指精锐部队）。后两句是全诗的精华：无定河边早已是累累白骨，闺中的妻子不知噩耗，仍在梦里与他相会。一边是“骨”，一边是“梦里人”，现实与梦境相隔，悲痛倍增。这首诗选入《唐诗三百首》，“可怜无定河边骨，犹是春闺梦里人”成为控诉战争最沉痛的名句之一。（无定河在今陕西北部，因流沙淤积、河道无定而得名。）

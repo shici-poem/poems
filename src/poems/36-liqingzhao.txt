@@ -15,6 +15,8 @@ I ask the maid who's rolling up the blind —
 The green must be fuller now, and the red grown thin."
 --
 Written by Li Qingzhao as a young woman. A dialogue in miniature: the careless maid says the flowers are fine; the poet, who lay awake listening to the storm, knows better. 绿肥红瘦, "the green grows plump, the red grows thin" — leaves flourishing, blossoms stripped — was admired as a daring and perfect phrase.
+--
+李清照早年的名作，一般认为作于1100年前后。昨夜雨点稀疏、风势猛烈，词人酣睡一夜，醒来残醉未消，便问正在卷帘的侍女：海棠怎样了？侍女随口答道“依旧”。词人却知道，经过一夜风雨，该是绿叶愈加繁茂、红花已然凋零了。全词只有三十三字，有问有答，一个漫不经心，一个善感多情，惜花之情都在“知否，知否”的追问里。“绿肥红瘦”以肥瘦写花叶，新奇而贴切，南宋胡仔称赞“此语甚新”。
 
 == 如梦令（常记溪亭日暮） | As in a Dream (I Often Recall the Stream Pavilion)
 by: 李清照
@@ -33,6 +35,8 @@ And drifted deep among the lotus, lost to roam.
 And up flew a whole shoal of gulls and egrets, white as foam.
 --
 A happy memory of girlhood in Jinan: tipsy after a day out, the girls row home in the dusk, lose their way among the lotus, and splash their way out, sending up a flock of startled birds. 争渡 can mean "row hard!" or "how do we get through?" — both fit the giggling panic.
+--
+李清照早年的作品，回忆少女时代一次尽兴的郊游。在溪边亭子里玩到日暮，喝得微醉，竟忘了回去的路；兴尽划船回家，又误入荷花丛的深处。“争渡，争渡”，一说是奋力划船，一说“争”同“怎”，是“怎么划出去”的焦急；慌乱的划桨声惊起了满滩的水鸟。短短三十多字，写得活泼明快，可以看出词人少女时代无拘无束的性情。（溪亭所在，一说在她的家乡济南，尚无定论。）
 
 == 声声慢（寻寻觅觅） | Slow Tune (Searching, Seeking)
 by: 李清照
@@ -71,6 +75,8 @@ This plight —
 How can one word, "sorrow", tell it all?
 --
 The most famous lyric by a woman in Chinese, written after the fall of the north in 1127, the loss of her home and library, and the death of her husband, Zhao Mingcheng. It opens with fourteen doubled characters (寻寻觅觅…) that sound like sobs. The geese that once carried her husband's letters now carry nothing; the chrysanthemums she once picked lie wasted; rain drips on the wutong leaves. And then the famous ending: how could one word, "sorrow", hold all this?
+--
+多数学者认为作于南渡后的晚年（一说作于中年）：靖康之变（1127）后，李清照流离江南，丈夫赵明诚于1129年病逝，夫妇半生收藏的金石书画也几乎散失殆尽。开头连用七组叠字，从若有所失的寻觅，到冷清的环境，再到凄惨的心境，层层加深，读来如低声啜泣。南宋张端义赞为“公孙大娘舞剑手”。乍暖还寒的秋日，几杯淡酒挡不住晚来急风；南飞的大雁仿佛旧时相识，满地黄花憔悴无人可摘；黄昏梧桐细雨，点点滴滴。末句说，这番光景，一个“愁”字怎能说得尽。
 
 == 一剪梅（红藕香残玉簟秋） | A Sprig of Plum (The Red Lotus' Scent Has Faded)
 by: 李清照
@@ -98,6 +104,8 @@ No sooner has it left my brow
 Than it climbs into my heart.
 --
 Written while her husband Zhao Mingcheng was away. Geese flying in formation spell the characters 人 or 一 across the sky — "goose letters" (雁字) — and were said to carry messages. "One longing, two places": the love is mutual, so the sadness is doubled. The last couplet is a famous image of a feeling that cannot be put down.
+--
+一般认为作于李清照婚后与丈夫赵明诚分别期间。元人《琅嬛记》说她把这首词写在锦帕上送给远行的丈夫，学者王仲闻指出此书是伪书，不足为据。荷花香消、竹席生凉，已是秋天；她独自登上小船，盼望着云中传来书信，雁群飞回时，月光已洒满西楼。下片“一种相思，两处闲愁”，写两人彼此思念，愁也因此加倍。结尾说这份情思无法排遣，刚从眉间舒展，又涌上了心头，把看不见的愁绪写得有起有落，成为千古名句。（“雁字”指雁群飞行时排成的“一”字或“人”字。）
 
 == 醉花阴（薄雾浓云愁永昼） | Tipsy in the Flowers' Shade (Thin Mist, Thick Clouds)
 by: 李清照
@@ -123,6 +131,8 @@ When the west wind lifts the blind,
 I'm thinner than the yellow flowers.
 --
 Sent to her husband at the Double Ninth, when families drank chrysanthemum wine together. The story goes that Zhao Mingcheng, determined to outdo her, wrote fifty lyrics in three days and slipped hers among them for a friend to judge; the friend said only three lines were truly fine — the last three of this poem.
+--
+重阳节本是亲人团聚、赏菊饮酒的日子，丈夫却远在他乡。从白天的薄雾浓云、香炉里袅袅的瑞脑香，到半夜透进纱帐的凉意，再到黄昏后东篱边独自饮酒，一整天都写的是孤单。结尾三句最妙：西风卷起帘子，帘内的人比菊花还要消瘦。据元人《琅嬛记》的传说，赵明诚收到此词，闭门谢客三天三夜，写了五十首词，把妻子这首混在其中给友人陆德夫看，陆德夫反复玩味后说，只有三句绝佳，正是“莫道不销魂，帘卷西风，人比黄花瘦”。（“瑞脑”是香料，“金兽”是兽形铜香炉。）
 
 == 武陵春（风住尘香花已尽） | Spring at Wuling (The Wind Has Stopped)
 by: 李清照
@@ -146,6 +156,8 @@ But I fear the grasshopper skiffs at Twin Streams
 Could never carry all the grief I'm going through.
 --
 Jinhua, 1135. Li Qingzhao, in her fifties, widowed and a refugee, cannot even bring herself to go boating at the famous Twin Streams. 物是人非, "things remain, but people are gone", is now a common phrase; grief too heavy for a little boat to carry is one of her most famous images.
+--
+绍兴四年（1134）秋，金兵南侵，五十多岁的李清照避乱金华，次年暮春写下此词。此时丈夫赵明诚已去世多年，夫妻半生收藏的金石书画也大多散失。风停了，落花化作尘土，只留下余香；天色已晚，她却懒得梳头。“物是人非事事休”，七个字道尽国破家亡、孤苦无依的遭遇。听说城外双溪春光还好，也曾想去泛舟散心，又怕那小小的船载不动这么多的忧愁。愁本无形无重，词人却让它有了分量，这是全词最为人称道的奇想。（“舴艋舟”是两头尖的小船。）
 
 == 夏日绝句 | A Summer Quatrain
 by: 李清照
@@ -161,6 +173,8 @@ To this day I think of Xiang Yu, who then
 Would not cross back east of the River — by his own will.
 --
 Written after the Jurchen invasion of 1127, when the Song court fled south across the Yangtze instead of fighting. Li Qingzhao sets against it Xiang Yu, who chose death rather than retreat east across the river in disgrace. Pointed and fierce — quite unlike her love lyrics.
+--
+作于南宋初年。靖康之变后金兵南下，宋高宗一路南逃，朝廷只求偏安江南。李清照借项羽的故事抒发愤慨：项羽兵败退到乌江，亭长劝他渡江回江东再图后举，他却自觉无颜面对江东父老，宁可战死。前两句“生当作人杰，死亦为鬼雄”掷地有声，后两句只说“至今思项羽”，讽刺之意尽在不言中，与她婉约的词风判若两人。（一说此诗也暗含对丈夫赵明诚的不满：1129年建康发生兵变，身为知府的赵明诚弃城出逃。）
 
 == 渔家傲（天接云涛连晓雾） | The Fisherman's Pride (The Sky Meets the Waves of Cloud)
 by: 李清照
@@ -186,6 +200,8 @@ Wind, don't stop!
 Blow my little boat to the Isles of the Immortals, far from pain!
 --
 Li Qingzhao's one great "heroic" lyric, written in her refugee years: a dream voyage among the stars, where the Emperor of Heaven asks where she is bound. The Peng is the colossal bird of *Zhuangzi* that rides the wind ninety thousand li; the Three Mountains are the islands of the immortals. Critics said it could pass for Su Shi.
+--
+李清照的词多婉约，这首却气象雄奇，一般认为作于南渡以后的漂泊岁月。拂晓时分，云涛与晓雾相连，银河将转，千帆起舞，梦魂仿佛回到天帝居所，天帝殷勤问她要归向何处。她答道路长日暮，学诗徒有惊人之句——“路长”“日暮”暗用屈原《离骚》之意，道尽才华无处施展的苦闷。于是她要借《庄子》中大鹏乘风九万里的气势，让长风把小舟吹向海上三座仙山。笔力豪放，近于苏轼一路，在李清照词中别开一境。
 
 == 点绛唇（蹴罢秋千） | Rouged Lips (Done with the Swing)
 by: 李清照
@@ -210,3 +226,5 @@ Then, leaning on the door, she looks back —
 And sniffs a green plum, as if that were what she'd come to do.
 --
 A girl caught off guard by a visitor — perhaps the young man she will marry — runs off in her socks, then cannot resist peeking back, pretending to smell the green plums. One of the most charming portraits of a girl in Chinese. (Its attribution to Li Qingzhao is traditional, though sometimes questioned.)
+--
+写少女情态的名篇，传统上归于李清照，但明代《花草粹编》作无名氏词，归属尚有争议。少女刚荡罢秋千，懒懒地揉着纤手，露浓花瘦，薄汗湿透轻衣；忽见客人进来，慌得只穿着袜子就跑，金钗也滑落了。含羞跑到门边，却又回头偷看，假装去嗅青梅。这几句化用唐代韩偓《偶见》“见客入来和笑走，手搓梅子映中门”，却更加灵动，一个回首、一个嗅梅，把少女的羞怯与好奇写得活灵活现。（“袜刬”指只穿着袜子走路。）

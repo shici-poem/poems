@@ -12,6 +12,8 @@ Its voice goes far because it dwells up high —
 And not because the autumn wind has carried it at all.
 --
 The cicada's mouthparts look like the tassels of an official's cap, and it was believed to live on dew — so it is an upright official. A person of real worth is heard far and wide by his own merit, without needing powerful backing. One of the "three great cicada poems" of the Tang, with Luo Binwang's and Li Shangyin's.
+--
+“緌”是古代官帽下垂的缨带，蝉的口器细长下垂，形似冠缨；古人又以为蝉只饮清露，于是把它看作清高显贵的象征。蝉栖于高大的梧桐，鸣声远播，诗人偏说这不是借了秋风之力，而是因为它“居高”。言外之意，品格高洁的人自能声名远扬，无须凭借外力。虞世南是初唐名臣，以德行、博学和书法著称，这首诗也是他的自我写照。后人常把它与骆宾王、李商隐的咏蝉诗并称。
 
 == 咏鹅 | Ode to the Goose
 by: 骆宾王
@@ -28,7 +30,7 @@ Red feet paddle the clear waves by.
 --
 Said to have been written by Luo Binwang at the age of seven, and the first poem many Chinese children learn: sound, shape and colour — white, green, red, clear — in eighteen characters.
 --
-相传是骆宾王七岁时所作，也是许多孩子学会的第一首诗。先闻其声，再见其形，后写其色——白毛、绿水、红掌、清波，十八个字有声有色，充满童趣。
+相传是婺州义乌人骆宾王七岁时所作，也是许多孩子学会的第一首诗。先闻其声，连呼三个“鹅”字；再见其形，弯着脖子向天高歌；后写其色，白毛、绿水、红掌、清波，十八个字有声有色，充满童趣。骆宾王后来与王勃、杨炯、卢照邻并称“初唐四杰”。
 
 == 送杜少府之任蜀州 | Seeing Off Assistant Magistrate Du to His Post in Shu
 by: 王勃
@@ -50,6 +52,8 @@ So here, where the roads divide, let's not, like girls and boys,
 Wet our handkerchiefs with tears, and weep the more.
 --
 Wang Bo's farewell to a friend posted to Sichuan (the "Five Fords" of the Min River). Instead of tears, comfort: 海内存知己，天涯若比邻 — "with a true friend anywhere in the world, the ends of the earth are like next door" — is one of the most quoted lines on friendship ever written.
+--
+王勃在长安送一位姓杜的朋友赴蜀中任县尉（少府是县尉的别称）。首联由三秦护卫的长安城阙，遥望风烟中的蜀地五津，把送别之地与远行之地连在一起；接着说你我同是离家宦游之人，别情彼此深知。颈联化用曹植“丈夫志四海，万里犹比邻”，一扫送别诗的悲酸，“海内存知己，天涯若比邻”遂成千古名句；末了劝友人不必在岔路口像小儿女那样泪湿衣巾。（蜀州设于王勃身后，诗题一作“之任蜀川”。）
 
 == 风 | Wind
 by: 李峤
@@ -65,6 +69,8 @@ Over the river, it raises thousand-foot waves;
 Into the bamboo — it bends ten thousand, every one.
 --
 A riddle-poem: the wind is never named, only shown through what it does. A favourite with Chinese children.
+--
+一首咏物诗，通篇不出一个“风”字，却处处是风：它能吹落深秋的树叶，也能催开早春的花朵；过江掀起千尺巨浪，入竹吹得万竿倾斜。秋与春、落与开、江与竹，一句一景，两两相对，风的力量与无形都写了出来，读来像一则谜语，深受孩子们喜爱。（“三秋”指秋季第三个月，即晚秋；“二月”指农历二月，早春。）
 
 == 渡汉江 | Crossing the Han River
 by: 宋之问
@@ -80,6 +86,8 @@ Now, nearing home, my heart grows timid, full of fear —
 I dare not ask the travellers for news of home.
 --
 Exiled to the far south (beyond the Five Ridges) in 705, Song Zhiwen secretly fled north. Crossing the Han River near home, he is afraid to ask about his family — what if the news is bad? 近乡情更怯, "the nearer home, the more timid the heart", describes every long-delayed homecoming.
+--
+神龙元年（705），宋之问因依附张易之获罪，贬为泷州（今广东罗定）参军。地在五岭以南，音信断绝，熬过一冬又一春；次年他私自逃回洛阳，途中渡过汉江。家乡越来越近，心里反而越来越怯，路上遇到从家乡来的人，也不敢开口打听，怕听到不好的消息。“近乡情更怯”写出了久别归乡者共有的矛盾心理，成了千古传诵的名句。（此诗一说为晚唐李频所作，《唐诗三百首》即署李频。）
 
 == 登幽州台歌 | Song on Climbing Youzhou Terrace
 by: 陈子昂
@@ -95,6 +103,8 @@ I think of heaven and earth, which go on and on,
 And alone, in sorrow, my tears fall free.
 --
 Youzhou Terrace (near Beijing) was said to be the Golden Terrace built by King Zhao of Yan in the 4th century BC to welcome men of talent. Chen Zi'ang, a frustrated adviser on a military campaign in 697, climbs it: the wise kings are gone, the future cannot be seen, and he stands alone in infinite time and space. One of the loneliest poems ever written.
+--
+万岁通天元年（696），契丹叛乱，陈子昂随建安王武攸宜北征，屡次进言不被采纳，反被降为军曹。他登上幽州台（即蓟北楼，相传是燕昭王招揽天下贤士的黄金台旧址），想到古时礼贤下士的明君已经不见，后来的贤主又等不到，在悠悠天地之间独自怆然泪下。全诗只有二十二个字，不写一景，却写尽了怀才不遇者亘古的孤独，苍凉雄浑，正合陈子昂所倡导的汉魏风骨。
 
 == 回乡偶书（其一） | Coming Home (I)
 by: 贺知章
@@ -111,7 +121,7 @@ The children see me, a stranger to them all —
 --
 He Zhizhang came home to Yuezhou (Zhejiang) in 744, aged eighty-five, after more than fifty years at court. The children's innocent question — asking a native where he comes from — holds all the gentle comedy and sadness of the poem.
 --
-天宝三载（744），贺知章辞官回到故乡越州（今浙江），已年过八十，离家五十多年。乡音未改，鬓发已衰；儿童天真地笑问“客从何处来”，把回家的主人当成了远客，幽默之中满是人生的感慨。
+天宝三载（744），八十多岁的贺知章告老还乡，回到越州永兴（今浙江杭州萧山）。他自武后时中进士入仕，离家已五十多年。乡音未改，鬓发已衰；村里的孩子不认得他，笑着问这位“客”从哪里来，把回家的主人当成了远客。诗写得平易诙谐，那份物是人非的感慨却越品越深。
 
 == 咏柳 | Ode to the Willow
 by: 贺知章
@@ -128,7 +138,7 @@ The spring wind of the second month — like scissors, cut them all.
 --
 A child's favourite: the willow as a young woman dressed in green jade with silken ribbons, and the surprising last line — the spring wind is a tailor's scissors.
 --
-孩子们喜爱的咏物诗。诗人把柳树比作碧玉妆成的少女，垂下万条绿丝绦；末句忽发奇想：裁出这细细柳叶的，原来是二月春风这把剪刀。
+孩子们喜爱的咏物诗。首句把一树新柳比作碧玉装扮成的美人，“碧玉”暗用南朝乐府“碧玉小家女”的典故，既写柳色青翠，又写少女的娇嫩；万条垂柳便是她身上飘拂的绿丝带。末两句先设一问，再出奇想：裁出这细细柳叶的，原来是二月春风这把剪刀。春风本无形，一个比喻，便写出了它化育万物的巧手。
 
 == 春江花月夜 | Spring River in the Flower Moon Night
 by: 张若虚
@@ -193,6 +203,8 @@ How many, I wonder, ride the moonlight home tonight?
 The setting moon stirs feeling in the river trees that bend.
 --
 Only two of Zhang Ruoxu's poems survive, and this one was nearly forgotten until the Ming; the modern scholar Wen Yiduo called it "the poem above all poems, the peak above all peaks". It follows a single spring night from moonrise to moonset, moving from the beauty of the river to questions about eternity — who first saw the moon? when did it first shine on man? — and to the longing of separated lovers, a husband on a boat and a wife in her tower, whom the same moon joins and divides. Geese and fish were the legendary carriers of letters; even they cannot bring word.
+--
+《春江花月夜》是南朝陈后主创制的乐府旧题，原多写宫廷艳情。初唐扬州人张若虚存诗仅两首，这一首宋代收入郭茂倩《乐府诗集》后少有人提起，到明代李攀龙等人选入诗选才渐受重视。诗从月升写到月落，由江天月色引出“江畔何人初见月，江月何年初照人”的追问，再转入游子与思妇的两地相思：同一轮月照着彼此，鸿雁、鱼龙却传不去音信。闻一多在《宫体诗的自赎》中称之为“诗中的诗，顶峰上的顶峰”，清人王闿运也有“孤篇横绝”之评。
 
 == 望月怀远 | Gazing at the Moon, Longing for One Far Away
 by: 张九龄
@@ -214,6 +226,8 @@ I cannot give you handfuls of its gleam,
 So back to bed — to meet you in my sleep.
 --
 海上生明月，天涯共此时 — "the bright moon rises over the sea; at the ends of the earth we share this moment" — is the line every Chinese person thinks of at the Mid-Autumn Festival when loved ones are far away. Written by Zhang Jiuling around 737, after his dismissal as chief minister.
+--
+张九龄开元二十四年（736）罢相，次年贬为荆州长史，此诗一般认为作于贬荆州前后。开篇“海上生明月，天涯共此时”，境界阔大，又情意绵长：相隔天涯的人，此刻望着同一轮明月。下面写彻夜相思：吹灭蜡烛，更爱满屋月光；披衣出户，才觉夜露已湿。月光不能捧满双手送给对方，只好回去睡下，盼在梦里相会，这里化用了陆机“照之有余辉，揽之不盈手”的诗意。开头两句至今是中秋时节最常被引用的诗句。（“情人”指多情的人，不限于恋人。）
 
 == 感遇（其一） | Moved by What I Encounter (I)
 by: 张九龄
@@ -235,3 +249,5 @@ But plants have their own nature — why should they
 Seek to be picked by a beauty, just for show?
 --
 The first of twelve poems written after Zhang Jiuling lost power in 737. Orchid and cassia are fragrant by their own nature, not to win admiration — like a person of virtue, who does not need to be "picked" by a ruler (the "beauty" of the old allegory). Integrity does not depend on recognition.
+--
+开元二十四年（736），张九龄受李林甫排挤罢相，次年又被贬为荆州长史，《感遇》十二首便作于此后。春兰枝叶繁茂，秋桂花色皎洁，各在自己的时节欣欣向荣。山林隐者闻香而生爱慕（“坐”是“因而”的意思），可草木吐芳本是天性，何曾求美人来折取？诗人以兰桂自比：守住本心便好，不必求人赏识。这首诗是蘅塘退士所编《唐诗三百首》的开卷第一篇。

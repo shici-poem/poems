@@ -12,6 +12,8 @@ In every age the land brings forth new talents,
 Each to lead poetry a few centuries — that's the tale.
 --
 A bold claim for originality: even the greatest models grow stale through imitation, and every age must find its own voice. 江山代有才人出，各领风骚数百年 — "every age brings forth its own talents, each to lead for a few hundred years" — is quoted whenever a new generation rises.
+--
+赵翼是乾隆年间的史学家、诗人，与袁枚、蒋士铨并称“乾隆三大家”。他论诗主张创新，反对一味模仿古人。《论诗》共五首，这是第二首。李白、杜甫的诗篇万口传诵，可读得多了、学得多了，也就不觉新鲜。“江山代有才人出，各领风骚数百年”，每个时代都有自己的才人，各自引领文坛数百年。（“风骚”本指《诗经》的《国风》和屈原的《离骚》，后泛指文学，也引申为在某一领域领先。）
 
 == 杂感 | Random Feelings
 by: 黄景仁
@@ -33,6 +35,8 @@ Don't fear my book of poems will prove a sad prophecy —
 The spring birds and autumn insects simply sing because they must.
 --
 Huang Jingren, a gifted, impoverished poet who died at thirty-four. 十有九人堪白眼，百无一用是书生 — "nine in ten deserve the whites of my eyes; of all things, a scholar is the most useless" — is still the classic bitter joke of frustrated intellectuals. The "whites of the eyes" are Ruan Ji's look of contempt.
+--
+黄景仁才华横溢，却一生贫病潦倒，屡试不第，年仅三十五岁便客死途中。此诗写他求仙学佛两无所成，只能在孤夜里发出不平之鸣；身如风中飞蓬，悲歌之气已经耗尽，又如沾泥的柳絮，平白落得个薄幸的名声。“十有九人堪白眼，百无一用是书生”，上句用阮籍以白眼看待俗人的典故，下句自嘲读书人百无一用，至今仍是书生自嘲时最常说的话。末联自宽：不必担心诗里的愁苦会成为谶语，不过像春鸟秋虫一样，自然发出声音罢了。
 
 == 己亥杂诗（其五） | Poems of the Year Jihai (V)
 by: 龚自珍
@@ -48,6 +52,8 @@ Yet fallen petals are not heartless, though they go —
 They turn to mud in spring, to feed the flowers in their bed.
 --
 1839: Gong Zizhen resigns from office in Beijing and heads home to the south. He compares himself to a fallen petal — no longer on the branch, but still devoted. 落红不是无情物，化作春泥更护花 is now quoted in praise of teachers and anyone who quietly serves the next generation.
+--
+道光十九年（1839），龚自珍辞官离开北京南归，往返途中写下三百一十五首七言绝句，总题《己亥杂诗》，这是第五首。离京时白日西斜，离愁浩荡，马鞭向东一指，从此便是天涯。后两句笔锋一转：落花并非无情之物，化作春泥，还要护养来年的花朵。诗人虽然离开了官场，报国之心未改。这两句如今常用来赞美默默奉献、甘为后人铺路的人，比如教师。
 
 == 己亥杂诗（其二百二十） | Poems of the Year Jihai (CCXX)
 by: 龚自珍
@@ -63,6 +69,8 @@ I urge the Lord of Heaven to rouse himself once more,
 And send down talents of every kind, unbound and free.
 --
 Written as the Qing empire stagnated on the eve of the Opium War. "Ten thousand horses all mute" is a silenced, conformist officialdom; China needs "wind and thunder" — great change — and talents chosen "not in one mould" (不拘一格). The last line is now a slogan for open-minded recruitment.
+--
+据诗人自注，他南归途经镇江，正遇百姓祭祀玉皇和风神、雷神，道士请他撰写祭神用的青词，于是写下这首诗。诗人以为，要让九州恢复生机，只能依靠风雷般的巨大变革；而如今朝野上下万马齐喑，无人敢于直言，实在可悲。他借着祭神，劝天公重新振作，不拘一格地降下人才。此时距鸦片战争爆发只有一年，诗中的忧愤与期望格外深切。（“喑”是哑、不出声。）
 
 == 赴戍登程口占示家人（其二） | Setting Out for Exile: Lines for My Family (II)
 by: 林则徐
@@ -84,6 +92,8 @@ In jest I tell my wife the tale of long ago,
 And chant the line, "There goes the old man's head!" — with a smile on my face.
 --
 In 1842 Lin Zexu, who had destroyed the British opium at Humen, was made the scapegoat for the Opium War and exiled to Xinjiang. Taking leave of his family, he wrote 苟利国家生死以，岂因祸福避趋之 — "if it serves the country, I will give my life or death; how could I seek fortune or flee disaster?" — the most quoted line of public duty in modern China. The ending is a joke: a Song recluse summoned to court was sent off by his wife with a verse, "this time there goes the old man's head".
+--
+道光二十一年（1841），主持虎门销烟的林则徐被朝廷当作鸦片战争失利的替罪羊，革职发配新疆伊犁，次年从西安启程，临行写诗告别家人。“苟利国家生死以，岂因祸福避趋之”化用《左传》中子产“苟利社稷，死生以之”的话，成为表达以身许国最常引用的名句。尾联却轻松幽默：宋代隐士杨朴被召入朝，妻子赠诗说“这回断送老头皮”，苏轼下狱时也曾拿这个故事逗妻子发笑。林则徐借此宽慰家人，把悲愤化为豁达。
 
 == 村居（高鼎） | Village Life
 by: 高鼎
@@ -99,6 +109,8 @@ The children have come home from school early today,
 To fly their paper kites in the east wind while they may.
 --
 The happiest poem of the late Qing: early spring in the countryside, willows "drunk" in the misty air, and children running home to fly kites. Every Chinese child learns it — often while flying a kite.
+--
+高鼎是清代后期浙江仁和（今杭州）人，一生不过做些教书、文书之类的差事，生平事迹留下的不多，却凭这首小诗家喻户晓。农历二月，青草渐长，黄莺飞舞，堤上的杨柳轻拂水面，仿佛在迷蒙的春烟里醉了，一个“醉”字，把杨柳写得娇憨可爱。后两句转向孩子：放学回来得早，趁着东风正好，忙着把风筝放上天。全诗明快活泼，洋溢着春天的生机和童年的欢乐，是孩子们最早背诵的古诗之一。（“纸鸢”即风筝，“散学”就是放学。）
 
 == 狱中题壁 | Written on the Prison Wall
 by: 谭嗣同
@@ -114,6 +126,8 @@ As for me, I'll hold my sword and laugh at heaven —
 The ones who flee, the one who stays: two Kunlun peaks of might.
 --
 Written on his prison wall in 1898, after the Empress Dowager Cixi crushed the Hundred Days' Reform. Tan Sitong refused to flee: "No country has ever been reformed without bloodshed; let it begin with me." Zhang Jian and Du Gen were Han loyalists who survived persecution — he wishes his escaping comrades the same luck. Those who flee to carry on the struggle and the one who stays to die are "two Kunlun mountains" of equal courage. He was executed days later, aged thirty-three.
+--
+光绪二十四年（1898）戊戌变法失败，慈禧发动政变。谭嗣同本可出走，却决意留下，说各国变法无不流血，“有之，请自嗣同始”。他被捕后在狱中墙上题下此诗。前两句用东汉张俭逃亡时人们争相收留、杜根装死逃过一劫的典故，盼望出逃的同志保全性命。“我自横刀向天笑”写尽视死如归的豪迈；“去留肝胆两昆仑”，出走的与留下的，肝胆同样如昆仑般高大。几天后，他在北京菜市口就义，为“戊戌六君子”之一。（今传文本出自梁启超，另有清末刑部抄本，字句略异。）
 
 == 对酒 | Facing Wine
 by: 秋瑾
@@ -129,3 +143,5 @@ This chestful of hot blood — I'll guard it, treasure it;
 For spilled, it still can turn to jade-green waves anew.
 --
 Qiu Jin, revolutionary and feminist, left an arranged marriage to study in Japan and plot against the Qing. Blood "turning to green jade" recalls Chang Hong, a loyal Zhou official whose spilled blood became green jade three years after his unjust death. She was beheaded in 1907, aged thirty-one.
+--
+秋瑾自号“鉴湖女侠”，善饮酒，爱舞剑，留学日本时曾购得一把宝刀。此诗约作于她从日本回国之后，一说作于日本。“貂裘换酒”用晋人阮孚以金貂换酒的故事，也让人想起李白“千金裘，呼儿将出换美酒”，出自一位女子笔下，豪气不让须眉。末句用苌弘化碧的典故：周大夫苌弘蒙冤而死，其血三年后化为碧玉。珍重这一腔热血，是为了有朝一日为国洒尽。1907年，秋瑾在绍兴轩亭口就义，这首诗成了她的自许之辞。

@@ -13,7 +13,7 @@ How many blossoms fell before the dawn?
 --
 After *Quiet Night Thoughts*, perhaps the most famous poem in Chinese. Half awake on a spring morning, the poet hears birdsong and remembers the night's storm: a moment of pure contentment shadowed by the thought of fallen petals — beauty and its passing in twenty characters.
 --
-春日酣眠，不觉天已破晓，处处鸟声入耳；忽然想起昨夜的风雨，不知又吹落了多少花。满心的惬意里透出一丝惜春之情，美好与凋零，尽在二十字中。
+写作年代已不可考，诗意闲适，一般认为是孟浩然早年在家乡襄阳隐居时所作。春日酣眠，不觉天已破晓，处处鸟声入耳；忽然想起夜里的风雨声，不知又吹落了多少花。诗从听觉落笔，不写一眼所见，满心惬意里透出一丝惜春之情。语言如脱口而出，自然浑成，二十个字写尽美好与凋零。
 
 == 过故人庄 | Visiting an Old Friend's Farm
 by: 孟浩然
@@ -35,6 +35,8 @@ When the Double Ninth comes round again,
 I'll come back for the chrysanthemums — I won't be exempt!
 --
 The great pastoral poem of the Tang. Everything is plain — chicken and millet, talk of crops — and that is the joy. The promise to return on the Double Ninth, when people drank chrysanthemum wine, is the warmest possible thank-you.
+--
+孟浩然一生大半隐居故乡襄阳，这首诗写他应邀到农家老友家做客。故人备好鸡黍相邀，绿树环抱村庄，青山斜倚城外；推开窗子面对场院菜圃，端起酒杯闲话桑麻。全诗没有一个华丽的字，处处是田家的质朴与友情的真淳，被视为唐代田园诗的代表作。末句约定重阳节再来赏菊，一个“就”字，写出主客之间的亲近与随意。（“鸡黍”是农家待客的饭菜，《论语》中隐者款待子路，便是“杀鸡为黍而食之”；“场圃”是打谷场和菜园。）
 
 == 宿建德江 | Mooring on the Jiande River
 by: 孟浩然
@@ -50,6 +52,8 @@ The plain is vast — the sky stoops below the trees;
 The river's clear — the moon comes close to me, too.
 --
 Mooring at dusk on the Xin'an River in Zhejiang. The last two lines are among the most admired in Chinese: on the open plain the sky seems lower than the trees; in the clear river, the moon's reflection floats right beside the boat — the only companion the lonely traveller has.
+--
+建德江是新安江流经建德（今属浙江）的一段。孟浩然四十岁赴长安应试落第，此后南下漫游吴越，这首诗一般认为就作于那段旅途中。日暮时分，小船停靠在烟雾迷蒙的沙洲边，客愁又添了新的一层。后两句写景极妙：原野空旷，远处的天空看上去比近树还低；江水清澈，水中的月影仿佛就近在身旁。天地之大更显人的孤独，而唯一亲近旅人的，只有那一轮江月。“愁”字只出现一次，却笼罩了全诗。
 
 == 望洞庭湖赠张丞相 | Gazing at Dongting Lake: To Chancellor Zhang
 by: 孟浩然
@@ -71,6 +75,8 @@ I sit and watch the men who fish,
 And only envy the fish they claim.
 --
 A poem asking Zhang Jiuling, the chief minister, for an official post — but it is the first half that made it famous: the colossal lake in autumn flood, steaming over the marshes and shaking the city walls. The second half pleads, gracefully: "I'd cross over (into office) but have no boat; watching others fish, I can only envy their catch."
+--
+这是一首献给宰相、希望得到引荐的干谒诗，“张丞相”通常认为是张九龄，一说是张说。前四句写八月洞庭秋水盛涨，湖天相接，浑然一体；“气蒸云梦泽，波撼岳阳城”，水汽蒸腾笼罩云梦大泽，波涛摇撼岳阳城郭，是历代写洞庭最雄浑的名句之一。后四句才转入正题：想渡湖却没有舟楫，闲居又愧对圣明之世，只能坐看别人垂钓，空怀羡鱼之情。以渡水无舟喻无人引荐，以羡鱼喻渴望出仕，求人而不失身份，委婉得体。（末两句化用古语“临渊羡鱼，不如退而结网”。）
 
 == 岁暮归南山 | Returning to the Southern Hills at Year's End
 by: 孟浩然
@@ -92,3 +98,5 @@ Brooding long, I lie awake in sorrow —
 Pine and moon, through the empty window, cast.
 --
 Legend says that Meng Haoran was hiding in Wang Wei's office when the emperor walked in, and was made to recite a poem; he chose this one — and when the emperor heard "lacking talent, I'm cast off by our wise ruler", he said, "You never sought office; I never cast you off. Why slander me?" and sent him home. Whether true or not, it is a perfect story of a poet undone by a line.
+--
+孟浩然年近四十才到长安求取功名，终究失意而归，此诗写的就是岁末还乡时的心情。“北阙”是宫殿北面的门楼，古时臣子在此上书奏事；不再上书了，回南山的破旧茅庐去吧。“不才明主弃，多病故人疏”，表面自谦，底下满是牢骚。《新唐书》记载：王维私下邀孟浩然进入官署，恰逢玄宗驾到，孟浩然慌忙躲到床下；玄宗召他出来诵诗，听到这一句，便说你自己不求仕进，朕何曾弃你，为何诬我？于是放他回乡。故事真假难考，却让这一句流传千古。末句长夜不眠，只见松间月色照着空窗，愁怀难遣。

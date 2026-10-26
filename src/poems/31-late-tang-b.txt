@@ -12,6 +12,8 @@ Their fragrance, storming heaven, will sweep through Chang'an's every way,
 And the whole city will wear gold armour, gleaming high.
 --
 Written by Huang Chao after failing the imperial examination. The chrysanthemum, which blooms at the Double Ninth, becomes an army: its golden petals are armour, its fragrance an assault on the capital. In 880 Huang Chao's rebels really did take Chang'an — the poem reads as a prophecy.
+--
+相传黄巢应进士科落第后写下此诗。菊花开在重阳前后，诗中作“九月八”，是为了押韵。诗人以菊花自比：等到秋天它一开，百花便都凋零；冲天的香气如同军阵，直透长安，满城菊花都披上了黄金铠甲。咏菊而杀气腾腾，与陶渊明一类的隐逸之菊截然不同。广明元年十二月（881年初），黄巢起义军果然攻入长安，此诗读来便像谶语。不过诗最早见于明代《七修类稿》，正史也不载黄巢应举之事，是否真出其手，学者颇有疑问。
 
 == 咸阳城东楼 | The East Tower of Xianyang
 by: 许浑
@@ -33,6 +35,8 @@ Traveller, don't ask about the things of long ago —
 Past the old capital, from the east, the Wei flows as of yore.
 --
 Xianyang, capital of the Qin, lies across the Wei River from Chang'an. 山雨欲来风满楼, "the mountain rain is coming; the wind fills the tower", became the proverb for the tense moment before a storm breaks — political or otherwise. The ruined Qin and Han palaces foreshadow the fall of the Tang itself.
+--
+题目一作《咸阳城西楼晚眺》。咸阳是秦朝故都，隔渭水与唐都长安相望。晚唐国势日衰，许浑登楼远眺，一上城楼便生出万里之愁：水边蒹葭杨柳，仿佛江南故乡的沙洲。溪上云起，夕阳沉落在楼阁之后；山雨还没来，满楼已是疾风。昔日的秦苑汉宫，如今只剩鸟落荒草、蝉鸣黄叶。末句劝行人不必追问往事，只有渭水依旧东流。“山雨欲来风满楼”后来常用来比喻大事发生前的紧张气氛。（“芜”是丛生的野草。）
 
 == 贫女 | The Poor Girl
 by: 秦韬玉
@@ -54,6 +58,8 @@ Year after year I bitterly press gold thread — and it's to make
 The wedding dresses other girls will wear, for others' sake.
 --
 A poor, skilled, virtuous girl whom no one marries, while she sews bridal gowns for others — an allegory of the talented scholar without connections, whose work serves other men's advancement. 为他人作嫁衣裳, "making wedding clothes for others", is now a common idiom.
+--
+以贫家女子的口吻诉说：生在蓬门，从未穿过绮罗；想托媒人说亲，越想越伤心。世人爱的是时髦的浓妆，谁欣赏高雅的品格与朴素的打扮？她敢夸自己十指针线精巧，却不肯和人比画长眉。最苦的是年年用金线刺绣，都是在替别人缝制嫁衣。诗中的贫女，正是出身寒微、怀才不遇的读书人，一身本领只为他人作了嫁衣。“为他人作嫁衣裳”后来成了常用俗语，比喻白白为别人辛苦。秦韬玉是晚唐京兆人，中和二年（882）才在蜀中考中进士。（“压金线”是用金线刺绣的一种针法。）
 
 == 山亭夏日 | Summer Day at the Mountain Pavilion
 by: 高骈
@@ -69,6 +75,8 @@ The crystal curtain stirs: a breeze begins to blow;
 A trellis full of roses scents the courtyard all around.
 --
 A cool summer afternoon at a mountain pavilion: shade, reflection, a stirring curtain — and then the scent of roses fills the courtyard. The breeze is never seen, only inferred from the curtain and the perfume.
+--
+高骈是晚唐名将，曾大破南诏，也有诗名，《唐诗纪事》称他的诗“雅有奇藻”。这首诗写夏日山亭的清凉：绿树浓阴，白昼正长，楼台的倒影落入池塘。第三句最妙：水晶帘轻轻一动，才知道起了微风；风是看不见的，诗人从帘动觉出，又随风闻到满架蔷薇的香气弥漫全院。有色、有影、有动、有香，一幅静中有动的消夏图。
 
 == 己亥岁（其一） | The Year Jihai (I)
 by: 曹松
@@ -84,3 +92,5 @@ I beg you, don't speak to me of lordships won in war —
 One general's fame is built upon ten thousand bones, alas.
 --
 Written in 879, as the Tang fought Huang Chao's rebels across the south. 一将功成万骨枯, "one general's success, ten thousand withered bones", became the most quoted line against war in Chinese.
+--
+己亥年即唐僖宗乾符六年（879），黄巢起义军转战江南、岭南，官军四处征讨。“泽国”指水乡江南，如今山河都划进了战图，百姓连打柴割草的日子都过不下去，更谈不上安乐。末两句劝人莫提封侯之事：一个将军功成名就，背后是千万士卒化为枯骨。曹松屡试不第，直到七十一岁才考中进士，一生困顿，深知民间疾苦。“一将功成万骨枯”七个字，成了揭露战争代价最有力的名句。（“樵苏”是打柴割草，指百姓谋生的营生。）

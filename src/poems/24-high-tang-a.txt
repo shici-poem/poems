@@ -18,6 +18,8 @@ Where can my letter home be sent? —
 By the wild geese flying north to Luoyang, carried through.
 --
 Written near Zhenjiang on the lower Yangtze. The third couplet — the sun born out of the sea while night is not yet over, spring arriving on the river before the old year has ended — so impressed the chief minister Zhang Yue that he hung it in his hall as a model of poetry. It captures time itself moving forward.
+--
+王湾是洛阳人，此诗写他乘舟东行、停泊在镇江北固山下的所见所感。潮水涨平，两岸显得格外开阔；风顺而和，一片船帆端端正正地高悬。“海日生残夜，江春入旧年”：残夜未尽，红日已从海上升起；旧年未过，江上已透出春意，时序的更替写得新鲜而富有理趣。开元年间宰相张说极为欣赏，亲笔把它题在政事堂，作为文人作诗的楷模。末联托北归的大雁捎家书回洛阳，乡思悠悠。（此诗一题《江南意》，文字多有不同。）
 
 == 终南望余雪 | Gazing at the Lingering Snow on Zhongnan
 by: 祖咏
@@ -33,6 +35,8 @@ The treetops glow with light as skies clear late;
 And in the city, evening's cold grows great.
 --
 An examination poem: required to write twelve lines, Zu Yong stopped at four, saying "the meaning is complete". From Chang'an, the snow on the shaded northern slopes of the Zhongnan mountains catches the clearing sunset — and makes the city below feel colder.
+--
+据《唐诗纪事》，这是祖咏在长安应试时的命题诗。照规矩，试帖诗要写五言六韵十二句，他只写了四句便交卷，有人诘问，他答了两个字：“意尽。”终南山在长安之南，从城里望去正是山的北坡，即“阴岭”，积雪经久不化，仿佛浮在云端。雪后初晴，傍晚的霞光映亮林梢，城中却因这一山余雪更添寒意。从山写到城，由眼中所见写到身上所感，意思确已完足，再多一句便是蛇足。
 
 == 黄鹤楼 | Yellow Crane Tower
 by: 崔颢
@@ -54,6 +58,8 @@ The sun goes down — where is my home? It isn't here;
 The mist upon the river's waves brings sorrow to the scene.
 --
 Legend says an immortal flew away from this spot in Wuhan on a yellow crane. Cui Hao's poem breaks the rules of regulated verse — "yellow crane" appears three times in four lines — yet it was hailed as the greatest seven-character regulated poem of the Tang. Li Bai, visiting the tower, is said to have sighed: "Before my eyes is a scene I cannot describe, for Cui Hao's poem is already above it."
+--
+黄鹤楼在今武汉长江边，相传古时有仙人在此乘黄鹤飞去。前四句一气直下，“黄鹤”三见，全不顾律诗的平仄和避重字的规矩；后四句转写眼前晴川、汉阳树与鹦鹉洲上的萋萋芳草，到日暮烟波，乡愁油然而生。南宋严羽《沧浪诗话》推之为唐人七律第一。元人辛文房《唐才子传》载，李白登楼叹道“眼前有景道不得，崔颢题诗在上头”，未作而去；此事或出后人附会，不过李白的《登金陵凤凰台》，历来被认为有与此诗一较高下之意。
 
 == 长干行（崔颢） | Changgan Song (Cui Hao)
 by: 崔颢
@@ -69,6 +75,8 @@ I stopped my boat to ask you this:
 Perhaps we're from the same town — I'm not sure."
 --
 A tiny drama in twenty characters: a girl on one boat calls out to a stranger on another, using the excuse of a shared hometown to start a conversation — shy, bold and charming at once.
+--
+崔颢《长干行》共四首，这是第一首。长干是古时金陵（今南京）城南的里巷，横塘也在附近，多是水上人家。四句全是姑娘的话：先问对方“君家何处住”，不等回答便自报家门；又赶紧解释，停船相问，只因“或恐是同乡”。天真、大方，又带几分羞涩，全在这几句家常话里，像一出没有布景的小戏。紧接着的第二首正是男子的回答：“家临九江水，来去九江侧。同是长干人，生小不相识。”
 
 == 题破山寺后禅院 | The Meditation Hall Behind Poshan Temple
 by: 常建
@@ -90,6 +98,8 @@ Here all the sounds of the world fall silent,
 Save for the bell and the stone chime, now and then.
 --
 Poshan Temple is in Changshu, Jiangsu. 曲径通幽处, "a winding path leads to a secluded place", became a proverb and a principle of Chinese garden design. The poem moves from the outer landscape to inner stillness — the reflections in the pool empty the mind of desire — and ends with nothing but the temple bells.
+--
+破山寺本名兴福寺，在今江苏常熟。清晨入寺，初升的太阳照着高林；一条小径曲曲折折通向幽深之处，禅房掩映在繁花密树之中。“曲径通幽处”后来成了人人常说的话，也是中国园林造景的要诀。欧阳修极爱这一联（他所引作“竹径”），想仿作一联而久久不得，感叹“造意者为难工”。山光使鸟儿欣然自得，潭中倒影使人杂念顿消；末了万籁俱寂，只剩钟磬之声在空山回荡，以声写静，余韵悠长。
 
 == 逢雪宿芙蓉山主人 | Lodging with the Master of Lotus Mountain in Snow
 by: 刘长卿
@@ -105,6 +115,8 @@ A dog barks at the brushwood gate — someone, late,
 Comes home through wind and snow, at night, to the door.
 --
 Twenty characters, a complete short film: a traveller finds shelter at dusk in a poor mountain hut; in the night a dog barks — the master is coming home through the storm. 风雪夜归人, "a man coming home on a night of wind and snow", is one of the best-loved images in Chinese.
+--
+刘长卿擅长五言，有“五言长城”之称。日暮时分，远山苍茫，旅人冒寒投宿一户山中人家，茅屋简陋，更显清贫；夜里柴门外忽然犬吠，原来有人顶着风雪回来了。前两句写投宿所见，后两句写夜半所闻，二十个字像一组镜头，冷清中透出温暖的人情。“风雪夜归人”是谁，历来有两种理解：多数人认为是芙蓉山主人夜归，也有人认为是诗人自己踏雪而来。（“白屋”指不加修饰的茅屋，多为贫寒人家所居。）
 
 == 枫桥夜泊 | Night Mooring at Maple Bridge
 by: 张继
@@ -121,7 +133,7 @@ Its midnight bell rings out to the traveller's boat, slow and deep.
 --
 Written around 756 near Suzhou (Gusu) by a traveller fleeing the An Lushan rebellion. Sight, sound and feeling blend in the dark: setting moon, cawing crows, frost, red maples and fishing lights — and finally the bell. The poem made Hanshan ("Cold Mountain") Temple famous; crowds still gather there on New Year's Eve to hear its bell.
 --
-约作于756年前后，诗人为避安史之乱流寓江南，夜泊苏州（姑苏）城外。月落、乌啼、霜天、江枫、渔火，交织成一片愁境，最后一声夜半钟声敲进客船。寒山寺因此诗名扬天下，至今每逢新年仍有许多人赶来听钟。
+一般认为作于756年前后，安史之乱爆发后，张继和许多文士一样避乱江南，夜泊苏州（姑苏）城外。月落、乌啼、霜天、江枫、渔火，交织成一片愁境，最后一声夜半钟声敲进客船。欧阳修曾挑剔说三更不是撞钟的时候，后人考证吴地寺院确有半夜敲钟的风俗，才算替诗人辩白。寒山寺因此诗名扬天下，至今每逢新年仍有许多人赶来听钟。
 
 == 寒食 | Cold Food Festival
 by: 韩翃
@@ -137,6 +149,8 @@ At dusk the Han court sends out candles, lit again;
 Their light smoke drifts into the Five Lords' mansions in the town.
 --
 At the Cold Food Festival, just before Qingming, no fires could be lit for three days; at the end, the palace sent new fire to favoured households. Only the "Five Lords" — the emperor's eunuch favourites — receive it first: a delicate satire hidden in a lovely spring picture. Emperor Dezong loved the poem so much that he appointed its author by quoting the first line.
+--
+寒食节在清明前一两天，旧俗禁火冷食，节后宫中再点燃新火，赏赐近臣。前两句写长安暮春，满城飞花，东风吹斜了御苑的柳枝；后两句写黄昏时宫中传赐蜡烛，轻烟袅袅，先飘进了“五侯”之家。“五侯”借用汉代典故，东汉桓帝曾同日封五名宦官为侯（一说指西汉成帝同日封侯的五位外戚），不少人认为诗中暗讽中唐宦官得宠，也有人只读作太平景象。据孟棨《本事诗》，唐德宗欣赏此诗，任命掌管制诰的官员时，特地写下全诗，批示要用的正是这个韩翃。
 
 == 渔歌子 | Fisherman's Song
 by: 张志和
@@ -152,6 +166,8 @@ A hat of green bamboo, a cape of green straw:
 In slanting wind and drizzle — why go home at all?
 --
 An early *ci* lyric by "the Old Fisherman of the Misty Waves". The fisherman, free and content in any weather, is the ideal of the recluse; the emperor himself sent for paintings of the scene. 鳜鱼 is the mandarin fish, at its best in peach-blossom season.
+--
+张志和曾待诏翰林，后弃官隐居江湖，自号“烟波钓徒”。大历年间颜真卿任湖州刺史，张志和是他的座上客，与颜真卿、陆羽等人唱和，作《渔歌》五首，这是第一首，也是早期文人词的名篇。白鹭、桃花、流水、鳜鱼，色彩明丽；渔父戴着青箬笠，披着绿蓑衣，在斜风细雨里也不想回家，悠然自得，正是隐者的自我写照。张志和还亲手把《渔歌》画成图画。此词后来远传日本，嵯峨天皇曾仿作五首。（西塞山一般认为在今浙江湖州，一说在今湖北黄石。）
 
 == 金缕衣 | The Gold-Threaded Robe
 by: 杜秋娘
@@ -167,3 +183,5 @@ When flowers are ripe for picking, pick them, then —
 Don't wait to snap bare branches when the flowers disappear.
 --
 Sung by Du Qiuniang, a singing girl of Jinling who became a consort in the Tang palace (the song is sometimes listed as anonymous). China's *carpe diem* — "gather ye rosebuds while ye may".
+--
+杜牧《杜秋娘诗》序记载，杜秋是润州一带的女子，十五岁做了镇海节度使李锜的妾，李锜常唱这首歌；李锜叛乱失败后，她被没入宫中，受到宪宗宠爱。后世多把此诗归于杜秋娘名下，《唐诗三百首》也是如此，但它的作者其实已难确知。金缕衣再华贵也不足惜，可惜的是少年时光：花开堪折就该折，别等到花落，只能折一根空枝。劝人珍惜青春，直白而恳切。

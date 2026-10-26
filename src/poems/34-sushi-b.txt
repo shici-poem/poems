@@ -22,6 +22,8 @@ The laughter fades; the voice grows faint and dies —
 And the one who feels is vexed by one who doesn't, with a sigh.
 --
 Late spring, willow down blowing away — yet "where under heaven is there no fragrant grass?" (天涯何处无芳草), now said to comfort the broken-hearted. The second stanza is a tiny comedy: a passer-by is charmed by an unseen girl's laughter over a garden wall; she swings on, unaware, and he is left vexed. Su Shi's companion Wang Zhaoyun is said to have wept singing the fourth line, and could never sing it again.
+--
+上片写暮春：残花褪尽，青杏初结，燕子飞过，绿水环绕着人家；柳絮越吹越少，春天将尽，词人却宽慰自己，天涯何处没有芳草？下片是一出小小的喜剧：墙里佳人荡着秋千欢笑，墙外行人听得出神；笑声渐渐消失，多情的行人反被无情的佳人惹得烦恼。据宋人惠洪《冷斋夜话》记载，苏轼晚年贬居惠州时，侍妾王朝云唱这首词，唱到“枝上柳绵吹又少，天涯何处无芳草”便泪满衣襟，说这两句唱不下去；据说朝云死后，苏轼再也不听这首词。“天涯何处无芳草”如今常用来劝慰失恋的人。
 
 == 浣溪沙（游蕲水清泉寺） | Washing Silk in the Stream (Visiting Clear Spring Temple)
 by: 苏轼
@@ -41,6 +43,8 @@ The stream before this temple flows back west!
 Don't let white hair sing the yellow-cock refrain.
 --
 Visiting Clear Spring Temple at Qishui in 1082, Su Shi noticed that its stream flowed west — unusual in China, where "all rivers flow east" stands for time's one-way current. So, he says, youth can come back too! "The yellow cock" refers to a sad old song — "the yellow cock calls the dawn, the white sun hurries toward evening" — which the white-haired should not sing.
+--
+元丰五年（1082）春，贬居黄州的苏轼因病到蕲水求医，病愈后与医者庞安常同游清泉寺。词前小序说，寺临兰溪，“溪水西流”。上片写暮春山寺：兰芽浸在溪里，松间沙路洁净无泥，暮雨萧萧，子规声声。下片由西流的溪水生出奇想：谁说人生不能再少？门前流水尚能向西！结句劝人不要像白居易诗中那样，借“黄鸡催晓”“白日催年”悲叹衰老。身处逆境，却写出如此乐观旷达的句子，正是苏轼本色。
 
 == 浣溪沙（细雨斜风作晓寒） | Washing Silk in the Stream (Fine Rain, Slanting Wind)
 by: 苏轼
@@ -60,6 +64,8 @@ Smartweed shoots and wormwood sprouts — the spring dish, fresh and whole.
 Of all life's flavours, simple joy is finest — this I hold.
 --
 A winter outing near Sizhou in 1084, with frothy whisked tea and a "spring platter" of fresh greens. The last line — 人间有味是清欢, "the true taste of life is simple joy" — has become one of Su Shi's most loved sayings.
+--
+元丰七年（1084），苏轼由黄州改迁汝州，岁末途经泗州，十二月二十四日与刘倩叔同游南山，作此词。细雨斜风，清晨微寒，淡烟疏柳映着放晴的河滩，清澈的洛涧流入淮河，水面渐渐浩渺。午间点茶，盏中浮起雪白的乳沫；春盘里是新摘的蓼芽和蒿笋。末句“人间有味是清欢”，把清淡简朴的欢乐看作人生真味，成了苏轼最为人喜爱的名句之一。（“清洛”指流经泗州附近的洛涧，并非洛阳的洛水。）
 
 == 望江南·超然台作 | Gazing South of the River: Written on the Terrace of Transcendence
 by: 苏轼
@@ -85,3 +91,5 @@ Let's try new tea on the new fire — you and I.
 Poetry and wine, while we're still young, before the years go by!
 --
 Mizhou, 1076, on the "Terrace of Transcendence" (超然台) that Su Shi had rebuilt. After the Cold Food Festival, when fires were lit again, came the season of new tea. 诗酒趁年华, "poetry and wine, while we are young", is his cheerful remedy for homesickness.
+--
+熙宁九年（1076）暮春作于密州（今山东诸城）。苏轼到任后修葺城北旧台，弟弟苏辙取《老子》“虽有荣观，燕处超然”之意，为它取名“超然”。登台远望，半壕春水，满城繁花，千家烟雨，一片明丽春光。寒食禁火，节后重新取火，称为“新火”；酒醒之后，乡愁袭来，词人却劝自己：不要对着故人思念故乡，姑且用新火烹一盏新茶，趁着年华正好，作诗饮酒吧。“超然”二字，正是全词的底色。（“故国”在这里指故乡。）

@@ -18,6 +18,8 @@ Thank heaven for quiet chanting, to keep it company —
 No need for singers' clappers or gold wine cups, none.
 --
 Lin Bu, the hermit of West Lake, "took plum blossom for his wife and cranes for his children". 疏影横斜水清浅，暗香浮动月黄昏 — "sparse shadows slanting over clear, shallow water; a hidden fragrance floating in the moonlit dusk" — became the definitive description of plum blossom; Jiang Kui named two of his finest lyrics "Hidden Fragrance" and "Sparse Shadows".
+--
+林逋终身不仕不娶，隐居杭州西湖孤山，种梅养鹤，人称“梅妻鹤子”。此诗咏小园梅花：百花凋零之时，唯有它鲜艳明丽，独占小园风情。颔联“疏影横斜水清浅，暗香浮动月黄昏”，一写清水照影，一写月下浮香，成为咏梅的千古名句，欧阳修在《归田录》中说前人咏梅之作虽多，却从未有过这样的句子。后来姜夔自度两首咏梅名曲，便取名《暗香》《疏影》。尾联说有低吟与梅相伴已经足够，用不着檀板金樽的热闹。（“霜禽”指白鹤一类的白羽鸟。）
 
 == 临江仙（梦后楼台高锁） | Immortal by the River (After the Dream, the Tower Is Locked)
 by: 晏几道
@@ -43,6 +45,8 @@ The same bright moon was shining then
 That lit her, a coloured cloud, as she went home.
 --
 Yan Jidao remembers Xiaopin, a singing girl in a friend's household. 落花人独立，微雨燕双飞 — "among falling petals, someone stands alone; in fine rain, swallows fly in pairs" — was borrowed from an obscure earlier poem, but made immortal here. The "coloured cloud" is Xiaopin herself, lit home by a moon that still shines though she is gone.
+--
+晏几道是晏殊的幼子。他在《小山词》自序中回忆，友人沈廉叔、陈君龙家有莲、鸿、蘋、云几位歌女，他每写成新词，便交给她们演唱；此词怀念的就是小蘋。梦醒酒醒，楼台深锁，帘幕低垂，去年的春恨又涌上心头。“落花人独立，微雨燕双飞”原是五代翁宏的诗句，移入此词，才成为千古名句。下片追忆初见：小蘋身穿绣着双重心字的罗衣，在琵琶弦上诉说相思；当年的明月曾照着她如彩云般归去，如今月还在，人已不见。
 
 == 鹧鸪天（彩袖殷勤捧玉钟） | Partridge Sky (Your Coloured Sleeves Offered the Jade Cup)
 by: 晏几道
@@ -67,6 +71,8 @@ Tonight I keep on lifting up the silver lamp to see —
 Afraid our meeting's just a dream, and won't come true.
 --
 A reunion with a singing girl after years apart. The second couplet — dancing till the moon sank over the willows, singing till the breeze of the peach-blossom fan was spent — is one of the most glittering in the *ci*. Holding up the lamp again and again to make sure it is not a dream echoes Du Fu's reunion with his family: "we face each other as if in a dream."
+--
+写与一位歌女久别重逢。上片回忆当年：她殷勤捧杯劝酒，自己甘愿一醉；“舞低杨柳楼心月，歌尽桃花扇底风”，歌舞通宵，直舞到月亮沉落到楼外杨柳之下，直唱到桃花扇再也扇不出风来，是小山词中最华美的一联。下片写别后多少次在梦中相会，如今真的重逢，反倒怀疑是梦，一再举起银灯照看，惊喜之中犹带惶惑，把久别重逢的心情写得入木三分。（“拚却”是甘愿、不惜；“银釭”即银灯。）
 
 == 清平乐（春归何处） | Pure Serene Music (Where Has Spring Gone?)
 by: 黄庭坚
@@ -90,3 +96,5 @@ But no one understands its hundred songs —
 It rides the wind across the roses, and goes.
 --
 A playful chase after the departing spring. The only witness, the oriole, sings a hundred songs no one understands, and flies off over the roses — the flowers of early summer. Spring is gone.
+--
+一首别致的惜春词。词人把春天当作一位可以寻访的人：春去了哪里？寂寞之中，连它走过的路也找不到；若有人知道它的去处，就请唤它回来同住。春天了无踪迹，只好去问黄鹂，可黄鹂百啭千声，无人能懂，它只顺着风飞过蔷薇去了。蔷薇开在初夏，春天真的走远了。全词层层设问，一波三折，以轻快天真的笔调写出惜春的怅惘。

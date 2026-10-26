@@ -22,6 +22,8 @@ No one sleeps:
 The general's hair is white; the soldiers weep alone.
 --
 Fan Zhongyan commanded the north-western frontier against the Western Xia from 1040. Unlike most frontier poems, written by poets who imagined war, this is a general's own lyric — bleak and honest. Geese fly south as far as Hengyang, where they were said to turn back; on Mount Yanran a Han general carved a record of victory, which the Song has not achieved. The last line gives tears to general and soldier alike.
+--
+康定元年（1040）起，范仲淹以陕西经略安抚副使兼知延州，守卫西北边塞，抵御西夏，此词即作于守边期间。北雁南飞，到衡阳便要折回，毫无留恋；号角与边声四起，千峰之间，长烟落日，孤城紧闭。一杯浊酒，离家万里，像东汉窦宪那样在燕然山刻石记功的胜利还没有到来，归期无从说起。夜深羌笛悠悠，满地寒霜，将军白发，征夫落泪。魏泰《东轩笔录》载，欧阳修嫌它写尽边地苦况，称为“穷塞主之词”；今人则认为，范仲淹在苏轼之前已为词开出了新境界。
 
 == 苏幕遮·怀旧 | Su Mu Zhe: Remembering
 by: 范仲淹
@@ -50,6 +52,8 @@ The wine goes down into a grieving heart,
 And turns to tears of longing, too.
 --
 A rare tender lyric by a stern statesman. 碧云天，黄叶地 — "blue clouds in the sky, yellow leaves on the ground" — was borrowed by Wang Shifu for *The Romance of the Western Chamber*. The fragrant grass stretching beyond the sunset is the road home, endlessly far; and the famous last line: wine poured into a sad heart turns to tears of longing.
+--
+范仲淹以政事和边功著称，词作留存很少，这首写羁旅乡愁的词却格外缠绵，一般认为作于他在西北防御西夏期间（1040—1043）。碧云满天，黄叶铺地，秋色与江波相连，波上笼着青翠的寒烟；芳草无情，一直延伸到斜阳之外，正像望不到头的归乡之路。下片说除非夜夜做个好梦，才能暂时睡得安稳；明月下不要独倚高楼，酒入愁肠，都化作了相思泪。元代王实甫《西厢记》“长亭送别”一折中的“碧云天，黄花地”，就是从开头两句化来的。
 
 == 江上渔者 | The Fisherman on the River
 by: 范仲淹
@@ -65,6 +69,8 @@ But look at that leaf of a boat out there,
 Tossed in and out of sight where the wind and waves meet.
 --
 The diners on the bank enjoy the perch; few think of the fisherman risking his life in the storm to catch it. A tiny poem of social conscience by a statesman famous for putting the people first.
+--
+江岸上来来往往的人，只知道喜爱鲈鱼的鲜美；可你看那一叶小小的渔船，正在风浪里时隐时现。前两句写岸上的人，后两句写江中的渔夫，一安一危，对照之下，捕鱼人的艰险和诗人的同情都不言自明。短短二十字，没有一句议论，却让人想到盘中美味来之不易。这与范仲淹“先天下之忧而忧，后天下之乐而乐”的胸怀是一致的。
 
 == 雨霖铃（寒蝉凄切） | Bells in the Rain (Autumn Cicadas)
 by: 柳永
@@ -104,6 +110,8 @@ Even if I had a thousand kinds of tender feelings,
 Who would there be to hear?
 --
 The most famous lyric of parting in the Song, by Liu Yong, the poet of the pleasure quarters, leaving the capital Kaifeng and a beloved courtesan. 今宵酒醒何处？杨柳岸，晓风残月 — "where will I wake tonight? A willow bank, the dawn wind, a waning moon" — became the very image of the gentle "graceful" (婉约) school. When Su Shi asked how his own lyrics compared, he was told Liu Yong's should be sung by a girl of seventeen with ivory clappers, and his by a big man from the west with an iron one.
+--
+一般认为是柳永仕途失意、离开汴京时所作，写他与心爱之人的离别。秋蝉凄切，骤雨初歇，长亭饯别无心饮酒，兰舟却已催发，两人执手相看泪眼，竟说不出一句话。下片设想别后：今夜酒醒，只有杨柳岸边的晓风残月；此去经年，纵有千种风情，又能向谁诉说？这是婉约词的代表作。俞文豹《吹剑续录》载，苏轼问一位善歌的幕士，自己的词比柳词如何，答说柳词只合十七八岁女孩执红牙板唱“杨柳岸晓风残月”，苏词须关西大汉执铁板唱“大江东去”。
 
 == 蝶恋花（伫倚危楼风细细） | Butterflies Love Flowers (Leaning Long on the High Tower)
 by: 柳永
@@ -129,6 +137,8 @@ My belt grows looser, yet I'll never regret —
 For her, I'll waste away, worn to skin and bone.
 --
 衣带渐宽终不悔，为伊消得人憔悴 — "my belt grows ever looser, but I'll never regret it; for her I waste away" — Wang Guowei made this the second of his "three stages" of every great achievement: wholehearted, sleepless devotion.
+--
+词人久久倚在高楼上，微风细细，极目远望，春愁从天边黯然升起；草色烟光笼在夕阳余晖里，凭阑的心意却无人能懂。想借疏狂一醉来排遣，借用曹操的“对酒当歌”，强颜作乐终究无味。结尾陡然一转：衣带渐宽，人日渐消瘦，为了她却始终不悔，写尽一往情深的执着。王国维在《人间词话》中把这两句列为成就大事业、大学问的第二种境界，借喻为了理想废寝忘食、矢志不渝。
 
 == 望海潮（东南形胜） | Gazing at the Tide (The Finest Place in the South-East)
 by: 柳永
@@ -174,6 +184,8 @@ Some day he'll paint this lovely scene,
 And take it back to court, to boast of these.
 --
 Hangzhou (Qiantang) in its glory, written by Liu Yong for the city's governor. A legend says that when the Jin ruler Wanyan Liang read of Hangzhou's "cassia in autumn and ten li of lotus", he resolved to conquer the south — a poem so beautiful it started a war. (He failed.)
+--
+相传是柳永早年游历杭州时，写给两浙转运使孙何的献词。从形胜之地、繁华都会写起，再写西湖的湖山之美：秋有桂子，夏有十里荷花，笛声在晴空里悠扬，菱歌在夜色中飘荡，钓叟和采莲姑娘一派欢乐；最后颂扬长官出行的威仪，祝他日后回朝夸耀这里的美景。据罗大经《鹤林玉露》记载，金主完颜亮听到这首词，羡慕“三秋桂子，十里荷花”，于是起了投鞭渡江、南侵宋朝的念头。（“凤池”指朝廷中枢。）
 
 == 八声甘州（对潇潇暮雨洒江天） | Eight Beats of Ganzhou (Facing the Evening Rain)
 by: 柳永
@@ -211,6 +223,8 @@ How could she know that I, here leaning on the rail,
 Am frozen in such sorrow, too, tonight?
 --
 Su Shi, no admirer of Liu Yong's sentimental songs, said of the lines 渐霜风凄紧，关河冷落，残照当楼 that they were "no less than the heights of the Tang". The second stanza imagines his beloved mistaking every boat on the horizon for his — an echo of Wen Tingyun's "a thousand sails go by, and none is his".
+--
+柳永羁旅漂泊、思乡念远之作。一场暮雨洗出清秋，霜风渐紧，关河冷落，夕阳正照着高楼，处处花叶凋零，只有长江无语东流。下片说不忍登高，故乡渺远，归思难收；又从对面落笔，想象佳人在妆楼上一次次错认天边的归舟，哪知自己此刻也正倚着阑干凝愁。世人都说柳词俗，苏轼却不以为然，据赵令畤《侯鲭录》记载，他称“霜风凄紧，关河冷落，残照当楼”几句“不减唐人高处”。（“颙望”是仰首凝望。）
 
 == 浣溪沙（一曲新词酒一杯） | Washing Silk in the Stream (A New Song, a Cup of Wine)
 by: 晏殊
@@ -230,6 +244,8 @@ As if we'd met before, the swallows come back home.
 Along the fragrant garden path, alone I pace and roam.
 --
 The most famous couplet of the Northern Song: 无可奈何花落去，似曾相识燕归来 — "nothing can be done, the flowers fall; as if old friends, the swallows return." Loss and return, the same and not the same: time's cycle in two lines. Yan Shu is said to have had the second line for years before he found the first.
+--
+晏殊是北宋太平宰相，词风温润闲雅。听一曲新词，饮一杯酒，天气和亭台都与去年相同，西下的夕阳却不会再回来。“无可奈何花落去，似曾相识燕归来”是全词的精华：花落无可挽回，燕归又像旧时相识，消逝与重现交织在一起，写出了人对时光流逝的细腻感受。这一联对仗工巧又自然流畅，晏殊也很喜爱，还把它用进了自己的一首七律。据宋人《复斋漫录》记载，晏殊途经扬州，在大明寺结识王琪，说起自己得了上句却一直对不出，王琪随即对出了下句。
 
 == 蝶恋花（槛菊愁烟兰泣露） | Butterflies Love Flowers (Chrysanthemums Grieve in Mist)
 by: 晏殊
@@ -255,3 +271,5 @@ I'd send a coloured note, a letter on fine silk —
 But mountains are long, the waters wide: who knows where?
 --
 昨夜西风凋碧树，独上高楼，望尽天涯路 — Wang Guowei made this the first of his "three stages" of every great achievement: climbing alone, seeing far, setting the goal. In the poem itself, it is a woman gazing down an endless road for someone who does not come.
+--
+秋晨，栏边菊花笼着轻烟，似在发愁，兰花带露，似在哭泣；燕子双双飞去，明月不懂离别之苦，整夜把清光斜照进朱门。一夜西风吹落了树叶，主人公独上高楼，望尽天涯，想寄一封书信，却山长水阔，不知人在何处。王国维在《人间词话》中把“昨夜西风凋碧树，独上高楼，望尽天涯路”列为成就大事业、大学问必经的第一种境界，这几句从此常被借来比喻高远的追求与求索的孤独。

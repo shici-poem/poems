@@ -57,6 +57,8 @@ New ghosts rage at their wrongs, and the old ghosts wail;
 When skies are dark and the rain is wet, you hear them cry in the gale."
 --
 About 751, a protest against Emperor Xuanzong's endless wars of conquest. Du Fu disguises the present emperor as "the Martial Emperor" — Emperor Wu of Han — and lets a conscript speak. The reversal of the age-old preference for sons ("a son is buried in the grass") was shocking. Xianyang Bridge crossed the Wei River west of Chang'an, where the troops set out; Qinghai Lake was a killing ground in the wars with Tibet.
+--
+约作于天宝十载（751）前后，唐玄宗连年对吐蕃、南诏用兵，四处强征丁壮。开头车声马嘶、哭声震天，咸阳桥头送别的场面如在眼前；接着借一名征夫之口诉说：十五岁去北边防河，四十岁又到西边屯田，出征时还要里正替他裹头，回来已白了头，还得去戍边。诗人借“武皇”汉武帝暗指玄宗，直斥“开边意未已”；又写出田园荒芜、租税逼人，以至百姓说“生男埋没随百草”，一反重男轻女的旧俗，沉痛至极。结尾青海边白骨无人收，阴雨中鬼哭啾啾，是唐诗中最惨烈的反战画面之一。（“点行频”指按户籍频繁征兵。）
 
 == 前出塞（其六） | Going Out to the Frontier (VI)
 by: 杜甫
@@ -78,6 +80,8 @@ If we can halt the invaders' aggression,
 What need for slaughter past all discretion?
 --
 From a series of nine poems in the voice of a soldier on Xuanzong's campaigns. The first four lines sound like military maxims ("to catch bandits, first catch their king" became a proverb); then the soldier turns: war should be for defence, not conquest.
+--
+《前出塞》九首以一名戍卒的口吻，写他从应征出发到边地征战的经历，讽刺唐玄宗天宝年间的穷兵黩武。这一首前四句像军中谚语，铿锵有力：拉弓要拉硬弓，用箭要用长箭，射人先射马，擒贼先擒王，其中“擒贼先擒王”至今仍是常用的俗语。后四句笔锋一转：杀人也该有个限度，各国本有自己的疆界，只要能制止侵犯，又何必多杀伤？前半讲怎样打仗，后半讲为何打仗，主张用兵只为御敌、反对滥杀，是全组诗的主旨所在。
 
 == 赠卫八处士 | For the Recluse Wei the Eighth
 by: 杜甫
@@ -123,6 +127,8 @@ Tomorrow mountains rise between us two,
 And the world's affairs will be lost from view.
 --
 759, a time of war: Du Fu spends a night with an old friend, a scholar who never took office. Its power lies in homely detail — the children politely asking where he has come from, spring chives cut in the rain. Shen (Orion) and Shang (Antares) lie on opposite sides of the sky: when one rises, the other has set.
+--
+乾元二年（759）春，安史之乱未平，杜甫从洛阳返回华州任所，途中探访老友卫八，这位处士（未做官的读书人）的生平已不可考。开头说人生难得相见，就像参星与商星此出彼没；今夜竟能同在灯下，恍如梦中。二十年不见，彼此鬓发已苍，打听旧友，竟有一半已经亡故。当年分别时朋友还未成婚，如今儿女成行，恭恭敬敬地问客人从哪里来。冒着夜雨剪来春韭，新煮的饭里掺着黄米，主人连劝十杯，客人也不醉，只感念老友情意深长。结尾一想到明日又要山岳相隔，世事茫茫，欢聚之中更添苍凉。
 
 == 饮中八仙歌 | Song of the Eight Immortals of the Wine Cup
 by: 杜甫
@@ -163,3 +169,5 @@ Jiao Sui needs five pecks before he's at his best;
 Then his lofty talk and fierce debate astonish every guest.
 --
 A comic gallery of eight famous drinkers of Chang'an around 740: the poet He Zhizhang, Prince Li Jin of Ruyang, the chancellor Li Shizhi, the dandy Cui Zongzhi, the devout Su Jin, Li Bai, the calligrapher Zhang Xu and the debater Jiao Sui — each sketched in a few lines. The Li Bai lines made his legend. Wine Spring (Jiuquan) is a real town on the Silk Road; "the sage" and "the worthy" were drinkers' slang for clear and cloudy wine; "white eyes" meant looking down on the vulgar.
+--
+一般认为作于天宝五载（746）杜甫初到长安之后，写的是当时以嗜酒闻名的八个人：贺知章、汝阳王李琎、左相李适之、崔宗之、苏晋、李白、张旭、焦遂。全诗不分章，一人一段，少则两句，多则四句，像一组人物速写，各有各的醉态：贺知章骑马摇摇晃晃如在船上，汝阳王恨不得把封地改到酒泉，李适之饮酒如长鲸吸百川，张旭三杯下肚便脱帽挥毫。写李白的四句最为传神，“天子呼来不上船，自称臣是酒中仙”，从此定格了李白的狂放形象。（古人称清酒为圣人、浊酒为贤人，李适之罢相后有“避贤初罢相，乐圣且衔杯”之句，“乐圣”“避贤”一语双关。）

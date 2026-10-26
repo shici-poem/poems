@@ -30,6 +30,8 @@ I only hope, when I sing over wine, its beam
 Will shine into my golden cup eternally.
 --
 Written at a friend's request. Li Bai muses on the moon's eternity against human transience: the moon follows us yet cannot be reached; it watched the ancients as it watches us. The white hare and the goddess Chang'e are the moon's legendary inhabitants. Su Shi's famous "When will the bright moon appear?" owes much to this poem.
+--
+原题下有自注“故人贾淳令予问之”，是应老友之请而作。诗人停杯问月：青天上的明月是从什么时候有的？人想攀月而不可得，月却一路跟随着人；它夜里从海上升起，拂晓又没入云间，月中的玉兔年年捣药，嫦娥孤孤单单与谁为邻。最动人的是“今人不见古时月，今月曾经照古人”两句，月亮永恒，人生短暂，古今之人都像流水一样逝去，只有明月依旧。于是结尾归于及时行乐：但愿对酒当歌时，月光长照金杯。苏轼《水调歌头》的问月之思，与此诗一脉相承。
 
 == 南陵别儿童入京 | Leaving My Children at Nanling for the Capital
 by: 李白
@@ -57,6 +59,8 @@ I throw back my head and laugh aloud, and out the gate I stride —
 Are men like me to live and die in brambles, cast aside?
 --
 In 742, aged 41, Li Bai was summoned to court by Emperor Xuanzong. Zhu Maichen was a Han woodcutter whose wife left him for his poverty — and who later rose to high office. The last couplet, a shout of vindication, is one of the most quoted lines Li Bai wrote. (The court career lasted less than two years.)
+--
+天宝元年（742），四十多岁的李白接到唐玄宗征召入京的诏书，临行前与儿女告别，写下此诗。（南陵所在，一说在今安徽，一说在东鲁。）新酒初熟，黄鸡正肥，儿女嬉笑着牵他的衣襟，他高歌痛饮，起舞的光彩简直要与落日争辉，欣喜之情跃然纸上。“会稽愚妇轻买臣”用汉代朱买臣的故事：朱买臣家贫卖柴，妻子嫌弃他而离去，后来他做了会稽太守。结句“仰天大笑出门去，我辈岂是蓬蒿人”，扬眉吐气，成为李白最常被引用的名句之一。可惜他在长安只待了不到两年，便被“赐金放还”。
 
 == 上李邕 | To Li Yong
 by: 李白
@@ -78,6 +82,8 @@ But Confucius said the young deserve respect —
 A real man shouldn't brush a young man off.
 --
 Written by the young Li Bai to Li Yong, a famous senior official who had treated him dismissively. The Peng is the colossal bird in *Zhuangzi* that rises ninety thousand li on a whirlwind. Confucius had said "the young are to be held in awe" — so Li Bai turns the sage's words against his elder.
+--
+李邕是当时名重一时的文章家、书法家。一般认为，开元七年至九年（719—721）前后李邕任渝州刺史，年轻的李白前去拜谒，希望得到赏识，却因放言高论、不拘礼节而遭冷遇，于是写诗相赠。诗人以《庄子》中的大鹏自比：一旦乘风便扶摇直上九万里，即使风停落下，也能掀翻沧海之水。后四句针锋相对：世人见我志趣不凡，听我说大话都冷笑，可孔子尚且说“后生可畏”，大丈夫不可轻视年轻人。（“宣父”即孔子，唐太宗时尊孔子为宣父。）
 
 == 长相思（其一） | Endless Longing (I)
 by: 李白
@@ -107,3 +113,5 @@ Endless longing —
 It breaks my heart!
 --
 An old ballad title. The beloved "like a flower beyond the clouds" may be a woman — or, in a long tradition of Chinese allegory, the emperor whom the exiled poet longs to serve. Either reading makes the soul that cannot even reach its goal in dreams heartbreaking.
+--
+《长相思》是乐府旧题，多写男女相思。秋夜里纺织娘在井栏边鸣叫，微霜凄冷，竹席生寒；孤灯昏暗，卷起帷帘望月，只能长叹。所思的美人远在云端，上有高远的青天，下有清波万顷，天长路远，连梦魂都难以飞越关山。开头结尾都用“长相思”三字回环，一唱三叹。此诗作年难以确定，有开元间、天宝初、离开长安后追忆等说法；不少读者认为“美人”暗指君王，借相思寄托政治上的失意，这是《楚辞》以来以美人喻君的传统。（“络纬”即纺织娘，一种秋虫。）

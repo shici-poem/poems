@@ -36,7 +36,7 @@ And, a thousand li apart, share the moon's lovely glow.
 --
 Written at the Mid-Autumn Festival of 1076 in Mizhou, "drunk all night until dawn, thinking of Ziyou" — his brother Su Zhe, whom he had not seen for seven years. Su Shi dreams of flying up to the palaces of the moon but chooses the human world; then he forgives the moon for being full while families are apart, because nothing in life is ever whole. The closing wish — 但愿人长久，千里共婵娟 — is the Mid-Autumn blessing of every Chinese family, and the lyric, set to music in 1983, is known to everyone.
 --
-熙宁九年（1076）中秋作于密州，词前小序说“欢饮达旦，大醉，作此篇，兼怀子由”。子由即其弟苏辙，兄弟已七年未见。词人想乘风飞上月宫，终究还是眷恋人间；又由月有阴晴圆缺，想到人有悲欢离合，“此事古难全”，于是释然。结句“但愿人长久，千里共婵娟”成了家家户户的中秋祝福，1983年谱曲传唱后更是家喻户晓。
+熙宁九年（1076）中秋作于密州（今山东诸城）。词前小序说：“丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。”子由即其弟苏辙，兄弟已多年未能团聚。词人想乘风飞上月宫，终究还是眷恋人间；又由月有阴晴圆缺，想到人有悲欢离合，“此事古难全”，于是释然。宋人胡仔说，此词一出，其余的中秋词都可以废了。结句“但愿人长久，千里共婵娟”成了家家户户的中秋祝福，1983年邓丽君演唱的《但愿人长久》更让它传唱至今。
 
 == 念奴娇·赤壁怀古 | The Charms of Niannu: Remembering the Past at Red Cliff
 by: 苏轼
@@ -76,6 +76,8 @@ Life is but a dream:
 Let me pour this cup to the river and the moon.
 --
 Written in 1082 during Su Shi's exile at Huangzhou, at a cliff on the Yangtze that he took — perhaps wrongly — for the site of the Battle of Red Cliff (208), where the young Wu general Zhou Yu (Gongjin), newly married to the beauty Xiao Qiao, burned Cao Cao's fleet. This lyric founded the "heroic and unrestrained" (豪放) school of *ci*: it should be sung, a contemporary said, by a big man from the west beating an iron clapper, not by a girl with castanets. The ending turns from heroism to the dream of life, and a libation to the eternal moon.
+--
+元丰五年（1082），苏轼因“乌台诗案”贬居黄州，游城外的赤鼻矶时写下此词。这里一般认为并非三国赤壁之战的旧址，所以词中只说“人道是”。上片写江山如画，下片追想周瑜：小乔出嫁其实在赤壁之战前约十年，词人写成新婚，更显周郎年少英发、谈笑破敌。对照之下，自己早生华发、功业无成，只好以“人生如梦”自解，举杯酹月。南宋俞文豹记一则评语：柳永的词宜十七八岁女郎执红牙板来唱，苏词则须关西大汉执铜琵琶、铁绰板，高唱“大江东去”。此词向来被视为豪放词的代表作。
 
 == 江城子·乙卯正月二十日夜记梦 | River Town: A Dream on the Night of the 20th Day of the First Month, 1075
 by: 苏轼
@@ -109,6 +111,8 @@ The moonlit night,
 The hill of short pines, there.
 --
 Written in 1075 on the tenth anniversary of the death of Su Shi's first wife, Wang Fu, who died at twenty-six. The first great elegy in the *ci* form, and perhaps the most moving in Chinese. In the dream she is simply doing her hair by the window, as she did every morning; neither of them can speak. Su Shi had planted pine saplings on her grave.
+--
+熙宁八年（1075）苏轼任密州知州时所作。原配妻子王弗十六岁嫁入苏家，治平二年（1065）病逝于京城，年仅二十七岁，后归葬眉山故乡。十年后的正月二十日夜，苏轼梦见了她。“不思量，自难忘”，不去刻意想念，却从未忘怀；即使相逢，她也该认不出这个满面风尘、两鬓如霜的人了。梦里她正对着小窗梳妆，两人相顾无言，惟有泪千行。结尾想到千里之外那座月夜下的短松冈，年年令人肠断。此词情真语淡，被誉为悼亡词的千古绝唱。
 
 == 江城子·密州出猎 | River Town: Hunting at Mizhou
 by: 苏轼
@@ -140,6 +144,8 @@ Gaze to the north-west,
 And shoot down the Wolf Star in the air.
 --
 Mizhou, 1075. Su Shi, aged thirty-nine, leads a hunt and imagines himself a frontier general. Sun Quan, ruler of Wu, once shot a tiger from horseback. Feng Tang was sent by a Han emperor with a tally to pardon a disgraced general at Yunzhong — Su Shi hopes for such a recall. The Wolf Star (Sirius) stood for invaders from the north-west, the Western Xia and the Liao.
+--
+熙宁八年（1075）冬，四十岁的苏轼任密州知州，与同僚出城打猎，写下此词。左手牵黄犬，右臂擎苍鹰，千骑席卷山冈，满城百姓都来看太守射虎，词人自比当年亲自射虎的孙权。下片借酒抒怀：鬓发微白又何妨？汉文帝曾派冯唐持节赦免云中太守魏尚，让他重返边关，苏轼也盼朝廷再度起用自己，好拉满雕弓，向西北射落天狼星。苏轼在给友人的信中说，这类词虽无柳永的风味，却“自是一家”，此词也被视为豪放词的早期代表作。（“天狼”比喻侵扰西北边境的西夏。）
 
 == 定风波（莫听穿林打叶声） | Calming the Waves (Don't Heed the Rain)
 by: 苏轼
@@ -166,6 +172,8 @@ Going home,
 There's neither wind nor rain, nor sunlight.
 --
 Huangzhou, 1082. Caught in a sudden shower on a walk, his companions ran for cover; Su Shi kept strolling. The rain is the political storm that had nearly cost him his life; the last line — "neither wind and rain, nor clear skies" — is a Zen-like serenity beyond good and bad fortune. A favourite of people going through hard times.
+--
+元丰五年（1082）作于黄州，是苏轼因“乌台诗案”被贬到这里的第三年。词前小序说，三月七日去沙湖途中遇雨，雨具已先带走，同行的人都很狼狈，唯独他不以为意，不久天就晴了。穿林打叶的雨声尽可不去理会，不妨一边吟啸一边慢慢走；竹杖芒鞋比骑马还轻快，“一蓑烟雨任平生”。微冷的春风吹醒酒意，山头斜阳却来相迎。回望方才风雨萧瑟之处，也无风雨也无晴，人生的顺逆得失，都已看得通透淡然。
 
 == 卜算子·黄州定慧院寓居作 | Song of Divination: Written While Lodging at Dinghui Temple, Huangzhou
 by: 苏轼
@@ -189,6 +197,8 @@ It tries each frozen branch, and will not settle down —
 The sandbar, lonely, cold as cold can be.
 --
 Written in 1080, soon after Su Shi reached Huangzhou after months in prison and a near death sentence; he lodged at Dinghui Temple. The lone goose that refuses every cold branch and settles on a freezing sandbar is Su Shi himself — wounded and startled, yet unwilling to compromise.
+--
+苏轼因“乌台诗案”入狱，获释后贬到黄州，元丰三年（1080）二月初到时寓居定慧院，此词即作于这一时期。残月挂在疏桐上，更漏声断，夜深人静，只有幽人独自往来，如一只缥缈的孤鸿。孤鸿受惊回头，满怀幽恨无人理解，拣遍寒枝也不肯栖息，宁愿守着寂寞清冷的沙洲——人与鸟融为一体，正是词人孤高自守、不肯随俗的写照。
 
 == 临江仙·夜归临皋 | Immortal by the River: Returning to Lingao at Night
 by: 苏轼
@@ -214,3 +224,5 @@ In a little boat I'll vanish from here, alone,
 And give the rivers and the seas the rest of my life.
 --
 Huangzhou, 1082. Locked out by his snoring servant, Su Shi stands listening to the Yangtze and longs to be free of office and its "striving" (营营, a word from *Zhuangzi*). Dongpo, "East Slope", was the plot he farmed in exile — and the name he took for himself. Legend says a rumour spread the next day that he had sung this song, hung up his official hat and sailed away; the alarmed governor rushed over and found him snoring in bed.
+--
+元丰五年（1082）作于黄州。东坡是苏轼在黄州躬耕的一片坡地，他由此自号“东坡居士”；临皋是他在江边的寓所。夜饮归来已近三更，家童鼾声如雷，敲门不应，他便倚杖静听江声，进而感叹此身不由自己做主，何时才能忘却奔走钻营。“此身非我有”“营营”都化用《庄子》。夜深风静，江面波纹平展，他想乘小舟就此远去，在江海间寄托余生。据叶梦得《避暑录话》，次日便传说苏轼把冠服挂在江边、驾舟长啸而去，地方官大惊，急忙前去探看，却见他鼾声如雷，还没睡醒。

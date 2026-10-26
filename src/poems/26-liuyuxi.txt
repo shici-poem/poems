@@ -12,6 +12,8 @@ The swallows that once nested in the Wang and Xie halls of power
 Now fly into the homes of common folk tonight.
 --
 Black Robe Lane in Nanjing was home to the Wang and Xie clans, the greatest aristocratic families of the 4th and 5th centuries. Four hundred years later the mansions have vanished — but the swallows still return to the same spot, now full of ordinary houses. The rise and fall of the great, seen in a swallow's flight.
+--
+《金陵五题》之一。刘禹锡在序里说，他年轻时客居江南，却始终没到过金陵，后来任和州刺史，有客人拿五个金陵题目给他看，才写成这组诗。乌衣巷在秦淮河南岸，东晋时王导、谢安等豪门世族聚居于此。如今朱雀桥边长满野草野花，巷口只剩一抹斜阳；当年在王谢厅堂前筑巢的燕子，早已飞进了寻常百姓家。不写废墟，只写燕子，世事盛衰之感却深远无尽。
 
 == 石头城 | Stone City
 by: 刘禹锡
@@ -27,6 +29,8 @@ East of the Qinhuai, the moon that once shone here
 Still climbs the parapets at midnight, as in the olden day.
 --
 Stone City was the fortress of Nanjing, capital of six fallen dynasties. Only the hills, the tide and the moon — which shone on all those vanished courts — remain. Bai Juyi said that after this poem, later poets would have nothing left to say about Nanjing.
+--
+《金陵五题》的第一首。石头城在今南京清凉山一带，孙吴时筑城，六朝都城在此兴废相继。刘禹锡任和州刺史时（824—826），与金陵隔江相望，却从未亲临，全凭遥想写成。群山依旧环绕，江潮拍打空城又寂寞退去，只有当年的月亮夜深时还越过女墙照进来——景物长存，繁华不再。刘禹锡在组诗小序中记下，白居易读到“潮打空城寂寞回”，叹赏良久，说“吾知后之诗人不复措词矣”。（女墙是城墙上凹凸的矮墙。）
 
 == 竹枝词（其一） | Bamboo Branch Song (I)
 by: 刘禹锡
@@ -42,6 +46,8 @@ Sun in the east, and rain upon the western side —
 You'd say there's no sunshine, yet there's sunshine in the sky.
 --
 Liu Yuxi adapted the "Bamboo Branch" folk songs he heard in exile in the south-west. 晴 (clear weather) and 情 (love) are both pronounced *qíng*, so the last line means both "you'd say it isn't sunny, yet it is" and "you'd think he has no feelings for me, yet he does" — a girl's uncertainty in a sun-shower.
+--
+竹枝词原是巴渝一带的民歌，当地人吹笛击鼓，边歌边舞。长庆年间刘禹锡任夔州刺史，仿照当地民歌写了多首竹枝词，这一首最为流传。江边杨柳青青，江水平静，少女忽然听见情郎在江上唱歌，心里起了波澜。“东边日出西边雨”写的是晴雨交加的阵雨天气，“晴”与“情”同音，“道是无晴却有晴”便一语双关：说是不晴，又分明有晴；说他无情，又像是有情。少女似喜似疑的微妙心思，全借天气写出，清新活泼，富有民歌风味。
 
 == 秋词（其一） | Autumn Song (I)
 by: 刘禹锡
@@ -57,6 +63,8 @@ In the clear sky, one crane soars up through the clouds' plume,
 And draws my poet's heart into the blue upon its wing.
 --
 Written in exile in 805. Against a thousand years of poems mourning autumn, Liu Yuxi declares autumn better than spring — the crane breaking through the clouds is his own unbroken spirit. A rare poem of defiant optimism.
+--
+永贞元年（805）永贞革新失败，刘禹锡被贬为朗州司马，《秋词》二首作于贬居朗州期间。自宋玉《九辩》叹“悲哉，秋之为气也”以来，文人逢秋多悲寂寥，诗人却偏说秋日胜过春朝：晴空万里，一只白鹤排开云层直上青天，也把诗情引到了碧霄。这只鹤正是他身处逆境而不肯消沉的写照，豪迈开朗，一扫悲秋的老调。
 
 == 酬乐天扬州初逢席上见赠 | Reply to Bai Juyi at Our First Meeting in Yangzhou
 by: 刘禹锡
@@ -78,6 +86,8 @@ Today I've heard you sing a song for me —
 Let this cup of wine lift up my spirits on its wing.
 --
 Liu Yuxi met Bai Juyi in Yangzhou in 826, after twenty-three years of exile. "Hearing the Flute" is a rhapsody mourning executed friends; the woodsman who stopped to watch immortals play chess went home to find his axe-handle rotted and a century gone. Then comes the great couplet — the sunken ship and the withered tree, while life sails and blooms on all around — which Bai Juyi called divine: there is no self-pity, only the knowledge that life goes on.
+--
+永贞革新失败后，刘禹锡长期被贬在巴蜀、荆楚一带。宝历二年（826），他罢和州刺史北归，白居易也从苏州任上返回，两人在扬州初次相逢，白居易席上赠诗，有“二十三年折太多”之叹，刘禹锡写此诗酬答。“闻笛赋”指向秀怀念亡友嵇康、吕安的《思旧赋》；“烂柯人”用王质入山观棋、斧柄烂尽、归家已物是人非的传说，写久贬归来的恍惚。颈联“沉舟侧畔千帆过，病树前头万木春”，以沉舟、病树自比，却看到千帆竞发、万木逢春，于沉郁中见出豁达，白居易在《刘白唱和集解》中称这类句子“真谓神妙”。今天人们常用这两句说新事物必将取代旧事物。
 
 == 望洞庭 | Gazing at Dongting
 by: 刘禹锡
@@ -93,6 +103,8 @@ From afar I gaze at Dongting's isle, so green —
 A green conch lying on a silver platter's rim.
 --
 Dongting Lake on a still autumn night: the lake is an old bronze mirror, slightly misted; Junshan Island at its centre is a small green conch shell on a silver plate. A perfect miniature of a vast scene.
+--
+刘禹锡一生屡遭贬谪，长年往来于湘楚一带，此诗写秋夜远望洞庭湖，写作年份说法不一。湖光与月色交融，水面无风，像一面没有打磨过的铜镜，光泽朦胧柔和；远望湖中的君山青翠可爱，仿佛白银盘里托着一枚青螺。以小喻大，把浩渺的洞庭收进一只银盘，想象新奇，清丽可喜。
 
 == 西塞山怀古 | Thinking of the Past at Xisai Mountain
 by: 刘禹锡
@@ -114,6 +126,8 @@ Now the four seas are one family, at last —
 The old forts sigh among the autumn reeds below.
 --
 In 280 the Jin general Wang Jun sailed great towered warships down the Yangtze from Sichuan to conquer the kingdom of Wu; Wu's iron chains across the river at Xisai Mountain were melted with torches, and its last ruler surrendered at Stone City (Nanjing). Kingdoms rise and fall; the mountain stays. The ending is a quiet warning: the empire is united now — but the ruined forts in the reeds show how fragile unity is.
+--
+长庆四年（824），刘禹锡由夔州刺史调任和州刺史，顺江东下，一般认为此诗即作于途经西塞山时。西塞山在今湖北黄石，山体突入长江，自古是江防要塞。前四句追述晋灭吴：太康元年（280），晋将王濬率高大的楼船从益州顺流而下，吴人横江设置的千寻铁锁被火炬烧熔，沉入江底，吴主孙皓在石头城举起降旗，金陵的王气从此黯然消散。后四句由史入今：人世间多少兴亡往事令人伤怀，山形依旧枕着寒江；如今天下一统，旧时营垒只剩萧萧芦荻在秋风中摇曳。借六朝旧事警示当世，含蓄而深沉。
 
 == 浪淘沙（其一） | Waves Washing Sand (I)
 by: 刘禹锡
@@ -129,6 +143,8 @@ Now let us ride straight up the Silver River, hand in hand,
 To the Herdboy's and the Weaver's home, way up high.
 --
 An old legend held that the Yellow River joins the Milky Way (the "Silver River"), and that a man who sailed up it reached the stars. In a folk-song voice, the poet proposes to follow the river all the way to the two star-lovers.
+--
+《浪淘沙》原是民歌曲调，刘禹锡依调作了九首。首句写九曲黄河挟带万里泥沙，经浪淘风簸，从天边奔涌而来，气象雄阔。古代传说黄河与天上的银河相通，晋人张华《博物志》记有人乘木筏从海上一直漂到天河，见到了牵牛；后来又演变为张骞寻找河源、乘槎到达天河的故事。诗人便放言：如今要沿着黄河直上银河，一同到牵牛织女的家里去。想象奇特，带着民歌的天真与豪迈。
 
 == 浪淘沙（其八） | Waves Washing Sand (VIII)
 by: 刘禹锡
@@ -144,6 +160,8 @@ Though panning, sifting countless times is hard and slow,
 When all the sand is blown away, the gold will show.
 --
 Slandered and exiled for twenty-three years, Liu Yuxi answers with a gold-panner's patience: truth, like gold, survives every sifting. 千淘万漉, "a thousand washings, ten thousand siftings", became an idiom for hard-won results.
+--
+《浪淘沙》本是唐代教坊曲名，刘禹锡与白居易依曲调唱和，写成一组七言绝句，非一时一地之作。刘禹锡因参与永贞革新，先后被贬朗州、连州、夔州、和州，自称“二十三年弃置身”。此诗借淘金自明心迹：谗言纵然深如江浪，贬谪之人也不会像泥沙一样沉没；千遍淘洗、万遍过滤，虽然辛苦，等狂沙吹尽，真金自会显露。语言浅白如民歌，却透着一股倔强昂扬之气，“吹尽狂沙始到金”常用来比喻历经磨难方见真才。（“漉”是过滤。）
 
 == 赏牡丹 | Admiring the Peonies
 by: 刘禹锡
@@ -159,3 +177,5 @@ Only the tree peony has a true queen's face —
 When it blooms, the whole capital is stirred with happiness.
 --
 In the Tang the tree peony (牡丹) was queen of flowers, and Chang'an went peony-mad every spring, paying fortunes for rare plants. The peony's epithet 国色天香, "beauty of the nation, fragrance of heaven", owes much to this poem.
+--
+唐代长安盛行赏牡丹，每到花期，满城士庶争相观赏，名贵品种价值千金，白居易《买花》诗就写过“一丛深色花，十户中人赋”。诗人先抑后扬：庭前芍药艳丽却少了格调，池中荷花清净却缺些情致，唯有牡丹才是“真国色”，花开时轰动整个京城。“国色天香”一语，则出自同时代李正封的牡丹诗句，据《松窗杂录》，唐文宗问京城牡丹诗谁最好，有人便举出他这两句。（“妖”是艳丽，“格”是格调、品格。）

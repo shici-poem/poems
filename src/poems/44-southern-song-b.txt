@@ -12,6 +12,8 @@ But a garden full of spring cannot be locked inside:
 A spray of red apricot blossom reaches out over the wall.
 --
 Visiting a friend's garden and finding no one home. The gate stays shut — but spring cannot be locked in. 春色满园关不住，一枝红杏出墙来 is quoted for anything vital and beautiful that cannot be suppressed (and, mischievously, of wandering wives).
+--
+叶绍翁是南宋江湖派诗人，最擅长七言绝句。题中“不值”是没有遇到主人的意思。诗人来访，轻叩柴门，久久无人应答，便体贴地猜想：大概是主人爱惜青苔，怕木屐踩出齿印吧。正失望时，一枝红杏探出墙头，满园春色便可想而知。钱锺书指出，末句脱胎于陆游《马上作》的“一枝红杏出墙头”，而叶诗写得更加新颖警策。“春色满园关不住”如今常用来比喻美好而充满生机的事物是封锁不住的。（“应怜”的“应”是猜测之辞，“怜”是爱惜。）
 
 == 夜书所见 | Written at Night, on What I Saw
 by: 叶绍翁
@@ -27,6 +29,8 @@ I know there must be children out there hunting crickets —
 Late at night, a single lantern glows beside the hedge, apart.
 --
 A homesick traveller on an autumn night sees a lamp by a hedge and knows at once that children are out catching crickets for cricket fights — as he once did at home. The lamp is a window into his own childhood.
+--
+叶绍翁是南宋江湖派诗人，以七言绝句见长。秋风吹动梧桐叶，萧萧作响，送来阵阵寒意，也撩动了客居他乡的愁思。忽见远处篱笆下亮着一盏灯，诗人便知道是孩子们在夜里捉蟋蟀。前两句冷清，后两句温暖，以别人的欢乐反衬自己的孤寂，那盏灯也照见了诗人自己的童年和故乡。（“挑”是用细长的东西拨弄、寻找；“促织”即蟋蟀。）
 
 == 题临安邸 | Written at an Inn in Lin'an
 by: 林升
@@ -42,6 +46,8 @@ The warm breeze makes the pleasure-seekers drunk for hours,
 Till they take Hangzhou for Bianzhou, the capital that's gone.
 --
 Written on the wall of an inn in Hangzhou (Lin'an), the Southern Song's "temporary" capital, by an otherwise unknown scholar. Comfortable by West Lake, the court had forgotten the lost northern capital, Bianzhou (Kaifeng); the "warm wind" is the soft air of pleasure. The sharpest political quatrain of the age.
+--
+林升大约生活在宋孝宗时，生平几乎无考，据明人《西湖游览志馀》记载，这首诗是他题在临安一家旅舍墙上的。北宋亡后，南宋定都临安（今杭州），名义上只是“行在”，表示终将收复故都汴州（今开封）。可青山重重、楼阁层层之间，西湖边的歌舞昼夜不停，暖风吹得游人醺醺欲醉，竟把杭州当成了汴州。一个“熏”字、一个“醉”字，把权贵们苟且偷安的醉态写尽，讽刺尖锐而不露骨。
 
 == 约客 | Expecting a Guest
 by: 赵师秀
@@ -57,6 +63,8 @@ My guest has promised to come, but it's past midnight now —
 I idly tap the chessmen, and the lamp's charred wick falls there.
 --
 A friend was to come for a game of weiqi on a rainy summer night. Midnight passes; the poet sits tapping the stones — and knocks off the charred "lamp-flower" of the wick, a traditional omen that a visitor is coming. Impatience, disappointment and a hint of humour in one gesture.
+--
+赵师秀是南宋“永嘉四灵”之首，作诗学晚唐贾岛、姚合，讲究炼字炼句。江南梅子黄熟时节，阴雨连绵，池塘边处处蛙鸣，越发衬出夜的寂静。约好的客人过了半夜还没来，诗人百无聊赖，随手敲着棋子，震落了灯芯上结成的灯花。全诗不着一个“等”字，“闲敲”二字却把等待的焦急、失望与无奈写得含蓄传神。（“灯花”是灯芯燃烧后结成的花状余烬。）
 
 == 乡村四月 | Village in the Fourth Month
 by: 翁卷
@@ -72,6 +80,8 @@ In the village, the fourth month leaves no one idle in sight —
 The silkworms done, the rice is planted, and nothing's missed.
 --
 Early summer in the Zhejiang countryside: flooded paddies white with sky, green hills, the cuckoo — whose call was heard as "plant the rice!" — and a village where no one has a moment to spare.
+--
+翁卷是浙江永嘉人，与徐照、徐玑、赵师秀并称“永嘉四灵”。农历四月，山坡原野一片葱绿，稻田里灌满了水，映着天光白茫茫一片；杜鹃声声，细雨如烟。前两句是一幅静谧的水墨画，后两句却写出乡村的忙碌：刚忙完采桑养蚕，又要下田插秧，家家户户没有一个闲人。景色越是安闲，越衬出农人的辛劳。（“川”在这里指平地上的田野。）
 
 == 雪梅（其一） | Snow and Plum (I)
 by: 卢梅坡
@@ -87,6 +97,8 @@ The plum must yield the snow some measure of its white;
 The snow must yield the plum its scent — and so the contest's done.
 --
 A playful debate between two winter beauties. The verdict — snow is whiter, plum is sweeter — became a saying about everyone having their own strengths.
+--
+卢梅坡是南宋人，生平不详，只留下几首咏梅诗。梅与雪都是早春最美的景物，诗人设想两者争夺“春色第一”，谁也不肯认输，连诗人也只好搁下笔来，难以评判。后两句是公允的裁决：论白，梅花要让雪三分；论香，雪却比不上梅花。各有所长，也各有所短，这两句后来常被用来说明看人看事不可求全，要看到彼此的长处。（“降”是服输，“阁笔”即搁笔，“评章”是品评。）
 
 == 过零丁洋 | Crossing the Lonely Sea
 by: 文天祥
@@ -108,6 +120,8 @@ Since ancient times, who has ever lived and never died?
 Let my loyal heart shine on in history, my own.
 --
 Written in 1279 as a prisoner on a Mongol warship crossing the Lingdingyang ("Lonely Sea") near today's Hong Kong, on the way to witness the final destruction of the Song fleet. The Mongol commander asked Wen Tianxiang to write urging the Song loyalists to surrender; he handed over this poem instead. Panic Rapids (惶恐滩) was where he had once retreated in defeat. The last couplet — 人生自古谁无死？留取丹心照汗青 — is the most famous declaration of patriotic faith in Chinese. He was executed in 1283.
+--
+祥兴元年（1278）冬，文天祥在广东海丰兵败被俘。次年正月，元军统帅张弘范押着他乘船经过珠江口外的零丁洋，前往崖山，逼他写信招降宋将张世杰，他便写下此诗以明心志。首联回顾一生：由科举入仕，起兵抗元已整整四年。颔联以风吹柳絮、雨打浮萍，写国家与自身的命运。颈联巧用地名：惶恐滩在江西赣江，是他当年兵败后撤经过的地方；零丁洋则恰是眼前孤苦的处境。末联“人生自古谁无死？留取丹心照汗青”成了千古传诵的名句，四年后他在大都从容就义。（“汗青”指史册。）
 
 == 虞美人·听雨 | The Beautiful Lady Yu: Listening to the Rain
 by: 蒋捷
@@ -133,6 +147,8 @@ Let the rain drip on the steps before me
 Until the dawn.
 --
 A whole life in three rains. The young man hears rain in the pleasure houses; the grown man, in a boat on the river amid war; the old man, after the fall of the Song, under the eaves of a Buddhist temple, where he lets the rain fall without feeling. One of the most perfectly shaped lyrics in the *ci*.
+--
+蒋捷是南宋末年进士，宋亡后隐居不仕，人称“竹山先生”。词以三次听雨串起一生：少年时在歌楼上，红烛罗帐，不识愁滋味；壮年时漂泊在客舟中，江阔云低，失群的孤雁在西风里哀鸣，正是兵荒马乱、流离失所的岁月；如今鬓发斑白，寄身僧庐，悲欢离合都已看淡，任凭阶前雨点滴到天明。三幅画面层层推进，五十六字写尽少年、壮年、暮年，也写尽一个王朝覆灭前后的沧桑。
 
 == 一剪梅·舟过吴江 | A Sprig of Plum: Passing Wujiang by Boat
 by: 蒋捷
@@ -160,6 +176,8 @@ It's reddened the cherries,
 And greened the plantain leaves.
 --
 Written as Jiang Jie drifted as a refugee after the Mongol conquest. The last couplet — time "reddens the cherries, greens the plantains" — turns the passing of time into colour, using adjectives as verbs, and is one of the most quoted endings in the *ci*.
+--
+吴江在今江苏苏州一带，秋娘渡、泰娘桥都是当地地名。此词大约作于宋末战乱中漂泊途中，写作年份已难确考。船在江上摇，岸边酒楼的酒帘招人，词人满怀春愁，只想借酒浇灭；偏偏又风又雨，更添羁旅之苦。“何日归家洗客袍”，想起家中调银字笙、烧心字香的温暖日子。结尾“红了樱桃，绿了芭蕉”，把形容词用作动词，时光的流逝化成看得见的颜色变化，传诵极广，蒋捷也因此有“樱桃进士”之称。
 
 == 绝句（志南） | Quatrain
 by: 志南
@@ -175,6 +193,8 @@ The apricot-blossom rain would almost wet my clothes;
 The willow breeze blows on my face, not cold in the least.
 --
 By a Buddhist monk of the Southern Song. The last couplet — "apricot-blossom rain" that almost but not quite wets you, a "willow wind" that touches your face without chill — is the most delicate description of early spring in Chinese; Zhu Xi praised it highly.
+--
+志南是南宋诗僧，生平不详，凭这一首小诗传名后世。老僧把小船系在古树浓荫下，拄着藜杖过桥向东，“杖藜扶我”，把手杖写得像一位相伴的友人。后两句写早春最为传神：杏花时节的细雨，似湿未湿地沾在衣上；杨柳时节的春风，拂面而来，一点也不觉寒冷。朱熹称其诗“清丽有余，格力闲暇，无蔬笋气”，说自己“深爱之”，意思是它没有僧人诗常见的寒瘦酸涩。朱自清的散文《春》也引过“吹面不寒杨柳风”。
 
 == 村晚 | Village Evening
 by: 雷震
@@ -190,6 +210,8 @@ The herd-boy rides home, sitting crosswise on the ox's back,
 Blowing his short flute — no tune at all, just a whim.
 --
 A village evening: the hills "bite" (衔) the setting sun, its reflection steeping in the pond, and a herd-boy rides home on his ox, tootling a tuneless flute. A favourite scene of Chinese painting — and of childhood.
+--
+作者雷震是宋人，生平已不可考。池塘边长满青草，塘里蓄满了水；远山半含着落日，倒影浸在微带凉意的水波里。一个“衔”字，把山写活了，仿佛山口含住了夕阳。后两句画面一转：放牛的孩子横坐在牛背上回家，拿着短笛随口乱吹，吹不成曲调也毫不在意。静的是山水，动的是牧童，天真自在，宛如一幅乡村晚归图。（“陂”是池塘，“无腔”是不成曲调。）
 
 == 寒夜 | A Cold Night
 by: 杜耒
@@ -205,6 +227,8 @@ The same old moon that always shines outside the window —
 But tonight, with plum blossom, it's a different moon instead.
 --
 The simplest hospitality: tea instead of wine on a winter night. The moon is the same as ever — but the plum blossom, and the friend, make it new. 寻常一样窗前月，才有梅花便不同 is quoted for how a small touch, or a friend, transforms the ordinary.
+--
+南宋杜耒存诗不多，这首却流传极广。冬夜有客来访，主人以茶代酒，竹炉里的水刚刚烧开，炭火才红，宾主围炉夜话，清雅而亲切。后两句忽然宕开：窗前的月亮夜夜都一样，只因多了几枝梅花，便显得格外不同。梅花映衬了月色，也暗喻知己来访，让平常的夜晚有了别样的情味。“寻常一样窗前月，才有梅花便不同”，常被用来说一点小小的变化，就能让寻常事物焕然一新。
 
 == 颂平常心是道 | Verse on "The Ordinary Mind Is the Way"
 by: 无门慧开
@@ -220,3 +244,5 @@ If no idle worries hang upon your heart,
 Then every season is the finest one we know.
 --
 A verse by the Chan (Zen) master Wumen Huikai from *The Gateless Gate*, on the koan "the ordinary mind is the Way". Every season brings its gift; the only obstacle to joy is the clutter in one's own mind.
+--
+南宋临济宗禅师无门慧开编《无门关》，收古德公案四十八则，每则附评唱和颂。第十九则记赵州问南泉“如何是道”，南泉答“平常心是道”，这首偈便是慧开为此所作的颂。春花、秋月、夏风、冬雪，四季各有好处；人之所以觉得日子不好，只因心头挂着“闲事”。不讲玄理，只说放下，因此流传到禅门之外，成了许多人的座右铭。

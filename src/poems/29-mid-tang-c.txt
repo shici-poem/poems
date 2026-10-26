@@ -12,6 +12,8 @@ Afraid I've left out something in my haste, and so,
 As the courier's leaving, I open it up again as well.
 --
 A tiny gesture says everything: the letter is sealed, the messenger is ready to go — and the homesick writer tears it open once more. The autumn wind recalls the Jin official Zhang Han, who saw the autumn wind, thought of the perch of his home river, resigned his post and went home.
+--
+张籍原籍吴郡，后迁居和州乌江（今属安徽），此时客居洛阳，秋风一起，乡思便涌上心头。“见秋风”暗含一个典故：《晋书》记载，西晋张翰在洛阳做官，见秋风起，想起家乡吴中的莼菜羹、鲈鱼脍，便辞官回乡。诗人回不去，只好写信，提笔时千言万语不知从何说起；捎信的人临出发，他又怕匆忙中漏写了什么，把封好的信拆开再看一遍。这个细节平平常常，却人人经历过，王安石称张籍诗“看似寻常最奇崛”，此诗正是一例。
 
 == 节妇吟 | Song of a Faithful Wife
 by: 张籍
@@ -36,6 +38,8 @@ I give you back your pearls; two tears fall down —
 If only we had met before I wore the bridal crown!
 --
 On the surface, a faithful wife gently refusing a suitor's pearls. In fact it is a political allegory: Zhang Ji was declining an invitation to serve the powerful warlord Li Shidao, who was defying the Tang court — the "husband" is the emperor. 恨不相逢未嫁时, "if only we had met before I married", became the classic line for love that came too late.
+--
+诗题下原有小注“寄东平李司空师道”。中唐藩镇割据，平卢淄青节度使李师道拥兵自重，想延揽张籍入幕，张籍不愿依附，便写此诗婉拒（一说所寄者是其兄李师古）。全诗借一位已婚女子的口吻：感激你的深情，明珠曾系在红罗短袄上；可我家高楼连着宫苑，丈夫在明光殿执戟宿卫，我发誓与他同生共死，只能含泪还珠。以夫妇喻君臣，是自《楚辞》以来的传统；拒绝得坚决，措辞却温婉，不伤对方颜面。“还君明珠双泪垂，恨不相逢未嫁时”后来常被单独引用，形容相见恨晚的情缘。
 
 == 题都城南庄 | Written at a Farm South of the Capital
 by: 崔护
@@ -51,6 +55,8 @@ Where has the face gone now? I don't know any more —
 The peach blossoms still smile in the spring breeze, as before.
 --
 The legend: Cui Hu, out walking at Qingming, asked for water at a farmhouse south of Chang'an and was served by a lovely girl among the peach trees. A year later he returned, found the gate locked, and wrote this poem on it. (In the story, she read it and pined away — and came back to life when he returned and wept over her; they married.) 人面桃花, "a face among peach blossoms", means a love glimpsed once and lost.
+--
+据唐人孟棨《本事诗》记载，崔护进士落第后，清明节独自到长安城南游玩，口渴向一户农家讨水，一位少女开门递水，倚着桃树伫立，情意殷殷。第二年清明他再去寻访，院门紧锁，便在门上题了这首诗。故事还说少女见诗后病倒而死，崔护赶来恸哭，她竟又复活，二人结为夫妻，显然带有传奇色彩。诗以“去年今日”与眼前对照，桃花依旧，人面已杳，怅惘无尽。“人面桃花”后来成了思念旧日恋人、物是人非的代称。
 
 == 近试上张水部 | Before the Examination: To Zhang of the Ministry of Waters
 by: 朱庆馀
@@ -66,6 +72,8 @@ My make-up done, I whisper to my groom:
 "Are my brows painted right — the latest style of all?"
 --
 A coded letter. Before the examination of 826, Zhu Qingyu sent this poem to the influential official Zhang Ji: the new bride is the candidate, the parents-in-law are the examiners, the eyebrows his essays — "will they pass?" Zhang Ji replied with a poem assuring him she was the loveliest girl of all. He passed.
+--
+唐代举子考前常把诗文投献名流，请他们代为延誉，称为“行卷”。宝历二年（826）应试前，越州人朱庆馀把这首诗献给时任水部郎中的张籍。表面写新婚次日的新娘，梳妆停当，低声问丈夫：我的眉画得深浅合不合时样？实则以新娘自比，以公婆比考官，以夫婿比张籍，问自己的文章能否入考官的眼。张籍心领神会，答诗以“越女新妆出镜心”称赞他，说一曲菱歌胜过万金。朱庆馀从此名声大振，当年考中进士。（又题《闺意献张水部》。）
 
 == 小儿垂钓 | A Child Fishing
 by: 胡令能
@@ -81,3 +89,5 @@ When someone asks the way, he waves from far away —
 Afraid to scare the fish, he won't reply as people pass.
 --
 A perfect little genre painting. The child, absorbed in his first fishing, treats a stranger's question with the seriousness of a professional — a wave, not a word.
+--
+胡令能是唐代贞元、元和年间的民间诗人，以修补锅碗为业，人称“胡钉铰”，《全唐诗》仅存其诗四首，这一首最为人熟知。头发蓬乱的孩子学着大人钓鱼，侧身坐在青苔上，身影掩映在草丛里；有路人向他打听事情，他只远远地摆摆手，生怕一出声就把鱼吓跑。前两句写形，后两句传神，一个“遥招手”，把孩子的专注与机灵写得活灵活现。（“垂纶”即垂钓，纶是钓丝。）

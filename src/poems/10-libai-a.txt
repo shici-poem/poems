@@ -13,7 +13,7 @@ I bow my head: my thoughts are homeward bound.
 --
 The best-known poem in the Chinese language; nearly every child can recite it. Far from home, the traveller wakes to moonlight so pale he takes it for frost. The same moon shines over his distant hometown, and the simple movement of raising and lowering his head carries him there. (床 may be a bed, or — some scholars argue — the railing of a well in the courtyard.)
 --
-游子客居他乡，夜半醒来，见床前月色皎洁，竟疑是地上秋霜。一“举头”，一“低头”，望的是天上明月，思的是千里之外的故乡。二十个字写尽羁旅之思，几乎人人都能背诵。（“床”或说是卧床，或说是庭院里的井栏，学者至今各执一词。）
+游子客居他乡，夜半醒来，见床前月色皎洁，竟疑是地上秋霜。一“举头”，一“低头”，望的是天上明月，思的是千里之外的故乡。语浅情深，几乎人人都能背诵。今天的通行本经明清选本改定，宋蜀刻本《李太白文集》原作“床前看月光”“举头望山月”，后来借《唐诗三百首》等读物，“明月”本才流行开来。（“床”或说是卧床，或说是井栏，至今各执一词。）
 
 == 望庐山瀑布 | Viewing the Waterfall at Mount Lu
 by: 李白
@@ -30,7 +30,7 @@ The Milky Way, it seems, poured from the Ninth Heaven there.
 --
 Censer Peak (香炉峰) on Mount Lu in Jiangxi is named for its shape and the incense-like mists that rise from it. "Three thousand feet" is Li Bai's typical grand exaggeration. The Chinese call the Milky Way the "Silver River" (银河), and the Ninth Heaven is the highest of the heavens — so the waterfall becomes the river of stars tumbling to earth.
 --
-香炉峰在江西庐山，因形似香炉、云雾缭绕如香烟而得名。“三千尺”是李白惯用的夸张；“疑是银河落九天”，九天是天的最高处，瀑布竟成了从天上倾泻而下的星河，想象奇伟，气势磅礴。
+原有二首，这是其中的七绝，一般认为是李白出蜀东游、初上庐山时所作，约在开元十三年（725）前后。香炉峰因形似香炉、云雾缭绕如香烟而得名，日光一照，烟气竟成紫色。“三千尺”是李白惯用的夸张；末句把瀑布想象成从九天倾泻而下的银河，想象奇伟。苏轼曾有诗称“帝遣银河一派垂，古来惟有谪仙词”。
 
 == 早发白帝城 | Leaving Baidi at Dawn
 by: 李白
@@ -47,7 +47,7 @@ My little boat has slipped ten thousand peaks away.
 --
 Written in 759. Li Bai, exiled to the far southwest for his part in a prince's rebellion, received a pardon at Baidi, high above the Yangtze. The headlong rush down the Three Gorges mirrors his joy: the boat is "light" (轻舟) in more ways than one, and the gibbons' cries — usually the saddest sound in Chinese poetry — are left behind.
 --
-乾元二年（759），李白因卷入永王之事被流放夜郎，行至白帝城时遇赦，惊喜交加，立即乘舟东下江陵。千里江程一日而还，船行之快正是心情之快；猿啼本是古诗中最哀伤的声音，此时也被轻舟抛在了身后。一个“轻”字，写船也写心。
+一题《下江陵》。乾元二年（759）春，李白因曾入永王李璘幕府，被判流放夜郎，溯江西行，途中忽闻朝廷大赦，惊喜交加，随即从白帝城乘舟东下江陵。千里江程一日而还，船行之快正是心情之快；猿啼本是三峡最哀伤的声音，此时也被轻舟抛在了身后。一个“轻”字，写船也写心。清人王士禛论唐人七绝压卷，就举了这首。
 
 == 黄鹤楼送孟浩然之广陵 | Seeing Meng Haoran Off to Guangling at Yellow Crane Tower
 by: 李白
@@ -64,7 +64,7 @@ Now only the Long River to the edge of heaven flows.
 --
 Meng Haoran, twelve years older, was a poet Li Bai idolised. The poem names no feeling at all — Li Bai simply stands watching until the sail vanishes, and that long gaze is the friendship. Yangzhou (Guangling) in spring was the most glamorous city of the empire; 烟花 "mist and flowers" became a set phrase for its springtime.
 --
-孟浩然比李白年长十二岁，是李白倾慕的诗人。烟花三月的扬州（广陵），正是当时最繁华的都会。全诗不着一个“情”字，诗人只是伫立江边，目送孤帆远去，直到消失在碧空尽头，只剩长江天际流——这久久的凝望，便是深厚的友情。
+一般认为作于开元十八年（730）春。孟浩然比李白年长十二岁，李白另有诗说“吾爱孟夫子，风流天下闻”，倾慕之情可见。烟花三月的扬州（广陵），正是当时最繁华的都会。全诗不着一个“情”字，诗人只是伫立江边，目送孤帆远去，直到消失在碧空尽头，只剩长江天际流，这久久的凝望，便是深厚的友情。（“碧空尽”一作“碧山尽”。）
 
 == 赠汪伦 | For Wang Lun
 by: 李白
@@ -81,7 +81,7 @@ It's not so deep as Wang Lun's love that sees me off with song.
 --
 Wang Lun was a local gentleman of Jingxian (Anhui) who had invited the famous poet to stay. As Li Bai was leaving, Wang came down to the shore with villagers, singing and stamping out the rhythm (踏歌, "stepping song"). Naming himself in the first line is a cheerful informality almost unique in Tang poetry.
 --
-汪伦是泾县（今属安徽）的一位乡绅，曾邀请李白来游。李白乘舟将行，汪伦带着村人来到岸边，边唱边以脚踏地打拍子，这就是“踏歌”。诗人在首句直呼自己的名字，这种率真在唐诗中极为少见；末两句以潭水之深比友情之深，自然真切。
+李白游泾县（今属安徽）桃花潭，汪伦常以美酒款待。汪伦的身份说法不一，旧注多称他是当地村人，一说他曾任泾县县令，辞官后住在桃花潭边。李白乘舟将行，汪伦带着村人来到岸边，边唱边以脚踏地打着节拍，这就是“踏歌”。诗人在首句直呼自己的名字，率真自然；末两句不说情如潭水，却说潭水千尺也不及送别之情，以深比深，越发真切。
 
 == 月下独酌（其一） | Drinking Alone by Moonlight
 by: 李白
@@ -112,6 +112,8 @@ Let us pledge a friendship free of worldly ties,
 To meet again beyond the Milky Way's far skies.
 --
 The first of Li Bai's four poems "Drinking Alone by Moonlight". Loneliness becomes a party of three, then dissolves back into solitude. The closing pledge of a 无情游 — a companionship beyond human feeling, with moon and shadow who have none — to be renewed in the Milky Way (云汉), makes his two silent friends his companions for eternity.
+--
+组诗共四首，一般认为作于天宝三载（744）春，李白在长安供奉翰林，却渐被玄宗疏远，心中苦闷。花间独饮，无人相伴，他便举杯邀来明月，连同自己的影子凑成“三人”；可月不会饮酒，影子只会跟随，热闹之中仍是孤独。醒时同欢，醉后分散，最后与月、影相约结成忘却世情的“无情游”，相会于遥远的云汉。以乐写愁，越是旷达，越见寂寞。
 
 == 将进酒 | Bring in the Wine
 by: 李白
@@ -159,6 +161,8 @@ Call the boy, take them out, and trade them for fine wine,
 And with you I'll drown the sorrows of ten thousand years untold!
 --
 "Bring in the Wine" (an old Han ballad title) was written around 752 as Li Bai drank with his friends Cen Xun and Yuan Danqiu. It opens with two images of time's unstoppable flow — the Yellow River pouring from heaven to the sea, hair turning white in a single day — and answers them with defiant joy and boundless self-belief. The Prince of Chen is the poet Cao Zhi, famous for his lavish banquets at Pingle Lodge.
+--
+“将进酒”是汉乐府《铙歌》的旧题，意思是“请喝酒吧”。一般认为作于天宝十一载（752）前后，李白离开长安已有多年，与友人岑勋同在嵩山元丹丘处饮酒（一说作于开元末年）。开篇两个“君不见”，以黄河奔流入海、青丝转眼成雪，写时光一去不回；接着却以“人生得意须尽欢”“天生我材必有用”作答，豪情冲天。“陈王”即曹植，他在《名都篇》中写过平乐观里斗酒十千的宴饮。最后连五花马、千金裘都要拿去换酒，只为与朋友同销“万古愁”，狂放之下是深沉的悲慨。（“将”是“请”的意思。）
 
 == 蜀道难 | The Road to Shu Is Hard
 by: 李白
@@ -232,6 +236,8 @@ The road to Shu is hard — harder than climbing the blue sky!
 I turn and gaze toward the west, and heave a long, long sigh.
 --
 Shu is today's Sichuan, cut off from the central plain by mountain ranges crossed only on plank roads pinned to cliff faces. Li Bai, a son of Shu, mixes legend (the ancient kings Cancong and Yufu; five strongmen killed when a mountain collapsed as they dragged a snake from its cave; the six dragons pulling the sun's chariot) with real geography, in wildly irregular lines that lurch like the road itself. When He Zhizhang read it, he called Li Bai "an immortal banished from heaven".
+--
+李白自幼生长在蜀中，此诗以神话和夸张写尽入蜀之难：蚕丛、鱼凫开国的渺茫，五丁力士拽蛇崩山才开出天梯石栈，连羲和驾驭的六龙日车也要在高峰前折回。句子忽长忽短，三次叹出“蜀道之难，难于上青天”，气势如山路般起伏回旋。孟棨《本事诗》载，贺知章读后赞叹不已，称李白为“谪仙人”；殷璠《河岳英灵集》评为“奇之又奇”。旧说以为讽刺严武或劝阻玄宗幸蜀，都与成诗年代不合，今人多认为是李白初到长安前后送友人入蜀之作。
 
 == 行路难（其一） | Hard Is the Road (I)
 by: 李白
@@ -259,6 +265,8 @@ A day will come to ride the wind and break the waves:
 I'll hoist my cloud-high sail and cross the boundless sea somehow.
 --
 Written in 744 when Li Bai left the court at Chang'an, his hopes of a political career in ruins. Ice and snow block every way forward. The fisherman is Lü Shang, who fished in obscurity until King Wen of Zhou discovered him; Yi Yin dreamed of sailing past the sun just before King Tang employed him — both sages who waited for their moment. The famous last couplet turns despair into confidence.
+--
+天宝三载（744），李白遭权贵排挤，被“赐金放还”，离开长安，《行路难》三首即作于此时。满桌美酒佳肴，他却停杯投箸，拔剑四顾；冰塞黄河，雪满太行，前路处处阻隔。转念想到吕尚垂钓溪上、伊尹梦见乘舟经过日边，都是久困之后终遇明君，心又振作起来。“长风破浪会有时”化用南朝宗悫“愿乘长风破万里浪”之语，在迷茫中唱出不灭的信心。
 
 == 望天门山 | Gazing at Tianmen Mountain
 by: 李白
@@ -274,6 +282,8 @@ From either bank the green hills stride out, facing, into view —
 And from beside the sun there comes a single sail, without a sound.
 --
 Tianmen ("Heaven's Gate") is a pair of hills facing each other across the Yangtze in Anhui. Sailing downstream, Li Bai sees the hills seem to step forward to meet him as his boat approaches — a moving-camera view, a thousand years before cinema.
+--
+天门山是东梁山与西梁山的合称，两山分立在今安徽当涂与和县，夹江对峙，宛如一道天门。一般认为此诗作于开元十三年（725）前后，年轻的李白出蜀远游，乘船顺长江东下。首句说长江冲开天门奔腾而过，次句写碧水到此回旋转向，气势逼人。“两岸青山相对出”，一个“出”字把静止的青山写活了：船在前行，两岸山峰仿佛迎面走来。末句一片孤帆从日边驶来，常被理解为诗人自己的船，画面里满是少年远游的意气。（“楚江”指流经古楚地的这段长江。）
 
 == 独坐敬亭山 | Sitting Alone on Jingting Mountain
 by: 李白
@@ -289,6 +299,8 @@ We gaze and gaze, and never tire of it —
 Just Jingting Mountain, and I, sitting there.
 --
 Written in 753 near Xuancheng, when Li Bai was past fifty and long out of favour. Birds and clouds — like friends and fortune — all leave him; only the mountain stays, and the two regard each other like old friends who need no words.
+--
+敬亭山在宣城（今属安徽）城北，南齐诗人谢朓做宣城太守时常来登临赋诗，李白对谢朓十分敬仰。一般认为天宝十二载（753），离开长安已近十年的李白漫游到宣城，独坐山中写下此诗。群鸟高飞而尽，孤云也悠然飘去，天地间只剩诗人与敬亭山默默相对，彼此看也看不厌。把山当作唯一的知己，正透出诗人在人世间的孤独与寂寞。李白先后多次登临敬亭山，后人在山上建了太白独坐楼来纪念他。
 
 == 夜宿山寺 | Staying the Night at a Mountain Temple
 by: 李白
@@ -304,6 +316,8 @@ I dare not raise my voice above a sigh,
 For fear of waking those who dwell on high.
 --
 A temple tower on a mountaintop, so high that the stars are within reach and heaven's residents might overhear. Built entirely from playful exaggeration, it is one of the first poems Chinese children learn.
+--
+山寺高楼耸入云霄，仿佛一伸手就能摘下星辰；连说话都不敢大声，生怕惊动了天上的仙人。诗中不写山如何高，只凭夸张与想象，高处的情景便历历在目，童趣盎然，是孩子们最早背诵的诗之一。此诗不见于李白文集，最早见于北宋王得臣《麈史》，说是蕲州黄梅一座山寺梁间的诗牌，落款“布衣李白”，真伪已难确考；宋人笔记中另有杨亿幼年登楼吟出相近诗句的传说。
 
 == 峨眉山月歌 | Song of the Moon over Mount Emei
 by: 李白
@@ -319,6 +333,8 @@ I leave Clear Creek for the Three Gorges in the night;
 I miss you — you are lost to sight — and drift to Yuzhou in a dream.
 --
 Written around 725 when the young Li Bai first left his home province of Shu. In four lines he names five places — Emei, the Pingqiang River, Clear Creek, the Three Gorges, Yuzhou — yet the poem reads as one smooth glide downstream. The "you" he misses may be the moon itself, hidden now behind the gorge cliffs, or a friend left behind.
+--
+开元十二、三年间（724—725），青年李白乘舟离开蜀中，开始远游，这是他初出蜀时的作品。秋夜半轮山月，映在平羌江（岷江的一段）中随水流去；诗人夜里从清溪驿出发，驶向三峡，又一路下渝州（今重庆）。二十八字连用峨眉山、平羌江、清溪、三峡、渝州五个地名，却毫无堆砌之感，只觉轻舟顺流而下，一路月色相随。“思君不见”的“君”，一般认为指峨眉山月，一说指友人。
 
 == 春夜洛城闻笛 | Hearing a Flute on a Spring Night in Luoyang
 by: 李白
@@ -334,6 +350,8 @@ Hearing "Breaking Willows" in the tune tonight,
 Whose heart would not for home and garden beat?
 --
 "Breaking Willows" (折杨柳) was a farewell tune: friends parting gave each other a willow twig, because 柳 (willow) sounds like 留 (stay). Hearing it played by an unseen flautist in the spring night, the poet realises the whole city must be thinking of home.
+--
+约作于开元二十二年（734）李白客游洛阳时。洛阳是唐代的东都，繁华热闹。春夜里不知谁家在暗处吹笛，一个“暗”字写出只闻其声、不见其人；笛声随春风散开，仿佛满城都听得见。所吹的正是乐府横吹曲《折杨柳》，古人送别时有折柳相赠的习俗，这支曲子自然勾起离愁。末句不说“我”而说“何人不起”，由己及人，客中思乡之情便扩展成了满城人的共同心声。
 
 == 送友人 | Seeing a Friend Off
 by: 李白
@@ -355,6 +373,8 @@ We wave our hands, and from this place you go;
 Your horse, leaving the herd, neighs as we part.
 --
 A model regulated poem, its middle couplets perfectly parallel. The drifting cloud is the departing friend, the reluctant setting sun the friend left behind. The last line borrows from the *Book of Songs*: 班马 is a horse separated from its companions, crying out — the animals feel the parting too.
+--
+一首五言律诗，格式却有些特别：首联“青山横北郭，白水绕东城”对仗工整，颔联“此地一为别，孤蓬万里征”反而一气直下，不拘对偶，这在律诗中并不多见。颈联以浮云比游子漂泊不定的行踪，以落日比故人依依不舍的情意。末句“萧萧班马鸣”，“萧萧马鸣”出自《诗经·小雅·车攻》，“班马”见于《左传》，指离群的马。人挥手作别，马也嘶鸣不已，不言离愁而离愁自见。
 
 == 渡荆门送别 | Farewell After Crossing Jingmen
 by: 李白
@@ -376,6 +396,8 @@ Still I love my native river, that has come
 Ten thousand li to see my boat off, as friends do.
 --
 Li Bai at about twenty-four, leaving Sichuan for the first time. Past the Jingmen gorge the mountains suddenly end and the Yangtze spreads into the plains of Hubei. The moon in the water is a "flying mirror", the clouds a mirage of "sea towers". The "farewell" of the title is the river from home seeing him off.
+--
+开元十三年（725）前后，李白出蜀东下，舟过荆门山（在今湖北宜都西北的长江南岸）。这里是巴蜀山地与江汉平原的交界，“山随平野尽，江入大荒流”，群山渐渐退去，江水奔入无边的原野，视野豁然开朗，境界极为壮阔。月影倒映江心，如天上飞来的明镜；云霞变幻，结成海市蜃楼。末两句点题：并非友人送他，而是故乡的江水一路相随，万里送行，思乡之情含而不露。
 
 == 闻王昌龄左迁龙标遥有此寄 | On Hearing That Wang Changling Was Demoted to Longbiao
 by: 李白
@@ -391,6 +413,8 @@ I give my grieving heart into the bright moon's keep,
 To follow you to the west of Yelang all the way.
 --
 Wang Changling, a fellow poet and friend, was banished to remote Longbiao (in today's Hunan) around 748. The cuckoo's cry was heard as 不如归去, "better go home". Unable to follow, Li Bai entrusts his heart to the moon, which shines on both of them — one of the best-loved images of friendship in Chinese.
+--
+天宝年间（一般认为在天宝七载，748），王昌龄由江宁丞贬为龙标尉。龙标在今湖南西部，唐时属五溪蛮地，十分荒远；史书只说他“晚节不护细行”，被贬的缘由已难确考。暮春时节，杨花落尽，子规悲啼，李白远远听到消息，无法前去相送，便把一片愁心托付给明月，让它随友人一直走到夜郎以西。明月无处不照，友情也就无远弗届，这是李白最为人传诵的寄赠之句之一。（“左迁”即降职。）
 
 == 清平调（其一） | Qingping Song (I)
 by: 李白
@@ -406,6 +430,8 @@ If she is not a goddess seen on Jade Mountain's height,
 She must be one you'd meet on Jasper Terrace by moonlight.
 --
 Written to order around 743, when Emperor Xuanzong and his beloved Consort Yang were admiring peonies at the Aloeswood Pavilion. Li Bai, reportedly still drunk, dashed off three songs. In this one the consort and the peony blur into each other, and both into a goddess of the Queen Mother of the West's paradise (Jade Mountain, Jasper Terrace).
+--
+据唐人《松窗杂录》记载，唐玄宗与杨玉环在兴庆宫沉香亭前赏牡丹，嫌旧曲旧词不合心意，命李龟年急召翰林供奉李白作新词，李白宿醉未醒，援笔写成三首，一般认为事在天宝二年（743）前后。首句“云想衣裳花想容”，见云便想到她的衣裳，见花便想到她的容貌，人与花浑然难分；后两句说，这样的美人若不是在群玉山头遇见，便只能在瑶台月下相逢，都是神仙所居之地。三首中这一首专写人。
 
 == 子夜吴歌·秋歌 | Midnight Song of Wu: Autumn
 by: 李白
@@ -424,6 +450,8 @@ When will we crush the raiders and have peace,
 So my good man's long campaigns may cease?
 --
 Women beat cloth on stones to soften it before sewing winter clothes for husbands at the frontier, so the sound of "pounding clothes" (捣衣) was the sound of autumn longing. The Jade Gate Pass (玉门关) was the gateway to the western frontier. Li Bai turns an old southern love-song form into the voice of a whole city's grief.
+--
+《子夜歌》原是晋代吴地的民间情歌，李白按春夏秋冬作了四首，这是秋歌。秋夜长安，一片月光下千家万户都在捣衣，为远戍的亲人赶制寒衣。前两句一写所见，一写所闻；秋风吹不散的，是对玉门关外征人的牵挂。结尾直接说出思妇的心愿：什么时候平定边患，丈夫就不必再远征了。一城的捣衣声，汇成了千万家庭共同的思念。（“良人”是古时妻子对丈夫的称呼。）
 
 == 关山月 | The Moon over the Mountain Pass
 by: 李白
@@ -451,6 +479,8 @@ In high towers on this night, their wives, unseen,
 Must sigh and sigh, and cannot rest, but yearn.
 --
 An old ballad title, reworked on an immense scale: the moon over the Tianshan range, a wind blowing ten thousand li to the Jade Gate. Baideng is where the Han founder was besieged by the Xiongnu; Qinghai Lake was a Tang–Tibetan battleground. The last couplet cuts from the frontier to the wives in their towers far away, watching the same moon.
+--
+《关山月》是乐府旧题，多写边塞离别之苦。李白一落笔便是万里尺度：明月从天山升起，穿行云海，长风浩荡几万里，一直吹过玉门关。中间转入历史：汉高祖曾被匈奴围困在白登，唐与吐蕃又在青海一带反复交战，自古征战之地，很少见有人生还。最后由边地转到闺中：戍卒望月思归，远方高楼上的妻子这一夜也在叹息不止。同一轮明月照着两地，雄浑之中满是苍凉。
 
 == 玉阶怨 | Jade Stairs Lament
 by: 李白
@@ -466,6 +496,8 @@ She lowers the crystal curtain — there,
 Through its glinting beads, the autumn moon still glows.
 --
 A palace lament in which nothing is said of feeling. A woman has waited on the steps so long that the dew soaks her stockings; she goes in and lowers the blind — and still cannot stop gazing at the moon through it. Ezra Pound admired the poem for saying everything by implication.
+--
+《玉阶怨》是乐府旧题，专写宫中女子的幽怨，南朝谢朓也写过。李白此诗题中有“怨”，诗中却不着一个“怨”字：玉阶上生了白露，夜深了，露水浸透罗袜，可见她久立等候；回到屋里放下水晶帘，仍隔着帘子望那玲珑秋月，长夜无眠。全篇只写动作与景物，不写一句心事，含蓄到了极点。庞德在《华夏集》中译过这首诗，并特意加注说，此诗之所以可贵，正在于女子没有一句直接的怨言。
 
 == 宣州谢朓楼饯别校书叔云 | Farewell to Secretary Shuyun at Xie Tiao's Tower in Xuanzhou
 by: 李白
@@ -496,6 +528,8 @@ If life in this world will not go the way we planned,
 Tomorrow, hair unpinned, I'll take a skiff and leave the land.
 --
 Xie Tiao (464–499), a poet Li Bai revered, built this tower in Xuanzhou. "Penglai writing" alludes to the Han imperial library, "Jian'an bones" to the vigour of Cao Cao's era — praise for his kinsman's prose and his own verse. "Cutting water with a sword" became a proverb for sorrow that cannot be stopped; unpinning the hair meant leaving official life for a free one.
+--
+天宝末年李白漫游宣城时所作。谢朓楼是南齐诗人谢朓任宣城太守时所建，李白一生倾慕谢朓。“校书叔云”指任校书郎的族叔李云（题一作《陪侍御叔华登楼歌》，所送之人另有异说）。开篇两个长句劈空而来，满腹烦忧喷薄而出；“蓬莱文章”借东汉藏书的东观称美对方的文章，“小谢”既指谢朓，也隐然自比。逸兴飞扬，直想上青天揽明月，转眼又跌回现实：“抽刀断水水更流，举杯销愁愁更愁”。末句“散发弄扁舟”，是要摆脱官场束缚、浪迹江湖。
 
 == 梦游天姥吟留别 | A Dream Journey to Mount Tianmu: A Farewell
 by: 李白
@@ -571,6 +605,8 @@ How could I bow my brows and bend my back to serve the great,
 And never let my heart be glad, and never let my face be bright?
 --
 Written in 745 as Li Bai left eastern Shandong for the south, a year after leaving the court. The dream climbs Mount Tianmu in Zhejiang in the footsteps of Xie Lingyun (Lord Xie), the 5th-century landscape poet who invented special clogs for mountain climbing, and bursts into a vision of an immortals' paradise — which vanishes on waking. The moral explodes in the last line: no worldly glory is worth bending the back to the powerful. It became a creed for independent spirits.
+--
+李白被迫离开长安后，在东鲁（今山东兖州一带）住了一段时间，再南游吴越，临行写下此诗留别友人（题一作《别东鲁诸公》），一般认为作于天宝四、五载间。天姥山在今浙江新昌。诗人梦中飞渡镜湖，沿剡溪而上，穿着南朝谢灵运登山用的木屐（谢公屐）攀登青云梯；继而雷电崩摧、洞天石门轰然打开，神仙纷纷而下，境界瑰奇变幻。忽然惊醒，烟霞尽失，由此悟出世间行乐如东流水。结句“安能摧眉折腰事权贵，使我不得开心颜”，是全诗的精神所在，也是李白傲岸人格的写照。
 
 == 登金陵凤凰台 | Climbing Phoenix Terrace at Jinling
 by: 李白
@@ -592,6 +628,8 @@ It's all because the drifting clouds can hide the sun —
 Chang'an is lost to sight, and grief has come to stay.
 --
 Jinling (Nanjing) had been the capital of six dynasties, all long vanished. Li Bai's poem deliberately echoes Cui Hao's *Yellow Crane Tower*, which he had admired. The ending turns from history to politics: the "drifting clouds" hiding the sun are the slanderers who cut Li Bai off from the emperor in Chang'an.
+--
+金陵是六朝故都，城西南的凤凰台相传因南朝时有凤凰飞集而得名。此诗作于李白被“赐金放还”、离开长安之后，一说在天宝六载（747）。开头连用三个“凤”字，凤去台空，只有江水自流；吴宫花草、晋代衣冠，都已埋入荒丘。颈联写眼前山水，三山隐现于青天之外，白鹭洲把江水分作两道。结尾由怀古转向伤时：浮云遮蔽了太阳，望不见长安，暗指奸佞蒙蔽君王，诗人报国无门。宋人笔记说，李白在黄鹤楼读了崔颢的诗，自叹“眼前有景道不得”，后来作此诗与之较量，这个故事未必可信，但两诗的格调确实相近，历来被拿来比较。
 
 == 秋浦歌（其十五） | Autumn River Song (XV)
 by: 李白
@@ -607,6 +645,8 @@ Into the bright mirror I stare:
 Where did this autumn frost come from? I cannot tell.
 --
 From a series of seventeen songs on the Qiupu River in Anhui, written in Li Bai's fifties. "White hair three thousand *zhang*" (about 10 km!) is the most famous exaggeration in Chinese poetry, and it is somehow perfectly true to the feeling of seeing oneself suddenly old.
+--
+秋浦在今安徽池州一带，李白天宝后期（约753年至754年）漫游至此，写下《秋浦歌》十七首，此时他离开长安已近十年，年过半百，壮志难酬。首句劈空而来，白发竟有三千丈，是中国诗歌里最有名的夸张；次句才点明缘故：愁有多长，发就有多长。后两句转为自问：镜中这一头秋霜，究竟从何而来？不说老，而老态与愁怀都在其中。（“似个”是“如此、这般”的意思。）
 
 == 客中作 | Written as a Traveller
 by: 李白
@@ -622,6 +662,8 @@ If only my host can get his guest well drunk tonight,
 I'll never know which land is foreign, or where I went.
 --
 Lanling (in Shandong) was famous for its wine, scented with 郁金 (turmeric or curcuma). Most travel poems are homesick; this one, from Li Bai's carefree younger days, cheerfully proposes that good enough wine makes anywhere home.
+--
+诗题一作《客中行》。兰陵在今山东南部，以美酒著称，一般认为此诗作于李白寓居东鲁的时期。用郁金浸过的美酒散发着香气，盛在玉碗里泛出琥珀般的光泽，色香俱佳。客居异乡，本当愁苦，李白却说：只要主人能让客人一醉方休，我就不知道哪里是他乡了。羁旅之愁被一杯好酒轻轻化开，正见出盛唐诗人的豪放与洒脱。（这里的“郁金香”指郁金草的香气，并非今天的郁金香花。）
 
 == 山中问答 | Question and Answer in the Mountains
 by: 李白
@@ -637,6 +679,8 @@ Peach blossoms on the water drift away, and disappear:
 There is another world, not of men, for me.
 --
 Peach blossoms floating on a stream recall Tao Yuanming's *Peach Blossom Spring*, a hidden paradise found by following petals upstream. The best answer to "why live in the mountains?" is a smile.
+--
+有人问诗人为何住在碧山，他笑而不答，心中自是悠闲。不答比答更妙：山居之乐本难言说，说出来反倒浅了。后两句只写眼前景致，桃花随流水悠悠远去，令人想起陶渊明《桃花源记》中沿溪寻访的世外仙境；“别有天地非人间”，便是那无言的回答。全诗语言浅近，意境却超然脱俗，于问答之间写尽隐居之趣。（“窅然”是深远的样子。）
 
 == 山中与幽人对酌 | Drinking with a Recluse in the Mountains
 by: 李白
@@ -652,6 +696,8 @@ I'm drunk and want to sleep — be off now, leave the room!
 Tomorrow, if you like, bring your zither, and come up.
 --
 Spontaneity itself: the second line simply repeats "one cup" three times. The third line borrows from Tao Yuanming, who used to tell his guests "I'm drunk and want to sleep — you may go" — the frankness of true friends.
+--
+山花盛开，两人对饮，“一杯一杯复一杯”，一句里连用三个“一杯”，不讲格律，却把开怀畅饮写得痛快淋漓。第三句化用陶渊明的故事：《宋书》说陶渊明若先喝醉，便对客人说“我醉欲眠，卿可去”。李白直截了当地请朋友先回去，明天有兴致再抱琴来，毫无客套，正见出知己之间的真率与默契。（“幽人”指隐居山中的高士。）
 
 == 古朗月行（节选） | Song of the Bright Moon (excerpt)
 by: 李白
@@ -667,6 +713,8 @@ Or thought it was the Jasper Terrace mirror,
 Flying above the blue clouds, way up high.
 --
 The opening of a longer poem, recited by every Chinese child: a little boy's guesses at what the moon must be. The Jasper Terrace (瑶台) is the dwelling of immortals, so the moon is their mirror.
+--
+《古朗月行》借用乐府旧题，这里选的是开头四句。小孩子不认识月亮，叫它白玉盘，又猜它是神仙瑶台上的宝镜，飞到了青云之上。一“呼”一“疑”，比喻新奇又贴切，完全是孩子的口吻，因此成为许多孩子最早背诵的诗句之一。原诗后面接着写仙人、桂树、白兔捣药，再写蟾蜍蚀月、后羿射日，最后归于“凄怆摧心肝”的忧思，一般认为别有寄托。
 
 == 长干行（其一） | A Song of Changgan
 by: 李白
@@ -721,3 +769,5 @@ I won't say it's far: I'll come to meet you,
 All the way to Long Wind Sands, beyond the gate.
 --
 A young merchant's wife writes to her husband trading far up the Yangtze. Her childhood with him gave Chinese two idioms for childhood sweethearts — 青梅竹马 "green plums and bamboo horse" and 两小无猜 "two little ones without suspicion". The "man who held the pillar" waited for his love under a bridge until the flood drowned him; the Watching-for-Husband Tower is where wives waited in vain. Ezra Pound's free version, *The River-Merchant's Wife: A Letter*, is one of the most famous translations in English.
+--
+长干里在今南京秦淮河南岸，是商贾聚居之地。诗以商人少妇的口吻，从童年写起：一个折花门前，一个骑着竹马绕床弄青梅，“青梅竹马”“两小无猜”两个成语都出自这里。接着十四出嫁的羞怯、十五的情深、十六的离别，一年一个画面；丈夫远行经商，要过瞿塘峡的滟滪堆，她日日担心。门前苔深、秋叶早落、蝴蝶双飞，处处触动愁思，最后说只要你东下的消息一到，我愿一路迎到长风沙（在今安徽安庆附近）。“抱柱信”用尾生桥下守约、抱柱溺死的故事。美国诗人庞德的意译《河商之妻：一封信》是英语中最有名的中国诗之一。

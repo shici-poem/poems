@@ -20,6 +20,8 @@ But I can't find last year's love —
 Tears wet my spring sleeves once again.
 --
 The Lantern Festival was the one night when young people could meet freely in the crowds. 月上柳梢头，人约黄昏后 — "the moon over the willow tips; a tryst after dusk" — is the most romantic couplet in Chinese. The lyric is traditionally given to Ouyang Xiu, though some editions credit the woman poet Zhu Shuzhen.
+--
+去年元宵夜，花市的灯火亮如白昼，月亮升上柳树梢头，恋人约在黄昏之后相会；今年元宵夜，月和灯都和去年一样，却不见了去年的那个人，泪水湿透了衣袖。上下片字句相近，今昔对照，物是人非之感油然而生。“月上柳梢头，人约黄昏后”成了写恋人幽会最有名的句子。此词一般认为是欧阳修所作，也有人归于朱淑真或秦观。（元夕即正月十五元宵节。）
 
 == 蝶恋花（庭院深深深几许） | Butterflies Love Flowers (Deep, Deep the Courtyard)
 by: 欧阳修
@@ -45,6 +47,8 @@ With tearful eyes I ask the flowers — the flowers do not speak;
 The scattered red flies past the swing, and away.
 --
 A wife shut deep in a great house while her husband rides off to the pleasure quarters (Zhangtai Lane). Li Qingzhao loved the opening line so much that she began several lyrics with it — and it is her testimony that settles the authorship, since some collections give the lyric to Feng Yansi. The last couplet — the flowers, asked, say nothing, and fly away past the swing where she once played — is one of the most admired in the *ci*.
+--
+开头连用三个“深”字，深院重帘，层层叠叠，正是女主人公被锁住的处境；丈夫却骑着华美的马去寻欢作乐，她登上高楼也望不见章台路。暮春风雨交加，留春不住，她含泪问花，花默然无语，只见乱红纷纷飞过秋千。此词一说为冯延巳所作，但李清照在《临江仙》词序中说“欧阳公作《蝶恋花》，有‘深深深几许’之句，予酷爱之”，并借此句写了好几首词，是归属欧阳修的有力旁证。（章台本是汉代长安街名，后来泛指歌楼妓馆。）
 
 == 画眉鸟 | The Thrush
 by: 欧阳修
@@ -60,6 +64,8 @@ Now I know a bird in a golden cage, for all its ease,
 Can never sing as sweetly as one free in the woods below.
 --
 Written while Ouyang Xiu was demoted to Chuzhou. A thrush in a golden cage — like an official at court — sings less sweetly than one free in the forest: a gentle hymn to freedom, and to his exile.
+--
+庆历五年（1045），欧阳修因支持范仲淹等人推行的新政受到牵连，贬为滁州知州，一般认为此诗作于滁州任上。画眉在红紫山花、高低树木之间随意飞鸣，百啭千声；诗人由此领悟：把它锁进金笼里听，远不如它在林间自在啼叫来得动听。笔调轻松，却寄托了对官场束缚的厌倦和对自在生活的向往。（诗题一作《郡斋闻百舌》。）
 
 == 泊船瓜洲 | Mooring at Guazhou
 by: 王安石
@@ -75,6 +81,8 @@ Once again the spring wind turns the south bank green —
 Bright moon, when will you light me home to my own door?
 --
 Wang Anshi, mooring at Guazhou on the Yangtze in 1075 on his way back to office as chief minister, looks toward his retirement home at Bell Mountain (Zhongshan) in Nanjing. The verb 绿, "to green", is the most famous word choice in Chinese poetry: his draft is said to have tried "arrives", "passes", "enters", "fills" and a dozen others before he settled on "greens".
+--
+京口在长江南岸（今江苏镇江），瓜洲在对岸，钟山则在王安石居住多年的江宁（今南京）。诗一般认为作于熙宁八年（1075）王安石再度拜相、北上赴京途中，一说作于熙宁元年（1068）应召入京时。人刚离开，心已回望，末句的明月里藏着归隐之念。“绿”字最见功夫：据洪迈《容斋续笔》，草稿先作“到”，又改为“过”“入”“满”等十来个字，最后才定为“绿”，无形的春风就此化作满岸新绿。
 
 == 元日 | New Year's Day
 by: 王安石
@@ -91,7 +99,7 @@ They take the old peach charms down, and put up new ones, fine.
 --
 Firecrackers drove away evil spirits; *tusu* wine was drunk for health; peach-wood charms bearing door gods were hung on gates — the ancestors of today's red New Year couplets. Written in 1069 as Wang Anshi launched his great reforms, replacing old charms with new became a symbol of renewal.
 --
-古时新年放爆竹驱邪，饮屠苏酒祈求健康，在门上挂画有门神的桃木板，叫作“桃符”，这就是今天春联的前身。此诗作于熙宁二年（1069），正值王安石开始推行变法，“总把新桃换旧符”也就成了除旧布新的象征。
+古时新年燃放爆竹以驱邪，全家饮屠苏酒以求健康，又在门上换挂新的桃符。桃符是画着或写着门神神荼、郁垒的桃木板，正是后来春联的前身。旭日照遍千家万户，处处一派新气象。一般认为此诗作于王安石主持变法之初，“总把新桃换旧符”便寄寓了除旧布新的抱负，如今也常用来比喻革故鼎新。（“曈曈”是日出时光亮的样子。）
 
 == 梅花（王安石） | Plum Blossom
 by: 王安石
@@ -107,6 +115,8 @@ From far away I know it isn't snow —
 A hidden fragrance on the air has told.
 --
 Written in retirement after his reforms had failed. White plum blossom looks like snow — but snow has no scent. Like the plum, the person of integrity stands alone in hard times, and is known by a "hidden fragrance".
+--
+一般认为是王安石晚年罢相、退居江宁（今南京）以后所作。墙角几枝梅花，冒着严寒独自开放，远远望去洁白如雪，却知道那不是雪，因为有一缕幽香暗暗飘来。诗人不细描梅的形色，只写它的“凌寒”与“暗香”，品格自见；开在不起眼的墙角，又是“独自”开放，也透出诗人身处逆境、坚守操守的孤傲。全诗简淡含蓄，是咏梅诗中流传最广的作品之一。
 
 == 登飞来峰 | Climbing Feilai Peak
 by: 王安石
@@ -122,6 +132,8 @@ I do not fear the floating clouds that block the eye,
 Because I'm standing on the highest stair.
 --
 Written in 1050 by the young Wang Anshi, full of confidence. "Floating clouds" were the standard image for slanderers who obscure the truth; stand high enough, and you will not be deceived. A favourite poem of vision and ambition.
+--
+皇祐二年（1050），三十岁的王安石在鄞县（今浙江宁波）知县任满，回江西临川故乡途中登上飞来峰。这座飞来峰在哪里，自南宋以来就有争议：一说是杭州灵隐寺前的飞来峰，一说是绍兴城中的飞来山（今塔山）。山上有千寻高塔，听说鸡鸣时便能望见日出；诗人说，不怕浮云遮住远望的眼睛，只因自己站在了最高层。古人常以浮云比喻蒙蔽君主的小人，此诗也透出年轻的王安石高瞻远瞩、日后锐意变法的自信。（“千寻”极言其高，古时八尺为一寻。）
 
 == 桂枝香·金陵怀古 | Fragrance of the Cassia Branch: Remembering the Past at Jinling
 by: 王安石
@@ -161,6 +173,8 @@ Now and then, still sing
 The song of the Rear Court, as it's been.
 --
 Nanjing (Jinling), capital of six fallen southern dynasties. "Outside the gate, upon the tower" recalls the fall of Chen in 589, when a Sui general was already at the gate while the last emperor was upstairs with his favourite; that ruler's song "Flowers of the Rear Courtyard" became the emblem of decadence. Of more than thirty lyrics written on this theme in Wang Anshi's day, his was judged the best.
+--
+作于王安石在江宁（金陵）任职期间，确切年份说法不一。上片写金陵晚秋：千里长江如白练，翠峰如簇，归帆、酒旗、彩舟、白鹭，美得连图画也难以画足。下片转入怀古：“门外楼头”化用杜牧“门外韩擒虎，楼头张丽华”，隋将已兵临城下，陈后主还在楼上与宠妃作乐；六朝兴亡都随流水而去，歌女至今还唱着陈后主的亡国之音《玉树后庭花》。相传当时以此调写金陵怀古的有三十多家，独推王安石这首为绝唱，苏轼读后称他是“野狐精”，叹服其笔力。
 
 == 书湖阴先生壁（其一） | Written on the Wall of Master Huyin (I)
 by: 王安石
@@ -176,3 +190,5 @@ A stream protects his fields, wrapping them round in green;
 Two hills push open his door and send in their blue-green band.
 --
 Written on the wall of his neighbour Yang Dezheng ("Master Huyin") near Bell Mountain. The last couplet personifies the landscape — the stream "guards" the fields like a soldier, the hills "push open the door" (排闼) like eager visitors — with phrases borrowed from the *History of the Han*, yet perfectly natural.
+--
+王安石晚年退居江宁（今南京）紫金山下，湖阴先生杨德逢是他的邻居。前两句写杨家庭院：茅檐常扫，洁净无苔，花木成畦，都是主人亲手栽种，可见其人勤勉清雅。后两句把山水写活了：一条溪水像卫士守护农田，把绿色紧紧环绕；两座青山推门而入，殷勤送来满眼青翠。“护田”出自《汉书·西域传》，“排闼”用《汉书·樊哙传》中樊哙推门直入的典故，用典却浑然天成，不露痕迹。（“闼”是门。）
